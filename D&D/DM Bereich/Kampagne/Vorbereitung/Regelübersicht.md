@@ -1,0 +1,12 @@
+## Schneller Regelabriss
+- Grundlagen
+	- Würfel
+	- [[Attribute]] und [[Attribute#Attributswurf]]
+	- [[Fertigkeiten]]
+	- [[Schwierigkeitsgrad]]
+	- [[_Übung]]
+	- [[Vorteil und Nachteil]]
+- Kampf
+	- [[Angriff]]
+	- [[Zauber wirken|Zaubern]]
+- XP und [[Glück]]

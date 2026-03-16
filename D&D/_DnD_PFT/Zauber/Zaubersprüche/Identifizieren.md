@@ -1,0 +1,52 @@
+---
+aliases:
+  - Identify
+tags:
+  - Zauber
+  - Regeln/PHB2024
+Grad: 1
+Schule: "[[Erkenntniszauber|Erkenntnismagie]]"
+Zeitaufwand: 1m
+Reichweite: Berührung
+Verbal: true
+Geste: true
+Material: true
+Materialkosten: eine Perle im Wert von mindestens 100 GM und eine Eulenfeder
+Dauer: unmittelbar
+Konzentration: false
+Ritual: true
+Skalierbar: false
+Schaden:
+Schadensart:
+Ziel: Einzel
+Klassen:
+  - "[[Barde]]"
+  - "[[Magier DnD]]"
+  - "[[Magieschmied]]"
+Typ: "[[Analyse]]"
+---
+``` dynamic-embed
+[[embed Zauber]]
+```
+
+## Beschreibung (Neu 2024)
+Du berührst einen Gegenstand, solange du den Zauber wirkst. 
+
+Falls es sich um einen magischen Gegenstand handelt, erkennst du seine [[Eigenschaften]] und ihre [[Anwendung]], und du weißt, ob er [[Einstimmung magischer Gegenstände|Einstimmung]] erfordert und wie viele [[Ladungen]] er besitzt, falls zutreffend. 
+Du erfährst, ob aktuell Zauber auf den Gegenstand wirken, und wenn ja, welche. Falls der Gegenstand durch einen Zauber erzeugt wurde, erfährst du dessen Namen.
+
+Wenn du stattdessen beim Wirken des Zaubers eine Kreatur durchgehend berührst, erfährst du, von welchen [[Zaubern]] sie derzeit betroffen ist, falls zutreffend.
+
+## Beschreibung DnD 5e 2014
+Du wählst einen Gegenstand, den du berühren musst, während du den Zauber wirkst. 
+Handelt es sich um einen magischen Gegenstand oder ein anderweitig mit Magie erfülltes Objekt, würfle einen W20, addiere deinen [[Attribute#Attributsmodifikator]] zum Zauberwirken und vergleiche das Ergebnis mit der folgenden Tabelle. 
+Wenn du [[_Übung]] in [[Arkane Kunde]] hast, erhältst du [[Vorteil und Nachteil|Vorteil]] auf den Wurf. 
+
+![[Identifikation magischer Gegenstände#Magische Gegenstände Seltenheit SG]]
+
+Bist du erfolgreich erfährst du, welche Eigenschaften es hat, wie du sie nutzen kannst, ob der Gegenstand eine Einstimmung erforderlich macht und wie viele Ladungen er hat. 
+Du erlangst auch Kenntnis darüber, ob Zauber auf dem Gegenstand liegen und welche dies sind. Wurde der Gegenstand durch einen Zauber erschaffen, ist dir bekannt, um welchen es sich handelt.
+
+Wenn du stattdessen eine Kreatur berührst, während du den Zauber wirkst, erfährst du, welche Zauber das Ziel augenblicklich beeinflussen.
+
+Wenn du beim Identifizieren eines Gegenstands auf diese Weise scheiterst, kannst du es nach einer [[Feldrast|Kurzen Rast]] erneut versuchen.

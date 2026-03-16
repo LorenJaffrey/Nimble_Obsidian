@@ -1,0 +1,17 @@
+---
+tags:
+- Gegenstand/Werkzeug/Handwerkszeug
+kosten: 25 GM
+gewicht: 2
+---
+Dieser Satz von Instrumenten wird bei der Navigation auf See verwendet.
+[[_Übung]] mit diesem Werkzeug lässt dich den Kurs eines Schiffes aufzeichnen und Navigationstabellen befolgen. Außerdem darfst du deinen [[_Übung|Übungsbonus]] addieren, wenn du einen [[Attribute#Attributswurf]] oder [[Fertigkeiten#Fertigkeitswurf]] ablegen musst, um dich nicht auf dem Meer zu verirren.
+
+# Bestandteile
+- Kompass
+- Sextant
+- Seekarten
+- Logbuch
+- Astrolabium
+- Navigationslineal und Dreieck
+- Sanduhr

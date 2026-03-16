@@ -1,0 +1,40 @@
+---
+aliases:
+  - Warding Wind
+tags:
+  - Zauber
+Grad: 2
+Schule: "[[Hervorrufungszauber|Hervorrufung]]"
+Zeitaufwand: "[[Aktionen]]"
+Reichweite: Selbst
+Verbal: true
+Geste: false
+Material: false
+Materialkosten:
+Dauer: 10 Minuten
+Konzentration: true
+Ritual: false
+Skalierbar: false
+Schaden:
+Schadensart:
+Ziel: AoE
+Klassen:
+  - "[[Zauberer]]"
+Typ: "[[Defensivzauber]]"
+---
+``` dynamic-embed
+[[embed Zauber]]
+```
+
+## Beschreibung
+Ein starker Wind (30 km/h) weht in einem Radius von 3 m (2 Kästchen) um dich herum und bewegt sich mit dir, wobei er auf dir zentriert bleibt. 
+Der Wind verbleibt für die Wirkungsdauer des Zaubers.
+
+Der Wind hat folgende Effekte: 
+- Er macht dich und andere Kreaturen in seinem Bereich [[Taub]]. 
+- Er löscht ungeschützte Feuer in seinem Bereich die so groß sind wie Fackeln oder kleiner. 
+- Er hält Dampfe, Gase und Nebel ab, die von starken Winden verweht werden 
+- Der Bereich ist [[Schwieriges Gelände]] für jede Kreatur außer dir. 
+- Die [[Angriffswurf|Angriffswürfe]] von [[Fernkampfwaffen]] haben [[Vorteil und Nachteil|Nachteil]], wenn der Angriff in den Wind hinein oder aus ihm hinaus führt.
+
+Quelle: Xanathars Ratgeber für alles, Seite: 164
