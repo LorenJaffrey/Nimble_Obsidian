@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "de3599a26787adfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "50098834e04c0fbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4ea245a8a293d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten/Koordinierter Schlag.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Koordinierter Schlag"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75e3734c9bfa8ef3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e119d04df17595b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b95fee904e023541",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3b70c5927efd642",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca898514eeb8a95e",
+    "type": "split",
+    "children": [
+      {
+        "id": "99c27394762ac878",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b54ac79f18fdcf0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DM Bereich/Nimble/System/Regeln/Magie/Zaubersprüche/Zaubersprüche.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Zaubersprüche"
+            }
+          },
+          {
+            "id": "8d68fb55f7162ed7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_DnD_PFT/Charaktere/Herkunft/Herkunft.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Herkunft"
+            }
+          },
+          {
+            "id": "464eb4c226d6437a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0d44586aef761d5c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "592cb10bfad482b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_DnD_PFT/Charaktere/Herkunft/Herkunft.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Herkunft"
+            }
+          },
+          {
+            "id": "6b2f32b59be3bbe1",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "3df8570ffe14357e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "af294f6dedc19c67",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 413.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "alias-management:ListAliasesView": false,
+      "alias-management:DuplicateAliasesView": false
+    }
+  },
+  "active": "d4ea245a8a293d87",
+  "lastOpenFiles": [
+    "broken links output.md",
+    "_DnD_PFT/Zauber/Zaubersprüche/Unsichtbarkeit.md",
+    "DM Bereich/Kampagne/02 - Im Netz der Spinne/Locations/Wellenhallhöhle/Wellenhallhöhle.md",
+    "DM Bereich/Kampagne/02 - Im Netz der Spinne/_Sessions/Session 54.md",
+    "_DnD_PFT/Zauber/Zaubersprüche/Nebelschritt.md",
+    "DM Bereich/Kampagne/02 - Im Netz der Spinne/_Sessions/Session 52.md",
+    "DM Bereich/Kampagne/02 - Im Netz der Spinne/_Sessions/Session 53.md",
+    "_DnD_PFT/Charaktere/Klassen/Schurke/Klassenmerkmale/Raffinierter Schlag/Raffinierter Schlag.md",
+    "_DnD_PFT/Regeln/Umgebung/Rasten/Lange Rast.md",
+    "_DnD_PFT/Kampagne/GORN/Drogan/Drogan.md",
+    "_DnD_PFT/Regeln/Zustände/Liegend.md",
+    "_DnD_PFT/Regeln/Kampf/Aktion/Stabilisieren.md",
+    "_DnD_PFT/Gegenstände/Waffen/Waffenlisten/Armbrüste.md",
+    "_DnD_PFT/Gegenstände/Waffen/Waffen/Wurfspeer.md",
+    "_DnD_PFT/Zauber/Zaubersprüche/Feuerball.md",
+    "_DnD_PFT/Charaktere/Talente/Talentliste/Herkunftstalente/Glückspilz.md",
+    "DM Bereich/Gegenstände/Magische Gegenstände/Magische Gegenstände/Äxte des brennenden Zorns/Äxte des brennenden Zorns.md",
+    "_DnD_PFT/Charaktere/Klassen/Schurke/Klassenmerkmale/Zielsicher.md",
+    "DM Bereich/Kampagne/02 - Im Netz der Spinne/Locations/Wellenhallhöhle",
+    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Berserker.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten/Koordinierter Schlag.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Klassenmerkmale Berserker/Wildes Arsenal/Amoklauf.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Klassenmerkmale Berserker/Klassenmerkmale Berserker.md",
+    "_DnD_PFT/Gegenstände/Rüstung/Rüstungslisten/Rüstungen.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Gauner/Gauner.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Gauner/Klassenmerkmale Gauner/Klassenmerkmale Gauner.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Gauner/Klassenmerkmale Gauner/Verlässliches Talent.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten",
+    "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant",
+    "_DnD_PFT/zHidden/_Attachments/Races/Tiefling 1.png",
+    "_DnD_PFT/zHidden/_Attachments/Races/Halbling.png",
+    "_DnD_PFT/zHidden/_Attachments/Races/Gnom.png",
+    "_DnD_PFT/Regeln/Zustände DnD",
+    "_DnD_PFT/Kampagne/Gruppe",
+    "_DnD_PFT/Charaktere/Klassen DnD/Zauberer/Klassenmerkmale/Quelle der Magie",
+    "_DnD_PFT/Charaktere/Klassen DnD/Zauberer/Klassenmerkmale/Metamagie",
+    "_DnD_PFT/Charaktere/Klassen DnD/Schurke/Klassenmerkmale/Raffinierter Schlag",
+    "_DnD_PFT/Charaktere/Klassen DnD/Schurke/Klassenmerkmale/Apparaturen",
+    "_DnD_PFT/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/Kampfüberlegenheit",
+    "_Attachments/Half-Giant.png",
+    "_Attachments/Aasimar.png"
+  ]
+}
