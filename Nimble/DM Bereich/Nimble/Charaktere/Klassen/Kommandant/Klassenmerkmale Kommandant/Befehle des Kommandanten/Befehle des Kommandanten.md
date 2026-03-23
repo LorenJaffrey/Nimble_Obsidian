@@ -1,12 +1,18 @@
 # Befehl des Kommandanten
+```dataview
+TABLE WITHOUT ID
 
+file.link AS "Title",
+Einsatz
 
+FROM #Regeln/Nimble/Merkmal/Klasse/Kommandant/Befehl
 
-**Sieh mir ins Gesicht!**  
-Reaktion (nachdem ein Verbündeter innerhalb von 12 Feldern kritisch getroffen wurde): Provoziere diesen Gegner, bis du auf 0 TP fällst.
+SORT file.name
+```
+
 
 **Haltet die Linie!**  
-(1/Begegnung) Reaktion (wenn ein Verbündeter auf 0 TP fällt): Befiehl ihm, weiterzukämpfen! Setze seine TP auf 3× deine Stufe.
+
 
 **Ich kann das den GANZEN Tag!**  
 (1/Begegnung) Reaktion (wenn du auf 0 TP fallen würdest): Du darfst eine beliebige Anzahl Trefferwürfel ausgeben und deine TP auf deren Gesamtsumme setzen (addiere dabei nicht deine STÄ).

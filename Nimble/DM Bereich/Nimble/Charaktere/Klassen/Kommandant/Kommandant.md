@@ -65,21 +65,21 @@ Kommandanten zeichnen sich aus durch:
 ## Klassentabelle
 | Stufe | Kampfwürfel | Merkmale                                        |
 | ----- | ----------- | ----------------------------------------------- |
-| 1     |             | [[Koordinierter Schlag]]                     |
-| 2     |             |                                                 |
+| 1     |             | [[Koordinierter Schlag!]]                        |
+| 2     |             | 2 [[Befehle des Kommandanten]]                  |
 | 3     |             | [[Subklassen Kommandant\|Kommandant Subklasse]] |
 | 4     | W6          | [[Primäre Attributswerterhöhung]]               |
 | 5     | W8          | [[Sekundäre Attributswerterhöhung]]             |
 | 6     | W8          | [[Wildes Arsenal]]                              |
-| 7     | W8          | [[Subklassen Kommandant\|Subklassen Merkmal]]    |
+| 7     | W8          | [[Subklassen Kommandant\|Subklassen Merkmal]]   |
 | 8     | W8          | [[Primäre Attributswerterhöhung]]               |
 | 9     | W10         | [[Sekundäre Attributswerterhöhung]]             |
 | 10    | W10         |                                                 |
-| 11    | W10         | [[Subklassen Kommandant\|Subklassen Merkmal]]    |
+| 11    | W10         | [[Subklassen Kommandant\|Subklassen Merkmal]]   |
 | 12    | W10         | [[Primäre Attributswerterhöhung]]               |
 | 13    | W12         | [[Sekundäre Attributswerterhöhung]]             |
 | 14    | W12         |                                                 |
-| 15    | W12         | [[Subklassen Kommandant\|Subklassen Merkmal]]    |
+| 15    | W12         | [[Subklassen Kommandant\|Subklassen Merkmal]]   |
 | 16    | W12         | [[Primäre Attributswerterhöhung]]               |
 | 17    | W20         | [[Sekundäre Attributswerterhöhung]]             |
 | 18    | W20         |                                                 |
@@ -88,10 +88,6 @@ Kommandanten zeichnen sich aus durch:
 
 
 # Stufen
-
-## Stufe 2
-**Befehle des Kommandanten**  
-Wähle 2 Befehle des Kommandanten.
 
 **Feldsanitäter**  
 Würfle 1 zusätzlichen Würfel für jeden Heiltrank, den du verabreichst. Immer wenn du oder ein Verbündeter Trefferwürfel ausgebt, um TP zu regenerieren, und du mindestens zehn Minuten mit der Untersuchung ihrer Wunden verbracht hast, darf diese Kreatur deinen Bonus auf Untersuchung zu den zurückgewonnenen TP addieren.
