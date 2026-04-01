@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "50098834e04c0fbf",
+        "id": "ebd69c094422b34b",
         "type": "tabs",
         "children": [
           {
-            "id": "d4ea245a8a293d87",
+            "id": "154d59e07d0b8715",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten/Haltet die Linie.md",
+                "file": "DM Bereich/Tips/Ideen/Ideen für Encounter.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Haltet die Linie"
+              "title": "Ideen für Encounter"
             }
           }
         ]
@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -191,6 +191,16 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "8ce96f83db52a048",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
@@ -205,12 +215,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "bases:Create new base": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "markdown-importer:Markdown Importprogramm öffnen": false,
+      "bases:Neue Base erstellen": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -218,10 +228,12 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "d4ea245a8a293d87",
+  "active": "154d59e07d0b8715",
   "lastOpenFiles": [
-    "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten/Befehle des Kommandanten.md",
+    "DM Bereich/Tips/Kampagne/Campaign Hooks.md",
+    "DM Bereich/Kampagne/Welt.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten/Haltet die Linie.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten/Befehle des Kommandanten.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Klassenmerkmale Kommandant.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten/Koordinierter Schlag!.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten/Sieh mir ins Gesicht!.md",
@@ -244,8 +256,6 @@
     "DM Bereich/Kampagne/02 - Im Netz der Spinne/_Sessions/Session 54.md",
     "_DnD_PFT/Zauber/Zaubersprüche/Nebelschritt.md",
     "DM Bereich/Kampagne/02 - Im Netz der Spinne/_Sessions/Session 52.md",
-    "DM Bereich/Kampagne/02 - Im Netz der Spinne/_Sessions/Session 53.md",
-    "_DnD_PFT/Charaktere/Klassen/Schurke/Klassenmerkmale/Raffinierter Schlag/Raffinierter Schlag.md",
     "DM Bereich/Kampagne/02 - Im Netz der Spinne/Locations/Wellenhallhöhle",
     "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten",
     "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant",
