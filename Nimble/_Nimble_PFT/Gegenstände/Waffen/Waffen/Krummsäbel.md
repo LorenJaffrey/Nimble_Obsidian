@@ -1,0 +1,30 @@
+---
+tags:
+  - Gegenstand/Waffe/Art/Hiebwaffe
+  - Gegenstand/Waffe/Gruppe/Schwert
+  - Gegenstand/Waffe/Klasse/Nahkampfwaffe
+  - Gegenstand/Waffe/Kategorie/Kriegswaffe
+  - Gegenstand/Waffe/Größe/Einhandwaffe
+Reichweite: 1,5(1)
+Schaden: 1d6
+Schadensart: "[[Hiebschaden]]"
+Eigenschaften:
+  - "[[Finesse]]"
+  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parieren]]"
+  - "[[Tödlich]]"
+SchadenFern:
+SchadensartFern:
+Range1:
+Range2:
+Range3:
+EigenschaftenFern:
+Kategorie: "[[Kriegswaffen]]"
+Hände: 1
+Größe: 2
+Gewicht: 2 Pfund
+Kosten: 15 GM
+Verfügbarkeit: selten
+---
+```dynamic-embed
+[[embed Waffe Nahkampf]]
+```

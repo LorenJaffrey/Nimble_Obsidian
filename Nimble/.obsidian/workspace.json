@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Tips/Ideen/Ideen für Encounter.md",
+                "file": "_Nimble_PFT/Kampagne/Gruppe/Sancho.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ideen für Encounter"
+              "title": "Sancho"
             }
           }
         ]
@@ -54,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Dateiexplorer"
+              "title": "Files"
             }
           },
           {
@@ -215,12 +215,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graph-Ansicht öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false,
-      "markdown-importer:Markdown Importprogramm öffnen": false,
-      "bases:Neue Base erstellen": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
@@ -230,6 +230,10 @@
   },
   "active": "154d59e07d0b8715",
   "lastOpenFiles": [
+    "_Nimble_PFT/Kampagne/Gesinnung Gruppe.md",
+    "_Nimble_PFT/Kampagne/Gruppe/Sancho.md",
+    "_Nimble_PFT/Kampagne/Gruppe/Gruppe.md",
+    "DM Bereich/Tips/Ideen/Ideen für Encounter.md",
     "DM Bereich/Tips/Kampagne/Campaign Hooks.md",
     "DM Bereich/Kampagne/Welt.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten/Haltet die Linie.md",
@@ -251,24 +255,20 @@
     "DM Bereich/Nimble/Charaktere/Abstammungen/Tieflinge/Tieflinge.md",
     "DM Bereich/Nimble/Charaktere/Abstammungen/Tieflinge/Infernaler Tiefling.md",
     "broken links output.md",
-    "_DnD_PFT/Zauber/Zaubersprüche/Unsichtbarkeit.md",
-    "DM Bereich/Kampagne/02 - Im Netz der Spinne/Locations/Wellenhallhöhle/Wellenhallhöhle.md",
-    "DM Bereich/Kampagne/02 - Im Netz der Spinne/_Sessions/Session 54.md",
-    "_DnD_PFT/Zauber/Zaubersprüche/Nebelschritt.md",
-    "DM Bereich/Kampagne/02 - Im Netz der Spinne/_Sessions/Session 52.md",
+    "_Nimble_PFT/Zauber/Zaubersprüche/Unsichtbarkeit.md",
     "DM Bereich/Kampagne/02 - Im Netz der Spinne/Locations/Wellenhallhöhle",
     "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten",
     "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant",
-    "_DnD_PFT/zHidden/_Attachments/Races/Tiefling 1.png",
-    "_DnD_PFT/zHidden/_Attachments/Races/Halbling.png",
-    "_DnD_PFT/zHidden/_Attachments/Races/Gnom.png",
-    "_DnD_PFT/Regeln/Zustände DnD",
-    "_DnD_PFT/Kampagne/Gruppe",
-    "_DnD_PFT/Charaktere/Klassen DnD/Zauberer/Klassenmerkmale/Quelle der Magie",
-    "_DnD_PFT/Charaktere/Klassen DnD/Zauberer/Klassenmerkmale/Metamagie",
-    "_DnD_PFT/Charaktere/Klassen DnD/Schurke/Klassenmerkmale/Raffinierter Schlag",
-    "_DnD_PFT/Charaktere/Klassen DnD/Schurke/Klassenmerkmale/Apparaturen",
-    "_DnD_PFT/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/Kampfüberlegenheit",
+    "_Nimble_PFT/zHidden/_Attachments/Races/Tiefling 1.png",
+    "_Nimble_PFT/zHidden/_Attachments/Races/Halbling.png",
+    "_Nimble_PFT/zHidden/_Attachments/Races/Gnom.png",
+    "_Nimble_PFT/Regeln/Zustände DnD",
+    "_Nimble_PFT/Kampagne/Gruppe",
+    "_Nimble_PFT/Charaktere/Klassen DnD/Zauberer/Klassenmerkmale/Quelle der Magie",
+    "_Nimble_PFT/Charaktere/Klassen DnD/Zauberer/Klassenmerkmale/Metamagie",
+    "_Nimble_PFT/Charaktere/Klassen DnD/Schurke/Klassenmerkmale/Raffinierter Schlag",
+    "_Nimble_PFT/Charaktere/Klassen DnD/Schurke/Klassenmerkmale/Apparaturen",
+    "_Nimble_PFT/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/Kampfüberlegenheit",
     "_Attachments/Half-Giant.png",
     "_Attachments/Aasimar.png"
   ]

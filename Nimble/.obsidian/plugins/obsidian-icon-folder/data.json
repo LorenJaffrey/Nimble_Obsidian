@@ -43,13 +43,7 @@
   "_DnD_PFT/Ausrüstung/Edelsteine": "LiGem",
   "_DnD_PFT/Ausrüstung/Getränke": "TiGlassFull",
   "_DnD_PFT/Ausrüstung/Speisen": "TiMeat",
-  "_DnD_PFT/Bestiarium": "RaEyeMonster",
-  "_DnD_PFT/Regeln": "RaPerspectiveDiceOne",
-  "_DnD_PFT/Gegenstände": "RaDiamond",
-  "_DnD_PFT/Charaktere": "RaDeadTree",
   "_DnD_PFT/GORN": "RaBladeBite",
-  "_DnD_PFT/Zauber": "RaFairyWand",
-  "_DnD_PFT/Kampagne": "RaBladeBite",
   "_DnD_PFT/Kampagne/Backup Charakter": "LiArchive",
   "_DnD_PFT/Kampagne/GORN/Ar'go/Zaubersprüche.md": {
     "iconName": "RaRuneStone",
@@ -60,7 +54,6 @@
     "iconName": "LiBookLock",
     "iconColor": "#258bb6"
   },
-  "_DnD_PFT/Kampagne/Memoiren.md": "LiBookOpen",
   "_DnD_PFT/zEmbeds": "RaHiveEmblem",
   "_DnD_PFT/Kampagne/GORN/Ar'go/Ritualbuch.md": {
     "iconName": "RaDragon",
@@ -69,5 +62,12 @@
   "_DnD_PFT/Kampagne/GORN/Ar'go/Zauberer - PHB 2024.md": {
     "iconName": "LiBookCopy",
     "iconColor": "#258bb6"
-  }
+  },
+  "_Nimble_PFT/Bestiarium": "RaEyeMonster",
+  "_Nimble_PFT/Charaktere": "RaDeadTree",
+  "_Nimble_PFT/Gegenstände": "RaDiamond",
+  "_Nimble_PFT/Regeln": "RaPerspectiveDiceOne",
+  "_Nimble_PFT/Kampagne": "RaBladeBite",
+  "_Nimble_PFT/Zauber": "RaFairyWand",
+  "_Nimble_PFT/Kampagne/Memoiren.md": "LiBookOpen"
 }

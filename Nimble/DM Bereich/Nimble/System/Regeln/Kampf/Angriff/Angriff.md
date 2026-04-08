@@ -20,7 +20,7 @@ Bei Fähigkeiten, die einen [[Rettungswurf]] auslösen (z. B. Greifen), erha
 Kreaturen können 2 [[Leichte Waffen]] gleichzeitig führen. 
 Während des beidhändigen Kampfes darfst du einmal  pro [[Runde]] bei einem [[Angriff]] mit diesen Waffen [[Vorteil und Nachteil|Vorteil]] erhalten.
 
-Du kannst [[einhändige Waffen]] ohne die Eigenschaft [[Leicht]] beidhändig führen, wenn deine [[Stärke]] 3 oder höher ist, oder eine Waffe ohne diese Eigenschaft, wenn deine [[Stärke]] 2 beträgt. 
+Du kannst [[Einhändige Waffen]] ohne die Eigenschaft [[Leicht]] beidhändig führen, wenn deine [[Stärke]] 3 oder höher ist, oder eine Waffe ohne diese Eigenschaft, wenn deine [[Stärke]] 2 beträgt. 
 Wenn du völlig unbewaffnet bist, können Fäuste / Tritte als beidhändig geführt gelten.
 
 > [!faq]- Unterschiedliche Waffen beidhändig führen?

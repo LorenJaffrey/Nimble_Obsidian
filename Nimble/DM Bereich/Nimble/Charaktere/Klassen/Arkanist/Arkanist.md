@@ -53,16 +53,16 @@ Was einen Arkanisten ausmacht:
 | 1     |     0      |                      | [[Elementare Zauberei]]                                                 |
 | 2     |     1      |                      | [[Talentierter Forscher]]                                               |
 | 3     |     1      |                      | [[Subklassen Arkanist\|Arkanist Subklasse]], [[Elementarmeisterschaft]] |
-| 4     |     1      |                      | [[Primäre Attributswerterhöhung]], 2 x [[Metamagie]],                   |
+| 4     |     1      |                      | [[Primäre Attributswerterhöhung]], 2 x [[DM Bereich/Nimble/Charaktere/Klassen/Arkanist/Klassenmerkmale Arkanist/Metamagie/Metamagie]],                   |
 | 5     |     2      | [[Weisheit\|WE]]     | [[Sekundäre Attributswerterhöhung]], [[Elementarschub]]                 |
 | 6     |     3      | [[Weisheit\|WE]]     | [[Elementarmeisterschaft]]                                              |
 | 7     |     3      | [[Weisheit\|WE]]     | [[Subklassen Arkanist\|Subklassen Merkmal]]                             |
 | 8     |     4      | [[Weisheit\|WE]]     | [[Primäre Attributswerterhöhung]]                                       |
-| 9     |     4      | [[Weisheit\|WE]]     | [[Sekundäre Attributswerterhöhung]], [[Metamagie]]                      |
-| 10    |     5      | [[Weisheit\|WE]]+1W4 | [[Metamagie]]                                                           |
+| 9     |     4      | [[Weisheit\|WE]]     | [[Sekundäre Attributswerterhöhung]], [[DM Bereich/Nimble/Charaktere/Klassen/Arkanist/Klassenmerkmale Arkanist/Metamagie/Metamagie]]                      |
+| 10    |     5      | [[Weisheit\|WE]]+1W4 | [[DM Bereich/Nimble/Charaktere/Klassen/Arkanist/Klassenmerkmale Arkanist/Metamagie/Metamagie]]                                                           |
 | 11    |     5      | [[Weisheit\|WE]]+1W4 | [[Subklassen Arkanist\|Subklassen Merkmal]]                             |
 | 12    |     6      | [[Weisheit\|WE]]+1W4 | [[Primäre Attributswerterhöhung]]                                       |
-| 13    |     6      | [[Weisheit\|WE]]+1W4 | [[Sekundäre Attributswerterhöhung]], [[Metamagie]]                      |
+| 13    |     6      | [[Weisheit\|WE]]+1W4 | [[Sekundäre Attributswerterhöhung]], [[DM Bereich/Nimble/Charaktere/Klassen/Arkanist/Klassenmerkmale Arkanist/Metamagie/Metamagie]]                      |
 | 14    |     7      | [[Weisheit\|WE]]+1W4 | [[Elementarmeisterschaft]]                                              |
 | 15    |     7      | [[Weisheit\|WE]]+1W4 | [[Subklassen Arkanist\|Subklassen Merkmal]]                             |
 | 16    |     8      | [[Weisheit\|WE]]+1W4 | [[Primäre Attributswerterhöhung]]                                       |
