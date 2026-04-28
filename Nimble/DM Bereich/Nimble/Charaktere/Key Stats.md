@@ -19,7 +19,7 @@
 | Klasse            | STR | KON | GES | INT | WEI | CHA | Done |
 | ----------------- |:---:|:---:|:---:|:---:|:---:|:---:|:----:|
 | [[Berserker]]     |  A  |     |  B  |  -  |  -  |  -  |      |
-| Zephyr            |     |  -  |  A  |  -  |  B  |  -  |      |
+| Zephyr            |  -  |     |  A  |  -  |  B  |  -  |      |
 | [[Kommandant]]    |  A  |     |  -  |  -  |  -  |  B  |      |
 | Shepherd          |  B  |     |  -  |  -  |  A  |  -  |      |
 | Oathsworn         |  A  |     |  -  |  -  |  -  |  B  |      |

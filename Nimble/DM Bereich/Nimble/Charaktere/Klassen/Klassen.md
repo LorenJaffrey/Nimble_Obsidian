@@ -43,6 +43,6 @@ SORT file.name
 - [[Circle of Sky & Storm]]
 # Zephyr
 - [[Zephyr Levels]]
-- [[Martial Arts Abilities]]
+- [[Kampfkunst]]
 - [[Way of Flame]]
 - [[Way of Pain]]

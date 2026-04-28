@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Kampagne/Gruppe/Sancho.md",
+                "file": "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kinetischer Schwung.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sancho"
+              "title": "Kinetischer Schwung"
+            }
+          },
+          {
+            "id": "4c0f9fa39b38576d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Schnelle Fäuste.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schnelle Fäuste"
             }
           }
         ]
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Zustand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +98,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,8 +206,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -204,14 +229,25 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "cd52f7122366e245",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kinetischer Schwung.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Kinetischer Schwung"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,45 +266,34 @@
   },
   "active": "154d59e07d0b8715",
   "lastOpenFiles": [
-    "_Nimble_PFT/Kampagne/Gesinnung Gruppe.md",
+    "_Nimble_PFT/Regeln/Zustände DnD/Erschöpft.md",
+    "_Nimble_PFT/Regeln/Zustände DnD/Bewusstlos.md",
+    "DM Bereich/Nimble/Zustände/Sterbend.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kinetischer Schwung.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Windläufer.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Nachhallende Schläge.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Schnelle Fäuste.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Flinke Füße.md",
+    "_Nimble_PFT/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/Kampfstil/Unbewaffneter Kampf.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Klassenmerkmale Berserker/Klassenmerkmale Berserker.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Berserker.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Klassenmerkmale Berserker/Wut/Wut.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst/Kampfkunst.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Subklassen Windläufer/Subklassen Windläufer.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst",
+    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Subklassen Berserker/Subklassen Berserker.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Zephyr Levels.md",
+    "DM Bereich/Nimble/Charaktere/Key Stats.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Rüstungen.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Klassenmerkmale Berserker/War das schon alles.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer",
+    "DM Bereich/Nimble/Charaktere/Klassen/Schattenrufer/Schattenrufer.md",
     "_Nimble_PFT/Kampagne/Gruppe/Sancho.md",
+    "_Nimble_PFT/Kampagne/Gesinnung Gruppe.md",
     "_Nimble_PFT/Kampagne/Gruppe/Gruppe.md",
     "DM Bereich/Tips/Ideen/Ideen für Encounter.md",
     "DM Bereich/Nimble/System/Regeln/Magie/Zaubersprüche/Nekromatiezauber/Withering Touch.md",
     "DM Bereich/Nimble/System/Regeln/Magie/Zaubersprüche/Nekromatiezauber/Vampiric Greed.md",
-    "DM Bereich/Nimble/System/Regeln/Magie/Zaubersprüche/Nekromatiezauber/Shadow Blast.md",
-    "DM Bereich/Nimble/System/Regeln/Magie/Zaubersprüche/Pyromantie/Pyromantie.md",
-    "DM Bereich/Nimble/System/Regeln/Magie/Zaubersprüche/Pyromantie/Herzensfeuer.md",
-    "DM Bereich/Nimble/System/Regeln/Magie/Zaubersprüche/Pyromantie/Feuerpfeil.md",
-    "DM Bereich/Nimble/System/Regeln/Magie/Zaubersprüche/Zaubersprüche.md",
-    "DM Bereich/Nimble/System/Regeln/Magie/Spells.md",
-    "DM Bereich/Nimble/System/Regeln/Magie/Mana.md",
-    "DM Bereich/Nimble/System/Regeln/Magie/Chaos Magic Table.md",
-    "DM Bereich/Nimble/System/Regeln/Rasten/Rasten.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Schattenrufer/Schattenrufer.md",
-    "DM Bereich/Nimble/Zustände/Zustände.md",
-    "DM Bereich/Tips/Ideen/Ideen für Encounter.md",
-    "DM Bereich/Tips/Kampagne/Campaign Hooks.md",
-    "DM Bereich/Kampagne/Welt.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten/Haltet die Linie.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten/Befehle des Kommandanten.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Klassenmerkmale Kommandant.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten/Koordinierter Schlag!.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten/Sieh mir ins Gesicht!.md",
-    "DM Bereich/Nimble/Zustände/Provoziert.md",
-    "DM Bereich/Nimble/Zustände/Abgelenkt.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Kommandant.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Klassen.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Gauner/Gauner.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Berserker.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Arkanist/Arkanist.md",
-    "DM Bereich/Nimble/Charaktere/Charaktere.md",
-    "DM Bereich/Nimble/Charaktere/Abstammungen/Abstammungen.md",
-    "DM Bereich/Nimble/Charaktere/Abstammungen/Aasimar.md",
-    "DM Bereich/Nimble/Charaktere/Abstammungen/Tieflinge/Tieflinge.md",
-    "DM Bereich/Nimble/Charaktere/Abstammungen/Tieflinge/Infernaler Tiefling.md",
-    "broken links output.md",
-    "_Nimble_PFT/Zauber/Zaubersprüche/Unsichtbarkeit.md",
     "DM Bereich/Kampagne/02 - Im Netz der Spinne/Locations/Wellenhallhöhle",
     "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten",
     "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant",
@@ -280,8 +305,6 @@
     "_Nimble_PFT/Charaktere/Klassen DnD/Zauberer/Klassenmerkmale/Quelle der Magie",
     "_Nimble_PFT/Charaktere/Klassen DnD/Zauberer/Klassenmerkmale/Metamagie",
     "_Nimble_PFT/Charaktere/Klassen DnD/Schurke/Klassenmerkmale/Raffinierter Schlag",
-    "_Nimble_PFT/Charaktere/Klassen DnD/Schurke/Klassenmerkmale/Apparaturen",
-    "_Nimble_PFT/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/Kampfüberlegenheit",
     "_Attachments/Half-Giant.png",
     "_Attachments/Aasimar.png"
   ]
