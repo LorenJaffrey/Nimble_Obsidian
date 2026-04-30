@@ -74,19 +74,7 @@ Der [[Windläufer]] ist:
 **Eiserne Verteidigung**  
 Deine Rüstung entspricht GE+STÄ, solange du keine Rüstung trägst.
 
-## Stufe 2
-
-**Geschwindigkeitsausbruch**  
-Wenn du Initiative würfelst, erhältst du GE‑Geschwindigkeitsausbrüche, die du während dieser Begegnung einsetzen kannst. (1/Zug) Du darfst 1 Geschwindigkeitsausbruch ausgeben, um einen der folgenden Manöver kostenlos einzusetzen:
-- **Gleiten.** Verteidigen, und der Angriff verfehlt.
-- **Wirbelnde Verteidigung.** Verteidigen und deine Rüstung auf jeden Angriff in dieser Runde anwenden.
-- **Schnellschlag.** Greife in deinem Zug an und ignoriere Nachteil durch Hastige Angriffe.
-- **Windschritt.** Bewege dich in deinem Zug und ignoriere schwieriges Gelände.
-
 ## Stufe 3
-
-
-
 **Ätherprojektion**  
 (1/Tag) Durch mindestens 10 Minuten Meditation kannst du eine ätherische Version deiner selbst bis zu 9 Meter weit projizieren und dabei feste Gegenstände oder Barrieren durchdringen. Du siehst durch die Augen deiner Projektion, und sie ist für andere Kreaturen als durchsichtige Version deiner selbst sichtbar. Sie kann nicht physisch mit der Umgebung interagieren, sich aber innerhalb der Distanz frei bewegen und hält bis zu 10 Minuten an.
 
@@ -98,8 +86,6 @@ Ignoriere die erste Wunde, die du pro Begegnung erleiden würdest (Fähigkeiten,
 Wenn du während einer sicheren Rast allein an einem windigen Ort meditierst, kannst du andere verfügbare Zephyr‑Optionen wählen.
 
 ## Stufe 5
-
-
 **Stärke einflößen**  
 Aktion: Führe einen unbewaffneten Angriff gegen einen Verbündeten aus und erfülle ihn stattdessen mit einem Teil deiner eigenen Kraft, anstatt ihm zu schaden. Gib eine beliebige Anzahl Trefferwürfel aus und heile ihn so, wie du dich während einer Feldrast selbst heilen würdest (würfle sie und addiere jeweils deine STÄ).
 
@@ -111,21 +97,13 @@ Erhalte zusätzlich +2 Bewegung, solange du keine Rüstung trägst.
 Ignoriere die ersten 2 Wunden, die du pro Begegnung erleiden würdest.
 
 ## Stufe 13
-
 **Eiserne Verteidigung (2)**  
 Deine Rüstung wird verdoppelt, solange du keine Rüstung trägst.
 
 ## Stufe 17
-
 **Unbeugsame Entschlossenheit (3)**  
 Ignoriere die ersten 3 Wunden, die du pro Begegnung erleiden würdest. Du hast Vorteil auf STÄ‑Rettungswürfe, solange du im Sterben liegst.
 
-## Stufe 19
-
-**Epischer Segen**  
-Wähle einen Epischen Segen.
-
 ## Stufe 20
-
 **Windgeboren**  
 +1 auf zwei beliebige deiner Werte. +1 zusätzlicher Geschwindigkeitsausbruch, wenn du Initiative würfelst. Erhalte dauerhaft 1 Aktion (solange du im Sterben liegst, hast du maximal 2 Aktionen).
