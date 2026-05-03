@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "154d59e07d0b8715",
+            "id": "4c0f9fa39b38576d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "4c0f9fa39b38576d",
+            "id": "154d59e07d0b8715",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Schnelle Fäuste.md",
+                "file": "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Ki-Transfer.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,107 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schnelle Fäuste"
-            }
-          },
-          {
-            "id": "4e7b97a5b3e05755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriff.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Angriff"
-            }
-          },
-          {
-            "id": "e769b30476bb8fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reaktion"
-            }
-          },
-          {
-            "id": "da74e464ec577648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Nimble/Social Encounters Überlegungen.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Social Encounters Überlegungen"
-            }
-          },
-          {
-            "id": "38094f3318c59093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Waffenloser Angriff.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Waffenloser Angriff"
+              "title": "Ki-Transfer"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -292,8 +195,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -307,35 +210,15 @@
             }
           },
           {
-            "id": "af294f6dedc19c67",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
-            }
-          },
-          {
-            "id": "8ce96f83db52a048",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
             "id": "cd52f7122366e245",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DM Bereich/Nimble/Social Encounters Überlegungen.md"
+                "file": "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Windläufer.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Social Encounters Überlegungen"
+              "title": "File properties for Windläufer"
             }
           }
         ],
@@ -360,34 +243,33 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "da74e464ec577648",
+  "active": "3df8570ffe14357e",
   "lastOpenFiles": [
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst/Kampfkunst.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Windläufer.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Waffenloser Angriff.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Ki-Transfer.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kinetischer Schwung.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Aktionen/Aktionen.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Aktionspunkte.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Klassen.md",
-    "DM Bereich/Nimble/Charaktere/Charaktere.md",
-    "DM Bereich/Nimble/Überlegungen Magie.md",
-    "DM Bereich/Nimble/Social Encounters Überlegungen.md",
-    "DM Bereich/Nimble/Überlegungen Rüstung.md",
-    "DM Bereich/Nimble/Transition DnD - Nimble.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub/Geschwindigkeitsschub.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub/Wirbelnde Verteidigung.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Flinke Füße.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub/Windschritt.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub/Schnellschlag.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub/Ausweichschritt.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Windgeboren.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Unbeugsame Entschlossenheit.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Klassenmerkmale Windläufer.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Klassenmerkmale Berserker/Klassenmerkmale Berserker.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Berserker.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriff.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Schnelle Fäuste.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Verteidigen.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Kampfablauf.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Begegnung.md",
     "_Nimble_PFT/Regeln/Schaden und Heilung/Krankheiten/Krankheiten.md",
     "DM Bereich/Nimble/Welcome Page.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Schadenswurf.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Beschlagene Lederrüstung.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Rüstungen.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungsbeschreibung.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Schadensreduktion.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungsklasse.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriff.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Nicht-tödlicher Angriff.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Nahkampfangriff.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Fernkampfangriff.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer",
