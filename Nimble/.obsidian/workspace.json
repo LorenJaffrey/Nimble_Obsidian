@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Aktionspunkte.md",
-                "mode": "source",
+                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Aktionspunkte"
+              "title": "Reaktion"
             }
           },
           {
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Verteidigen.md",
+                "file": "DM Bereich/Nimble/Social Encounters Überlegungen.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -124,7 +124,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Verteidigen"
+              "title": "Social Encounters Überlegungen"
+            }
+          },
+          {
+            "id": "38094f3318c59093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Waffenloser Angriff.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Waffenloser Angriff"
             }
           }
         ],
@@ -308,14 +332,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Verteidigen.md"
+                "file": "DM Bereich/Nimble/Social Encounters Überlegungen.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Verteidigen"
+              "title": "File properties for Social Encounters Überlegungen"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -338,33 +362,33 @@
   },
   "active": "da74e464ec577648",
   "lastOpenFiles": [
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Windläufer.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Waffenloser Angriff.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Aktionen/Aktionen.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Aktionspunkte.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Klassen.md",
+    "DM Bereich/Nimble/Charaktere/Charaktere.md",
+    "DM Bereich/Nimble/Überlegungen Magie.md",
+    "DM Bereich/Nimble/Social Encounters Überlegungen.md",
+    "DM Bereich/Nimble/Überlegungen Rüstung.md",
+    "DM Bereich/Nimble/Transition DnD - Nimble.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Verteidigen.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Kampfablauf.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Begegnung.md",
     "_Nimble_PFT/Regeln/Schaden und Heilung/Krankheiten/Krankheiten.md",
     "DM Bereich/Nimble/Welcome Page.md",
-    "DM Bereich/Nimble/Transition DnD - Nimble.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Schadenswurf.md",
-    "DM Bereich/Nimble/Charaktere/Charaktere.md",
     "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Beschlagene Lederrüstung.md",
     "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Rüstungen.md",
     "_Nimble_PFT/Gegenstände/Rüstung/Rüstungsbeschreibung.md",
     "_Nimble_PFT/Gegenstände/Rüstung/Schadensreduktion.md",
     "_Nimble_PFT/Gegenstände/Rüstung/Rüstungsklasse.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriff.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Waffenloser Angriff.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Nicht-tödlicher Angriff.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Nahkampfangriff.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Fernkampfangriff.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriffswurf.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Aktionen/Aktionen.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Aktionen/Einschätzen.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Windläufer.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub/Geschwindigkeitsschub.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Flinke Füße.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kinetischer Schwung.md",
-    "_Nimble_PFT/Charaktere/Klassen DnD/Klassen DnD.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer",
     "DM Bereich/Kampagne/02 - Im Netz der Spinne/Locations/Wellenhallhöhle",
