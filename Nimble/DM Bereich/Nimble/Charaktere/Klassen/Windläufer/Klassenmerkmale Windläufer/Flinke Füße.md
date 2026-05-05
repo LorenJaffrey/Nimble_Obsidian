@@ -5,4 +5,4 @@ aliases:
 Einsatz: Passiv
 ---
 # `=this.file.name`
-Solange du keine [[Rüstungen|Rüstung]] trägst, erhältst du +2 [[Bewegungsrate]] und +[[Stufe]] auf [[Initiative]].
+Solange du keine [[Rüstungen|Rüstung]] trägst, erhältst du einen Bonus auf deine [[Bewegungsrate]] (siehe [[Windläufer#Klassentabelle]].

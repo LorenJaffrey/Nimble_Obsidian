@@ -39,28 +39,28 @@ Der [[Windläufer]] ist:
 ---
 
 ## Klassentabelle
-| Stufe | Flinke Füße                             | Merkmale                                        |                                                 |
-| ----- | --------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| 1     | -                                       |                                                 | [[Schnelle Fäuste]]                             |
-| 2     | +1 [[Bewegungsrate]]; +2 [[Initiative]] |                                                 | [[Flinke Füße]], [[Geschwindigkeitsschub]]      |
-| 3     |                                         | [[Subklassen Windläufer\|Windläufer Subklasse]] | [[Kinetischer Schwung]]                         |
-| 4     |                                         | [[Primäre Attributswerterhöhung]]               | [[Kampfkunst]], [[Unbeugsame Entschlossenheit]] |
-| 5     |                                         | [[Sekundäre Attributswerterhöhung]]             | [[Nachhallende Schläge]],                       |
-| 6     |                                         |                                                 | [[Kampfkunst]], [[Ki-Transfer]]                 |
-| 7     |                                         | [[Subklassen Windläufer\|Subklassen Merkmal]]   |                                                 |
-| 8     |                                         | [[Primäre Attributswerterhöhung]]               | [[Kampfkunst]]                                  |
-| 9     |                                         | [[Sekundäre Attributswerterhöhung]]             |                                                 |
-| 10    |                                         |                                                 | [[Kampfkunst]]                                  |
-| 11    |                                         | [[Subklassen Windläufer\|Subklassen Merkmal]]   |                                                 |
-| 12    |                                         | [[Primäre Attributswerterhöhung]]               | [[Kampfkunst]]                                  |
-| 13    |                                         | [[Sekundäre Attributswerterhöhung]]             |                                                 |
-| 14    |                                         |                                                 | [[Kampfkunst]]                                  |
-| 15    |                                         | [[Subklassen Windläufer\|Subklassen Merkmal]]   |                                                 |
-| 16    |                                         | [[Primäre Attributswerterhöhung]]               | [[Kampfkunst]]                                  |
-| 17    |                                         | [[Sekundäre Attributswerterhöhung]]             |                                                 |
-| 18    |                                         |                                                 | [[Kampfkunst]]                                  |
-| 19    |                                         | [[Boons#EPIC Boons]]                            |                                                 |
-| 20    |                                         |                                                 | [[Windgeboren]]                                 |
+| Stufe |                 Schnelle Fäuste | Flinke Füße | Initiative | Merkmale                                        |                                                                  |
+| -----:| -------------------------------:| -----------:| ----------:| ----------------------------------------------- | ---------------------------------------------------------------- |
+|     1 |  1W4 + [[Geschicklichkeit\|GE]] |           - |          - |                                                 | [[Schnelle Fäuste]], [[Geschickte Verteidigung]]                 |
+|     2 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          1 |                                                 | [[Flinke Füße]], [[Geschwindigkeitsschub]], [[Schnelle Reflexe]] |
+|     3 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          2 | [[Subklassen Windläufer\|Windläufer Subklasse]] | [[Kinetischer Schwung]]                                          |
+|     4 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          2 | [[Primäre Attributswerterhöhung]]               | [[Kampfkunst]], [[Unbeugsame Entschlossenheit]]                  |
+|     5 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          3 | [[Sekundäre Attributswerterhöhung]]             | [[Nachhallende Schläge]],                                        |
+|     6 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          3 |                                                 | [[Kampfkunst]], [[Ki-Transfer]]                                  |
+|     7 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          4 | [[Subklassen Windläufer\|Subklassen Merkmal]]   |                                                                  |
+|     8 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          4 | [[Primäre Attributswerterhöhung]]               | [[Kampfkunst]]                                                   |
+|     9 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          5 | [[Sekundäre Attributswerterhöhung]]             |                                                                  |
+|    10 |  1W8 + [[Geschicklichkeit\|GE]] |          +2 |          5 |                                                 | [[Kampfkunst]]                                                   |
+|    11 |  1W8 + [[Geschicklichkeit\|GE]] |          +2 |          6 | [[Subklassen Windläufer\|Subklassen Merkmal]]   |                                                                  |
+|    12 |  1W8 + [[Geschicklichkeit\|GE]] |          +3 |          6 | [[Primäre Attributswerterhöhung]]               | [[Kampfkunst]]                                                   |
+|    13 |  1W8 + [[Geschicklichkeit\|GE]] |          +3 |          7 | [[Sekundäre Attributswerterhöhung]]             |                                                                  |
+|    14 | 1W10 + [[Geschicklichkeit\|GE]] |          +3 |          7 |                                                 | [[Kampfkunst]]                                                   |
+|    15 | 1W10 + [[Geschicklichkeit\|GE]] |          +3 |          8 | [[Subklassen Windläufer\|Subklassen Merkmal]]   |                                                                  |
+|    16 | 1W10 + [[Geschicklichkeit\|GE]] |          +3 |          8 | [[Primäre Attributswerterhöhung]]               | [[Kampfkunst]]                                                   |
+|    17 | 1W10 + [[Geschicklichkeit\|GE]] |          +3 |          9 | [[Sekundäre Attributswerterhöhung]]             |                                                                  |
+|    18 | 1W12 + [[Geschicklichkeit\|GE]] |          +3 |          9 |                                                 | [[Kampfkunst]]                                                   |
+|    19 | 1W12 + [[Geschicklichkeit\|GE]] |          +3 |         10 | [[Boons#EPIC Boons]]                            |                                                                  |
+|    20 | 1W12 + [[Geschicklichkeit\|GE]] |          +3 |         10 |                                                 | [[Windgeboren]]                                                  |
 
 
 
@@ -70,10 +70,6 @@ Der [[Windläufer]] ist:
 
 # Stufen
 
-## Stufe 1
-**Eiserne Verteidigung**  
-Deine Rüstung entspricht GE+STÄ, solange du keine Rüstung trägst.
-
 ## Stufe 3
 **Ätherprojektion**  
 (1/Tag) Durch mindestens 10 Minuten Meditation kannst du eine ätherische Version deiner selbst bis zu 9 Meter weit projizieren und dabei feste Gegenstände oder Barrieren durchdringen. Du siehst durch die Augen deiner Projektion, und sie ist für andere Kreaturen als durchsichtige Version deiner selbst sichtbar. Sie kann nicht physisch mit der Umgebung interagieren, sich aber innerhalb der Distanz frei bewegen und hält bis zu 10 Minuten an.
@@ -81,10 +77,6 @@ Deine Rüstung entspricht GE+STÄ, solange du keine Rüstung trägst.
 ## Stufe 4
 **Fokus**  
 Wenn du während einer sicheren Rast allein an einem windigen Ort meditierst, kannst du andere verfügbare Zephyr‑Optionen wählen.
-
-## Stufe 9
-**Schnelle Füße (2)**  
-Erhalte zusätzlich +2 Bewegung, solange du keine Rüstung trägst.
 
 **Unbeugsame Entschlossenheit (2)**  
 Ignoriere die ersten 2 Wunden, die du pro Begegnung erleiden würdest.
@@ -95,4 +87,4 @@ Deine Rüstung wird verdoppelt, solange du keine Rüstung trägst.
 
 ## Stufe 17
 **Unbeugsame Entschlossenheit (3)**  
-Ignoriere die ersten 3 Wunden, die du pro Begegnung erleiden würdest. Du hast Vorteil auf STÄ‑Rettungswürfe, solange du im Sterben liegst.
+Ignoriere die ersten 3 [[Wunden]], die du pro Begegnung erleiden würdest. Du hast Vorteil auf STÄ‑Rettungswürfe, solange du im Sterben liegst.

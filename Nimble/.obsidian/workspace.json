@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Windläufer.md",
+                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Ausweichwert.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Windläufer"
+              "title": "Ausweichwert"
             }
           },
           {
@@ -53,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "Ki-Transfer"
+            }
+          },
+          {
+            "id": "5889bda3ec54b2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Nimble/Charaktere/Klassen/Gauner/Gauner.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gauner"
             }
           }
         ]
@@ -243,33 +267,34 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "3df8570ffe14357e",
+  "active": "b95fee904e023541",
   "lastOpenFiles": [
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst/Kampfkunst.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Windläufer.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Ki-Transfer.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kinetischer Schwung.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Aktionspunkte.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub/Geschwindigkeitsschub.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub/Wirbelnde Verteidigung.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Flinke Füße.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub/Windschritt.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub/Schnellschlag.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub/Ausweichschritt.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Windgeboren.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Unbeugsame Entschlossenheit.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Klassenmerkmale Windläufer.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Klassenmerkmale Berserker/Klassenmerkmale Berserker.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Berserker.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriff.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Schnelle Fäuste.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Verteidigen.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Schnelle Reflexe.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Gauner/Gauner.md",
+    "broken links output.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschickte Verteidigung.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Ausweichwert.md",
+    "DM Bereich/Nimble/System/Regeln/Stats/Attribute/Geschicklichkeit.md",
+    "DM Bereich/D&D 5e Produktübersicht.md",
+    "DM Bereich/Character Sheet Test.md",
+    "DM Bereich/Tools.md",
+    "DM Bereich/Improvisierter Schaden.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Kampfablauf.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Begegnung.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Krankheiten/Krankheiten.md",
-    "DM Bereich/Nimble/Welcome Page.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Schadenswurf.md",
+    "DM Bereich/Nimble/Charaktere/Key Stats.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Schadensreduktion.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungsklasse.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungsbeschreibung.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Beschlagene Lederrüstung.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Berserker.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Klassenmerkmale Berserker/Wut/Wüten.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Rüstungen.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriffswurf.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriff.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Geschwindigkeitsschub",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer",
