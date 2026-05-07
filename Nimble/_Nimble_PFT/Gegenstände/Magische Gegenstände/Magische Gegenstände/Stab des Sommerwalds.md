@@ -17,7 +17,7 @@ Reichweite: 1,5(1)
 Schaden: 1d8
 Schadensart: "[[Wuchtschaden]]"
 Eigenschaften:
-  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parieren]]"
+  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]]"
   - "[[Finesse]]"
 Kategorie: "[[Einfache Waffen]]"
 Hände: 2

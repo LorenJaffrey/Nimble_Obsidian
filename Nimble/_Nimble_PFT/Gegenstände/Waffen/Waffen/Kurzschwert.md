@@ -12,7 +12,7 @@ Schadensart: "[[Hiebschaden]]/[[Stichschaden]]"
 Eigenschaften:
   - "[[Leicht]]"
   - "[[Finesse]]"
-  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parieren]]"
+  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]]"
 SchadenFern:
 SchadensartFern:
 Range1:

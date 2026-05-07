@@ -10,7 +10,7 @@ Reichweite: 1,5(1)
 Schaden: 2d4
 Schadensart: "[[Hiebschaden]]/[[Stichschaden]]"
 Eigenschaften:
-  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parieren]]"
+  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]]"
   - "[[Vielseitig]] (`dice: 2d5|none|noform`)"
 SchadenFern:
 SchadensartFern:

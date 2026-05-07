@@ -5,11 +5,12 @@ tags:
   - Gegenstand/Waffe/Klasse/Nahkampfwaffe
   - Gegenstand/Waffe/Kategorie/Einfache_Waffe
   - Gegenstand/Waffe/Größe/Großwaffe
+  - Gegenstand/Waffe/Kategorie/Mönchswaffe
 Reichweite: 1,5(1)
 Schaden: 1d8
 Schadensart: "[[Wuchtschaden]]"
 Eigenschaften:
-  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parieren]]"
+  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]]"
   - "[[Finesse]]"
 SchadenFern:
 SchadensartFern:

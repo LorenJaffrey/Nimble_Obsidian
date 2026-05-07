@@ -3,5 +3,11 @@ tags:
   - Eigenschaft/Waffe
 ---
 # `=this.file.name`
+Diese Waffe kann mit einer oder mit zwei Händen geführt werden. 
+Erhöhe die [[Würfelkategorien|Würfelkategorie]] des [[Schadenswurf|Schadenswurfs]] um eine Stufe wenn sie zweihändig geführt wird.
+Die Anzahl der geworfenen Würfel bleibt dabei gleich.
 
-Diese Waffe kann mit einer oder mit zwei Händen geführt werden. Der Schadenswert in Klammern gibt den Schaden an, der verursacht wird, wenn die Waffe bei einem Angriff mit zwei Händen geführt wird.
+> [!example]
+> Die Kategorie erhöht sich von 8 auf 10.
+> 2W4 -> 2W5
+> 1W8 -> 1W10

@@ -7,7 +7,7 @@ SR:
 Stärke:
 Dex_cap:
 Eigenschaften:
-  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parieren]]"
+  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]]"
   - "[[Freihändig]]"
 Gewicht: 2 Pfund
 Kosten: 10 GM

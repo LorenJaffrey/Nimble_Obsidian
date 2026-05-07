@@ -10,7 +10,7 @@ Schaden: 1d6
 Schadensart: "[[Hiebschaden]]"
 Eigenschaften:
   - "[[Finesse]]"
-  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parieren]]"
+  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]]"
   - "[[Tödlich]]"
 SchadenFern:
 SchadensartFern:

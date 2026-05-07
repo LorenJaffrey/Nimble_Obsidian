@@ -10,7 +10,7 @@ Schaden: 1d6
 Schadensart: "[[Stichschaden]]"
 Eigenschaften:
   - "[[Finesse]]"
-  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parieren]]"
+  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]]"
   - "[[Kritisch]]"
   - "[[Leicht]]"
 SchadenFern:

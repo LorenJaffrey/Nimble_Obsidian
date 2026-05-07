@@ -2,7 +2,7 @@
 tags:
   - Regeln/Nimble/Merkmal/Klasse/Windläufer/Geschwindigkeitsschub
 aliases:
-Einsatz: "1 Ki-Punkt"
+Einsatz: "1 [[Fokuspunkte|Fokuspunkt]]"
 ---
 # `=this.file.name`
-Bewege dich in deinem [[Zug]] und ignoriere [[schwieriges Gelände]].
+Nutze [[Verteidigen]] gegen jeden [[Angriff]] in dieser [[Runde]].

@@ -12,7 +12,7 @@ Schadensart: "[[Stichschaden]]"
 Eigenschaften:
   - "[[Weitreichend]]"
   - "[[Vielseitig]]"
-  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parieren]]"
+  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]]"
 SchadenFern: 1d6
 SchadensartFern: "[[Stichschaden]]"
 Range1: 1,5(1)
