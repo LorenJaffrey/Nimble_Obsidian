@@ -50,7 +50,7 @@ Der [[Windläufer]] ist:
 |     7 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          4 |                1 | [[Subklassen Windläufer\|Subklassen Merkmal]]                                      |
 |     8 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          4 |                1 | [[Primäre Attributswerterhöhung]],[[Kampfkunst]]                                   |
 |     9 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          5 |                1 | [[Sekundäre Attributswerterhöhung]]                                                |
-|    10 |  1W8 + [[Geschicklichkeit\|GE]] |          +2 |          5 |                2 | [[Kampfkunst]]                                                                     |
+|    10 |  1W8 + [[Geschicklichkeit\|GE]] |          +2 |          5 |                2 | [[Kampfkunst]],                                                                     |
 |    11 |  1W8 + [[Geschicklichkeit\|GE]] |          +3 |          6 |                2 | [[Subklassen Windläufer\|Subklassen Merkmal]]                                      |
 |    12 |  1W8 + [[Geschicklichkeit\|GE]] |          +3 |          6 |                2 | [[Primäre Attributswerterhöhung]],[[Kampfkunst]]                                   |
 |    13 |  1W8 + [[Geschicklichkeit\|GE]] |          +3 |          7 |                2 | [[Sekundäre Attributswerterhöhung]]                                                |
@@ -69,12 +69,7 @@ Der [[Windläufer]] ist:
 # Stufen
 
 ## Stufe 3
-**Ätherprojektion**  
-(1/Tag) Durch mindestens 10 Minuten Meditation kannst du eine ätherische Version deiner selbst bis zu 9 Meter weit projizieren und dabei feste Gegenstände oder Barrieren durchdringen. Du siehst durch die Augen deiner Projektion, und sie ist für andere Kreaturen als durchsichtige Version deiner selbst sichtbar. Sie kann nicht physisch mit der Umgebung interagieren, sich aber innerhalb der Distanz frei bewegen und hält bis zu 10 Minuten an.
 
-## Stufe 4
-**Fokus**  
-Wenn du während einer sicheren Rast allein an einem windigen Ort meditierst, kannst du andere verfügbare Zephyr‑Optionen wählen.
 
 ## Stufe 13
 **Eiserne Verteidigung (2)**  
@@ -98,6 +93,7 @@ Ignoriere die ersten 3 [[Wunden]], die du pro Begegnung erleiden würdest. Du ha
 [[Geschicklichkeit|GE]]
 - Angriff
 - Ausweichen
+
 [[Weisheit|WE]]
 - Fokuspunkte
 - Ausweichen
