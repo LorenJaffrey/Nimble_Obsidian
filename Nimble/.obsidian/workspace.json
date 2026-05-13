@@ -102,30 +102,6 @@
               "icon": "lucide-file",
               "title": "Reaktion"
             }
-          },
-          {
-            "id": "ef7132ae51dcd7a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Instinktives Ausweichen.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Instinktives Ausweichen"
-            }
           }
         ]
       }
@@ -317,32 +293,32 @@
   },
   "active": "4c0f9fa39b38576d",
   "lastOpenFiles": [
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Instinktive Parade.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Ki-verstärkte Schläge.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Windläufer.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Betäubender Schlag.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Sturz abfedern.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Subklassen Windläufer/Instinktive Parade.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Waffenloser Angriff.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Instinktives Ausweichen.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Nicht-tödlicher Angriff.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Konzentration.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Deckung.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Ausweichen.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Kampfablauf.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Runde.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Initiative.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Begegnung.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Kampf DnD/Magie wirken.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Kampf DnD/Heroische Aktionen.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Kampf DnD/_Spezielle Kampfbedingungen.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Gauner/Gauner.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Berserker.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Windläufer.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Instinktives Ausweichen.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Ungerüstete Bewegung.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kinetischer Schwung.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Einschreiten.md",
     "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kampfstab.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst/Kampfkunst.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Ki-Transfer.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Schnelle Fäuste.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Knüppel.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Sichel.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Speer.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Streitflegel.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Dolch.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Glefe.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Dreizack.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffenlisten/Einfache Waffen.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade.md",
-    "_Nimble_PFT/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/Kampfüberlegenheit/_Parade.md",
-    "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Vielseitig.md",
-    "DM Bereich/Nimble/System/Regeln/Würfelkategorien.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Fokuspunkte",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer",

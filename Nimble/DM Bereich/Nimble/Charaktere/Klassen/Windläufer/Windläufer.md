@@ -42,15 +42,15 @@ Der [[Windläufer]] ist:
 | Stufe |                 Schnelle Fäuste | Flinke Füße | Initiative | Entschlossenheit | Merkmale                                                                           |
 | -----:| -------------------------------:| -----------:| ----------:| ----------------:| ---------------------------------------------------------------------------------- |
 |     1 |  1W4 + [[Geschicklichkeit\|GE]] |           - |          - |                1 | [[Schnelle Fäuste]], [[Instinktives Ausweichen]]                                   |
-|     2 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          1 |                1 | [[Ungerüstete Bewegung]], [[Fokuspunkte]], [[Schnelle Reflexe]]                   |
+|     2 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          1 |                1 | [[Ungerüstete Bewegung]], [[Fokuspunkte]], [[Schnelle Reflexe]]                    |
 |     3 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          2 |                1 | [[Subklassen Windläufer\|Windläufer Subklasse]]    [[Kinetischer Schwung]]         |
 |     4 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          2 |                1 | [[Primäre Attributswerterhöhung]], [[Kampfkunst]], [[Unbeugsame Entschlossenheit]] |
-|     5 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          3 |                1 | [[Sekundäre Attributswerterhöhung]], [[Nachhallende Schläge]]                      |
-|     6 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          3 |                1 | [[Kampfkunst]], [[Ki-Transfer]]                                                    |
+|     5 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          3 |                1 | [[Sekundäre Attributswerterhöhung]], [[Betäubender Schlag]]                        |
+|     6 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          3 |                1 | [[Kampfkunst]], [[Sturz abfedern]]                                                 |
 |     7 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          4 |                1 | [[Subklassen Windläufer\|Subklassen Merkmal]]                                      |
 |     8 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          4 |                1 | [[Primäre Attributswerterhöhung]],[[Kampfkunst]]                                   |
-|     9 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          5 |                1 | [[Sekundäre Attributswerterhöhung]]                                                |
-|    10 |  1W8 + [[Geschicklichkeit\|GE]] |          +2 |          5 |                2 | [[Kampfkunst]],                                                                     |
+|     9 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          5 |                1 | [[Sekundäre Attributswerterhöhung]], [[Ki-verstärkte Schläge]]                     |
+|    10 |  1W8 + [[Geschicklichkeit\|GE]] |          +2 |          5 |                2 | [[Kampfkunst]]                                                                    |
 |    11 |  1W8 + [[Geschicklichkeit\|GE]] |          +3 |          6 |                2 | [[Subklassen Windläufer\|Subklassen Merkmal]]                                      |
 |    12 |  1W8 + [[Geschicklichkeit\|GE]] |          +3 |          6 |                2 | [[Primäre Attributswerterhöhung]],[[Kampfkunst]]                                   |
 |    13 |  1W8 + [[Geschicklichkeit\|GE]] |          +3 |          7 |                2 | [[Sekundäre Attributswerterhöhung]]                                                |
@@ -66,34 +66,14 @@ Der [[Windläufer]] ist:
 **Waffen:** Nahkampf  
 **Startausrüstung:** Stab, Reisekleidung & Sandalen
 
-# Stufen
-
-## Stufe 3
-
-
-## Stufe 13
-**Eiserne Verteidigung (2)**  
-Parieren ohne Nachteil
-
-## Stufe 17
-**Unbeugsame Entschlossenheit (3)**  
-Ignoriere die ersten 3 [[Wunden]], die du pro Begegnung erleiden würdest. Du hast Vorteil auf STÄ‑Rettungswürfe, solange du im Sterben liegst.
-
 # Ideen
 
-## Waffen vs. Waffenlos
-|                       | Waffe | Waffenlos |
-| --------------------- | ----- | --------- |
-| Schaden               | fix   | steigt    |
-| Eigenschaften         | ja    | nein      |
-| Überhastet ignorieren | nein  | ja        |
-| beidhändig            | evtl. | ja        |
+## Fähigkeiten
+- Parieren ohne Nachteil
 
-## Attribute
-[[Geschicklichkeit|GE]]
-- Angriff
-- Ausweichen
-
-[[Weisheit|WE]]
-- Fokuspunkte
-- Ausweichen
+## Subklassen
+- Elemente (Avatar-Style)
+- Heiler
+- Drunken Master (Tank)
+- Waffenlose Angriffe
+- Schatten (Heimlichkeit und Täuschung)
