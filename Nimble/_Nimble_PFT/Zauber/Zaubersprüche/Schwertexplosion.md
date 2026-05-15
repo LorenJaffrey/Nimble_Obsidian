@@ -19,7 +19,7 @@ Schaden: 1d6
 SchadenLv5: 2d6
 SchadenLv11: 3d6
 SchadenLv17: 4d6
-Schadensart: "[[Energieschaden]]"
+Schadensart: "[[Arkanschaden]]"
 Ziel: AoE
 Klassen:
   - "[[Magieschmied]]"
@@ -35,7 +35,7 @@ Typ: "[[Offensivzauber|Angriff]]"
 ## Beschreibung
 *Für einen Moment fegt eine Schar spektraler Klingen in Kreisform um dich herum.*
 
-Alle Kreaturen innerhalb von 1,5 Metern müssen einen [[Rettungswurf]] auf [[Geschicklichkeit]] ausführen, ansonsten erleiden sie 1W6 [[Energieschaden]].
+Alle Kreaturen innerhalb von 1,5 Metern müssen einen [[Rettungswurf]] auf [[Geschicklichkeit]] ausführen, ansonsten erleiden sie 1W6 [[Arkanschaden]].
 
 ### Auf höheren Graden
 Der Schaden dieses Zaubers steigt jeweils um 1W6 bei Erreichen höherer Stufen:

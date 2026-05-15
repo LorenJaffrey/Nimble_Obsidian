@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Windläufer.md",
+                "file": "DM Bereich/Nimble/Charaktere/Klassen/Kleriker/Shepherd Levels.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Windläufer"
+              "title": "Shepherd Levels"
             }
           },
           {
@@ -102,8 +102,81 @@
               "icon": "lucide-file",
               "title": "Reaktion"
             }
+          },
+          {
+            "id": "323f7440eb6567ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Schadensarten/Arkanschaden.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Arkanschaden"
+            }
+          },
+          {
+            "id": "9cdc5029534059e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Homebrew/Waffen und Rüstungen/Rüstungen/_Alternative Rüstungsregeln.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Alternative Rüstungsregeln"
+            }
+          },
+          {
+            "id": "954895f6550fcbef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Reaktion"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -291,34 +364,34 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "4c0f9fa39b38576d",
+  "active": "9cdc5029534059e6",
   "lastOpenFiles": [
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Ki-verstärkte Schläge.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Ausweichen.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Blocken.md",
+    "DM Bereich/Homebrew/Waffen und Rüstungen/Rüstungen/_Alternative Rüstungsregeln.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Parieren.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Schadensreduktion.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungsklasse.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Schrapnell.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Flammend.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Waffeneigenschaften.md",
+    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Schadensarten/Arkanschaden.md",
+    "_Nimble_PFT/Zauber/Zaubersprüche/Shillelagh.md",
+    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Schadensarten/Schadensarten.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Kleriker/Shepherd Levels.md",
+    "DM Bereich/Nimble/Charaktere/Charakterrollen.md",
+    "DM Bereich/Nimble/Charaktere/Key Stats.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Klassen.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Kleriker/Kleriker.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Windläufer.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Klassenmerkmale Windläufer.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Fokuspunkte/Fokuspunkte.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst/Kampfkunst.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Ki-verstärkte Schläge.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Betäubender Schlag.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Sturz abfedern.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Subklassen Windläufer/Instinktive Parade.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Waffenloser Angriff.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Instinktives Ausweichen.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Nicht-tödlicher Angriff.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Konzentration.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Deckung.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Ausweichen.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Kampfablauf.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Runde.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Initiative.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Begegnung.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Kampf DnD/Magie wirken.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Kampf DnD/Heroische Aktionen.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Kampf DnD/_Spezielle Kampfbedingungen.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Gauner/Gauner.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Berserker/Berserker.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Ungerüstete Bewegung.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kinetischer Schwung.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Einschreiten.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kampfstab.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst/Kampfkunst.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Fokuspunkte",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer",

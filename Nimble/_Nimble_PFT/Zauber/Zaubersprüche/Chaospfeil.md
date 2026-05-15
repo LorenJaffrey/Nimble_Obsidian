@@ -38,7 +38,7 @@ Die gewürfelte Zahl bestimmt die Schadensart wie unten aufgeführt.
 |  1  | [[Säureschaden]]        |
 |  2  | [[Kälteschaden]]        |
 |  3  | [[Feuerschaden]]        |
-|  4  | [[Energieschaden]]      |
+|  4  | [[Arkanschaden]]      |
 |  5  | [[Blitzschaden]]        |
 |  6  | [[Giftschaden]]         |
 |  7  | [[Psychischer Schaden]] |

@@ -18,7 +18,7 @@ Schaden: 1d8
 SchadenLv5: 1d10
 SchadenLv11: 1d12
 SchadenLv17: 2d6
-Schadensart: "[[Energieschaden]]"
+Schadensart: "[[Arkanschaden]]"
 Ziel: Selbst
 Klassen:
   - "[[Druide DnD]]"
@@ -36,7 +36,7 @@ Außerdem wird der Schadenswürfel der Waffe zu einem W8 und die Waffe magisch, 
 Der Zauber endet, wenn du ihn erneut wirkst oder die Waffe loslässt.
 
 Schadensart kann frei gewählt werden zwischen:
-- [[Energieschaden]]
+- [[Arkanschaden]]
 - [[Physischerschaden]]
 
 ### Auf höheren Stufen

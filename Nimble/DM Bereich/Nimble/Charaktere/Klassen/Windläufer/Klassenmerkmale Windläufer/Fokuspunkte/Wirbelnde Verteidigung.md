@@ -5,4 +5,4 @@ aliases:
 Einsatz: "1 [[Fokuspunkte|Fokuspunkt]]"
 ---
 # `=this.file.name`
-Nutze [[Verteidigen]] gegen jeden [[Angriff]] in dieser [[Runde]].
+Nutze [[Blocken]] gegen jeden [[Angriff]] in dieser [[Runde]].

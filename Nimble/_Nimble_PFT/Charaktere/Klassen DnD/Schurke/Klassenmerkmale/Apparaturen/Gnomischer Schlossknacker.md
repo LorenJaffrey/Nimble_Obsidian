@@ -20,4 +20,4 @@ Es wird dabei aber auch irreparabel beschädigt.
 
 ### Fehlzündung
 Ein [[Misserfolg]] verursacht eine laute Explosion, die Feinde in der Nähe alarmiert.
-Ein kritischer [[Misserfolg]] bewirkt, dass das Gerät frühzeitig detoniert und dir `dice:1d6` [[Energieschaden]] zufügt.
+Ein kritischer [[Misserfolg]] bewirkt, dass das Gerät frühzeitig detoniert und dir `dice:1d6` [[Arkanschaden]] zufügt.

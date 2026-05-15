@@ -4,7 +4,7 @@ tags:
   - Regeln/Nimble
 aliases:
   - Ausweichaktion
-Beschreibung: "Doppelter GE-Bonus auf [[Ausweichwert]] und [[Rettungswurf#Geschicklichkeitsrettungswurf|Geschicklichkeitsrettungswürfe]]"
+Beschreibung: "Bonus auf [[Ausweichwert]] und [[Rettungswurf#Geschicklichkeitsrettungswurf|Geschicklichkeitsrettungswürfe]]"
 Kosten: "1 [[Aktionspunkte|AP]]"
 ---
 # `=this.file.name`

@@ -16,7 +16,7 @@ Konzentration: false
 Ritual: false
 Skalierbar: true
 Schaden: 1d10
-Schadensart: "[[Energieschaden]]"
+Schadensart: "[[Arkanschaden]]"
 Ziel: Einzel
 Klassen:
   - "[[Hexenmeister]]"

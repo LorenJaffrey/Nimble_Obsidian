@@ -7,8 +7,6 @@
 ### Schadensreduktion (Rüstungswerte)
 [[_Rüstungen]]
 
-Mindestens 1 Schaden pro Treffer bleibt immer bestehen.
-
 ### Schilde & Parieren
 - **Schilde:** Erhöhen Schadensreduktion (SR −2). Optional 1× pro Runde gesamte Block-Reaktion.
 - **Parierwaffen:** Erhöhen Ausweichwert (+1 bis +2), nur bei freier Hand oder passendem Kampfstil.

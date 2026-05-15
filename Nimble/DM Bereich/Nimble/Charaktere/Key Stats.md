@@ -4,16 +4,16 @@
 | Klasse            | STR | KON | GES | INT | WEI | CHA | Done |
 | ----------------- |:---:|:---:|:---:|:---:|:---:|:---:|:----:|
 | [[Berserker]]     |  A  |     |  A  |     |     |     |  X   |
-| Zephyr            |     |     |  A  |     |  A  |     |  X   |
+| [[Windläufer]]    |     |     |  A  |     |  A  |     |  X   |
 | [[Kommandant]]    |  A  |     |     |     |     |  A  |  X   |
-| Shepherd          |  A  |     |     |     |  A  |     |  X   |
-| Oathsworn         |  A  |     |     |     |     |  A  |  X   |
+| [[Kleriker]]      |  A  |     |     |     |  A  |     |  X   |
+| [[Paladin]]       |  A  |     |     |     |     |  A  |  X   |
 | [[Gauner]]        |     |     |  A  |  A  |     |     |  X   |
 | [[Schattenrufer]] |     |     |     |  A  |     |  A  |  X   |
-| Hunter            |     |     |  A  |     |  A  |     |  X   |
+| [[Jäger]]         |     |     |  A  |     |  A  |     |  X   |
 | Stormshifter      |     |     |  A  |     |  A  |     |  X   |
 | [[Arkanist]]      |     |     |     |  A  |  A  |     |  X   |
-| Songweaver        |     |     |     |  A  |     |  A  |  X   |
+| [[Klangweber]]    |     |     |     |  A  |     |  A  |  X   |
 
 ### Rettungswürfe
 | Klasse            | STR | KON | GES | INT | WEI | CHA | Done |

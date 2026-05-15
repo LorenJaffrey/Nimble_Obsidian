@@ -1,6 +1,6 @@
 ---
 tags:
-  - Regeln/Nimble/Charakter/Klasse
+  - Regeln/Nimble/Charakter/Klasse/WIP
 Trefferwürfel: 8
 Kernattribute:
   - "[[Geschicklichkeit]]"

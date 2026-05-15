@@ -1,136 +1,176 @@
-**Key Stats:** WIL, STR
-**Hit Die:** 1d10
-**Starting HP:** 17
-**Saves:** WIL+, DEX-
-**Armor:** Mail Armor, Shields
-**Weapons:** STR Weapons, Wands
-**Starting Gear:** Rusty Mail, Mace, Wooden Buckler, Bell
+**Kernwerte:** WIL, STR  
+**Trefferwürfel:** 1d10  
+**Start-HP:** 17  
+**Rettungswürfe:** WIL+, DEX-  
+**Rüstung:** Kettenrüstung, Schilde  
+**Waffen:** STR-Waffen, Zauberstäbe  
+**Startausrüstung:** Rostige Kettenrüstung, Streitkolben, Holzschild, Glocke
 
----
-# Levels
-### Level 1
-**Keeper of Life & Death**
-You know Radiant and Necrotic cantrips.
+## Stufen
 
-**Searing Light**
-(WIL times/Safe Rest) Action: Heal or Inflict grievous injuries:
-* Heal WIL d8 HP to a Dying creature within Reach 6. OR:
-* Inflict WIL d8 radiant damage to an undead or Bloodied enemy within Reach 6.
-### Level 2
-**Mana and Unlock Tier 1 Spells**
-You unlock tier 1 Radiant and Necrotic spells and gain a mana pool to cast these spells. This mana pool’s maximum is always equal to (WIL×3)+LVL and recharges on a Safe Rest.
+## Stufe 1
 
-**Lifebinding Spirit**
-(Radiant Spell, Tier 1)
-* Action: Summon a spirit companion that follows you and is immune to harm. It lasts until you cast this spell again, take a Safe Rest, or it heals a number of times equal to the mana spent summoning it.
-* Action: It attacks or heals a creature within Reach 4. It attacks for 1d6+WIL radiant damage (ignoring armor), or heals for the same amount.
+**Bewahrer von Leben und Tod**  
+Du kennst die Kleriker-Zaubertricks für Strahlenschaden und nekrotischen Schaden.
 
-**Upcasting:** Increment its die size by 1 (max d12), +1 healing use.
+**Gleißendes Licht**  
+(WIL-mal pro sichere Rast) Aktion: Heile oder füge schwere Verletzungen zu:  
+Heile einem sterbenden Wesen in Reichweite 6 WIL d8 HP. ODER:  
+Füge einem untoten oder blutigen Gegner in Reichweite 6 WIL d8 Strahlenschaden zu.
 
-> [!tip]- Flavor is Free
-> Your Lifebinding Spirit can take the form of any small/tiny friendly animal or similar creature (dog, lamb, rabbit, sparrow, etc.). Make sure you give your little buddy a name, too! Outside of combat, your companion is a spirit, so it can pass through walls and dangers harmlessly and briefly move away from you (but always prefers to be faithfully at your side). It cannot speak.
+## Stufe 2
 
-> [!faq]- Rushed Attacks and My Companion?
-> You and your companion use the same action pool, but count as different creatures. So you can each attack once without Rushed Attacks every round. Teamwork!
-### Level 3
-**Subclass**
-Choose a Shepherd subclass.
+**Mana und Freischaltung von Grad-1-Zaubern**  
+Du schaltest Strahlungs- und Nekrosezauber auf Grad 1 frei und erhältst einen Manavorrat, um diese Zauber zu wirken. Das Maximum dieses Manavorrats entspricht immer (WIL×3)+LVL(WIL \times 3) + LVL(WIL×3)+LVL und lädt sich bei einer sicheren Rast wieder auf.
 
-**Master of Twilight**
-Choose 1 Necrotic and 1 Radiant Utility Spell.
-### Level 4
-**Tier 2 Spells**
-You may now cast tier 2 spells and upcast spells at tier 2.
+**Lebensbindender Geist**  
+(Grad-1-Strahlungszauber)  
+Aktion: Du beschwörst einen Geisterbegleiter, der dir folgt und gegen Schaden immun ist. Er bleibt bestehen, bis du diesen Zauber erneut wirkst, eine sichere Rast machst oder er eine Anzahl von Malen heilt, die den beim Beschwören ausgegebenen Manakosten entspricht.  
+Aktion: Er greift eine Kreatur in Reichweite 4 an oder heilt sie. Er verursacht 1d6+WIL Strahlenschaden (ignoriert Rüstung) oder heilt um denselben Betrag.  
+**Hochstufen:** Erhöhe die Würfelgröße um 1 (max. d12), +1 Heilnutzung.
 
-**Key Stat Increase**
-+1 WIL or STR.
-### Level 5
-**Secondary Stat Increase**
-+1 INT or DEX.
+**Fluff ist frei**  
+Dein Lebensbindender Geist kann die Gestalt eines beliebigen kleinen/minikleinen freundlichen Tiers oder einer ähnlichen Kreatur annehmen (Hund, Lamm, Kaninchen, Sperling usw.). Gib deinem kleinen Begleiter unbedingt auch einen Namen! Außerhalb des Kampfes ist dein Begleiter ein Geist, daher kann er harmlos durch Wände und Gefahren gehen und sich kurzzeitig von dir entfernen (zieht es aber immer vor, treu an deiner Seite zu bleiben). Er kann nicht sprechen.
 
-**Upgraded Cantrips**
-Your cantrips grow stronger.
+**Schnelle Angriffe und mein Begleiter?**  
+Du und dein Begleiter nutzt denselben Aktionspool, zählt aber als unterschiedliche Kreaturen. Ihr könnt also beide jede Runde einmal angreifen, ohne Schnelle Angriffe zu nutzen. Teamwork!
 
-**Sacred Grace**
-Choose 2 Sacred Graces.
+## Stufe 3
 
-> [!tip]- Serve
-> After spending a day tending to a sacred place or serving others during a Safe Rest, you may choose different Shepherd options available to you.
-### Level 6
-**Tier 3 Spells**
-You may now cast tier 3 spells and upcast spells at tier 3.
+**Unterklasse**  
+Wähle eine Hirten-Unterklasse.
 
-**Master of Twilight (2)**
-Choose a 2nd Necrotic and Radiant Utility Spell.
-### Level 7
-**Subclass**
-Gain your Shepherd subclass feature.
-### Level 8
-**Tier 4 Spells**
-You may now cast tier 4 spells and upcast spells at tier 4.
+**Meister der Dämmerung**  
+Wähle 1 nekrotischen und 1 strahlenden Nützlichkeitszauber.
 
-**Key Stat Increase**
-+1 WIL or STR.
-### Level 9
-**Sacred Grace (2)**
-Choose a 3rd Sacred Grace.
+## Stufe 4
 
-**Secondary Stat Increase**
-+1 INT or DEX.
-### Level 10
-**Tier 5 Spells**
-You may now cast tier 5 spells and upcast spells at tier 5.
+**Zauber Grad 2**  
+Du kannst nun Zauber des 2. Grades wirken und Zauber auf Grad 2 hochstufen.
 
-**Upgraded Cantrips**
-Your cantrips grow stronger.
-### Level 11
-**Subclass**
-Gain your Shepherd subclass feature.
+**Erhöhung des Kernwerts**  
++1 WIL oder STR.
 
-**Master of Twilight (3)**
-You know all Necrotic and Radiant Utility Spells.
-### Level 12
-**Tier 6 Spells**
-You may now cast tier 6 spells and upcast spells at tier 6.
+## Stufe 5
 
-**Key Stat Increase**
-+1 WIL or STR.
-### Level 13
-**Sacred Grace (3)**
-Choose a 4th Sacred Grace.
+**Erhöhung des Nebenwerts**  
++1 INT oder DEX.
 
-**Secondary Stat Increase**
-+1 INT or DEX.
-### Level 14
-**Tier 7 Spells**
-You may now cast tier 7 spells and upcast spells at tier 7.
-### Level 15
-**Subclass**
-Gain your Shepherd subclass feature.
+**Verstärkte Zaubertricks**  
+Deine Zaubertricks werden stärker.
 
-**Upgraded Cantrips**
-Your cantrips grow stronger.
-### Level 16
-**Tier 8 Spells**
-You may now cast tier 8 spells and upcast spells at tier 8.
+**Heilige Gnade**  
+Wähle 2 heilige Gnaden.
 
-**Key Stat Increase**
-+1 WIL or STR.
-### Level 17
-**Revitalizing Blessing**
-(1/round) Whenever you roll a 6 or higher on one or more healing die, the target may recover one Wound.
+**Dienen**  
+Wenn du einen Tag lang einen heiligen Ort betreust oder anderen dienst, während einer sicheren Rast, darfst du andere Hirten-Optionen wählen, die dir zur Verfügung stehen.
 
-**Secondary Stat Increase**
-+1 INT or DEX.
-### Level 18
-**Tier 9 Spells**
-You may now cast tier 9 spells and upcast spells at tier 9.
-### Level 19
-**Epic Boon**
-Choose an Epic Boon.
-### Level 20
-**Twilight Sage**
-+1 to any 2 of your stats. Your Lifebinding Spirit rolls twice as many dice.
+## Stufe 6
 
-**Upgraded Cantrips**
-Your cantrips grow stronger.
+**Zauber Grad 3**  
+Du kannst nun Zauber des 3. Grades wirken und Zauber auf Grad 3 hochstufen.
+
+**Meister der Dämmerung (2)**  
+Wähle einen 2. nekrotischen und strahlenden Nützlichkeitszauber.
+
+## Stufe 7
+
+**Unterklasse**  
+Erhalte dein Unterklassenmerkmal des Hirten.
+
+## Stufe 8
+
+**Zauber Grad 4**  
+Du kannst nun Zauber des 4. Grades wirken und Zauber auf Grad 4 hochstufen.
+
+**Erhöhung des Kernwerts**  
++1 WIL oder STR.
+
+## Stufe 9
+
+**Heilige Gnade (2)**  
+Wähle eine 3. Heilige Gnade.
+
+**Erhöhung des Nebenwerts**  
++1 INT oder DEX.
+
+## Stufe 10
+
+**Zauber Grad 5**  
+Du kannst nun Zauber des 5. Grades wirken und Zauber auf Grad 5 hochstufen.
+
+**Verstärkte Zaubertricks**  
+Deine Zaubertricks werden stärker.
+
+## Stufe 11
+
+**Unterklasse**  
+Erhalte dein Unterklassenmerkmal des Hirten.
+
+**Meister der Dämmerung (3)**  
+Du kennst alle nekrotischen und strahlenden Nützlichkeitszauber.
+
+## Stufe 12
+
+**Zauber Grad 6**  
+Du kannst nun Zauber des 6. Grades wirken und Zauber auf Grad 6 hochstufen.
+
+**Erhöhung des Kernwerts**  
++1 WIL oder STR.
+
+## Stufe 13
+
+**Heilige Gnade (3)**  
+Wähle eine 4. Heilige Gnade.
+
+**Erhöhung des Nebenwerts**  
++1 INT oder DEX.
+
+## Stufe 14
+
+**Zauber Grad 7**  
+Du kannst nun Zauber des 7. Grades wirken und Zauber auf Grad 7 hochstufen.
+
+## Stufe 15
+
+**Unterklasse**  
+Erhalte dein Unterklassenmerkmal des Hirten.
+
+**Verstärkte Zaubertricks**  
+Deine Zaubertricks werden stärker.
+
+## Stufe 16
+
+**Zauber Grad 8**  
+Du kannst nun Zauber des 8. Grades wirken und Zauber auf Grad 8 hochstufen.
+
+**Erhöhung des Kernwerts**  
++1 WIL oder STR.
+
+## Stufe 17
+
+**Belebender Segen**  
+(1/Runde) Immer wenn du bei einem oder mehreren Heilwürfeln eine 6 oder höher würfelst, darf das Ziel eine Wunde erholen.
+
+**Erhöhung des Nebenwerts**  
++1 INT oder DEX.
+
+## Stufe 18
+
+**Zauber Grad 9**  
+Du kannst nun Zauber des 9. Grades wirken und Zauber auf Grad 9 hochstufen.
+
+## Stufe 19
+
+**Epische Gabe**  
+Wähle eine epische Gabe.
+
+## Stufe 20
+
+**Dämmerungsweiser**  
++1 auf zwei beliebige deiner Werte. Dein Lebensbindender Geist würfelt doppelt so viele Würfel.
+
+**Verstärkte Zaubertricks**  
+Deine Zaubertricks werden stärker.
+
+Wenn du möchtest, kann ich dir das danach noch in **regelsprachlich sauberem Deutsch** glätten, damit es direkt ins Regelwerk passt.
