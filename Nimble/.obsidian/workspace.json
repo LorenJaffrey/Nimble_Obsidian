@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Ki-Transfer.md",
-                "mode": "source",
+                "file": "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Rüstungen.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ki-Transfer"
+              "title": "Rüstungen"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kampfstab.md",
+                "file": "DM Bereich/Nimble/Charaktere/Klassen/Gauner/Gauner.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,31 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kampfstab"
-            }
-          },
-          {
-            "id": "d18a21ff4176c5f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reaktion"
+              "title": "Gauner"
             }
           },
           {
@@ -109,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Schadensarten/Arkanschaden.md",
+                "file": "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Schadensarten/Schadensarten.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -124,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Arkanschaden"
+              "title": "Schadensarten"
             }
           },
           {
@@ -150,33 +126,9 @@
               "icon": "lucide-file",
               "title": "_Alternative Rüstungsregeln"
             }
-          },
-          {
-            "id": "954895f6550fcbef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Reaktion"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -364,34 +316,34 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "9cdc5029534059e6",
+  "active": "154d59e07d0b8715",
   "lastOpenFiles": [
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Verstärkter Schild.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Rüstungen.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Setzschild.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Turmschild.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Holzschild.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Faustschild.md",
+    "DM Bereich/Homebrew/Waffen und Rüstungen/Rüstungen/_Alternative Rüstungsregeln.md",
+    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Schadensarten/Schadensarten.md",
+    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Schadensarten/Arkanschaden.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Parieren.md",
+    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Kritische Treffer.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Gauner/Gauner.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kampfstab.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Ausweichen.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Blocken.md",
-    "DM Bereich/Homebrew/Waffen und Rüstungen/Rüstungen/_Alternative Rüstungsregeln.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Parieren.md",
     "_Nimble_PFT/Gegenstände/Rüstung/Schadensreduktion.md",
     "_Nimble_PFT/Gegenstände/Rüstung/Rüstungsklasse.md",
     "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Schrapnell.md",
     "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Flammend.md",
     "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Waffeneigenschaften.md",
-    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Schadensarten/Arkanschaden.md",
     "_Nimble_PFT/Zauber/Zaubersprüche/Shillelagh.md",
-    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Schadensarten/Schadensarten.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Kleriker/Shepherd Levels.md",
     "DM Bereich/Nimble/Charaktere/Charakterrollen.md",
     "DM Bereich/Nimble/Charaktere/Key Stats.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Klassen.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Kleriker/Kleriker.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Windläufer.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Klassenmerkmale Windläufer.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Fokuspunkte/Fokuspunkte.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst/Kampfkunst.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Ki-verstärkte Schläge.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Betäubender Schlag.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Sturz abfedern.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Subklassen Windläufer/Instinktive Parade.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Fokuspunkte",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer",

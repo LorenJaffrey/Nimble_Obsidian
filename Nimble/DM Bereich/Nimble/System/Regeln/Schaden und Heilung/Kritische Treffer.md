@@ -9,8 +9,9 @@ aliases:
 Ein [[Kritische Treffer|Kritischer Treffer]] liegt normalerweise vor wenn der  [[Angriffswurf]] eine natürliche 20 zeigt, oder ein [[Rettungswurf]] eine natürliche 1 zeigt.
 Er kann jedoch auch durch ein anderes Ereignis ausgelöst werden.
 
-Ein [[Kritische Treffer|Kritischer Treffer]] verursacht zusätzlich den maximalen Schaden der benutzten Schadenswürfel und verursacht außerdem einen kritischen Statuseffekt (siehe die jeweilige [[Schadensarten|Schadensart]].
+Ein [[Kritische Treffer|Kritischer Treffer]] verursacht den maximalen Schaden der verwendeten Schadenswürfel.
+[[Kritische Treffer]] werden normal durch [[Rüstungsklasse]] reduziert, verursachen aber immer mindestens 1 Punkt Schaden.
 
 >[!example] Beispiel
->Ein Angriff verursacht 1W8 Schaden.
->Ein kritischer Treffer mit dieser Waffe würde dann 1W8+8 Schaden verursachen.
+>Ein Angriff verursacht 1W8+3 Schaden.
+>Ein kritischer Treffer mit dieser Waffe würde dann 11 Schaden verursachen.
