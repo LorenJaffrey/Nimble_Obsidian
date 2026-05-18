@@ -2,12 +2,11 @@
 tags:
 - Gegenstand/Rüstung/Schwer
 Klasse: "[[Schwere Rüstung|Schwer]]"
-RP: 5
-SR: 3
-Stärke: 14
+RK: 6
+Stärke: 2
 Dex_cap: 2
+Heimlichkeit: -4
 Eigenschaften: 
-- "[[Laut]]"
 
 Gewicht: 45 Pfund
 Kosten: 150 GM

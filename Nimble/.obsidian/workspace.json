@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Rüstungen.md",
+                "file": "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Schilde.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rüstungen"
+              "title": "Schilde"
             }
           },
           {
@@ -104,12 +104,12 @@
             }
           },
           {
-            "id": "9cdc5029534059e6",
+            "id": "83c65c1a1d46e903",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Homebrew/Waffen und Rüstungen/Rüstungen/_Alternative Rüstungsregeln.md",
+                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Blocken.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -124,11 +124,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Alternative Rüstungsregeln"
+              "title": "Blocken"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "7448b05960efd8f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cdc5029534059e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Homebrew/Waffen und Rüstungen/Rüstungen/_Rüstungen.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Rüstungen"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -299,7 +329,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 413.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -318,32 +349,32 @@
   },
   "active": "154d59e07d0b8715",
   "lastOpenFiles": [
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Verstärkter Schild.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Schwere Rüstung.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Schilde.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Mittelschwere Rüstung.md",
     "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Rüstungen.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Leichte Rüstung.md",
     "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Setzschild.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Plattenharnisch.md",
+    "DM Bereich/Homebrew/Waffen und Rüstungen/Rüstungen/_Rüstungen.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Plattenrüstung.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Schienenpanzer.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Kettenrüstung.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Schuppenpanzer.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Brigantine.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Kettenhemd.md",
+    "DM Bereich/Nimble/Charaktere/Klassen/Gauner/Gauner.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Lamellenpanzer.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Fellrüstung.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Beschlagene Lederrüstung.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Lederrüstung.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Gambeson.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Blocken.md",
+    "DM Bereich/Homebrew/Waffen und Rüstungen/Rüstungen/_Alternative Rüstungsregeln.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungsbeschreibung.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Verstärkter Schild.md",
     "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Turmschild.md",
     "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Holzschild.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Faustschild.md",
-    "DM Bereich/Homebrew/Waffen und Rüstungen/Rüstungen/_Alternative Rüstungsregeln.md",
-    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Schadensarten/Schadensarten.md",
-    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Schadensarten/Arkanschaden.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Parieren.md",
-    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Kritische Treffer.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Gauner/Gauner.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kampfstab.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Ausweichen.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Blocken.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Schadensreduktion.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungsklasse.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Schrapnell.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Flammend.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Waffeneigenschaften.md",
-    "_Nimble_PFT/Zauber/Zaubersprüche/Shillelagh.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Kleriker/Shepherd Levels.md",
-    "DM Bereich/Nimble/Charaktere/Charakterrollen.md",
-    "DM Bereich/Nimble/Charaktere/Key Stats.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Klassen.md",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Fokuspunkte",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer",

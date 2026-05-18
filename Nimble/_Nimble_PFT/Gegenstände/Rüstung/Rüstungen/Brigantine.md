@@ -2,12 +2,11 @@
 tags:
 - Gegenstand/Rüstung/Mittel
 Klasse: "[[Mittelschwere Rüstung|Mittel]]"
-RP: 4
-SR: 3
-Stärke: 14
-Dex_cap: 2
+RK: 3
+Stärke: 0
+Dex_cap: 3
+Heimlichkeit: -1
 Eigenschaften:
-- "[[Bequem]]"
 
 Gewicht: 35 Pfund
 Kosten: 100 GM

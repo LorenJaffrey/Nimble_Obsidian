@@ -2,15 +2,13 @@
 tags:
 - Gegenstand/Rüstung/Mittel
 Klasse: "[[Mittelschwere Rüstung|Mittel]]"
-RP: 2
-SR: 1
-Stärke: 10
+RK: 2
+Stärke:
 Dex_cap: 3
+Heimlichkeit:
 Eigenschaften:
-- "[[Nichtmetallisch]]"
-- "[[Bequem]]"
 
-Gewicht: 20 Pfund
+Gewicht: 15 Pfund
 Kosten: 10 GM
 ---
 # `=this.file.name`

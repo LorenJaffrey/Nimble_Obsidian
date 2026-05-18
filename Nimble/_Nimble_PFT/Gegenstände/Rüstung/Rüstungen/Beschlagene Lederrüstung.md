@@ -2,10 +2,10 @@
 tags:
 - Gegenstand/Rüstung/Leicht
 Klasse: "[[Leichte Rüstung|Leicht]]"
-RP: 2
-SR: 1
+RK: 2
 Stärke:
-Dex_cap: 4
+Dex_cap: 5
+Heimlichkeit: -1
 Eigenschaften:
 
 Gewicht: 13 Pfund

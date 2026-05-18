@@ -8,15 +8,15 @@ aliases:
 TABLE  WITHOUT ID 
 file.link AS "Title",
 Klasse, 
-RP, 
-SR, 
+RK, 
+Dex_cap AS "GES Cap",
+Heimlichkeit, 
 Stärke, 
-Dex_cap AS "GES Cap", 
 Eigenschaften, 
 Gewicht, 
 Kosten
 FROM #Gegenstand/Rüstung
-SORT Klasse, RP, SR
+SORT Klasse, RK, Dex_cap
 WHERE file.name != "Vorlage Rüstung"
 AND Klasse
 ```

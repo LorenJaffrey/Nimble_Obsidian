@@ -2,7 +2,6 @@
 aliases: 
   - Schild
 tags:
-  - Gegenstand/Rüstung
 ---
 # `=this.file.name`
 
@@ -17,6 +16,6 @@ Dex_cap AS "GES Cap",
 Eigenschaften, 
 Gewicht, 
 Kosten
-FROM #Gegenstand/Rüstung/Schild 
+FROM #Gegenstand/Schild 
 SORT rp
 ```

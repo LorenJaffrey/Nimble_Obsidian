@@ -2,12 +2,11 @@
 tags:
 - Gegenstand/Rüstung/Mittel
 Klasse: "[[Mittelschwere Rüstung|Mittel]]"
-RP: 2
-SR: 2
-Stärke: 12
+RK: 4
+Stärke: 1
 Dex_cap: 3
+Heimlichkeit: -2
 Eigenschaften: 
-- "[[Laut]]"
 
 Gewicht: 25 Pfund
 Kosten: 50 GM
