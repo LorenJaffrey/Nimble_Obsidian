@@ -1,8 +1,8 @@
 ---
 tags:
+  - Regeln/Nimble
   - Eigenschaft/Waffe
 ---
 # `=this.file.name`
-
 Das Laden dieser Waffe benötigt eine gewisse Zeit.
-Wendest du für einen [[Angriff]] eine [[Aktionen]], [[Bonusaktion]] oder [[Reaktion]] auf, kannst du nur ein Geschoss verschießen, unabhängig davon, wie viele Angriffe dir zur Verfügung stehen.
+Nachdem die Waffe abgefeuert wurde muss der Träger einen [[Aktionspunkte|Aktionspunkt]] aufwenden um sie nachzuladen.

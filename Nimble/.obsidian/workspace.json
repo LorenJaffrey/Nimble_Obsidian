@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ebd69c094422b34b",
+        "id": "f708356159396e25",
         "type": "tabs",
         "children": [
           {
-            "id": "5889bda3ec54b2a9",
+            "id": "2a26201958af0395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Magie/Ideen Magiesystem.md",
+                "file": "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Schlaghagel.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,40 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ideen Magiesystem"
+              "title": "Schlaghagel"
             }
           },
           {
-            "id": "d18a21ff4176c5f2",
+            "id": "61a35d315e81f18b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Gelegenheitsangriff.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Gelegenheitsangriff"
-            }
-          },
-          {
-            "id": "ef7132ae51dcd7a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Verstärkter Schild.md",
+                "file": "DM Bereich/Nimble/System/Regeln/Würfelkategorien.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -76,35 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Verstärkter Schild"
-            }
-          },
-          {
-            "id": "33a1c82fd3ef4e49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Nimble/Charaktere/Einen Charakter erstellen/Einen Charakter erstellen.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Einen Charakter erstellen"
+              "title": "Würfelkategorien"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,8 +206,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -275,7 +227,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 413.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,34 +245,35 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "33a1c82fd3ef4e49",
+  "active": "61a35d315e81f18b",
   "lastOpenFiles": [
-    "DM Bereich/Nimble/System/Regeln/Leveling Up.md",
-    "DM Bereich/Nimble/Charaktere/Einen Charakter erstellen/Einen Charakter erstellen.md",
-    "DM Bereich/Nimble/Charaktere/Einen Charakter erstellen/Abenteuer Motivation.md",
-    "DM Bereich/Nimble/Charaktere/Klassen/Klassen.md",
-    "DM Bereich/Nimble/Charaktere/Key Stats.md",
-    "DM Bereich/Nimble/Charaktere/Boons.md",
-    "DM Bereich/Nimble/Charaktere/Charakterrollen.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Gelegenheitsangriff.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Unterstützen.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Vorbereitete Aktion.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Parieren.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Einschreiten.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Blocken.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Ausweichen.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Vielseitig.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Waffeneigenschaften.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Langsam.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Weitreichend.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Unhandlich.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Tödlich.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Schwer.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Repetiermechanismus.md",
     "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Verstärkter Schild.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Turmschild.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Schuppenpanzer.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Schienenpanzer.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Plattenrüstung.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Plattenharnisch.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Lederrüstung.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Lamellenpanzer.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Kettenrüstung.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungen/Kettenhemd.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Magische Präzision.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Leicht.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Laden.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Finesse.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Defensiv.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Verschlucken.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Umschlingender Angriff.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriff.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
+    "DM Bereich/Bestiarium/Kreaturen/Humanoide/Banditen/Banditenhauptmann (old).md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Kampfablauf.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Aktionen/Aktionen.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Aktionen/Einschätzen.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Aktionen/Angreifen.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriffswurf.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Ausweichwert.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Nahkampfangriff.md",
+    "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand/embed Waffe",
     "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Fokuspunkte",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst",
@@ -332,7 +286,6 @@
     "_Nimble_PFT/zHidden/_Attachments/Races/Gnom.png",
     "_Nimble_PFT/Regeln/Zustände DnD",
     "_Nimble_PFT/Kampagne/Gruppe",
-    "_Nimble_PFT/Charaktere/Klassen DnD/Zauberer/Klassenmerkmale/Quelle der Magie",
     "_Attachments/Half-Giant.png",
     "_Attachments/Aasimar.png"
   ]
