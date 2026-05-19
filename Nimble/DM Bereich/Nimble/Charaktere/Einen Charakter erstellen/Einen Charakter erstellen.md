@@ -58,7 +58,7 @@ Markiere [[Vorteil und Nachteil|Vorteil]]  und [[Vorteil und Nachteil|Nachteil
 > Markiere [[Vorteil und Nachteil|Vorteil]] für [[Geschicklichkeit|GE]]-[[Rettungswurf|Rettungswürfe]] und [[Vorteil und Nachteil|Nachteil]] für [[Weisheit|WE]]-[[Rettungswurf|Rettungswürfe]].
 
 ## 2. Fertigkeitspunkte
-Auf Stufe 1 überträgst du deine [[Attribute|Attributsboni]] auf die jeweiligen [[Fertigkeiten]] (z. B. ein Held mit +2 [[Geschicklichkeit|GE]] trägt +2 bei [[Akrobatik]], [[Fingerfertigkeit]] und [[Heimlichkeit]] ein) und darf 6 weitere Punkte frei verteilen.
+Auf Stufe 1 überträgst du deine [[Attribute|Attributsboni]] auf die jeweiligen [[Fertigkeiten]] (z. B. ein Held mit +2 [[Geschicklichkeit|GE]]  trägt +2 bei [[Akrobatik]], [[Fingerfertigkeit]] und [[Heimlichkeit]] ein) und darf 6 weitere Punkte frei verteilen.
 
 > [!example]- Beispiel  
 > Wenn du –1 [[Intelligenz|IN]] hast, markiere  -1 bei [[Arkane Kunde]], [[Geschichte]], [[Nachforschungen]], [[Naturkunde]] und [[Religion]]. 

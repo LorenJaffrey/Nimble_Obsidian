@@ -6,9 +6,9 @@ Beschreibung: "Einem Verbündeten [[Vorteil und Nachteil|Vorteil]] gewähren."
 Kosten: "1 [[Aktionspunkte|AP]]"
 ---
 # `=this.file.name`
-Gewähre einem Verbündeten [[Vorteil und Nachteil|Vorteil]] auf einen Wurf, sofern du dem SL eine plausible Erklärung gibst, wie du in der Situation helfen kannst. 
-Der SL kann eine Fertigkeitsprobe verlangen oder direkt [[Vorteil und Nachteil|Vorteil]] gewähren – je nach Qualität deiner Idee.
-Pro Würfelwurf  kann nur eine eine Helfen-Reaktion angewendet werden.
+Gewähre einem Verbündeten [[Vorteil und Nachteil|Vorteil]] auf einen Wurf, sofern du dem SL eine plausible Erklärung gibst, wie du in der Situation helfen kannst.
+Der SL kann einen [[Fertigkeiten#Fertigkeitswurf]] verlangen oder direkt [[Vorteil und Nachteil|Vorteil]] gewähren – je nach Qualität deiner Idee.
+Pro Würfelwurf  kann nur eine eine [[Unterstützen]]-[[Reaktion]] angewendet werden.
 
 > [!tip]- Teamarbeit!  
 > Helfen als Heroische Reaktion ist eine großartige Möglichkeit, Teamwork, Rollenspiel und Kreativität in den Kampf einzubringen. 

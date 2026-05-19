@@ -3,7 +3,6 @@ tags:
   - Zug/Reaktion
   - Regeln/Nimble
 aliases:
-  - Ausweichaktion
 Beschreibung: "Bonus auf [[Ausweichwert]] und [[Rettungswurf#Geschicklichkeitsrettungswurf|Geschicklichkeitsrettungswürfe]]"
 Kosten: "1 [[Aktionspunkte|AP]]"
 ---

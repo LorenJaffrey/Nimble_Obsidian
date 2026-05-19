@@ -250,6 +250,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "Gegenstand/Schild",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "26ab-b798",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }

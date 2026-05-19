@@ -18,11 +18,6 @@ Sie bedeckt den ganzen Körper vom Kopf bis zu den Beinen.*
 
 Ein [[Kettenrüstung]] beinhaltet einen darunter getragenen [[Gambeson]].
 
-| Rüstung           | Klasse         |     RP     |     SR     |     Stärke     | GES Cap        | Eigenschaften         |
-| ----------------- | -------------- |:----------:|:----------:|:--------------:| :--------------: | --------------------- |
-| `=this.file.name` | `=this.Klasse` | `=this.RP` | `=this.SR` | `=this.Stärke` | `=this.Dex_cap` | `=this.Eigenschaften` |
-
-## Handel
-| Rüstung           |         Gewicht |         Kosten |
-| ----------------- | ---------------:| --------------:|
-| `=this.file.name` | `=this.Gewicht` | `=this.Kosten` |
+```dynamic-embed
+[[embed Schild]]
+```

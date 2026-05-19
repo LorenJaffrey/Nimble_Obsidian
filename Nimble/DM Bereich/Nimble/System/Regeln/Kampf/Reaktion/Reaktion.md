@@ -5,8 +5,8 @@ aliases:
   - Reaktionen
 ---
 # `=this.file.name`
-[[Reaktion|Reaktionen]] kosten 1 [[Aktionspunkte|Aktionspunkt]] ([[Aktionspunkte|AP]]) und können ausgeführt werden, wenn du **NICHT** am [[Zug]] bist. 
-Ein Held kann jede [[Reaktion]] höchstens 1× pro [[Runde]] einsetzen und beginnt seinen nächsten [[Zug]] dann mit entsprechend weniger [[Aktionen|Aktionen]].
+[[Reaktion|Reaktionen]] kosten normalerweise  1 [[Aktionspunkte|Aktionspunkt]] ([[Aktionspunkte|AP]]) und können ausgeführt werden, wenn du **NICHT** am [[Zug]] bist. 
+Ein Held kann jede [[Reaktion]] höchstens  einmal  pro [[Runde]] einsetzen und beginnt seinen nächsten [[Zug]] dann mit entsprechend weniger [[Aktionspunkte|Aktionspunkten]].
 
 ```dataview
 TABLE WITHOUT ID

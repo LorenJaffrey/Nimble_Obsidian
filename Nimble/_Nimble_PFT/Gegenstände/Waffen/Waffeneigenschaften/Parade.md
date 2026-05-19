@@ -3,7 +3,4 @@ tags:
   - Eigenschaft/Waffe
 ---
 # `=this.file.name`
-
-Wenn du eine Waffe mit der Eigenschaft [[Parade]] führst und angegriffen wirst, kannst du deine [[Reaktion]] nutzen um deine [[Rüstungsklasse]] um 1 zu erhöhen für diesen Angriff.
-Wenn du mehrere Waffen oder eine Waffe und einen Schild mit dieser Eigenschaft führst kannst du deine [[Rüstungsklasse]] sogar um 2 erhöhen.
-Wirkt nur gegen Waffenangriffe und nur im Nahkampf.
+Wenn du eine Waffe (oder einen anderen Gegenstand) mit der Eigenschaft [[Parade]] führst, ignoriere den -2 Modifikator beim Einsatz der [[Parieren]]-[[Reaktion]].
