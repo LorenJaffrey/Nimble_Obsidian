@@ -1,25 +1,26 @@
 ---
 tags:
-- Gegenstand/Waffe/Art/Hiebwaffe
-- Gegenstand/Waffe/Gruppe/Peitsche
-- Gegenstand/Waffe/Klasse/Nahkampfwaffe
-- Gegenstand/Waffe/Kategorie/Kriegswaffe
-- Gegenstand/Waffe/Größe/Einhandwaffe
-Reichweite: 1,5(1)
+  - Gegenstand/Waffe/Nahkampfwaffe
+  - Gegenstand/Waffe/Hiebwaffe
+  - Gegenstand/Waffe/Peitsche
+  - Gegenstand/Waffe/Kriegswaffe
+Reichweite: 3(2)
 Schaden: 1d4
 Schadensart: "[[Hiebschaden]]"
+Rüstungsdurchschlag: 0
 Eigenschaften:
-- "[[Weitreichend]]"
-- "[[Finesse]]"
+  - "[[Leicht]]"
+  - "[[Finesse]]"
 
 SchadenFern:
 SchadensartFern:
+RüstungsdurchschlagFern:
 Range1:
 Range2:
 Range3:
 EigenschaftenFern:
 
-Kategorie: "[[Kriegswaffen]]"
+Mindeststärke:
 Hände: 1
 Größe: 2
 Gewicht: 1 Pfund

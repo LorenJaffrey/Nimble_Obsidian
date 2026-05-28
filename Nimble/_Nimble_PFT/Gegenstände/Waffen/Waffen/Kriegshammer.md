@@ -1,25 +1,25 @@
 ---
 tags:
-- Gegenstand/Waffe/Art/Wuchtwaffe
-- Gegenstand/Waffe/Gruppe/Hammer
-- Gegenstand/Waffe/Klasse/Nahkampfwaffe
-- Gegenstand/Waffe/Kategorie/Kriegswaffe
-- Gegenstand/Waffe/Größe/Anderthalbhänder
+  - Gegenstand/Waffe/Nahkampfwaffe
+  - Gegenstand/Waffe/Wuchtwaffe
+  - Gegenstand/Waffe/Hammer
+  - Gegenstand/Waffe/Kriegswaffe
 Reichweite: 1,5(1)
 Schaden: 1d8
 Schadensart: "[[Wuchtschaden]]"
+Rüstungsdurchschlag: 3
 Eigenschaften:
-- "[[Vielseitig]] (`dice: 1d10|none|noform`)"
-- "[[Rüstungsbrechend]] (2)"
+  - "[[Vielseitig]]"
 
 SchadenFern:
 SchadensartFern:
+RüstungsdurchschlagFern:
 Range1:
 Range2:
 Range3:
 EigenschaftenFern:
 
-Kategorie: "[[Kriegswaffen]]"
+Mindeststärke: 1
 Hände: 1
 Größe: 3
 Gewicht: 5 Pfund

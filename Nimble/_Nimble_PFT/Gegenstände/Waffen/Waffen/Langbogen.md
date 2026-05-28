@@ -1,22 +1,22 @@
 ---
 tags:
-- Gegenstand/Waffe/Art/Stichwaffe
-- Gegenstand/Waffe/Gruppe/Bogen
-- Gegenstand/Waffe/Klasse/Fernkampfwaffe/Schusswaffe
-- Gegenstand/Waffe/Kategorie/Kriegswaffe
-- Gegenstand/Waffe/Größe/Großwaffe
+  - Gegenstand/Waffe/Stichwaffe
+  - Gegenstand/Waffe/Bogen
+  - Gegenstand/Waffe/Fernkampfwaffe/Schusswaffe
 Schaden: 
 Schadensart: 
+Rüstungsdurchschlag:
 Eigenschaften: []
 
 SchadenFern: 1d8
 SchadensartFern: "[[Stichschaden]]"
+RüstungsdurchschlagFern:
 Range1: 4,5(3)
 Range2: 48(32)
 Range3: 135(90)
 EigenschaftenFern: 
-- "[[Geschosse]] (Pfeile)"
-- "[[Schwer]] (12)"
+  - "[[Geschosse]] (Pfeile)"
+  - "[[Schwer]] (12)"
 
 Kategorie: "[[Kriegswaffen]]"
 Hände: 2

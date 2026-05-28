@@ -1,28 +1,30 @@
 ---
 tags:
-  - Gegenstand/Waffe/Art/Hiebwaffe
-  - Gegenstand/Waffe/Gruppe/Axt
-  - Gegenstand/Waffe/Klasse/Nahkampfwaffe
-  - Gegenstand/Waffe/Klasse/Fernkampfwaffe/Wurfwaffe
-  - Gegenstand/Waffe/Kategorie/Kriegswaffe
-  - Gegenstand/Waffe/Größe/Einhandwaffe
+  - Gegenstand/Waffe/Nahkampfwaffe
+  - Gegenstand/Waffe/Hiebwaffe
+  - Gegenstand/Waffe/Axt
+  - Gegenstand/Waffe/Fernkampfwaffe/Wurfwaffe
+  - Gegenstand/Waffe/Einfach
 Reichweite: 1,5(1)
 Schaden: 1d6
 Schadensart: "[[Hiebschaden]]"
+Rüstungsdurchschlag: 0
 Eigenschaften:
-- "[[Leicht]]"
-- "[[Tödlich]]"
+  - "[[Brutal]]"
+  - "[[Leicht]]"
 
 SchadenFern: 1d6
 SchadensartFern: "[[Hiebschaden]]"
-Range1: 1,5(1)
+RüstungsdurchschlagFern: 0
+Range1: 3(2)
 Range2: 6(4)
-Range3: 18(12)
+Range3: 12(8)
 EigenschaftenFern:
-- "[[Leicht]]"
-- "[[Wurfwaffe]]"
+  - "[[Wurfwaffe]]"
+  - "[[Brutal]]"
+  - "[[Leicht]]"
 
-Kategorie: "[[Kriegswaffen]]"
+Mindeststärke:
 Hände: 1
 Größe: 2
 Gewicht: 2 Pfund

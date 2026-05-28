@@ -1,24 +1,28 @@
 ---
 tags:
-  - Gegenstand/Waffe/Art/Hiebwaffe
-  - Gegenstand/Waffe/Art/Stichwaffe
-  - Gegenstand/Waffe/Gruppe/Schwert
-  - Gegenstand/Waffe/Klasse/Nahkampfwaffe
-  - Gegenstand/Waffe/Kategorie/Kriegswaffe
-  - Gegenstand/Waffe/Größe/Anderthalbhänder
+  - Gegenstand/Waffe/Nahkampfwaffe
+  - Gegenstand/Waffe/Hiebwaffe
+  - Gegenstand/Waffe/Stichwaffe
+  - Gegenstand/Waffe/Schwert
+  - Gegenstand/Waffe/Kriegswaffe
 Reichweite: 1,5(1)
-Schaden: 2d4
+Schaden: 1W8
 Schadensart: "[[Hiebschaden]]/[[Stichschaden]]"
+Rüstungsdurchschlag: 0
 Eigenschaften:
-  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]]"
-  - "[[Vielseitig]] (`dice: 2d5|none|noform`)"
+  - "[[Finesse]]"
+  - "[[Parade]]"
+  - "[[Vielseitig]]"
+
 SchadenFern:
 SchadensartFern:
+RüstungsdurchschlagFern:
 Range1:
 Range2:
 Range3:
 EigenschaftenFern:
-Kategorie: "[[Kriegswaffen]]"
+
+Mindeststärke: 0
 Hände: 1
 Größe: 3
 Gewicht: 3 Pfund

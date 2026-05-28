@@ -1,15 +1,16 @@
 ---
 tags:
   - Gegenstand/Waffe/Nahkampfwaffe
-  - Gegenstand/Waffe/Wuchtwaffe
-  - Gegenstand/Waffe/Flegel
+  - Gegenstand/Waffe/Hiebwaffe
+  - Gegenstand/Waffe/Schwert
   - Gegenstand/Waffe/Kriegswaffe
 Reichweite: 1,5(1)
-Schaden: 2d3
-Schadensart: "[[Wuchtschaden]]"
-Rüstungsdurchschlag: 1
+Schaden: 1W8
+Schadensart: "[[Hiebschaden]]"
+Rüstungsdurchschlag: 0
 Eigenschaften:
-  - "[[Heimtückisch]]"
+  - "[[Parade]]"
+  - "[[Brutal]]"
 
 SchadenFern:
 SchadensartFern:
@@ -21,10 +22,10 @@ EigenschaftenFern:
 
 Mindeststärke: 1
 Hände: 1
-Größe: 2
+Größe: 3
 Gewicht: 3 Pfund
-Kosten: 5 GM
-Verfügbarkeit: ungewöhnlich
+Kosten: 20 GM
+Verfügbarkeit: selten
 ---
 ```dynamic-embed
 [[embed Waffe Nahkampf]]

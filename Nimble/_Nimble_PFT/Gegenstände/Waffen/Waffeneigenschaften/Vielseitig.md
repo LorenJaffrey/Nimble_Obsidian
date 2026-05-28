@@ -5,7 +5,7 @@ tags:
 ---
 # `=this.file.name`
 Diese Waffe kann mit einer oder mit zwei Händen geführt werden. 
-Erhöhe die [[Würfelkategorien|Würfelkategorie]] des [[Schadenswurf|Schadenswurfs]] um eine Stufe wenn sie zweihändig geführt wird.
+Erhöhe die [[Würfelklassen|Würfelkategorie]] des [[Schadenswurf|Schadenswurfs]] um eine Stufe wenn sie zweihändig geführt wird.
 Die Anzahl der geworfenen Würfel bleibt dabei gleich.
 
 > [!example]

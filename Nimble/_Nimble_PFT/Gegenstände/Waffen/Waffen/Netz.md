@@ -1,22 +1,21 @@
 ---
 tags:
-- Gegenstand/Waffe/Gruppe/Netz
-- Gegenstand/Waffe/Klasse/Fernkampfwaffe/Wurfwaffe
-- Gegenstand/Waffe/Kategorie/Kriegswaffe
-- Gegenstand/Waffe/Größe/Einhandwaffe
+  - Gegenstand/Waffe/Fernkampfwaffe/Wurfwaffe
 Schaden: 
 Schadensart: 
+Rüstungsdurchschlag:
 Eigenschaften:
 
 SchadenFern: 0
 SchadensartFern:
+RüstungsdurchschlagFern:
 Range1: 1,5(1)
 Range2: 3(2)
 Range3: 4,5(3)
 EigenschaftenFern:
-- "[[Wurfwaffe]]"
-- "[[Finesse]]"
-- "[[_Festsetzen]]"
+  - "[[Wurfwaffe]]"
+  - "[[Finesse]]"
+  - "[[_Festsetzen]]"
 
 Kategorie: "[[Kriegswaffen]]"
 Hände: 1

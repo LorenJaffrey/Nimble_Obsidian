@@ -1,25 +1,26 @@
 ---
 tags:
-- Gegenstand/Waffe/Art/Hiebwaffe
-- Gegenstand/Waffe/Gruppe/Axt
-- Gegenstand/Waffe/Klasse/Nahkampfwaffe
-- Gegenstand/Waffe/Kategorie/Kriegswaffe
-- Gegenstand/Waffe/Größe/Anderthalbhänder
+  - Gegenstand/Waffe/Nahkampfwaffe
+  - Gegenstand/Waffe/Hiebwaffe
+  - Gegenstand/Waffe/Axt
+  - Gegenstand/Waffe/Kriegswaffe
 Reichweite: 1,5(1)
 Schaden: 1d8
 Schadensart: "[[Hiebschaden]]"
+Rüstungsdurchschlag: 1
 Eigenschaften:
-- "[[Vielseitig]] (`dice: 1d10|none|noform`)"
-- "[[Tödlich]]"
+  - "[[Brutal]]"
+  - "[[Vielseitig]]"
 
 SchadenFern:
 SchadensartFern:
+RüstungsdurchschlagFern:
 Range1:
 Range2:
 Range3:
 EigenschaftenFern:
 
-Kategorie: "[[Kriegswaffen]]"
+Mindeststärke: 1
 Hände: 1
 Größe: 3
 Gewicht: 5 Pfund

@@ -1,17 +1,17 @@
 ---
 tags:
-  - Gegenstand/Waffe/Art/Stichwaffe
-  - Gegenstand/Waffe/Klasse/Fernkampfwaffe/Schusswaffe
-  - Gegenstand/Waffe/Kategorie/Kriegswaffe
-  - Gegenstand/Waffe/Gruppe/Blasrohr
-  - Gegenstand/Waffe/Größe/Einhandwaffe
+  - Gegenstand/Waffe/Stichwaffe
+  - Gegenstand/Waffe/Fernkampfwaffe/Schusswaffe
+  - Gegenstand/Waffe/Kriegswaffe
 Reichweite:
 Schaden: 
-Schadensart: 
+Schadensart:
+Rüstungsdurchschlag:
 Eigenschaften: []
 
 SchadenFern: 1
 SchadensartFern: "[[Stichschaden]]"
+RüstungsdurchschlagFern:
 Range1: 1,5(1)
 Range2: 6(4)
 Range3: 30(20)

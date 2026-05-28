@@ -1,23 +1,24 @@
 ---
 tags:
-  - Gegenstand/Waffe/Art/Wuchtwaffe
-  - Gegenstand/Waffe/Gruppe/Streitkolben
-  - Gegenstand/Waffe/Klasse/Nahkampfwaffe
-  - Gegenstand/Waffe/Kategorie/Kriegswaffe
-  - Gegenstand/Waffe/Größe/Großwaffe
+  - Gegenstand/Waffe/Nahkampfwaffe
+  - Gegenstand/Waffe/Wuchtwaffe
+  - Gegenstand/Waffe/Streitkolben
+  - Gegenstand/Waffe/Kriegswaffe
 Reichweite: 1,5(1)
 Schaden: 1d12
 Schadensart: "[[Wuchtschaden]]"
+Rüstungsdurchschlag: 1
 Eigenschaften:
-  - "[[Langsam]]"
-  - "[[Schwer]] (12)"
+
 SchadenFern: 
 SchadensartFern: 
+RüstungsdurchschlagFern:
 Range1: 
 Range2: 
 Range3: 
 EigenschaftenFern: 
-Kategorie: "[[Einfache Waffen]]"
+
+Mindeststärke: 2
 Hände: 2
 Größe: 4
 Gewicht: 8 Pfund

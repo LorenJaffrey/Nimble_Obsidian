@@ -1,22 +1,25 @@
 ---
 tags:
-  - Gegenstand/Waffe/Art/Wuchtwaffe
-  - Gegenstand/Waffe/Gruppe/Knüppel
-  - Gegenstand/Waffe/Klasse/Nahkampfwaffe
-  - Gegenstand/Waffe/Kategorie/Einfache_Waffe
-  - Gegenstand/Waffe/Größe/Anderthalbhänder
+  - Gegenstand/Waffe/Nahkampfwaffe
+  - Gegenstand/Waffe/Wuchtwaffe
+  - Gegenstand/Waffe/Keule
+  - Gegenstand/Waffe/Einfach
 Reichweite: 1,5(1)
 Schaden: 1d8
 Schadensart: "[[Wuchtschaden]]"
+Rüstungsdurchschlag: 1
 Eigenschaften:
-  - "[[Vielseitig]] (1W10)"
+  - "[[Vielseitig]]"
+
 SchadenFern: 
 SchadensartFern: 
+RüstungsdurchschlagFern:
 Range1: 
 Range2: 
 Range3: 
 EigenschaftenFern: 
-Kategorie: "[[Einfache Waffen]]"
+
+Mindeststärke: 1
 Hände: 1
 Größe: 3
 Gewicht: 4 Pfund

@@ -1,25 +1,28 @@
 ---
 tags:
-  - Gegenstand/Waffe/Art/Stichwaffe
-  - Gegenstand/Waffe/Gruppe/Schwert
-  - Gegenstand/Waffe/Klasse/Nahkampfwaffe
-  - Gegenstand/Waffe/Kategorie/Kriegswaffe
-  - Gegenstand/Waffe/Größe/Einhandwaffe
+  - Gegenstand/Waffe/Nahkampfwaffe
+  - Gegenstand/Waffe/Stichwaffe
+  - Gegenstand/Waffe/Schwert
+  - Gegenstand/Waffe/Kriegswaffe
 Reichweite: 1,5(1)
-Schaden: 1d6
+Schaden: 2W4
 Schadensart: "[[Stichschaden]]"
+Rüstungsdurchschlag: 0
 Eigenschaften:
   - "[[Finesse]]"
-  - "[[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]]"
+  - "[[Parade]]"
   - "[[Kritisch]]"
   - "[[Leicht]]"
+
 SchadenFern:
 SchadensartFern:
+RüstungsdurchschlagFern:
 Range1:
 Range2:
 Range3:
 EigenschaftenFern:
-Kategorie: "[[Kriegswaffen]]"
+
+Mindeststärke:
 Hände: 1
 Größe: 2
 Gewicht: 2 Pfund

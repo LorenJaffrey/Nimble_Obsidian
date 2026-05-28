@@ -1,17 +1,18 @@
 ---
 tags:
-  - Gegenstand/Waffe/Art/Stichwaffe
-  - Gegenstand/Waffe/Gruppe/Armbrust
-  - Gegenstand/Waffe/Klasse/Fernkampfwaffe/Schusswaffe
-  - Gegenstand/Waffe/Kategorie/Kriegswaffe
-  - Gegenstand/Waffe/Größe/Einhandwaffe
+  - Gegenstand/Waffe/Stichwaffe
+  - Gegenstand/Waffe/Armbrust
+  - Gegenstand/Waffe/Fernkampfwaffe/Schusswaffe
+  - Gegenstand/Waffe/Kriegswaffe
 Reichweite:
 Schaden:
 Schadensart:
+Rüstungsdurchschlag:
 Eigenschaften:
 
 SchadenFern: 2d3
 SchadensartFern: "[[Stichschaden]]"
+RüstungsdurchschlagFern:
 Range1: 1,5(1)
 Range2: 9(6)
 Range3: 36(24)

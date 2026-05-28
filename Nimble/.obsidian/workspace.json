@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a26201958af0395",
+            "id": "0433e1b74479e12e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Schlaghagel.md",
+                "file": "_Nimble_PFT/Gegenstände/Waffen/Waffen/Knüppel.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schlaghagel"
+              "title": "Knüppel"
             }
           },
           {
-            "id": "61a35d315e81f18b",
+            "id": "0121d2e1ebb6b31f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Würfelkategorien.md",
+                "file": "DM Bereich/Nimble/System/Regeln/Würfelklassen.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Würfelkategorien"
+              "title": "Würfelklassen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Gegenstand/Waffe/Einfache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,8 +205,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -216,19 +215,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Windläufer.md"
+                "file": "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Windläufer"
+              "title": "File properties for _Waffen"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,34 +243,84 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "61a35d315e81f18b",
+  "floating": {
+    "id": "7ccd93370563918e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "011e211aaa36a4e5",
+        "type": "window",
+        "children": [
+          {
+            "id": "6b8aed2cd4236e9e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4722c6236adfd6ef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "_Waffen"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2484,
+        "y": 264,
+        "width": 2221,
+        "height": 1353,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4722c6236adfd6ef",
   "lastOpenFiles": [
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Vielseitig.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Waffeneigenschaften.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Langsam.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Weitreichend.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Unhandlich.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Tödlich.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Schwer.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Repetiermechanismus.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Magische Präzision.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Leicht.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Laden.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Finesse.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Defensiv.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Verschlucken.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Umschlingender Angriff.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriff.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Reaktion.md",
-    "DM Bereich/Bestiarium/Kreaturen/Humanoide/Banditen/Banditenhauptmann (old).md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Kampfablauf.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Aktionen/Aktionen.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Aktionen/Einschätzen.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Aktionen/Angreifen.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriffswurf.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Ausweichwert.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Nahkampfangriff.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Knüppel.md",
+    "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kampfstab.md",
+    "DM Bereich/Vorlagen/Ausrüstung/Waffen/Vorlage Waffe Wurf.md",
+    "DM Bereich/Vorlagen/Ausrüstung/Waffen/Vorlage Waffe Nahkampf.md",
+    "DM Bereich/Vorlagen/Ausrüstung/Waffen/Vorlage Waffe Fernkampf.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Schwere Armbrust.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Leichte Armbrust.md",
+    "_Nimble_PFT/Gegenstände/Magische Gegenstände/Magische Gegenstände/Zauberstecken der Vogelrufe.md",
+    "_Nimble_PFT/Gegenstände/Magische Gegenstände/Magische Gegenstände/Stecken der Verteidigung.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Langbogen.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kurzbogen.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kriegsbogen.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Komposit-Langbogen.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Schleuder.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Netz.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Komposit-Kurzbogen.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Handarmbrust.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Blasrohr.md",
+    "DM Bereich/Gegenstände/Waffen/Waffen/B.I.A.N.K.A..md",
+    "_Nimble_PFT/Gegenstände/Magische Gegenstände/Magische Gegenstände/Stab des Sommerwalds (Erneuert).md",
+    "_Nimble_PFT/Gegenstände/Magische Gegenstände/Magische Gegenstände/Stab des Sommerwalds.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Peitsche.md",
+    "DM Bereich/Gegenstände/Magische Gegenstände/Magische Gegenstände/Äxte des brennenden Zorns/Glutreißer - 0 Glimmend.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kriegsflegel.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Streitflegel.md",
+    "_Nimble_PFT/Regeln/Soziale Interaktion",
     "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand/embed Waffe",
     "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand",
     "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Fokuspunkte",
@@ -285,7 +333,6 @@
     "_Nimble_PFT/zHidden/_Attachments/Races/Halbling.png",
     "_Nimble_PFT/zHidden/_Attachments/Races/Gnom.png",
     "_Nimble_PFT/Regeln/Zustände DnD",
-    "_Nimble_PFT/Kampagne/Gruppe",
     "_Attachments/Half-Giant.png",
     "_Attachments/Aasimar.png"
   ]

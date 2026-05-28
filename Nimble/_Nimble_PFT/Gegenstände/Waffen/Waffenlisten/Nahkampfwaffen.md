@@ -8,10 +8,12 @@ tags:
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Waffe",
+Reichweite,
 "`dice:" + Schaden + "\|none\|noform`"  AS "Schaden",
-Schadensart, 
+Schadensart,
+Rüstungsdurchschlag AS "RD",
+Mindeststärke AS "Min-ST", 
 Hände, 
-Größe, 
 Eigenschaften
 FROM #Gegenstand/Waffe/Klasse/Nahkampfwaffe AND !#Gegenstand/Magischer_Gegenstand
 SORT file.name

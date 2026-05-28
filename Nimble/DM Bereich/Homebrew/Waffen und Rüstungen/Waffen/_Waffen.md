@@ -1,32 +1,54 @@
 # `=this.file.name`
 
-| Waffe                    | Kosten | Schaden | Schadensart | Hände | Größe | Art     | Eigenschaften                                                                                          | Bonus | Mastery                                                         |
-| ------------------------ |:------:| ------- | ----------- |:-----:|:-----:| ------- | ------------------------------------------------------------------------------------------------------ | ----- | --------------------------------------------------------------- |
-| [[Glefe]]                |   5    | 2W5     | Hieb        |   2   |   4   | Krieg   | [[Weitreichend]]                                                                                       |       | [[Tödlich]]                                                     |
-| [[Speer]]                |   3    | 1W6     | Stich       |   1   |   4   | Einfach | [[Finesse]], [[Weitreichend]], [[Vielseitig]]                                                          |       |                                                                 |
-| [[Dreizack]]             |   3    | 1W6     | Stich       |   1   |   4   |         | [[Weitreichend]], [[Vielseitig]]                                                                       |       |                                                                 |
-| [[Hellebarde]]           |   5    | 1W10    | Hieb, Stich |   2   |   5   | Krieg   | [[Weitreichend]], [[Defensiv]], [[Unhandlich]],                                                        | -1    | [[Rüstungsbrechend]]                                            |
-| [[Partisane]]            |   4    | 1W8     | Stich       |   2   |   5   | Krieg   | [[Weitreichend]],  [[Unhandlich]]                                                                      |       | [[Defensiv]]                                                    |
-| [[Wurfspeer]]            |   3    | 1W6     | Stich       |   1   |   4   | Krieg   |                                                                                                        |       |                                                                 |
-| [[Kampfstab]]            |   4    | 1W8     | Wucht       |   2   |   4   | Einfach | [[Finesse]]                                                                                            |       | [[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]] |
-| [[Wurfmesser]]           |   1    | 1W3     | Stich       |   1   |   1   | Einfach | [[Leicht]], [[Finesse]]                                                                                |       |                                                                 |
-| [[Dolch]]                |   2    | 1W4     | Stich       |   1   |   1   | Einfach | [[Leicht]], [[Finesse]]                                                                                |       | [[Kritisch]], [[Tödlich]]                                       |
-| [[Kurzschwert]]          |   3    | 2W3     | Hieb, Stich |   1   |   2   | Krieg   | [[Leicht]], [[Finesse]]                                                                                |       | [[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]] |
-| [[Langschwert]]          |   4    | 2W4     | Hieb, Stich |   1   |   3   | Krieg   | [[Finesse]], [[Vielseitig]]                                                                            |       | [[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]] |
-| [[Zweihandschwert]]      |   6    | 2W6     | Hieb, Stich |   2   |   4   | Krieg   | [[Weitreichend]], [[Schwer]]                                                                           | -1    |                                                                 |
-| [[Krummsäbel]]           |   3    | 1W6     | Hieb        |   1   |   2   | Krieg   | [[Finesse]], [[Tödlich]], [[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]]              |       |                                                                 |
-| [[Rapier]]               |   3    | 1W6     | Stich       |   1   |   2   | Krieg   | [[Finesse]], [[Leicht]], [[Kritisch]], [[_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade]] |       |                                                                 |
-| [[Knüppel]]              |   3    | 1W6     | Wucht       |   2   |   2   | Einfach | [[Leicht]]                                                                                             |       |                                                                 |
-| [[Streitkolben]]         |   4    | 1W8     | Wucht       |   1   |   3   | Einfach | [[Vielseitig]]                                                                                         |       |                                                                 |
-| [[Zweihandstreitkolben]] |   6    | 1W12    | Wucht       |   2   |   4   | Einfach | [[Schwer]]                                                                                             | -1    |                                                                 |
-| [[Leichter Hammer]]      |   3    | 1W6     | Wucht       |   1   |   2   | Einfach | [[Rüstungsbrechend]], [[Leicht]]                                                                       |       |                                                                 |
-| [[Kriegshammer]]         |   4    | 1W8     | Wucht       |   1   |   3   | Krieg   | [[Rüstungsbrechend]], [[Vielseitig]]                                                                   |       |                                                                 |
-| [[Zweihandhammer]]       |   6    | 1W12    | Wucht       |   2   |   4   | Krieg   | [[Rüstungsbrechend]], [[Schwer]]                                                                       | -1    |                                                                 |
-| [[Axt]] (Beil)           |   3    | 1W6     | Hieb        |   1   |   2   | Einfach | [[Leicht]], [[Tödlich]]                                                                                |       |                                                                 |
-| [[Streitaxt]]            |   4    | 1W8     | Hieb        |   1   |   3   | Krieg   | [[Tödlich]], [[Vielseitig]]                                                                            |       |                                                                 |
-| [[Zweihandaxt]]          |   6    | 1W12    | Hieb        |   2   |   4   | Krieg   | [[Tödlich]], [[Schwer]]                                                                                | -1    |                                                                 |
-| [[Streitflegel]]         |   3    | 2W3     | Wucht       |   1   |   2   | Krieg   | [[Leicht]], [[Heimtückisch]]                                                                           |       |                                                                 |
-| [[Kriegsflegel]]         |   5    | 2W5     | Wucht       |   1   |   4   | Krieg   | [[Weitreichend]], [[Heimtückisch]]                                                                     | -1    |                                                                 |
-| [[Sichel]]               |   2    | 1W4     | Hieb        |   1   |   1   | Einfach | [[Leicht]], [[Finesse]], [[Tödlich]]                                                                   |       |                                                                 |
-| [[Peitsche]]             |   2    | 1W4     | Hieb        |   1   |   2   | Krieg   | [[Finesse]], [[Weitreichend]]                                                                          |       |                                                                 |
-| [[Kriegshacke]]          |   3    | 1W6     | Stich       |   1   |   2   | Krieg   | [[Leicht]], [[Rüstungsbrechend]]                                                                       |       |                                                                 |
+## Nahkampfwaffen
+| Waffe                    | RW  | Schaden | RD  | Schadensart | Hände | Größe | Min-ST | Art     | Eigenschaften                                     |
+| ------------------------ |:---:| ------- |:---:| ----------- |:-----:|:-----:|:------:| ------- | ------------------------------------------------- |
+| [[Kurzschwert]]          |  1  | 1W6     |  0  | Hieb, Stich |   1   |   2   |   -    | Krieg   | [[Finesse]], [[Parade]], [[Leicht]]               |
+| [[Langschwert]]          |  1  | 1W8     |  0  | Hieb, Stich |   1   |   3   |   0    | Krieg   | [[Finesse]], [[Parade]], [[Vielseitig]]           |
+| [[Zweihandschwert]]      |  2  | 1W12    |  1  | Hieb        |   2   |   4   |   1    | Krieg   | [[Finesse]]                                       |
+| [[Leichter Hammer]]      |  1  | 1W6     |  2  | Wucht       |   1   |   2   |   -    | Einfach | [[Leicht]]                                        |
+| [[Kriegshammer]]         |  1  | 1W8     |  3  | Wucht       |   1   |   3   |   1    | Krieg   | [[Vielseitig]]                                    |
+| [[Zweihandhammer]]       |  1  | 1W12    |  5  | Wucht       |   2   |   4   |   2    | Krieg   |                                                   |
+| [[Axt]]                  |  1  | 1W6     |  1  | Hieb        |   1   |   2   |   -    | Einfach | [[Brutal]], [[Leicht]]                            |
+| [[Streitaxt]]            |  1  | 1W8     |  1  | Hieb        |   1   |   3   |   1    | Krieg   | [[Brutal]], [[Vielseitig]]                        |
+| [[Zweihandaxt]]          |  1  | 1W12    |  2  | Hieb        |   2   |   4   |   2    | Krieg   | [[Brutal]]                                        |
+| [[Knüppel]]              |  1  | 1W6     |  0  | Wucht       |   1   |   2   |   -    | Einfach | [[Leicht]]                                        |
+| [[Streitkolben]]         |  1  | 1W8     |  1  | Wucht       |   1   |   3   |   1    | Einfach | [[Vielseitig]]                                    |
+| [[Zweihandstreitkolben]] |  1  | 1W12    |  1  | Wucht       |   2   |   4   |   2    | Einfach |                                                   |
+| [[Wurfspeer]]            |  1  | 1W6     |  0  | Stich       |   1   |   3   |   -    | Krieg   |                                                   |
+| [[Speer]]                |  2  | 1W6     |  1  | Stich       |   1   |   4   |   0    | Einfach |                                                   |
+| [[Pike]]                 |  3  | 1W8     |  1  | Stich       |   2   |   5   |   1    | Krieg   | [[Defensiv]], [[Unhandlich]]                      |
+| [[Glefe]]                |  2  | 2W5     |  1  | Hieb        |   2   |   4   |   1    | Krieg   |                                                   |
+| [[Hellebarde]]           |  2  | 1W10    |  3  | Hieb, Stich |   2   |   5   |   2    | Krieg   | [[Defensiv]], [[Unhandlich]]                      |
+| [[Falchion]]             |  1  | 1W8     |  0  | Hieb        |   1   |   3   |   1    | Krieg   | [[Parade]], [[Brutal]]                            |
+| [[Rapier]]               |  1  | 2W4     |  0  | Stich       |   1   |   2   |   -    | Krieg   | [[Finesse]], [[Leicht]], [[Kritisch]], [[Parade]] |
+| [[Krummsäbel]]           |  1  | 1W6     |  0  | Hieb        |   1   |   2   |   0    | Krieg   | [[Finesse]], [[Parade]], [[Fließend]]             |
+| [[Dolch]]                |  1  | 1W4     |  0  | Stich       |   1   |   1   |   -    | Einfach | [[Finesse]], [[Parade]], [[Leicht]]               |
+| [[Wurfmesser]]           |  1  | 1W3     |  0  | Stich       |   1   |   1   |   -    | Einfach | [[Leicht]], [[Finesse]]                           |
+| [[Kampfstab]]            |  1  | 1W6     |  0  | Wucht       |   2   |   4   |   -    | Einfach | [[Finesse]], [[Parade]]                           |
+| [[Streitflegel]]         |  1  | 2W3     |  1  | Wucht       |   1   |   2   |   1    | Krieg   | [[Heimtückisch]]                                  |
+| [[Kriegsflegel]]         |  2  | 2W5     |  3  | Wucht       |   1   |   4   |   2    | Krieg   | [[Heimtückisch]]                                  |
+| [[Peitsche]]             |  2  | 1W4     |  0  | Hieb        |   1   |   2   |   -    | Krieg   | [[Leicht]], [[Finesse]]                           |
+
+## Wurfwaffen
+| Waffe               | RW Min | RW Gnd | RW Max | Schaden | RD  | Schadensart | Hände | Größe | Min-ST | Art     | Eigenschaften                                        |
+| ------------------- |:------:| ------ | ------ | ------- |:---:| ----------- |:-----:|:-----:|:------:| ------- | ---------------------------------------------------- |
+| [[Leichter Hammer]] |   2    | 4      | 8      | 1W6     |  0  | Wucht       |   1   |   2   |   -    | Einfach | [[Wurfwaffe]], [[Leicht]]                            |
+| [[Axt]]             |   2    | 4      | 8      | 1W6     |  0  | Hieb        |   1   |   2   |   -    | Einfach | [[Wurfwaffe]], [[Leicht]], [[Brutal]]                |
+| [[Wurfspeer]]       |   2    | 8      | 16     | 1W6     |  2  | Stich       |   1   |   3   |   -    | Krieg   | [[Wurfwaffe]],                                       |
+| [[Speer]]           |   2    | 8      | 16     | 1W6     |  2  | Stich       |   1   |   4   |   0    | Einfach | [[Wurfwaffe]],                                       |
+| [[Dolch]]           |   2    | 4      | 8      | 1W4     |  0  | Stich       |   1   |   1   |   -    | Einfach | [[Wurfwaffe]], [[Leicht]], [[Finesse]]               |
+| [[Wurfmesser]]      |   2    | 4      | 8      | 1W3     |  0  | Stich       |   1   |   1   |   -    | Einfach | [[Wurfwaffe]], [[Leicht]], [[Finesse]], [[Kritisch]] |
+
+## Schusswaffen
+| Waffe                  | RW Min | RW Gnd | RW Max | Schaden | RD  | Schadensart | Hände | Größe | Min-ST | Art     | Eigenschaften |
+| ---------------------- |:------:| ------ | ------ | ------- |:---:| ----------- |:-----:|:-----:|:------:| ------- | ------------- |
+| [[Kurzbogen]]          |   2    | 4      | 8      | 1W6     |  0  | Wucht       |   1   |   2   |   -    | Einfach | [[Leicht]]    |
+| [[Komposit-Kurzbogen]] |        |        |        |         |     |             |       |       |        |         |               |
+| [[Langbogen]]          |        |        |        |         |     |             |       |       |        |         |               |
+| [[Komposit-Langbogen]] |        |        |        |         |     |             |       |       |        |         |               |
+| [[Kriegsbogen]]        |        |        |        |         |     |             |       |       |        |         |               |
+| [[Handarmbrust]]       |        |        |        |         |     |             |       |       |        |         |               |
+| [[Leichte Armbrust]]   |        |        |        |         |     |             |       |       |        |         |               |
+| [[Schwere Armbrust]]   |        |        |        |         |     |             |       |       |        |         |               |
+| [[Schleuder]]          |        |        |        |         |     |             |       |       |        |         |               |

@@ -1,26 +1,27 @@
 ---
 tags:
-- Gegenstand/Waffe/Art/Wuchtwaffe
-- Gegenstand/Waffe/Gruppe/Flegel
-- Gegenstand/Waffe/Klasse/Nahkampfwaffe
-- Gegenstand/Waffe/Kategorie/Kriegswaffe
-- Gegenstand/Waffe/Größe/Großwaffe
+  - Gegenstand/Waffe/Nahkampfwaffe
+  - Gegenstand/Waffe/Wuchtwaffe
+  - Gegenstand/Waffe/Flegel
+  - Gegenstand/Waffe/Kriegswaffe
 Reichweite: 1,5(1)
 Schaden: 2d5
 Schadensart: "[[Wuchtschaden]]"
+Rüstungsdurchschlag: 3
 Eigenschaften:
-- "[[Weitreichend]]"
-- "[[Langsam]]"
-- "[[Heimtückisch]]"
+  - "[[Weitreichend]]"
+  - "[[Langsam]]"
+  - "[[Heimtückisch]]"
 
 SchadenFern:
 SchadensartFern:
+RüstungsdurchschlagFern:
 Range1:
 Range2:
 Range3:
 EigenschaftenFern:
 
-Kategorie: "[[Kriegswaffen]]"
+Mindeststärke: 2
 Hände: 2
 Größe: 4
 Gewicht: 8 Pfund

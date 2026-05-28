@@ -1,25 +1,25 @@
 ---
 tags:
-  - Gegenstand/Waffe/Art/Hiebwaffe
-  - Gegenstand/Waffe/Art/Stichwaffe
-  - Gegenstand/Waffe/Gruppe/Schwert
-  - Gegenstand/Waffe/Klasse/Nahkampfwaffe
-  - Gegenstand/Waffe/Kategorie/Kriegswaffe
-  - Gegenstand/Waffe/Größe/Großwaffe
-Reichweite: 1,5(1)
-Schaden: 2d6
-Schadensart: "[[Hiebschaden]]/[[Stichschaden]]"
+  - Gegenstand/Waffe/Nahkampfwaffe
+  - Gegenstand/Waffe/Hiebwaffe
+  - Gegenstand/Waffe/Schwert
+  - Gegenstand/Waffe/Kriegswaffe
+Reichweite: 3(2)
+Schaden: 1W12
+Schadensart: "[[Hiebschaden]]"
+Rüstungsdurchschlag: 1
 Eigenschaften:
-  - "[[Langsam]]"
-  - "[[Schwer]] (12)"
-  - "[[Weitreichend]]"
+  - "[[Finesse]]"
+
 SchadenFern: 
-SchadensartFern: 
+SchadensartFern:
+RüstungsdurchschlagFern:
 Range1: 
 Range2: 
 Range3: 
 EigenschaftenFern: []
-Kategorie: "[[Kriegswaffen]]"
+
+Mindeststärke: 1
 Hände: 2
 Größe: 4
 Gewicht: 7 Pfund

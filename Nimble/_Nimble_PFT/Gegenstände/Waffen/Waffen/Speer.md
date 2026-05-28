@@ -1,29 +1,27 @@
 ---
 tags:
-  - Gegenstand/Waffe/Art/Stichwaffe
-  - Gegenstand/Waffe/Gruppe/Speer
-  - Gegenstand/Waffe/Klasse/Nahkampfwaffe
-  - Gegenstand/Waffe/Klasse/Fernkampfwaffe/Wurfwaffe
-  - Gegenstand/Waffe/Kategorie/Einfache_Waffe
-  - Gegenstand/Waffe/Größe/Großwaffe
-  - Gegenstand/Waffe/Kategorie/Mönchswaffe
-Reichweite: 1,5(1)
+  - Gegenstand/Waffe/Nahkampfwaffe
+  - Gegenstand/Waffe/Stichwaffe
+  - Gegenstand/Waffe/Speer
+  - Gegenstand/Waffe/Fernkampfwaffe/Wurfwaffe
+  - Gegenstand/Waffe/Einfach
+  - Gegenstand/Waffe/Mönchswaffe
+Reichweite: 3(2)
 Schaden: 1d6
 Schadensart: "[[Stichschaden]]"
+Rüstungsdurchschlag: 1
 Eigenschaften:
-  - "[[Weitreichend]]"
-  - "[[Vielseitig]] (1W8)"
-  - "[[Finesse]]"
 
 SchadenFern: 1d6
 SchadensartFern: "[[Stichschaden]]"
-Range1: 1,5(1)
-Range2: 6(4)
-Range3: 18(12)
+RüstungsdurchschlagFern: 2
+Range1: 3(2)
+Range2: 12(8)
+Range3: 24(16)
 EigenschaftenFern:
   - "[[Wurfwaffe]]"
 
-Kategorie: "[[Einfache Waffen]]"
+Mindeststärke: 0
 Hände: 1
 Größe: 4
 Gewicht: 3 Pfund
