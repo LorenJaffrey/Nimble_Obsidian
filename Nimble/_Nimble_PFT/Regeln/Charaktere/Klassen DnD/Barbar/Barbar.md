@@ -78,7 +78,7 @@ Kampfrausch:
 
 | Stufe |        Anzahl Kampfräusche         |            Kampfrausch Schaden            | Merkmale                                        |
 |:-----:|:----------------------------------:|:-----------------------------------------:| ----------------------------------------------- |
-|   1   | `=this.Kampfrausch.Stufe1.Anzahl`  | +`=this.Kampfrausch.Stufe1.Bonusschaden`  | [[Kampfrausch]], [[_Nimble_PFT/Charaktere/Klassen DnD/Barbar/Klassenmerkmale/Ungerüstete Verteidigung]]   |
+|   1   | `=this.Kampfrausch.Stufe1.Anzahl`  | +`=this.Kampfrausch.Stufe1.Bonusschaden`  | [[Kampfrausch]], [[Ungerüstete Verteidigung]]   |
 |   2   | `=this.Kampfrausch.Stufe2.Anzahl`  | +`=this.Kampfrausch.Stufe2.Bonusschaden`  | [[Rücksichtsloser Angriff]], [[Gefahrengespür]] |
 |   3   | `=this.Kampfrausch.Stufe3.Anzahl`  | +`=this.Kampfrausch.Stufe3.Bonusschaden`  | [[Urtümliche Pfade]], [[Urwissen]]              |
 |   4   | `=this.Kampfrausch.Stufe4.Anzahl`  | +`=this.Kampfrausch.Stufe4.Bonusschaden`  | [[Talente\|Talent]]                             |
