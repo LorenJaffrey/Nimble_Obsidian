@@ -35,20 +35,20 @@
 | ------------------- |:------:| ------ | ------ | ------- |:---:| ----------- |:-----:|:-----:|:------:| ------- | ---------------------------------------------------- |
 | [[Leichter Hammer]] |   2    | 4      | 8      | 1W6     |  0  | Wucht       |   1   |   2   |   -    | Einfach | [[Wurfwaffe]], [[Leicht]]                            |
 | [[Axt]]             |   2    | 4      | 8      | 1W6     |  0  | Hieb        |   1   |   2   |   -    | Einfach | [[Wurfwaffe]], [[Leicht]], [[Brutal]]                |
-| [[Wurfspeer]]       |   2    | 8      | 16     | 1W6     |  2  | Stich       |   1   |   3   |   -    | Krieg   | [[Wurfwaffe]],                                       |
-| [[Speer]]           |   2    | 8      | 16     | 1W6     |  2  | Stich       |   1   |   4   |   0    | Einfach | [[Wurfwaffe]],                                       |
+| [[Wurfspeer]]       |   2    | 8      | 16     | 1W6     |  2  | Stich       |   1   |   3   |   -    | Krieg   | [[Wurfwaffe]]                                        |
+| [[Speer]]           |   2    | 8      | 16     | 1W6     |  2  | Stich       |   1   |   4   |   0    | Einfach | [[Wurfwaffe]]                                        |
 | [[Dolch]]           |   2    | 4      | 8      | 1W4     |  0  | Stich       |   1   |   1   |   -    | Einfach | [[Wurfwaffe]], [[Leicht]], [[Finesse]]               |
 | [[Wurfmesser]]      |   2    | 4      | 8      | 1W3     |  0  | Stich       |   1   |   1   |   -    | Einfach | [[Wurfwaffe]], [[Leicht]], [[Finesse]], [[Kritisch]] |
 
 ## Schusswaffen
 | Waffe                  | RW Min | RW Gnd | RW Max | Schaden | RD  | Schadensart | Hände | Größe | Min-ST | Art     | Eigenschaften                        |
-| ---------------------- |:------:| ------ | ------ | ------- |:---:| ----------- |:-----:|:-----:|:------:| ------- | ------------------------------------ |
-| [[Kurzbogen]]          |   2    | 4      | 8      | 1W6     |  1  | Stich       |   2   |   2   |   0    | Einfach | [[Geschosse]]                        |
-| [[Komposit-Kurzbogen]] |   2    |        |        | 1W8     |  1  | Stich       |   2   |   2   |   -    | Krieg   | [[Geschosse]]                        |
-| [[Langbogen]]          |   4    |        |        | 1W8     |  2  | Stich       |   2   |   3   |   1    | Krieg   | [[Geschosse]]                        |
-| [[Komposit-Langbogen]] |   3    |        |        | 1W8     |  2  | Stich       |   2   |   3   |   0    | Krieg   | [[Geschosse]]                        |
-| [[Kriegsbogen]]        |   5    |        |        | 1W10    |  4  | Stich       |   2   |   4   |   2    | Krieg   | [[Geschosse]]                        |
-| [[Handarmbrust]]       |   1    |        |        | 1W6     |  1  | Stich       |   1   |   1   |   -    | Einfach | [[Geschosse]], [[Laden]], [[Leicht]] |
-| [[Leichte Armbrust]]   |   1    |        |        | 1W8     |  4  | Stich       |   2   |   2   |   0    | Einfach | [[Geschosse]], [[Laden]]             |
-| [[Schwere Armbrust]]   |   1    |        |        | 1W10    |  5  | Stich       |   2   |   3   |   1    | Einfach | [[Geschosse]], [[Laden]]             |
-| [[Schleuder]]          |   2    |        |        | 1W4     |  0  | Wucht       |   2   |   1   |   -    | Einfach | [[Geschosse]]                        |
+| ---------------------- | ------:| ------:| ------:| ------- |:---:| ----------- |:-----:|:-----:|:------:| ------- | ------------------------------------ |
+| [[Kurzbogen]]          |      2 |      8 |     16 | 1W6     |  1  | Stich       |   2   |   2   |   0    | Krieg   | [[Geschosse]]                        |
+| [[Komposit-Kurzbogen]] |      2 |     12 |     24 | 1W8     |  1  | Stich       |   2   |   2   |   -    | Krieg   | [[Geschosse]]                        |
+| [[Langbogen]]          |      4 |     16 |     32 | 1W8     |  2  | Stich       |   2   |   3   |   1    | Krieg   | [[Geschosse]]                        |
+| [[Komposit-Langbogen]] |      3 |     20 |     40 | 1W8     |  2  | Stich       |   2   |   3   |   0    | Krieg   | [[Geschosse]]                        |
+| [[Kriegsbogen]]        |      5 |     24 |     48 | 1W10    |  4  | Stich       |   2   |   4   |   2    | Krieg   | [[Geschosse]]                        |
+| [[Handarmbrust]]       |      1 |      6 |     12 | 1W6     |  1  | Stich       |   1   |   1   |   -    | Einfach | [[Geschosse]], [[Laden]], [[Leicht]] |
+| [[Leichte Armbrust]]   |      1 |     10 |     20 | 1W8     |  4  | Stich       |   2   |   2   |   0    | Einfach | [[Geschosse]], [[Laden]]             |
+| [[Schwere Armbrust]]   |      1 |     10 |     20 | 1W10    |  5  | Stich       |   2   |   3   |   1    | Einfach | [[Geschosse]], [[Laden]]             |
+| [[Schleuder]]          |      2 |      6 |     12 | 1W4     |  0  | Wucht       |   2   |   1   |   -    | Einfach | [[Geschosse]]                        |

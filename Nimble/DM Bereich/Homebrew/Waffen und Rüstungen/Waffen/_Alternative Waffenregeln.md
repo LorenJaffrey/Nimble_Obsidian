@@ -1,9 +1,6 @@
 ## Ideen
 - variable Schadenswürfel für Waffen (Dolch mit mehr als 1W4 Schaden)
-- separate Einträge pro Schadensart
 - [[Waffeneigenschaften]] aufteilen in normale und Meisterschaft
-- [[Waffen]] neu evaluieren
-	- Schwerter als Finessewaffen
 
 ### Neue Waffen
 - Todeskragen

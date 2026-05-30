@@ -54,8 +54,33 @@
               "icon": "lucide-file",
               "title": "Würfelklassen"
             }
+          },
+          {
+            "id": "bf29f7163ff6a46d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen 1.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Waffen 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,10 +240,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen.md"
+                "file": "_Nimble_PFT/Gegenstände/Waffen/Waffen/Knüppel.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for _Waffen"
+              "title": "File properties for Knüppel"
             }
           }
         ],
@@ -226,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 413.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,59 +269,12 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "floating": {
-    "id": "7ccd93370563918e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "011e211aaa36a4e5",
-        "type": "window",
-        "children": [
-          {
-            "id": "6b8aed2cd4236e9e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4722c6236adfd6ef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "_Waffen"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1860,
-        "y": 558,
-        "width": 2048,
-        "height": 1103,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4722c6236adfd6ef",
+  "active": "bf29f7163ff6a46d",
   "lastOpenFiles": [
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Knüppel.md",
     "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen.md",
+    "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen 1.md",
+    "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Alternative Waffenregeln.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Knüppel.md",
     "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kampfstab.md",
     "DM Bereich/Vorlagen/Ausrüstung/Waffen/Vorlage Waffe Wurf.md",
     "DM Bereich/Vorlagen/Ausrüstung/Waffen/Vorlage Waffe Nahkampf.md",
@@ -318,8 +297,6 @@
     "_Nimble_PFT/Gegenstände/Magische Gegenstände/Magische Gegenstände/Stab des Sommerwalds.md",
     "_Nimble_PFT/Gegenstände/Waffen/Waffen/Peitsche.md",
     "DM Bereich/Gegenstände/Magische Gegenstände/Magische Gegenstände/Äxte des brennenden Zorns/Glutreißer - 0 Glimmend.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kriegsflegel.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Streitflegel.md",
     "_Nimble_PFT/Regeln/Soziale Interaktion",
     "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand/embed Waffe",
     "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand",
