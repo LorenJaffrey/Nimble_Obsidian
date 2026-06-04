@@ -14,3 +14,7 @@
 ## Diplomatie
 - Gegner schleichen sich als Diplomaten in Stadt/etc. ein
 - wollen die Verteidigung von innen heraus brechen
+
+## Gefäß
+- menschliches Gefäß wird für einen mächtigen Magier (oder ähnliches) benötigt
+- muss beschützt werden während Gegner versuchen es zu töten
