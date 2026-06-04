@@ -5,4 +5,4 @@ tags:
 ---
 # `=this.file.name`
 
-- kann einen bekannten [[Kampfstil]] durch einen anderen ersetzen
+- kann einen bekannten [[_Kampfstil]] durch einen anderen ersetzen

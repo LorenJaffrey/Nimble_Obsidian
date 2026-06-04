@@ -6,16 +6,16 @@ Die gelehrten Krieger, die den Archetyp des Kampfmeisters verkörpern, wenden im
 
 | Stufe | Merkmal                                         | Anzahl Manöver | Überlegenheitswürfel |
 |:-----:| ----------------------------------------------- |:--------------:|:--------------------:|
-|   3   | [[Kampfüberlegenheit]], [[Schüler des Krieges]] |       3        |         4W8          |
-|   7   | [[Kenne deinen Feind]]                          |       5        |         5W8          |
+|   3   | [[_Kampfüberlegenheit]], [[_Schüler des Krieges]] |       3        |         4W8          |
+|   7   | [[_Kenne deinen Feind]]                          |       5        |         5W8          |
 |  10   | ---                                             |       7        |         5W10         |
-|  15   | [[Unermüdlich]]                                 |       9        |         6W10         |
+|  15   | [[_Unermüdlich]]                                 |       9        |         6W10         |
 |  18   | ---                                             |       9        |         6W12         |
 
-![[Kampfüberlegenheit]]
+![[_Kampfüberlegenheit]]
 
-![[Schüler des Krieges]]
+![[_Schüler des Krieges]]
 
-![[Kenne deinen Feind]]
+![[_Kenne deinen Feind]]
 
-![[Unermüdlich]]
+![[_Unermüdlich]]

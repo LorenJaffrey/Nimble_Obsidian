@@ -11,24 +11,10 @@
             "id": "0433e1b74479e12e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kampfstil/_Blinder Kampf.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_Blinder Kampf"
+              "title": "New tab"
             }
           }
         ]
