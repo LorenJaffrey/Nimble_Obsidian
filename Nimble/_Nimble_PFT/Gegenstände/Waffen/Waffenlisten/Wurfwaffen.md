@@ -16,5 +16,5 @@ RüstungsdurchschlagFern AS "Rüstungsdurchschlag",
 EigenschaftenFern AS "Eigenschaften",
 Mindeststärke,
 Hände
-FROM #Gegenstand/Waffe/Klasse/Fernkampfwaffe/Wurfwaffe AND !#Gegenstand/Magischer_Gegenstand 
+FROM #Gegenstand/Waffe/Fernkampfwaffe/Wurfwaffe AND !#Gegenstand/Magischer_Gegenstand 
 ```

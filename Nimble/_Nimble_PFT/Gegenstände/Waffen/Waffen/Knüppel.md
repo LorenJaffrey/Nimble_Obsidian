@@ -2,7 +2,7 @@
 tags:
   - Gegenstand/Waffe/Nahkampfwaffe
   - Gegenstand/Waffe/Wuchtwaffe
-  - Gegenstand/Waffe/Knüppel
+  - Gegenstand/Waffe/Keule
   - Gegenstand/Waffe/Einfach
 Reichweite: 1,5(1)
 Schaden: 1d6

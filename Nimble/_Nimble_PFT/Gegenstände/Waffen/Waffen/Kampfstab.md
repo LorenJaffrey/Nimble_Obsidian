@@ -2,7 +2,6 @@
 tags:
   - Gegenstand/Waffe/Nahkampfwaffe
   - Gegenstand/Waffe/Wuchtwaffe
-  - Gegenstand/Waffe/Stab
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Mönchswaffe
 Reichweite: 1,5(1)

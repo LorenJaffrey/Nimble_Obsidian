@@ -15,6 +15,6 @@ Rüstungsdurchschlag AS "RD",
 Mindeststärke AS "Min-ST", 
 Hände, 
 Eigenschaften
-FROM #Gegenstand/Waffe/Klasse/Nahkampfwaffe AND !#Gegenstand/Magischer_Gegenstand
+FROM #Gegenstand/Waffe/Nahkampfwaffe AND !#Gegenstand/Magischer_Gegenstand
 SORT file.name
 ```

@@ -25,11 +25,11 @@ Verteidigung:
   Natürliche_SR: 0
   Resistenzen:
     Schadensresistenz:
-    Schadensimmunität: 
-    Schadensanfälligkeit: 
+    Schadensimmunität:
+    Schadensanfälligkeit:
     Zustandsimmunität:
 Angriff:
-- "[[Krummsäbel]]"
+  - "[[Säbel]]"
 Attribute:
   Stärke: 9
   Geschicklichkeit: 13
@@ -64,8 +64,8 @@ Fertigkeiten:
   Überzeugen: 0
   Wahrnehmung: 0
   Sprachen:
-  - "[[Gemeinsprache]]"
-  - "[[Goblinisch]]"
+    - "[[Gemeinsprache]]"
+    - "[[Goblinisch]]"
 Merkmale:
   - "[[Behändes Entkommen]]"
   - "[[Schlüpfrig]]"

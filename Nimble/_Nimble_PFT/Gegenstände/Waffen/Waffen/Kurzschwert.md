@@ -6,7 +6,7 @@ tags:
   - Gegenstand/Waffe/Schwert
   - Gegenstand/Waffe/Kriegswaffe
 Reichweite: 1,5(1)
-Schaden: 1W6
+Schaden: 1d6
 Schadensart: "[[Hiebschaden]]/[[Stichschaden]]"
 Rüstungsdurchschlag: 0
 Eigenschaften:

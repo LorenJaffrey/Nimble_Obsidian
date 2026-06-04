@@ -5,7 +5,6 @@ tags:
   - Gegenstand/Waffe/Messer
   - Gegenstand/Waffe/Fernkampfwaffe/Wurfwaffe
   - Gegenstand/Waffe/Einfach
-  - Gegenstand/Waffe/Kleine_Waffe
   - Gegenstand/Waffe/Mönchswaffe
 Reichweite: 1,5(1)
 Schaden: 1d4

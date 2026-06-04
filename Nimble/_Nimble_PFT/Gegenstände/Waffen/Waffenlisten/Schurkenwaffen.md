@@ -9,14 +9,15 @@ tags:
 ## Nahkampfwaffen
 ```dataview
 TABLE WITHOUT ID
-file.link AS "Nahkampfwaffe",
+file.link AS "Waffe",
+Reichweite,
 "`dice:" + Schaden + "\|none\|noform`"  AS "Schaden",
-Schadensart, 
-Kategorie,
+Schadensart,
+Rüstungsdurchschlag AS "RD",
+Mindeststärke AS "Min-ST", 
 Hände, 
-Größe, 
 Eigenschaften
-FROM (#Gegenstand/Waffe/Kategorie/Einfache_Waffe OR (#Gegenstand/Waffe/Kategorie/Kriegswaffe AND ([[Finesse]] OR [[Leicht]]))) AND !#Gegenstand/Magischer_Gegenstand AND #Gegenstand/Waffe/Klasse/Nahkampfwaffe 
+FROM (#Gegenstand/Waffe/Einfache_Waffe OR (#Gegenstand/Waffe/Kriegswaffe AND ([[Finesse]] OR [[Leicht]]))) AND !#Gegenstand/Magischer_Gegenstand AND #Gegenstand/Waffe/Nahkampfwaffe 
 SORT Kategorie
 ```
 
@@ -33,6 +34,6 @@ Kategorie,
 Hände,
 Gewicht, 
 EigenschaftenFern
-FROM (#Gegenstand/Waffe/Kategorie/Einfache_Waffe OR (#Gegenstand/Waffe/Kategorie/Kriegswaffe AND ([[Finesse]] OR [[Leicht]]))) AND !#Gegenstand/Magischer_Gegenstand AND #Gegenstand/Waffe/Klasse/Fernkampfwaffe 
+FROM (#Gegenstand/Waffe/Einfache_Waffe OR (#Gegenstand/Waffe/Kriegswaffe AND ([[Finesse]] OR [[Leicht]]))) AND !#Gegenstand/Magischer_Gegenstand AND #Gegenstand/Waffe/Fernkampfwaffe 
 SORT Kategorie
 ```

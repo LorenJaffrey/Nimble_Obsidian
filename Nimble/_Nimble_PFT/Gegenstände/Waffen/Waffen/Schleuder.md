@@ -9,14 +9,14 @@ Eigenschaften: []
 
 SchadenFern: 1d4
 SchadensartFern: "[[Wuchtschaden]]"
-RüstungsdurchschlagFern:
-Range1: 1,5(1)
+RüstungsdurchschlagFern: 0
+Range1: 1,5(2)
 Range2: 9(6)
-Range3: 36(24)
+Range3: 18(12)
 EigenschaftenFern:
   - "[[Geschosse]] (Kugeln)"
-  - "[[Brutal]]"
-Kategorie: "[[Einfache Waffen]]"
+
+Mindeststärke: 
 Hände: 1
 Größe: 1
 Gewicht:

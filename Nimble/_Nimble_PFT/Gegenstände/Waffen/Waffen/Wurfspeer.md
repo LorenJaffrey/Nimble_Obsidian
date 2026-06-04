@@ -2,7 +2,6 @@
 tags:
   - Gegenstand/Waffe/Nahkampfwaffe
   - Gegenstand/Waffe/Stichwaffe
-  - Gegenstand/Waffe/Speer
   - Gegenstand/Waffe/Fernkampfwaffe/Wurfwaffe
   - Gegenstand/Waffe/Einfach
 Reichweite: 1,5(1)

@@ -2,7 +2,7 @@
 tags:
   - Gegenstand/Waffe/Nahkampfwaffe
   - Gegenstand/Waffe/Stichwaffe
-  - Gegenstand/Waffe/Speer
+  - Gegenstand/Waffe/Stangenwaffe
   - Gegenstand/Waffe/Fernkampfwaffe/Wurfwaffe
   - Gegenstand/Waffe/Einfach
   - Gegenstand/Waffe/Mönchswaffe

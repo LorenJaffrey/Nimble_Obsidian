@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Gegenstände/Waffen/Waffen/Knüppel.md",
+                "file": "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kampfstil/_Blinder Kampf.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Knüppel"
-            }
-          },
-          {
-            "id": "0121d2e1ebb6b31f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Würfelklassen.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Würfelklassen"
-            }
-          },
-          {
-            "id": "bf29f7163ff6a46d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen 1.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Waffen 1"
+              "title": "_Blinder Kampf"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Gegenstand/Waffe/Einfache",
+                "query": "tag:#Gegenstand/Waffe/Keule",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -240,19 +191,18 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Nimble_PFT/Gegenstände/Waffen/Waffen/Knüppel.md"
+                "file": "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kampfstil/_Blinder Kampf.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Knüppel"
+              "title": "File properties for _Blinder Kampf"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,34 +219,34 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "bf29f7163ff6a46d",
+  "active": "b95fee904e023541",
   "lastOpenFiles": [
-    "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen.md",
-    "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen 1.md",
-    "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Alternative Waffenregeln.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Knüppel.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kampfstab.md",
-    "DM Bereich/Vorlagen/Ausrüstung/Waffen/Vorlage Waffe Wurf.md",
-    "DM Bereich/Vorlagen/Ausrüstung/Waffen/Vorlage Waffe Nahkampf.md",
-    "DM Bereich/Vorlagen/Ausrüstung/Waffen/Vorlage Waffe Fernkampf.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Schwere Armbrust.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Leichte Armbrust.md",
-    "_Nimble_PFT/Gegenstände/Magische Gegenstände/Magische Gegenstände/Zauberstecken der Vogelrufe.md",
-    "_Nimble_PFT/Gegenstände/Magische Gegenstände/Magische Gegenstände/Stecken der Verteidigung.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Langbogen.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kurzbogen.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kriegsbogen.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Komposit-Langbogen.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Schleuder.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Netz.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Komposit-Kurzbogen.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Handarmbrust.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Blasrohr.md",
-    "DM Bereich/Gegenstände/Waffen/Waffen/B.I.A.N.K.A..md",
-    "_Nimble_PFT/Gegenstände/Magische Gegenstände/Magische Gegenstände/Stab des Sommerwalds (Erneuert).md",
-    "_Nimble_PFT/Gegenstände/Magische Gegenstände/Magische Gegenstände/Stab des Sommerwalds.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Peitsche.md",
-    "DM Bereich/Gegenstände/Magische Gegenstände/Magische Gegenstände/Äxte des brennenden Zorns/Glutreißer - 0 Glimmend.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kampfstil/_Kampfstil.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Unermüdlich.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Tatendrang.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kenne deinen Feind.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Unbeugsamkeit.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Schüler des Krieges.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kriegerische Vielseitigkeit.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Durchschnaufen.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kampfüberlegenheit/_Kampfüberlegenheit.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriff.md",
+    "DM Bereich/Nimble/System/Regeln/Stats/Vorteil und Nachteil.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kampfüberlegenheit/Ablenkender Schlag.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Ausweichen.md",
+    "DM Bereich/Homebrew/Waffen und Rüstungen/Rüstungen/_Alternative Rüstungsregeln.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Waffeneigenschaften.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Wurfwaffe.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Zusätzlicher Säureschaden.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Vielseitig.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Weitreichend.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Verschlucken.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Umschlingender Angriff.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Unhandlich.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Schrapnell.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Schwer.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade.md",
+    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Magische Präzision.md",
     "_Nimble_PFT/Regeln/Soziale Interaktion",
     "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand/embed Waffe",
     "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand",
