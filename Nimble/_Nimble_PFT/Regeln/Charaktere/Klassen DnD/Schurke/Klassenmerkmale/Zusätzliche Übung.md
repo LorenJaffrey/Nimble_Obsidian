@@ -1,8 +1,0 @@
----
-aliases:
-tags:
-- Merkmal/Klasse/Schurke/Assassine
----
-# `=this.file.name`
-
-Du hast [[_Übung]] im Umgang mit der [[Verkleidungsausrüstung]] und [[Giftmischerausrüstung]].

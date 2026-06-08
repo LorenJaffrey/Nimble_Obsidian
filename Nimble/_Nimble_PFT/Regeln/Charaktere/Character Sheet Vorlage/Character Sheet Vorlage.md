@@ -1,4 +1,7 @@
 ---
+tags:
+aliases:
+
 Stufe: 4
 Bewegung: 5
 Rüstung: "[[Plattenrüstung]]"

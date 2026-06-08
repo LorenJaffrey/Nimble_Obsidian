@@ -54,7 +54,7 @@
 
 ---
 
-![[DM Bereich/Nimble/Charaktere/Hintergründe/Schreiber]]
+![[Schreiber]]
 
 ---
 

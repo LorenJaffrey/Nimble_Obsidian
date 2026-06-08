@@ -1,6 +1,6 @@
 ---
 tags:
-  - Regelen/Nimble
+  - Regeln/Nimble
   - Eigenschaft/Waffe
 ---
 # `=this.file.name`

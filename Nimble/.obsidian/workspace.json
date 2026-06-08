@@ -8,16 +8,79 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0433e1b74479e12e",
+            "id": "f587a228c531f36f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_Nimble_PFT/Regeln/Allgemein/Attribute/_Attribute.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_Attribute"
+            }
+          },
+          {
+            "id": "bf259edf1ee565ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Nimble_PFT/Regeln/Charaktere/Einen Charakter erstellen.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Einen Charakter erstellen"
+            }
+          },
+          {
+            "id": "63c1820bd7afacf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Nimble_PFT/Regeln/Charaktere/Klassen/Klassen.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Klassen"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Gegenstand/Waffe/Keule",
+                "query": "tag:#Regelen/Nimble",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,10 +240,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kampfstil/_Blinder Kampf.md"
+                "file": "_Nimble_PFT/Regeln/Charaktere/Klassen/Klassen.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for _Blinder Kampf"
+              "title": "File properties for Klassen"
             }
           }
         ],
@@ -202,50 +265,51 @@
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "alias-management:ListAliasesView": false,
-      "alias-management:DuplicateAliasesView": false
+      "alias-management:DuplicateAliasesView": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "b95fee904e023541",
+  "active": "63c1820bd7afacf9",
   "lastOpenFiles": [
-    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kampfstil/_Kampfstil.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Unermüdlich.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Tatendrang.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kenne deinen Feind.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Unbeugsamkeit.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Schüler des Krieges.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kriegerische Vielseitigkeit.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Durchschnaufen.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kampfüberlegenheit/_Kampfüberlegenheit.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriff.md",
-    "DM Bereich/Nimble/System/Regeln/Stats/Vorteil und Nachteil.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Kämpfer/Klassenmerkmale/_Kampfüberlegenheit/Ablenkender Schlag.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Ausweichen.md",
-    "DM Bereich/Homebrew/Waffen und Rüstungen/Rüstungen/_Alternative Rüstungsregeln.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Waffeneigenschaften.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Wurfwaffe.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Zusätzlicher Säureschaden.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Vielseitig.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Weitreichend.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Verschlucken.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Umschlingender Angriff.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Unhandlich.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Schrapnell.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Schwer.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Parade.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffeneigenschaften/Magische Präzision.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Untitled.canvas",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fertigkeiten.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/_Attribute.md",
+    "_Nimble_PFT/Regeln/Charaktere/Einen Charakter erstellen.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen/Klassen.md",
+    "_Nimble_PFT/Regeln/Charaktere/_Key Stats.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Weisheit.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Stärke.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Konstitution.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Intelligenz.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Geschicklichkeit.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Charisma.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Attribute.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Wahrnehmung.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Überzeugen.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Überlebenskunst.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Täuschen.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Religion.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Naturkunde.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Nachforschungen.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Motiv erkennen.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Mit Tieren umgehen.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Heimlichkeit.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Heilkunde.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Geschichte.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fingerfertigkeit.md",
+    "_Nimble_PFT/Regeln/Allgemein",
     "_Nimble_PFT/Regeln/Soziale Interaktion",
     "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand/embed Waffe",
     "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Fokuspunkte",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst",
-    "DM Bereich/Nimble/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Fokuspunkte",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer",
     "DM Bereich/Kampagne/02 - Im Netz der Spinne/Locations/Wellenhallhöhle",
-    "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten",
-    "DM Bereich/Nimble/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant/Befehle des Kommandanten",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen/Kommandant/Klassenmerkmale Kommandant",
     "_Nimble_PFT/zHidden/_Attachments/Races/Tiefling 1.png",
     "_Nimble_PFT/zHidden/_Attachments/Races/Halbling.png",
     "_Nimble_PFT/zHidden/_Attachments/Races/Gnom.png",
-    "_Nimble_PFT/Regeln/Zustände DnD",
     "_Attachments/Half-Giant.png",
     "_Attachments/Aasimar.png"
   ]

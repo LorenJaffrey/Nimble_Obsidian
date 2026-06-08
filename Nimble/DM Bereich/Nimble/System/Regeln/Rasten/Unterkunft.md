@@ -1,9 +1,9 @@
 ---
 tags:
   - Rast
-  - Regeln/Nimble
+  - Regeln/Nimble/WIP
 ---
-## Unterkunft
+# `=this.file.name`
 Die billigsten Zimmer im Gasthaus sparen Geld, können aber zu Komplikationen führen. 
 Manche Gasthäuser bieten gegen Aufpreis bessere Zimmer und Annehmlichkeiten, die dir einen temporären Vorteil einbringen. 
 

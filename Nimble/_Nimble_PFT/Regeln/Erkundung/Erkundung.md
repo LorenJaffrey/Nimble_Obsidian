@@ -1,3 +1,8 @@
+---
+tags:
+  - Regeln/Nimble/WIP
+---
+
 # `=this.file.name`
 
 ## Phasen der Erkundung
