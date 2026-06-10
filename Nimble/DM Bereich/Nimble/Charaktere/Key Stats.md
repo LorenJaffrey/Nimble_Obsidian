@@ -1,5 +1,20 @@
 
 ## Zusammenfassung
+
+#### Key Stats NEU
+| Klasse            | ST  | KO  | BE  | GE  | VS  | WA  | EN  | PR  | Done |
+| ----------------- |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:----:|
+| [[Kommandant]]    |  A  |  B  |     |  B  |     |     |  B  |  A  |  X   |
+| [[Paladin]]       |  A  |  B  |     |     |     |     |  B  |  A  |  X   |
+| [[Berserker]]     |  A  |  B  |  A  |  B  |     |     |  B  |     |  X   |
+| [[Windläufer]]    |  B  |  B  |  A  |     |     |     |  A  |  B  |  X   |
+| [[Gauner]]        |     |     |  A  |  A  |  A  |  B  |     |     |  X   |
+| [[Jäger]]         |     |     |  A  |  B  |     |  A  |  A  |     |  X   |
+| Stormshifter      |     |     |  A  |     |     |     |  A  |     |  X   |
+| [[Schattenrufer]] |     |     |     |     |  A  |     |  B  |  A  |  X   |
+| [[Kleriker]]      |     |     |     |     |     |     |  A  |     |  X   |
+| [[Arkanist]]      |     |     |     |     |  A  |     |  A  |     |  X   |
+
 #### Key Stats
 | Klasse            | STR | KON | GES | INT | WEI | CHA | Done |
 | ----------------- |:---:|:---:|:---:|:---:|:---:|:---:|:----:|

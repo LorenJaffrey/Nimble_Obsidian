@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "_Waffen 1"
             }
+          },
+          {
+            "id": "a46a022b01282968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Nimble/Charaktere/Key Stats.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Key Stats"
+            }
+          },
+          {
+            "id": "8cfd7b52eed098c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Nimble/Charaktere/Klassen/Kleriker/Kleriker.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Kleriker"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -247,12 +295,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,10 +316,11 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "bf29f7163ff6a46d",
+  "active": "8cfd7b52eed098c2",
   "lastOpenFiles": [
-    "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen.md",
+    "DM Bereich/Nimble/Charaktere/Key Stats.md",
     "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen 1.md",
+    "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen.md",
     "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Alternative Waffenregeln.md",
     "_Nimble_PFT/Gegenstände/Waffen/Waffen/Knüppel.md",
     "_Nimble_PFT/Gegenstände/Waffen/Waffen/Kampfstab.md",
@@ -296,7 +344,6 @@
     "_Nimble_PFT/Gegenstände/Magische Gegenstände/Magische Gegenstände/Stab des Sommerwalds (Erneuert).md",
     "_Nimble_PFT/Gegenstände/Magische Gegenstände/Magische Gegenstände/Stab des Sommerwalds.md",
     "_Nimble_PFT/Gegenstände/Waffen/Waffen/Peitsche.md",
-    "DM Bereich/Gegenstände/Magische Gegenstände/Magische Gegenstände/Äxte des brennenden Zorns/Glutreißer - 0 Glimmend.md",
     "_Nimble_PFT/Regeln/Soziale Interaktion",
     "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand/embed Waffe",
     "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand",
