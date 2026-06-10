@@ -5,7 +5,7 @@ tags:
   - Gegenstand/Waffe/Schwert
   - Gegenstand/Waffe/Kriegswaffe
 Reichweite: 3(2)
-Schaden: 1W12
+Schaden: 1d12
 Schadensart: "[[Hiebschaden]]"
 Rüstungsdurchschlag: 1
 Eigenschaften:

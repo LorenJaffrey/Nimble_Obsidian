@@ -24,12 +24,12 @@ Verteidigung:
   Natürliche_Rüstung: 10
   Natürliche_SR: 0
   Resistenzen:
-    Schadensresistenz: 
-    Schadensimmunität: 
-    Schadensanfälligkeit: 
-    Zustandsimmunität: 
+    Schadensresistenz:
+    Schadensimmunität:
+    Schadensanfälligkeit:
+    Zustandsimmunität:
 Angriff:
-  - "[[Krummsäbel]]"
+  - "[[Säbel]]"
   - "[[Peitsche]]"
 Attribute:
   Stärke: 10
@@ -72,8 +72,8 @@ Merkmale:
   - "[[Schlüpfrig]]"
   - "[[Mehrfachangriff 2]]"
   - "[[Anspornende Präsenz]]"
-Anzahl_Legendäre_Aktionen: 
-Legendäre_Aktionen: 
+Anzahl_Legendäre_Aktionen:
+Legendäre_Aktionen:
 ---
 ```dynamic-embed
 [[embed Statblock Kreatur]]

@@ -2,7 +2,6 @@
 tags:
   - Liste/Waffen
 ---
-
 # `=this.file.name`
 
 ```dataview
@@ -12,7 +11,7 @@ file.link AS "Waffe",
 Schadensart, 
 Größe, 
 Eigenschaften
-FROM #Gegenstand/Waffe/Klasse/Nahkampfwaffe AND !#Gegenstand/Magischer_Gegenstand 
+FROM #Gegenstand/Waffe/Nahkampfwaffe AND !#Gegenstand/Magischer_Gegenstand 
 WHERE Hände < 2
 SORT file.name
 ```

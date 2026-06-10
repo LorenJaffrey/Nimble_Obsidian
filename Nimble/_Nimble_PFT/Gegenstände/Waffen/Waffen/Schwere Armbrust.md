@@ -8,19 +8,17 @@ Schadensart:
 Rüstungsdurchschlag:
 Eigenschaften:
 
-SchadenFern: 2d5
+SchadenFern: 1d10
 SchadensartFern: "[[Stichschaden]]"
-RüstungsdurchschlagFern:
+RüstungsdurchschlagFern: 5
 Range1: 1,5(1)
-Range2: 30(20)
-Range3: 120(80)
+Range2: 18(12)
+Range3: 36(24)
 EigenschaftenFern:
-  - "[[Laden]]"
   - "[[Geschosse]] (Bolzen)"
-  - "[[Rüstungsbrechend]] (3)"
-  - "[[Schwer]] (12)"
+  - "[[Laden]]"
 
-Kategorie: "[[Kriegswaffen]]"
+Mindeststärke: 1
 Hände: 2
 Größe: 4
 Gewicht: 10 Pfund

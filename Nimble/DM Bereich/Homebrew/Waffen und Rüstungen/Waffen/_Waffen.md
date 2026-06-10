@@ -22,7 +22,7 @@
 | [[Hellebarde]]           |  2  | 1W10    |  3  | Hieb, Stich |   2   |   5   |   2    | Krieg   | [[Defensiv]], [[Unhandlich]]                      |
 | [[Falchion]]             |  1  | 1W8     |  0  | Hieb        |   1   |   3   |   1    | Krieg   | [[Parade]], [[Brutal]]                            |
 | [[Rapier]]               |  1  | 2W4     |  0  | Stich       |   1   |   2   |   -    | Krieg   | [[Finesse]], [[Leicht]], [[Kritisch]], [[Parade]] |
-| [[Krummsäbel]]           |  1  | 1W6     |  0  | Hieb        |   1   |   2   |   0    | Krieg   | [[Finesse]], [[Parade]], [[Fließend]]             |
+| [[Säbel]]           |  1  | 1W6     |  0  | Hieb        |   1   |   2   |   0    | Krieg   | [[Finesse]], [[Parade]], [[Fließend]]             |
 | [[Dolch]]                |  1  | 1W4     |  0  | Stich       |   1   |   1   |   -    | Einfach | [[Finesse]], [[Parade]], [[Leicht]]               |
 | [[Wurfmesser]]           |  1  | 1W3     |  0  | Stich       |   1   |   1   |   -    | Einfach | [[Leicht]], [[Finesse]]                           |
 | [[Kampfstab]]            |  1  | 1W6     |  0  | Wucht       |   2   |   4   |   -    | Einfach | [[Finesse]], [[Parade]]                           |

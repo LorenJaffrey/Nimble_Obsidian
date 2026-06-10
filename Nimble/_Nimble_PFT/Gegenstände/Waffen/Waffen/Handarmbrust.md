@@ -3,28 +3,27 @@ tags:
   - Gegenstand/Waffe/Stichwaffe
   - Gegenstand/Waffe/Armbrust
   - Gegenstand/Waffe/Fernkampfwaffe/Schusswaffe
-  - Gegenstand/Waffe/Kriegswaffe
 Reichweite:
 Schaden:
 Schadensart:
 Rüstungsdurchschlag:
 Eigenschaften:
 
-SchadenFern: 2d3
+SchadenFern: 1d6
 SchadensartFern: "[[Stichschaden]]"
-RüstungsdurchschlagFern:
+RüstungsdurchschlagFern: 1
 Range1: 1,5(1)
 Range2: 9(6)
-Range3: 36(24)
+Range3: 18(12)
 EigenschaftenFern:
-  - "[[Leicht]]"
   - "[[Geschosse]] (Bolzen)"
   - "[[Laden]]"
+  - "[[Leicht]]"
 
-Kategorie: "[[Kriegswaffen]]"
+Mindeststärke:
 Hände: 1
-Größe: 2
-Gewicht: 3 Pfund
+Größe: 1
+Gewicht: 2 Pfund
 Kosten: 75 GM
 Verfügbarkeit: selten
 ---

@@ -76,59 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Waffen 1"
-            }
-          },
-          {
-            "id": "a46a022b01282968",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Nimble/Charaktere/Key Stats.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Key Stats"
-            }
-          },
-          {
-            "id": "8cfd7b52eed098c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Nimble/Charaktere/Klassen/Kleriker/Kleriker.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
               "title": "Kleriker"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -316,8 +268,9 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "8cfd7b52eed098c2",
+  "active": "bf29f7163ff6a46d",
   "lastOpenFiles": [
+    "DM Bereich/Nimble/Charaktere/Klassen/Kleriker/Kleriker.md",
     "DM Bereich/Nimble/Charaktere/Key Stats.md",
     "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen 1.md",
     "DM Bereich/Homebrew/Waffen und Rüstungen/Waffen/_Waffen.md",
@@ -343,7 +296,6 @@
     "DM Bereich/Gegenstände/Waffen/Waffen/B.I.A.N.K.A..md",
     "_Nimble_PFT/Gegenstände/Magische Gegenstände/Magische Gegenstände/Stab des Sommerwalds (Erneuert).md",
     "_Nimble_PFT/Gegenstände/Magische Gegenstände/Magische Gegenstände/Stab des Sommerwalds.md",
-    "_Nimble_PFT/Gegenstände/Waffen/Waffen/Peitsche.md",
     "_Nimble_PFT/Regeln/Soziale Interaktion",
     "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand/embed Waffe",
     "_Nimble_PFT/zHidden/_Embeds/embed Gegenstand",

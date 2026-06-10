@@ -9,18 +9,16 @@ Schadensart:
 Rüstungsdurchschlag:
 Eigenschaften: []
 
-SchadenFern: 1d10
+SchadenFern: 1d12
 SchadensartFern: "[[Stichschaden]]"
-RüstungsdurchschlagFern:
+RüstungsdurchschlagFern: 3
 Range1: 6(4)
-Range2: 75(50)
-Range3: 180(120)
+Range2: 48(24)
+Range3: 72(48)
 EigenschaftenFern: 
   - "[[Geschosse]] (Pfeile)"
-  - "[[Schwer]] (14)"
-  - "[[Rüstungsbrechend]] (1)"
 
-Kategorie: "[[Kriegswaffen]]"
+Mindeststärke: 2
 Hände: 2
 Größe: 4
 Gewicht: 4 Pfund

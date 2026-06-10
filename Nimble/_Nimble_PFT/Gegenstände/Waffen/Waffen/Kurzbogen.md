@@ -9,18 +9,18 @@ Schadensart:
 Rüstungsdurchschlag:
 Eigenschaften: []
 
-SchadenFern: 1d6
+SchadenFern: 1d8
 SchadensartFern: "[[Stichschaden]]"
-RüstungsdurchschlagFern:
+RüstungsdurchschlagFern: 1
 Range1: 3(2)
-Range2: 24(16)
-Range3: 96(64)
+Range2: 12(8)
+Range3: 24(16)
 EigenschaftenFern:
   - "[[Geschosse]] (Pfeile)"
 
-Mindeststärke:
+Mindeststärke: 0
 Hände: 2
-Größe: 3
+Größe: 2
 Gewicht: 2 Pfund
 Kosten: 25 GM
 Verfügbarkeit: gewöhnlich

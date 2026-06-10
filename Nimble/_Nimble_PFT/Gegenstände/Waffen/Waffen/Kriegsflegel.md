@@ -9,8 +9,6 @@ Schaden: 2d5
 Schadensart: "[[Wuchtschaden]]"
 Rüstungsdurchschlag: 3
 Eigenschaften:
-  - "[[Weitreichend]]"
-  - "[[Langsam]]"
   - "[[Heimtückisch]]"
 
 SchadenFern:

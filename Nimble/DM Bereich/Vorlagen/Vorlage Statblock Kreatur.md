@@ -14,7 +14,7 @@ Bewegung:
   Boden: 9
   Fliegen: 3
   Schwimmen: 6
-  Klettern: 
+  Klettern:
   Graben: 6
 Sinne:
   - "[[Blindsicht]] 18m (12 Kästchen)"
@@ -29,7 +29,7 @@ Verteidigung:
       - "[[Hiebschaden]]"
       - "[[Stichschaden]]"
       - "[[Wuchtschaden]]"
-    Schadensimmunität: 
+    Schadensimmunität:
     Schadensanfälligkeit:
     Zustandsimmunität:
       - "[[Blind]]"
@@ -77,7 +77,7 @@ Sprachen:
   - "[[Orkisch]]"
 Merkmale:
   - "[[Aggressiv]]"
-  - "[[Unbeugsamkeit]]"
+  - "[[_Unbeugsamkeit]]"
   - "[[Amorph]]"
   - "[[Behändes Entkommen]]"
   - "[[Drakonische Abstammung]]"

@@ -11,16 +11,14 @@ Eigenschaften: []
 
 SchadenFern: 1
 SchadensartFern: "[[Stichschaden]]"
-RüstungsdurchschlagFern:
+RüstungsdurchschlagFern: 0
 Range1: 1,5(1)
 Range2: 6(4)
-Range3: 30(20)
+Range3: 12(8)
 EigenschaftenFern: 
-- "[[Leicht]]"
 - "[[Geschosse]] (Blasrohrpfeile)"
-- "[[Laden]]"
 
-Kategorie: "[[Kriegswaffen]]"
+Mindeststärke: 
 Hände: 1
 Größe: 1
 Gewicht: 1 Pfund

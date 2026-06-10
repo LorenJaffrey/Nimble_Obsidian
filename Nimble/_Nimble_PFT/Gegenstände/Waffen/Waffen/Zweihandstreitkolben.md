@@ -2,7 +2,7 @@
 tags:
   - Gegenstand/Waffe/Nahkampfwaffe
   - Gegenstand/Waffe/Wuchtwaffe
-  - Gegenstand/Waffe/Streitkolben
+  - Gegenstand/Waffe/Keule
   - Gegenstand/Waffe/Kriegswaffe
 Reichweite: 1,5(1)
 Schaden: 1d12

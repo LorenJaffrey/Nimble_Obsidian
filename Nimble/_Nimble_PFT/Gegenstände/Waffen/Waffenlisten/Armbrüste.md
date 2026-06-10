@@ -10,14 +10,15 @@ tags:
 ```dataview
 TABLE WITHOUT ID
 file.link AS "Waffe",
+Range1 AS "MIN-RW", 
+Range2 AS "GND-RM", 
+Range3 AS "MAX-RW", 
 "`dice:" + SchadenFern + "\|none\|noform`"  AS "Schaden",
-SchadensartFern AS "Schadensart", 
-Range1 AS "Minimalreichweite", 
-Range2 AS "Grundreichweite", 
-Range3 AS "Maximalreichweite", 
-Hände AS "Hände", 
-Gewicht, 
-Kosten
-FROM #Gegenstand/Waffe/Gruppe/Armbrust AND !#Gegenstand/Magischer_Gegenstand
+SchadensartFern AS "Schadensart",
+RüstungsdurchschlagFern AS "Rüstungsdurchschlag",
+EigenschaftenFern AS "Eigenschaften",
+Mindeststärke,
+Hände
+FROM #Gegenstand/Waffe/Armbrust AND !#Gegenstand/Magischer_Gegenstand
 SORT file.name
 ```
