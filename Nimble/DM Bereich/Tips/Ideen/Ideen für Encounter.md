@@ -18,3 +18,12 @@
 ## Gefäß
 - menschliches Gefäß wird für einen mächtigen Magier (oder ähnliches) benötigt
 - muss beschützt werden während Gegner versuchen es zu töten
+
+## Erinnerungen
+- geisterhaftes Wesen welches Gedanken liest und Erinnerungen projiziert
+- [[Verstand]] benutzen um Illusion zu durchschauen
+- [[Willenskraft]] nutzen um sie zu besiegen 
+
+## Mama (Frieren)
+- Gruppe erreicht Siedlung in der ein menschliches Monster sein Unwesen treibt
+- Siedlung nimmt verweistes kindliches Wesen auf

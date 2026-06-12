@@ -15,26 +15,26 @@ SORT file.name
 ```
 
 TODO:
-- [[Kommandant]]
+- [[Taktiker]]
 - [[Jäger]]
 - [[Paladin]]
-- [[Kleriker]]
+- [[Priester]]
 - [[Klangweber]]
 - [[Druide]]
 - [[Windläufer]]
 
 
 ### Klassenideen
-| Klasse       | Rüstung | Magie          | Identität                                 |
-| ------------ | ------- | -------------- | ----------------------------------------- |
-| Kommandant   | Schwer  |                | Kämpfer, Support                          |
-| Paladin      | Schwer  | Göttlich       | Kämpfer/Caster Hybrid, Göttlicher Caster, |
-| Druide       | Leicht  | Natur          |                                           |
-| Schurke      | Leicht  |                |                                           |
-| Magier       | -       | Arkan          |                                           |
-| Hexenmeister | -       | Persönlichkeit |                                           |
-| Priester     | -       | Göttlich       | Caster, Heiler, Göttlicher Caster         |
-| Berserker    | -       |                | Melee DD                                  |
-| Mönch        | -       |                |                                           |
-| Jäger        | Mittel  |                | Ranged DD                                 |
-| Barde        |         | Persönlichkeit |                                           |
+| Klasse          | Rüstung | Ressource | Magie          | Identität                                |
+| --------------- | ------- | --------- | -------------- | ---------------------------------------- |
+| [[Taktiker]]    | Schwer  |           |                | Kämpfer, Support                         |
+| [[Paladin]]     | Schwer  |           |                | Kämpfer/Caster Hybrid, Göttlicher Caster |
+| [[Druide]]      | Leicht  | Mana      | Natur          |                                          |
+| [[Gauner]]      | Leicht  |           |                |                                          |
+| [[Arkanist]]    | -       | Mana      | Arkan          |                                          |
+| [[Fluchwirker]] | -       | Mana      | Persönlichkeit |                                          |
+| [[Priester]]    | -       | Mana      | Göttlich       | Caster, Heiler, Göttlicher Caster        |
+| [[Berserker]]   | -       | Wut       |                | Melee DD                                 |
+| [[Windläufer]]  | -       |           |                |                                          |
+| [[Jäger]]       | Mittel  |           |                | Ranged DD                                |
+

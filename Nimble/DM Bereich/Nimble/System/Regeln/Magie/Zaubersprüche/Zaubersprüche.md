@@ -6,7 +6,7 @@
 - [[Wind Spells]]. Aid in moving friend and foe alike around the battlefield. They can also slice and cut through entire groups of foes and viciously deal extra damage on critical hits.
 
 ## Magieschulen
-| Magieschule      | [[Arkanist]] | [[Paladin]] | [[Schattenrufer]] | [[Kleriker]] | [[Klangweber]] | [[Druide]] | [[Windläufer]] | [[Gauner]] | [[Berserker]] | [[Kommandant]] | [[Jäger]] |
+| Magieschule      | [[Arkanist]] | [[Paladin]] | [[Fluchwirker]] | [[Priester]] | [[Klangweber]] | [[Druide]] | [[Windläufer]] | [[Gauner]] | [[Berserker]] | [[Taktiker]] | [[Jäger]] |
 | ---------------- |:------------:|:-----------:|:-----------------:|:------------:|:--------------:|:----------:|:--------------:|:----------:|:-------------:|:--------------:|:---------:|
 | [[Arkanzauber]]  |      X       |             |                   |              |                |            |                |            |               |                |           |
 | [[Pyromantie]]   |      X       |             |        (X)        |              |      (X)       |            |      (X)       |            |               |                |           |
@@ -24,8 +24,8 @@
 | ----------------- |:--------------:|:-------------:|:---------------:|:--------------:|:---------------:|:---------------:|
 | [[Arkanist]]      |       X        |       X       |        X        |                |                 |                 |
 | [[Paladin]]       |                |               |                 |                |                 |        X        |
-| [[Schattenrufer]] |      (X)       |      (X)      |                 |                |        X        |                 |
-| [[Kleriker]]      |                |               |                 |                |        X        |        X        |
+| [[Fluchwirker]] |      (X)       |      (X)      |                 |                |        X        |                 |
+| [[Priester]]      |                |               |                 |                |        X        |        X        |
 | [[Klangweber]]    |      (X)       |      (X)      |       (X)       |       X        |       (X)       |       (X)       |
 | [[Druide]]        |                |               |        X        |       X        |                 |                 |
 

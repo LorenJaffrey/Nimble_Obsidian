@@ -44,7 +44,7 @@
 - müssen fliehen um der Gefangennahme zu entgehen
 - müssen versuchen sich rein zu waschen
 
-## Ethnische Unruhen
+## Ethnische Unruhen (Carnival Row)
 - Urbanes Umfeld
 - Ghettobildung von Nicht-Menschen
 - Rassismus und rechtes Gedankengut ausgelöst durch Migration
@@ -76,3 +76,11 @@
 - BBEG streut Gerüchte über Spieler
 - beliebter NSC entpuppt sich als Spion für BBEG 
 - Ort den die Spieler gerettet/besucht/befreit haben wird von BBEG zerstört
+
+## Politische Unruhen (Babylon Berlin)
+- Dreieckskonstellation von Fraktionen (Regierung, Armee, Kult)
+
+## Botschafter (Frieren - Granat Arc)
+- Botschafter werden von rivalisierender Partei geschickt für Verhandlungen
+- andere Partei nimmt aus Verzweiflung an
+- sollen eigentlich die Verteidigung ausschalten um Invasion zu ermöglichen

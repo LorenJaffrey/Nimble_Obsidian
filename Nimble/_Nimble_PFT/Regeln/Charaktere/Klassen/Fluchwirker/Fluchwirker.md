@@ -32,7 +32,7 @@ _Pfft, kaum!_ Nicht jedes uralte Schrecken﻿ ist gleich!
 Wenn du es leid bist, mit Schwertern rumzuhauen und wie ein Bauer zu schwitzen, ruf einfach eine Horde Schattengeister herbei, die für dich kämpfen. 
 Die sind immer begierig zu dienen! 
 
-Als [[Schattenrufer]] erwarten dich:
+Als [[Fluchwirker]] erwarten dich:
 
 - **Unaussprechliche Macht**﻿ Nutze deine List, um Pakte mit uralten, unbegreiflichen Entitäten zu schmieden, zapfe ihre unverständliche Macht an, um Feinde zu zermalmen und Schatten deinem Willen zu beugen.
 - **Schattengeister**﻿ Ruf Legionen schattenhafter Diener herbei, um deine Gegner zu überrennen und deine magischen Kräfte zu verstärken. 

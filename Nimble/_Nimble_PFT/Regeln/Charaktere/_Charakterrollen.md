@@ -3,11 +3,11 @@
 | ----------------- |:----------:|:------------:|:--------:|:---------:|:---------:|:------:|
 | [[Berserker]]     |            |      X       |    X     |           |     X     |        |
 | [[Windläufer]]    |            |      X       |    X     |           |           |   X    |
-| [[Kommandant]]    |     X      |              |          |           |           |        |
-| [[Kleriker]]      |            |              |          |     X     |           |   X    |
+| [[Taktiker]]    |     X      |              |          |           |           |        |
+| [[Priester]]      |            |              |          |     X     |           |   X    |
 | [[Paladin]]       |     X      |              |          |           |           |        |
 | [[Gauner]]        |            |              |    X     |           |     X     |        |
-| [[Schattenrufer]] |            |              |    X     |     X     |           |        |
+| [[Fluchwirker]] |            |              |    X     |     X     |           |        |
 | [[Jäger]]         |            |              |    X     |     X     |           |        |
 | [[Druide]]        |            |      X       |    X     |           |           |   X    |
 | [[Arkanist]]      |            |              |          |     X     |           |   X    |

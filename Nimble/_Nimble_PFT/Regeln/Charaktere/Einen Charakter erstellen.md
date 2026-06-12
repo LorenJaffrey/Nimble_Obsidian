@@ -21,12 +21,12 @@ SORT file.name
 
 - **[[Berserker]].** Unaufhaltsame Kraft aus Zorn und Zerstörung.
 - **[[Gauner]].** Heimtückischer, hinterhältiger, schmutzig kämpfender Schurke.
-- **[[Kommandant]].** Meisterstratege, Anführer und Waffenexperte.
+- **[[Taktiker]].** Meisterstratege, Anführer und Waffenexperte.
 - **[[Jäger]].** Findiger Überlebenskünstler, Bogenschütze und erfahrener Fährtenleser.
 - **[[Arkanist]].** Beherrsche Feuer, Eis und Blitze.
 - **[[Paladin]].** Treuer Wächter, Beschützer und Rächer der Schwachen.
-- **[[Schattenrufer]].** Beschwöre Horden entbehrlicher Diener.
-- **[[Kleriker]].** Meistre Leben und Tod. Führe einen treuen Begleiter.
+- **[[Fluchwirker]].** Beschwöre Horden entbehrlicher Diener.
+- **[[Priester]].** Meistre Leben und Tod. Führe einen treuen Begleiter.
 - **[[Klangweber]].** Inspirierende Präsenz, scharfer Verstand, schärfere Zunge.
 - **[[Druide]].** Gebieter über Wetter, Bestien und Natur.
 - **[[Windläufer]].** Disziplinierter Kampfkünstler mit schnellen Händen und Füßen.
