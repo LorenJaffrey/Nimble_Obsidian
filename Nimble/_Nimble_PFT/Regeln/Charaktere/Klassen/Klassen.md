@@ -25,16 +25,16 @@ TODO:
 
 
 ### Klassenideen
-| Klasse          | Rüstung | Ressource | Magie          | Identität                                |
-| --------------- | ------- | --------- | -------------- | ---------------------------------------- |
-| [[Taktiker]]    | Schwer  |           |                | Kämpfer, Support                         |
-| [[Paladin]]     | Schwer  |           |                | Kämpfer/Caster Hybrid, Göttlicher Caster |
-| [[Druide]]      | Leicht  | Mana      | Natur          |                                          |
-| [[Gauner]]      | Leicht  |           |                |                                          |
-| [[Arkanist]]    | -       | Mana      | Arkan          |                                          |
-| [[Fluchwirker]] | -       | Mana      | Persönlichkeit |                                          |
-| [[Priester]]    | -       | Mana      | Göttlich       | Caster, Heiler, Göttlicher Caster        |
-| [[Berserker]]   | -       | Wut       |                | Melee DD                                 |
-| [[Windläufer]]  | -       |           |                |                                          |
-| [[Jäger]]       | Mittel  |           |                | Ranged DD                                |
+| Klasse          | Rüstung | Ressource                          | Magie          | Identität                                | Subklassen                                          |
+| --------------- | ------- | ---------------------------------- | -------------- | ---------------------------------------- | --------------------------------------------------- |
+| [[Taktiker]]    | Schwer  | Fokus (steigt im Kampf pro Runde)  |                | Kämpfer, Support                         | Melee DD, Melee Tank, Kommandant (Support)          |
+| [[Paladin]]     | Schwer  |                                    |                | Kämpfer/Caster Hybrid, Göttlicher Caster | Melee DD, Melee Tank, Inquisitor/Interrogator       |
+| [[Druide]]      | Leicht  | Mana (Pool, wird erschöpft)        | Natur          |                                          | Melee DD/Tank, Heiler, Caster DD                    |
+| [[Gauner]]      | Leicht  |                                    |                |                                          | Assassine, Gentleman, Strippenzieher                |
+| [[Arkanist]]    | -       | Mana (Pool, wird erschöpft)        | Arkan          |                                          | Caster DD, Chronomant (Heiler)                                   |
+| [[Fluchwirker]] | -       | Mana (Pool, wird erschöpft)        | Persönlichkeit |                                          | Caster DD, ?, ?                                     |
+| [[Priester]]    | -       | Mana (Pool, wird erschöpft)        | Göttlich       | Caster, Heiler, Göttlicher Caster        |                                                     |
+| [[Berserker]]   | -       | Wut (wird durch Schaden aufgebaut) |                | Melee DD                                 |                                                     |
+| [[Windläufer]]  | -       |                                    |                |                                          | Elemente (DD), Drunken Master (Tank),                 | 
+| [[Jäger]]       | Mittel  |                                    |                | Ranged DD                                | Scharfschütze, Bestienmeister, Späher/Fallensteller |
 
