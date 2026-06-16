@@ -19,7 +19,6 @@ TODO:
 - [[Jäger]]
 - [[Paladin]]
 - [[Priester]]
-- [[Klangweber]]
 - [[Druide]]
 - [[Windläufer]]
 

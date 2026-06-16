@@ -27,7 +27,7 @@ Da nicht jeder Schlick jede Art von Substanz zersetzen kann, haben einige Schlic
 Ein getöteter Schlick kann eine reichhaltige Quelle für Schätze sein.
 
 ## Geistlose Diener
-Auch wenn ein Schlick nicht die [[Intelligenz]] hat, sich mit anderen Kreaturen zu verbünden, könnten andere, die verstehen, dass er fressen muss, ihn an einen Ort locken, wo er nützlich sein kann. 
+Auch wenn ein Schlick nicht die [[Verstand]] hat, sich mit anderen Kreaturen zu verbünden, könnten andere, die verstehen, dass er fressen muss, ihn an einen Ort locken, wo er nützlich sein kann. 
 Schlaue Monster halten Schlicke in ihrer Nähe, damit sie Korridore bewachen oder Abfälle verzehren. 
 Gleichermaßen kann ein Schlick in eine Grubenfalle gelockt werden, wo ihn seine Fänger häufig genug füttern, sodass er sie nicht angreift. 
 Schlaue Kreaturen stellen Fackeln und lodernde Feuerschalen an strategischen Orten auf, um zu verhindern, dass ein Schlick einen bestimmten Tunnel oder Raum verlässt.

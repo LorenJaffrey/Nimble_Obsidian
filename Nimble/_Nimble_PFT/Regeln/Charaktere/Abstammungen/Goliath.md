@@ -26,7 +26,7 @@ Ihre schiere Größe und Widerstandskraft machen sie zu furchterregenden Gegnern
 `$=dv.list(dv.current().Merkmale)`
 
 ### Halblingisch
-Du sprichst [[Riesisch]], sofern deine [[Intelligenz|IN]] nicht negativ ist.
+Du sprichst [[Riesisch]], sofern deine [[Verstand|IN]] nicht negativ ist.
 
 ### Verstohlen  
 Du erhältst einen Bonus von +1 auf [[Athletik]]. 

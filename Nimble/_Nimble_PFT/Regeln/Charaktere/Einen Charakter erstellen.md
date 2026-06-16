@@ -53,15 +53,15 @@ Markiere [[Vorteil und Nachteil|Vorteil]]  und [[Vorteil und Nachteil|Nachteil
 - **Extrem (Min–Max):** +3, +1, +1, +1, -1, -1
 
 > [!example]- Beispiel  
-> [[Der Betrüger]] hat [[Geschicklichkeit|GE]] und [[Intelligenz|IN]] als seine Hauptwerte. 
-> Mit der Min–Max-Verteilung könntest du +3 auf  [[Geschicklichkeit|GE]], +1 auf  [[Intelligenz|IN]], [[Charisma|CH]] und [[Konstitution|KO]]  und –1 auf  [[Stärke|ST]] und [[Weisheit|WE]]  setzen. 
+> [[Der Betrüger]] hat [[Geschicklichkeit|GE]] und [[Verstand|IN]] als seine Hauptwerte. 
+> Mit der Min–Max-Verteilung könntest du +3 auf  [[Geschicklichkeit|GE]], +1 auf  [[Verstand|IN]], [[Präsenz|CH]] und [[Konstitution|KO]]  und –1 auf  [[Stärke|ST]] und [[Weisheit|WE]]  setzen. 
 > Markiere [[Vorteil und Nachteil|Vorteil]] für [[Geschicklichkeit|GE]]-[[Rettungswurf|Rettungswürfe]] und [[Vorteil und Nachteil|Nachteil]] für [[Weisheit|WE]]-[[Rettungswurf|Rettungswürfe]].
 
 ## 2. Fertigkeitspunkte
 Auf Stufe 1 überträgst du deine [[Attribute|Attributsboni]] auf die jeweiligen [[Fertigkeiten]] (z. B. ein Held mit +2 [[Geschicklichkeit|GE]]  trägt +2 bei [[Akrobatik]], [[Fingerfertigkeit]] und [[Heimlichkeit]] ein) und darf 6 weitere Punkte frei verteilen.
 
 > [!example]- Beispiel  
-> Wenn du –1 [[Intelligenz|IN]] hast, markiere  -1 bei [[Arkane Kunde]], [[Geschichte]], [[Nachforschungen]], [[Naturkunde]] und [[Religion]]. 
+> Wenn du –1 [[Verstand|IN]] hast, markiere  -1 bei [[Arkane Kunde]], [[Geschichte]], [[Nachforschungen]], [[Naturkunde]] und [[Religion]]. 
 > Wiederhole das für deine anderen Attribute. 
 > Mit den 6 Extrapunkten kannst du z. B. [[Heimlichkeit]] und [[Fingerfertigkeit]] je +3 erhöhen, 6 verschiedene Fertigkeiten  je +1 oder alle 6 Punkte in deine Lieblingsfertigkeit setzen.
 
@@ -85,7 +85,7 @@ Wenn du auf höherer Stufe beginnst, multipliziere den Betrag 
 
 ## 5. Sprachen
 Alle Helden sprechen [[Gemeinsprache]] (Standard). 
-Jeder Punkt in [[Intelligenz|IN]] gewährt eine weitere bekannte [[Sprachen|Sprache]]. 
+Jeder Punkt in [[Verstand|IN]] gewährt eine weitere bekannte [[Sprachen|Sprache]]. 
 
 > [!tip]- GROFWINT DRAZLON!  
 > Die Sprache einer anderen Kreatur zu sprechen kann Türen öffnen, die Waffen nicht können – wer bewaffnet ist, aber nicht kommunizieren kann, führt oft zum Kampf.

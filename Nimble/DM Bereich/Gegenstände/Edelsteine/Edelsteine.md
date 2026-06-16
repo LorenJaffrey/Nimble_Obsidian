@@ -1,7 +1,7 @@
 # `=this.file.name`
 
 ## Edelsteine identifizieren
-Um [[Edelsteine]] zu identifizieren ist ein Wurf auf [[Intelligenz|Intelligenzwurf]] gegen [[Schwierigkeitsgrad|SG]] 15 notwendig.
+Um [[Edelsteine]] zu identifizieren ist ein Wurf auf [[Verstand|Intelligenzwurf]] gegen [[Schwierigkeitsgrad|SG]] 15 notwendig.
 
 ## Liste der Edelsteine
 ```dataview

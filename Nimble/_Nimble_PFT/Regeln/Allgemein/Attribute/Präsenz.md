@@ -1,8 +1,9 @@
 ---
 aliases: 
-  - Charismawurf
-  - Charismawürfe
-  - CH
+  - Präsenzwurf
+  - Präsenzwürfe
+  - PR
+  - PRÄ
 tags:
   - Regeln/Nimble/Attribut
 ---
@@ -10,7 +11,7 @@ tags:
 
 Misst die Fähigkeit effektiv mit anderen zu agieren.
 Dazu gehören Faktoren wie Selbstvertrauen und Beredsamkeit.
-Charismawürfe werden nötig um andere zu beeinflussen oder zu unterhalten, Eindruck zu schinden, mit einer Lüge zu überzeugen oder eine schwierige soziale Situation zu meistern.
+[[Präsenz|Präsenzwürfe]] werden nötig um andere zu beeinflussen oder zu unterhalten, Eindruck zu schinden, mit einer Lüge zu überzeugen oder eine schwierige soziale Situation zu meistern.
 
 ## Verbundene Fertigkeiten
 ```dataview

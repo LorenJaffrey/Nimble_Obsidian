@@ -14,12 +14,9 @@
 | ---------------- |:---:| ---------------------- | ------------------------------------------------------------ |
 | Stärke           |  X  | Traglast, Nahkampf     | Athletik                                                     |
 | Konstitution     |  X  | TP                     |                                                              |
-| Beweglichkeit    |  X  | Ausweichen, Initiative | Heimlichkeit                                                 |
+| Beweglichkeit    |  X  | Ausweichen, Initiative | Akrobatik, Heimlichkeit                                      |
 | Geschick         |     | Fernkampf              | Fingerfertigkeit                                             |
 | Verstand         |  X  | Arkane Magie           | Arkane Kunde, Nachforschen, Geschichte, Naturkunde, Religion |
-| Wahrnehmung      |     | Überraschung           | Motiv erkennen, Wahrnehmung, Mit Tieren umgehen              |
+| Instinkt         |     | Überraschung           | Motiv erkennen, Wahrnehmung, Mit Tieren umgehen              |
 | Entschlossenheit |  X  | Göttliche Magie        |                                                              |
 | Präsenz          |  X  |                        | Auftreten, Einschüchtern, Täuschen, Überzeugen               |
-
-Initiative
-

@@ -12,4 +12,4 @@ Verflucht: false
 [[embed Magische Gegenstände Infobox]]
 ```
 
-Der Träger erhält +1 [[Charisma]], wenn er [[Überzeugen]]- oder [[Täuschen]] gegen ein Lebewesen durchführt, dem er ein Getränk serviert hat.
+Der Träger erhält +1 [[Präsenz]], wenn er [[Überzeugen]]- oder [[Täuschen]] gegen ein Lebewesen durchführt, dem er ein Getränk serviert hat.

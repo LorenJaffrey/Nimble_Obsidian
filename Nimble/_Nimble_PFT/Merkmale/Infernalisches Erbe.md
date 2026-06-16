@@ -15,7 +15,7 @@ Außerdem beherrschst du folgende Zauber:
 - ab Stufe 3: [[Höllischer Tadel]]
 - ab Stufe 5: [[Dunkelheit]]
 
-Wähle eines der folgenden [[Attribute]]: [[Intelligenz]], [[Weisheit]] oder [[Charisma]].
+Wähle eines der folgenden [[Attribute]]: [[Verstand]], [[Weisheit]] oder [[Präsenz]].
 Das gewählte [[Attribute|Attribut]] ist dein [[Attribute|Attribut]] zum Wirken dieser Zauber.
 
 Du hast diese Zauber stets vorbereitet und kannst sie einmal wirken, ohne einen [[Zauberplätze|Zauberplatz]] zu verbrauchen. 

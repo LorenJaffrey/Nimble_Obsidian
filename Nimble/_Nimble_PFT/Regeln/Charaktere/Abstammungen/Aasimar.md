@@ -26,7 +26,7 @@ Ihre angeborene Verbindung zu den höheren Ebenen befähigt sie, den Auswirkunge
 `$=dv.list(dv.current().Merkmale)`
 
 ### Celestisch
-Du kennst [[Celestisch]], wenn deine [[Intelligenz|IN]] nicht negativ ist.
+Du kennst [[Celestisch]], wenn deine [[Verstand|IN]] nicht negativ ist.
 
 ### Himmlische Einsicht
 Du erhältst einen Bonus von +1 auf [[Motiv erkennen]].

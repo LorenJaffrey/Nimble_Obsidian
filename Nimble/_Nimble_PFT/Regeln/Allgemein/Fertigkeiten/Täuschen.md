@@ -1,7 +1,7 @@
 ---
 tags:
   - Regeln/Nimble/Fertigkeit/Charisma
-Attribut: "[[Charisma]]"
+Attribut: "[[Präsenz]]"
 ---
 # `=this.file.name`
 Abhängiges [[Attribute|Attribut]]: `=this.Attribut`

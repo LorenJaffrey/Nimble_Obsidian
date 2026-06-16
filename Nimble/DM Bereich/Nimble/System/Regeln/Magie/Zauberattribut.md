@@ -15,9 +15,9 @@ Welches Attribut du nutzt, hängt von deiner Klasse ab:
 
 | Klasse            | Attribut zum Zauberwirken |
 | ----------------- | ------------------------- |
-| [[Klangweber]]    | [[Intelligenz]]           |
+| [[Klangweber]]    | [[Verstand]]           |
 | [[Priester]]      | [[Weisheit]]              |
 | [[Druide]]        | [[Weisheit]]              |
-| [[Fluchwirker]] | [[Intelligenz]]           |
-| [[Arkanist]]      | [[Intelligenz]]           |
-| [[Paladin]]       | [[Charisma]]              |
+| [[Fluchwirker]] | [[Verstand]]           |
+| [[Arkanist]]      | [[Verstand]]           |
+| [[Paladin]]       | [[Präsenz]]              |

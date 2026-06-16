@@ -5,4 +5,4 @@ aliases:
 Einsatz: Passiv
 ---
 # `=this.file.name`
-Einmal pro Tag darfst du das Ergebnis eines beliebigen [[Fertigkeiten#Fertigkeitswurf|Fertigkeitswurfs]] zu 10+[[Intelligenz|IN]] machen.
+Einmal pro Tag darfst du das Ergebnis eines beliebigen [[Fertigkeiten#Fertigkeitswurf|Fertigkeitswurfs]] zu 10+[[Verstand|IN]] machen.

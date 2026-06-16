@@ -28,7 +28,7 @@ Typ: "[[Debuff]]"
 ```
 
 ## Beschreibung
-Bis zu drei Kreaturen deiner Wahl in Reichweite, die du sehen kannst, müssen einen [[Rettungswurf]] auf [[Charisma]] ablegen. 
+Bis zu drei Kreaturen deiner Wahl in Reichweite, die du sehen kannst, müssen einen [[Rettungswurf]] auf [[Präsenz]] ablegen. 
 Immer wenn ein Ziel, dem sein [[Rettungswurf]] nicht gelungen ist, während der Wirkungsdauer des Zaubers einen [[Angriffswurf]] oder [[Rettungswurf]] ausführt, muss es mit einem W4 würfeln und das Ergebnis vom entsprechenden Wurf abziehen.
 
 ### Auf höheren Graden

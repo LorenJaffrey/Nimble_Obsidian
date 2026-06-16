@@ -26,7 +26,7 @@ Du verzichtest auf Geschwindigkeit, bist dafür mit körperlicher Ausdauer und e
 ## Merkmale
 
 ### Zwergisch
-Du sprichst [[Zwergisch]], sofern deine [[Intelligenz|IN]] nicht negativ ist.
+Du sprichst [[Zwergisch]], sofern deine [[Verstand|IN]] nicht negativ ist.
 
 ### Stämmig
 Deine maximalen [[Trefferwürfel]] erhöhen sich um 1 und deine maximalen [[Wunden]] um 2.

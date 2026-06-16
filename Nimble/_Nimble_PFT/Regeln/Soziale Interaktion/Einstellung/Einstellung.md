@@ -8,7 +8,7 @@ Dies bestimmt den [[Schwierigkeitsgrad|SG]] der Interaktion.
 Durch ausspielen der Rollen von Spieler und DM ergeben sich soziale Interaktionen.
 
 ## Attributswürfe
-Im Zuge dieser sozialen Interaktionen kann der DM jederzeit einen [[Charisma|Charismawurf]] fordern.
+Im Zuge dieser sozialen Interaktionen kann der DM jederzeit einen [[Präsenz|Charismawurf]] fordern.
 
 ## Fertigkeiten
 [[Auftreten]]

@@ -27,7 +27,7 @@ Rufe deinen Zorn an, sprich in der Sprache deiner Ahnen und entfessele ungezüge
 `$=dv.list(dv.current().Merkmale)`
 
 ### Drakonisch
-Du sprichst [[Drakonisch]], sofern deine [[Intelligenz|IN]] nicht negativ ist.
+Du sprichst [[Drakonisch]], sofern deine [[Verstand|IN]] nicht negativ ist.
 
 ### Drachenerbe 
 Deine Schuppenhaut verleiht dir einen Bonus von +1 auf deine [[Rüstungsklasse]].

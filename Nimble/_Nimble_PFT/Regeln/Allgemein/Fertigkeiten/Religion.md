@@ -1,7 +1,7 @@
 ---
 tags:
   - Regeln/Nimble/Fertigkeit/Intelligenz
-Attribut: "[[Intelligenz]]"
+Attribut: "[[Verstand]]"
 ---
 # `=this.file.name`
 Abhängiges Attribut: `=this.Attribut`

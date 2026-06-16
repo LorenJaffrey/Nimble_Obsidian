@@ -5,5 +5,5 @@ aliases:
 Einsatz: Passiv
 ---
 # `=this.file.name`
-Erhöhe dein [[Charisma|CH]] oder deine [[Intelligenz|IN]] um 1. 
+Erhöhe dein [[Präsenz|CH]] oder deine [[Verstand|IN]] um 1. 
 Du hast 1 [[Trefferwürfel]] weniger.

@@ -3,7 +3,7 @@ tags:
   - Regeln/Nimble/Charakter/Klasse
 Trefferwürfel: 6
 Kernattribute:
-  - "[[Intelligenz]]"
+  - "[[Verstand]]"
   - "[[Weisheit]]"
 Übung:
   Waffen:

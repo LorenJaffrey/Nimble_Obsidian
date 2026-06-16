@@ -4,7 +4,7 @@ tags:
 Trefferwürfel: 10
 Kernattribute:
   - "[[Stärke]]"
-  - "[[Charisma]]"
+  - "[[Präsenz]]"
 Übung:
   Waffen:
     - "[[Einfache Waffen]]"
@@ -20,7 +20,7 @@ Rettungswürfe:
     - "[[Rettungswurf#Geschicklichkeitsrettungswurf|Geschicklichkeitsrettungswürfe]]"
     - "[[Rettungswurf#Intelligenzrettungswurf|Intelligenzrettungswürfe]]"
     - "[[Rettungswurf#Weisheitsrettungswurf|Weisheitsrettungswürfe]]"
-Beschreibung: "Ein Taktiker, Anführer und Waffenmeister."
+Beschreibung: Ein Taktiker, Anführer und Waffenmeister.
 ---
 # `=this.file.name`
 Soldat … Krieger … furchtloser Anführer.  

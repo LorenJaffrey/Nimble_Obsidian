@@ -46,7 +46,7 @@ Bei einem [[Misserfolg]] werden sie 1,5 Meter (1 Kästchen) zurückgestoßen.
 Diese Druckwelle verursacht keinen Schaden, durchbricht jedoch leichte Hindernisse wie Türen oder Glas.
 
 **Heilung**
-Der Träger kann einmal pro lange Rast die heilende Wirkung des Wassers nutzen, um bei sich selbst oder einem Verbündeten innerhalb von 4,5 Metern (3 Kästchen) sofort [[Trefferpunkte]] in Höhe seines [[Charisma#Charismamodifikator|Charismamodifikatoors]] + `dice:1d6` wiederherzustellen.
+Der Träger kann einmal pro lange Rast die heilende Wirkung des Wassers nutzen, um bei sich selbst oder einem Verbündeten innerhalb von 4,5 Metern (3 Kästchen) sofort [[Trefferpunkte]] in Höhe seines [[Präsenz#Charismamodifikator|Charismamodifikatoors]] + `dice:1d6` wiederherzustellen.
 
 **Elementarresonanz**
 Einmal pro [[Feldrast]] kann der Benutzer bei allen Gegnern im Umkreis von 9 Metern (6 Kästchen) für 1 Runde [[Schadensarten#Schadensanfälligkeit]] für  [[Blitzschaden]] und [[Schallschaden]] verursachen.

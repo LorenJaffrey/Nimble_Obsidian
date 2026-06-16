@@ -1,10 +1,10 @@
 ---
 aliases: 
-  - Intelligenzwurf
-  - Intelligenzwürfe
-  - Intelligenzwürfen
-  - IN
-  - INT
+  - Verstandwurf
+  - Verstandwürfe
+  - Verstandwürfen
+  - VS
+  - VER
 tags:
   - Regeln/Nimble/Attribut
 ---

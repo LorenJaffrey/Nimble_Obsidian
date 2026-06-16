@@ -31,7 +31,7 @@ Wenn du zum Beispiel im Umgang mit der [[Fälscherausrüstung]] und im Umgang mi
 
 ### Rasche Fälschung
 Als Teil einer [[Feldrast|Kurzen Rast]] kannst du ein gefälschtes Dokument anfertigen, das nicht länger als eine Seite sein darf. Als Teil einer langen Rast kannst du ein Dokument fälschen, das nicht länger als vier Seiten sein darf.
-Dein Wurf auf [[Intelligenz]] mit der [[Fälscherausrüstung]] bestimmt den [[Schwierigkeitsgrad|SG]] des Wurfes auf [[Nachforschungen]], um die Fälschung als solche zu erkennen.
+Dein Wurf auf [[Verstand]] mit der [[Fälscherausrüstung]] bestimmt den [[Schwierigkeitsgrad|SG]] des Wurfes auf [[Nachforschungen]], um die Fälschung als solche zu erkennen.
 
 ## Beispiel-SG
 

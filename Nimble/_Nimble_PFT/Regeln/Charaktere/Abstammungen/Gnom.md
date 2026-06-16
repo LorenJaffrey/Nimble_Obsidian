@@ -25,7 +25,7 @@ Bekannt für ihr Tüfteln, das Verbreiten von Heiterkeit und verspielte Streiche
 `$=dv.list(dv.current().Merkmale)`
 
 ### Gnomisch
-Du sprichst [[Gnomisch]], sofern deine [[Intelligenz|IN]] nicht negativ ist.
+Du sprichst [[Gnomisch]], sofern deine [[Verstand|IN]] nicht negativ ist.
 
 ### Gnomische Gerissenheit
 Du erhältst einen Bonus von +1 auf [[Nachforschungen]], [[Arkane Kunde]] und [[Geschichte]].

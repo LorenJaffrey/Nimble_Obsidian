@@ -6,9 +6,9 @@
 | [[Stärke]]           |   18   |   8    |   8    |   10   | 12  |
 | [[Geschicklichkeit]] |   13   |   16   |   14   |   14   | 18  |
 | [[Konstitution]]     |   16   |   14   |   14   |   12   | 14  |
-| [[Intelligenz]]      |   10   |   14   |   12   |   14   |  8  |
+| [[Verstand]]      |   10   |   14   |   12   |   14   |  8  |
 | [[Weisheit]]         |   12   |   10   |   18   |   8    | 14  |
-| [[Charisma]]         |   8    |   14   |   11   |   18   | 10  |
+| [[Präsenz]]         |   8    |   14   |   11   |   18   | 10  |
 
 ## Fertigkeiten
 | Fertigkeit             | Drogan  | Niptac | Aranon | Lucian |   Jon   |

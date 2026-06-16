@@ -6,4 +6,4 @@ Einsatz: Passiv
 ---
 # `=this.file.name`
 Einmal pro [[Begegnung]] erhältst du Vorteil auf einen [[Studieren]]‑Wurf.
-Einmal pro Tag erhältst du Vorteil auf einen [[Intelligenz|IN]]-basierten [[Fertigkeiten#Fertigkeitswurf]].
+Einmal pro Tag erhältst du Vorteil auf einen [[Verstand|IN]]-basierten [[Fertigkeiten#Fertigkeitswurf]].

@@ -33,7 +33,7 @@ Du kannst einen solchen Effekt verwerfen (keine [[Aktionen]] erforderlich).
 
 - **Beben**: Du bewirkst ein harmloses Erdbeben, das eine Minute lang andauert.
 - **Dröhnende Stimme**: Deine Stimme ertönt 1 Minute lang bis zu dreimal so laut wie sonst. 
-  Für die Wirkungsdauer bist du bei [[Charisma|Charismawürfen]]würfen ([[Einschüchtern]]) im [[Vorteil und Nachteil|Vorteil]].
+  Für die Wirkungsdauer bist du bei [[Präsenz|Charismawürfen]]würfen ([[Einschüchtern]]) im [[Vorteil und Nachteil|Vorteil]].
 - **Feuerspiel**: Du lässt 1 Minute lang Flammen auflodern, stärker oder schwächer leuchten oder ihre Farbe ändern.
 - **Phantomgeräusch**: Du erzeugst ein unmittelbares Geräusch, das von einem Punkt deiner Wahl in Reichweite ausgeht, beispielsweise Donnergrollen, Rabenkrächzen oder bedrohliches Flüstern.
 - **Unsichtbare Hand**: Du lässt unmittelbar eine unverschlossene Tür oder ein unverschlossenes Fenster auffliegen oder zuschlagen.

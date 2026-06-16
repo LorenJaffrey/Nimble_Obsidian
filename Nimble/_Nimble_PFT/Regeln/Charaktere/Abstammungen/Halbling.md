@@ -29,7 +29,7 @@ Stell dir mal vor, wie viel Glück du in diesen kleinen Dingern stecken hast!
 `$=dv.list(dv.current().Merkmale)`
 
 ### Halblingisch
-Du sprichst [[Halblingisch]], sofern deine [[Intelligenz|IN]] nicht negativ ist.
+Du sprichst [[Halblingisch]], sofern deine [[Verstand|IN]] nicht negativ ist.
 
 ### Verstohlen  
 Du erhältst einen Bonus von +1 auf [[Heimlichkeit]] und [[Fingerfertigkeit]]. 

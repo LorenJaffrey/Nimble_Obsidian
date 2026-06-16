@@ -31,4 +31,4 @@ Du brauchst Zugang zu den entsprechenden Rohmaterialien, um einen Mechanismus re
 | ------------------------ | -------------------- | -------- |
 | Gerätschaft konstruieren | [[Fingerfertigkeit]] | variiert |
 | Gerätschaft reparieren   | [[Fingerfertigkeit]] | variiert |
-| Gerätschaft planen       | [[Intelligenz]]      | variiert |
+| Gerätschaft planen       | [[Verstand]]      | variiert |

@@ -26,7 +26,7 @@ Wenn du die Kreatur zu etwas bewegen willst, was sie nicht unbedingt tun will, m
 [[Gleichgültig]], [[Freundlich]] gesinnt oder [[Feindlich]] gesinnt.
 In der Tabelle [[Beeinflussen#Attributswürfe zum Beeinflussen]] findest du Vorschläge, welcher [[Attribute#Attributswurf]] je nach deiner Interaktion mit der Kreatur jeweils auszuführen ist. 
 Der SL wählt den [[Attribute#Attributswurf]] aus.
-Dieser hat einen [[Schwierigkeitsgrad]] in Höhe von 15 oder dem [[Intelligenz|Intelligenzwert]] der Kreatur, je nachdem, welcher Wert höher ist. 
+Dieser hat einen [[Schwierigkeitsgrad]] in Höhe von 15 oder dem [[Verstand|Intelligenzwert]] der Kreatur, je nachdem, welcher Wert höher ist. 
 Bei einem [[Erfolg]] tut die Kreatur, was du willst. 
 Scheitert der Wurf, so musst du 24 Stunden (oder eine Dauer nach Vorgabe des SL) abwarten, ehe du erneut versuchen kannst, sie auf diese Art zu [[Beeinflussen]].
 

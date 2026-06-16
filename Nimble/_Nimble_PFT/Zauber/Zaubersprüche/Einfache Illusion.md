@@ -43,6 +43,6 @@ Das Abbild kann weder Geräusche, Licht, Gerüche noch andere sensorische Effekt
 
 Körperliche Interaktion mit dem Trugbild offenbart, dass es sich um eine Illusion handelt, da Dinge es einfach durchdringen.
 Eine Kreatur kann ihre [[Aktionen]] verwenden, um das Bildnis oder das Geräusch zu untersuchen. 
-Gelingt ihr ein [[Intelligenz|Intelligenzwurf]] auf [[Nachforschungen]] gegen den [[Schwierigkeitsgrad|SG]] zum Widerstehen deiner Zauber, kann sie erkennen, dass es sich um eine Illusion handelt.
+Gelingt ihr ein [[Verstand|Intelligenzwurf]] auf [[Nachforschungen]] gegen den [[Schwierigkeitsgrad|SG]] zum Widerstehen deiner Zauber, kann sie erkennen, dass es sich um eine Illusion handelt.
 
 Durchschaut eine Kreatur die Illusion, verblasst diese für sie.

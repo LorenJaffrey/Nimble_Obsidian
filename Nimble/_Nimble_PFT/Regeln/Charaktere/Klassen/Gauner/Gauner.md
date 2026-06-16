@@ -4,7 +4,7 @@ tags:
 Trefferwürfel: 6
 Kernattribute:
   - "[[Geschicklichkeit]]"
-  - "[[Intelligenz]]"
+  - "[[Verstand]]"
 Übung:
   Waffen:
     - "[[Einfache Waffen]]"

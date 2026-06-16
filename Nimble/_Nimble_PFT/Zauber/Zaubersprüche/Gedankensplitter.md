@@ -21,7 +21,7 @@ SchadenLv11: 3d6
 SchadenLv17: 4d6
 Schadensart: "[[Psychischer Schaden]]"
 Ziel: Einzel
-Rettungswurf: "[[Intelligenz|INT]]"
+Rettungswurf: "[[Verstand|INT]]"
 Klassen:
   - "[[Zauberer]]"
   - "[[Hexenmeister]]"

@@ -7,7 +7,7 @@ Kosten: "1 [[Aktionspunkte|AP]]"
 ---
 # `=this.file.name`
 Du gehst in dich um dein Gedächtnis, ein Buch, eine Kreatur, einen Hinweis, ein Objekt oder eine andere Wissensquelle zu studieren und dir ein wichtiges Stück Information darüber ins Gedächtnis zu rufen.
-Wenn du diese [[Aktionen]] ausführst, machst du einen [[Intelligenz]]-Wurf um Informationen über ein bestimmtes Thema zu erhalten.
+Wenn du diese [[Aktionen]] ausführst, machst du einen [[Verstand]]-Wurf um Informationen über ein bestimmtes Thema zu erhalten.
 
 Die folgende Tabelle gibt an, welche [[Fertigkeiten]] anwendbar sind, wenn du diese [[Aktionen]] ausführst, je nachdem, um welchen Wissensbereich es sich handelt.
 
