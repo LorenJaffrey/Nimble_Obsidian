@@ -26,4 +26,4 @@
 
 ## Mama (Frieren)
 - Gruppe erreicht Siedlung in der ein menschliches Monster sein Unwesen treibt
-- Siedlung nimmt verweistes kindliches Wesen auf
+- Siedlung nimmt verwaistes kindliches feindliches Wesen auf

@@ -304,7 +304,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[Feindlich]] in [[DM Bereich/Nimble/System/Regeln/Kampf/Aktionen/Beeinflussen]]
 - [[Leichte Waffen]] in [[DM Bereich/Nimble/System/Regeln/Kampf/Angriff/Angriff]]
 - [[Reaktionen]] in [[DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Kampfablauf]]
-- [[Ausweichwert]] in [[DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Ausweichen]], [[Geschicklichkeit]]
+- [[Ausweichwert]] in [[DM Bereich/Nimble/System/Regeln/Kampf/Reaktion/Ausweichen]], [[Beweglichkeit]]
 - [[Speere]] in [[Stichschaden]]
 - [[Range & Reach]] in [[Zaubern]]
 - [[Kampf]] in [[DM Bereich/Nimble/System/Tools/Combat Encounter Guidelines]], [[DM Bereich/Nimble/System/Tools/Fine Tuning Difficulty]]

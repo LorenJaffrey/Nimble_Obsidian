@@ -6,7 +6,7 @@ aliases:
 Bild: "[[Anchorite_of_Talos.webp | 350]]"
 Größenkategorie: "[[Mittelgroß]]"
 Typ: "[[Humanoide]]"
-Subtyp: 
+Subtyp:
 Gesinnung: "[[Neutral Böse]]"
 Herausforderungsgrad: 3
 Stufe: 9
@@ -21,13 +21,13 @@ Sinne:
   - "[[Dunkelsicht]] 36m (24 Kästchen)"
 Verteidigung:
   Rüstung: "[[Fellrüstung]]"
-  Schild: 
+  Schild:
   Natürliche_Rüstung: 10
   Natürliche_SR: 0
   Resistenzen:
-    Schadensresistenz: 
-    Schadensimmunität: 
-    Zustandsimmunität: 
+    Schadensresistenz:
+    Schadensimmunität:
+    Zustandsimmunität:
 Angriff:
   - "[[Klauenhieb winzig]]"
   - "[[Hauerangriff]]"
@@ -71,14 +71,14 @@ Merkmale:
   - "[[Angeborenes Zauberwirken (Weisheit)]]"
   - "[[Wildschweingestalt]]"
 Zauberwirken:
-  Zauberattribut: "[[Weisheit]]"
+  Zauberattribut: "[[Entschlossenheit]]"
   Zauber:
     - "[[Vorahnung]] (1 pro Tag)"
     - "[[Segnen]] (1 pro Tag)"
     - "[[Blitz]] (1 pro Tag)"
     - "[[Donnerwoge]] (3 pro Tag)"
 Anzahl_Legendäre_Aktionen: 0
-Legendäre_Aktionen: 
+Legendäre_Aktionen:
 ---
 ```dynamic-embed
 [[embed Statblock Kreatur]]

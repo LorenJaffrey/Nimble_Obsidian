@@ -9,12 +9,15 @@ Gain Affinity with a damage type from among the spell you know. You do not gain 
 
 **Brilliant Scales**
 Gain resistance to your Affinity and +KEY armor. Dragons are more likely to consider you a friend… or rival.
+
 ### Level 7
 **Formidable Claws**
 Your unarmed strikes deal 1d6+KEY Affinity damage. You may spend mana (up to your highest unlocked spell tier) to add +KEY damage for each point of mana spent.
+
 ### Level 11
 **Fearsome Breath**
 2 actions: Deal KEY Affinity damage in either Cone 3 or Line 6. You may spend mana (up to your highest unlocked spell tier) to add +KEY damage for each point of mana spent. Half damage on a DEX save (DC 10+KEY).
+
 ### Level 15
 **Glorious Wings**
 Gain a Fly speed.

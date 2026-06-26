@@ -1,20 +1,28 @@
 ---
-aliases: 
+aliases:
   - Stärkewurf
   - Stärkewürfe
   - Stärkewürfen
   - Stärkewurfs
   - ST
+  - STR
 tags:
   - Regeln/Nimble/Attribut
+Beschreibung: Misst die körperliche Kraft, das athletische Training und das Maß in dem du rohe Gewalt ausüben kannst.
 ---
 # `=this.file.name`
-Misst die körperliche Kraft, das athletische Training und das Maß in dem du rohe Gewalt ausüben kannst.
+`=this.Beschreibung`
 
 ## Verbundene Fertigkeiten
 ```dataview
-TABLE
+TABLE WITHOUT ID
+
+file.link AS "Fertigkeit",
+Beschreibung
+
 FROM #Regeln/Nimble/Fertigkeit/Stärke 
+
+SORT file.name
 ```
 
 ## Heben und Tragen
@@ -33,4 +41,4 @@ Winzige Kreaturen halbieren Traglast.
 
 ### Belastung
 - Wenn Gewicht der Ausrüstung > [[Stärke]] x 5 -> Belastet ( [[Bewegungsrate]] -3m)
-- Wenn Gewicht der Ausrüstung > [[Stärke]] x 10 -> Stark_Belastet ( [[Bewegungsrate]] -6m; Nachteil bei [[Attribute#Attributswurf]] und [[Rettungswurf]] für [[Stärke]], [[Geschicklichkeit]] und [[Konstitution]])
+- Wenn Gewicht der Ausrüstung > [[Stärke]] x 10 -> Stark_Belastet ( [[Bewegungsrate]] -6m; Nachteil bei [[Attribute#Attributswurf]] und [[Rettungswurf]] für [[Stärke]], [[Beweglichkeit]] und [[Konstitution]])

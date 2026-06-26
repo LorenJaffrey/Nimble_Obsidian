@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Charaktere/_Key Stats.md",
+                "file": "_Nimble_PFT/Regeln/Charaktere/_Ressourcen.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Key Stats"
+              "title": "_Ressourcen"
             }
           },
           {
@@ -61,8 +61,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Allgemein/Attribute/_Attribute.md",
+                "file": "_Nimble_PFT/Regeln/Charaktere/Klassen/Klassen.md",
                 "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Klassen"
+            }
+          },
+          {
+            "id": "299bae0548f580e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Tips/Ideen/Ideen für Encounter.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ideen für Encounter"
+            }
+          },
+          {
+            "id": "fde02c21d6e34c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Nimble_PFT/Regeln/Allgemein/Attribute/_Attribute.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -80,12 +128,12 @@
             }
           },
           {
-            "id": "832e375463d131b1",
+            "id": "60d6556fa9f8ec11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Allgemein/Attribute/Geschicklichkeit.md",
+                "file": "_Nimble_PFT/Regeln/Allgemein/Cheat Sheet Tätigkeiten.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,11 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Geschicklichkeit"
+              "title": "Cheat Sheet Tätigkeiten"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -275,8 +323,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,34 +341,34 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "832e375463d131b1",
+  "active": "923ec1e243fb82f5",
   "lastOpenFiles": [
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Präsenz.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/_Attribute.md",
+    "_Nimble_PFT/Regeln/Allgemein/Cheat Sheet Tätigkeiten.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen/Klassen.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/_Fertigkeiten.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Naturkunde.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fertigkeiten.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Attribute.md",
     "_Nimble_PFT/Regeln/Allgemein/Attribute/Verstand.md",
     "_Nimble_PFT/Regeln/Allgemein/Attribute/Konstitution.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Stärke.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/_Attribute.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungslisten/Rüstungen.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Attribute.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Klassen.md",
-    "_Nimble_PFT/Regeln/Charaktere/_Key Stats.md",
-    "DM Bereich/Nimble/System/Regeln/Magie/_Magieattribute.md",
     "DM Bereich/Tips/Ideen/Ideen für Encounter.md",
-    "DM Bereich/Tips/Ideen/Ideen für Kampagnen.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Taktiker/Taktiker.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Fluchwirker/Fluchwirker.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Priester/Priester.md",
-    "_Nimble_PFT/Regeln/Charaktere/_Charakterrollen.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Barbar/Urtümliche Pfade/Urtümliche Pfade.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Barbar/Barbar.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen DnD/Klassen DnD.md",
-    "_Nimble_PFT/Regeln/Allgemein/Größenkategorie/Riesig.md",
-    "_Nimble_PFT/Regeln/Allgemein/Größenkategorie/Mittelgroß.md",
-    "_Nimble_PFT/Regeln/Allgemein/Größenkategorie/Klein.md",
-    "_Nimble_PFT/Regeln/Allgemein/Größenkategorie/Winzig.md",
-    "_Nimble_PFT/Regeln/Allgemein/Größenkategorie/Groß.md",
-    "_Nimble_PFT/Regeln/Allgemein/Größenkategorie/Größenkategorie.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Weisheit.md",
+    "_Nimble_PFT/Regeln/Charaktere/_Ressourcen.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Beweglichkeit.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Entschlossenheit.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Geschick.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Instinkt.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Präsenz.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Stärke.md",
+    "_Nimble_PFT/Merkmale/Merkmale.md",
+    "_Nimble_PFT/Merkmale/Angeborenes Zauberwirken (Weisheit).md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen/Arkanist/Klassenmerkmale Arkanist/Elementarschub.md",
+    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Verletzungen/Geisteskrankheiten/Abhängigkeit.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Wahrnehmung.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Mit Tieren umgehen.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Motiv erkennen.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen/Arkanist/Subklassen Arkanist/Invoker of Chaos.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen/Arkanist/Subklassen Arkanist/Invoker of Perfection.md",
     "_Nimble_PFT/Regeln/Allgemein/Größenkategorie",
     "_Nimble_PFT/Regeln/Allgemein/Attribute",
     "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten",

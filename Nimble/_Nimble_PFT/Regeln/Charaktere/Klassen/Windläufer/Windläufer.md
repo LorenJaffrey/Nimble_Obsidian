@@ -3,8 +3,8 @@ tags:
   - Regeln/Nimble/Charakter/Klasse/WIP
 Trefferwürfel: 8
 Kernattribute:
-  - "[[Geschicklichkeit]]"
-  - "[[Weisheit]]"
+  - "[[Beweglichkeit]]"
+  - "[[Entschlossenheit]]"
 Übung:
   Waffen:
     - "[[Einfache Waffen]]"
@@ -17,7 +17,7 @@ Rettungswürfe:
     - "[[Rettungswurf#Stärkerettungswurf|Stärkerettungswürfe]]"
     - "[[Rettungswurf#Intelligenzrettungswurf|Intelligenzrettungswürfe]]"
     - "[[Rettungswurf#Weisheitsrettungswurf|Charismarettungswürfe]]"
-Beschreibung: "Ein disziplinierter Kampfkünstler mit schnellen Händen und schnellen Füßen."
+Beschreibung: Ein disziplinierter Kampfkünstler mit schnellen Händen und schnellen Füßen.
 ---
 # `=this.file.name`
 Ein [[Windläufer]] widmet sein Leben dem unermüdlichen Streben nach kinetischer Perfektion. 
@@ -41,26 +41,26 @@ Der [[Windläufer]] ist:
 ## Klassentabelle
 | Stufe |                 Schnelle Fäuste | Flinke Füße | Initiative | Entschlossenheit | Merkmale                                                                           |
 | -----:| -------------------------------:| -----------:| ----------:| ----------------:| ---------------------------------------------------------------------------------- |
-|     1 |  1W4 + [[Geschicklichkeit\|GE]] |           - |          - |                1 | [[Schnelle Fäuste]], [[Instinktives Ausweichen]]                                   |
-|     2 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          1 |                1 | [[Ungerüstete Bewegung]], [[Fokuspunkte]], [[Schnelle Reflexe]]                    |
-|     3 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          2 |                1 | [[Subklassen Windläufer\|Windläufer Subklasse]]    [[Kinetischer Schwung]]         |
-|     4 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          2 |                1 | [[Primäre Attributswerterhöhung]], [[Kampfkunst]], [[Unbeugsame Entschlossenheit]] |
-|     5 |  1W4 + [[Geschicklichkeit\|GE]] |          +1 |          3 |                1 | [[Sekundäre Attributswerterhöhung]], [[Betäubender Schlag]]                        |
-|     6 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          3 |                1 | [[Kampfkunst]], [[Sturz abfedern]]                                                 |
-|     7 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          4 |                1 | [[Subklassen Windläufer\|Subklassen Merkmal]]                                      |
-|     8 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          4 |                1 | [[Primäre Attributswerterhöhung]],[[Kampfkunst]]                                   |
-|     9 |  1W6 + [[Geschicklichkeit\|GE]] |          +2 |          5 |                1 | [[Sekundäre Attributswerterhöhung]], [[Ki-verstärkte Schläge]]                     |
-|    10 |  1W8 + [[Geschicklichkeit\|GE]] |          +2 |          5 |                2 | [[Kampfkunst]]                                                                    |
-|    11 |  1W8 + [[Geschicklichkeit\|GE]] |          +3 |          6 |                2 | [[Subklassen Windläufer\|Subklassen Merkmal]]                                      |
-|    12 |  1W8 + [[Geschicklichkeit\|GE]] |          +3 |          6 |                2 | [[Primäre Attributswerterhöhung]],[[Kampfkunst]]                                   |
-|    13 |  1W8 + [[Geschicklichkeit\|GE]] |          +3 |          7 |                2 | [[Sekundäre Attributswerterhöhung]]                                                |
-|    14 | 1W10 + [[Geschicklichkeit\|GE]] |          +3 |          7 |                2 | [[Kampfkunst]]                                                                     |
-|    15 | 1W10 + [[Geschicklichkeit\|GE]] |          +3 |          8 |                2 | [[Subklassen Windläufer\|Subklassen Merkmal]]                                      |
-|    16 | 1W10 + [[Geschicklichkeit\|GE]] |          +4 |          8 |                2 | [[Primäre Attributswerterhöhung]], [[Kampfkunst]]                                  |
-|    17 | 1W10 + [[Geschicklichkeit\|GE]] |          +4 |          9 |                2 | [[Sekundäre Attributswerterhöhung]]                                                |
-|    18 | 1W12 + [[Geschicklichkeit\|GE]] |          +4 |          9 |                2 | [[Kampfkunst]]                                                                     |
-|    19 | 1W12 + [[Geschicklichkeit\|GE]] |          +4 |         10 |                2 | [[_Boons#EPIC Boons]]                                                               |
-|    20 | 1W12 + [[Geschicklichkeit\|GE]] |          +4 |         10 |                2 | [[Windgeboren]]                                                                    |
+|     1 |  1W4 + [[Beweglichkeit\|GE]] |           - |          - |                1 | [[Schnelle Fäuste]], [[Instinktives Ausweichen]]                                   |
+|     2 |  1W4 + [[Beweglichkeit\|GE]] |          +1 |          1 |                1 | [[Ungerüstete Bewegung]], [[Fokuspunkte]], [[Schnelle Reflexe]]                    |
+|     3 |  1W4 + [[Beweglichkeit\|GE]] |          +1 |          2 |                1 | [[Subklassen Windläufer\|Windläufer Subklasse]]    [[Kinetischer Schwung]]         |
+|     4 |  1W4 + [[Beweglichkeit\|GE]] |          +1 |          2 |                1 | [[Primäre Attributswerterhöhung]], [[Kampfkunst]], [[Unbeugsame Entschlossenheit]] |
+|     5 |  1W4 + [[Beweglichkeit\|GE]] |          +1 |          3 |                1 | [[Sekundäre Attributswerterhöhung]], [[Betäubender Schlag]]                        |
+|     6 |  1W6 + [[Beweglichkeit\|GE]] |          +2 |          3 |                1 | [[Kampfkunst]], [[Sturz abfedern]]                                                 |
+|     7 |  1W6 + [[Beweglichkeit\|GE]] |          +2 |          4 |                1 | [[Subklassen Windläufer\|Subklassen Merkmal]]                                      |
+|     8 |  1W6 + [[Beweglichkeit\|GE]] |          +2 |          4 |                1 | [[Primäre Attributswerterhöhung]],[[Kampfkunst]]                                   |
+|     9 |  1W6 + [[Beweglichkeit\|GE]] |          +2 |          5 |                1 | [[Sekundäre Attributswerterhöhung]], [[Ki-verstärkte Schläge]]                     |
+|    10 |  1W8 + [[Beweglichkeit\|GE]] |          +2 |          5 |                2 | [[Kampfkunst]]                                                                    |
+|    11 |  1W8 + [[Beweglichkeit\|GE]] |          +3 |          6 |                2 | [[Subklassen Windläufer\|Subklassen Merkmal]]                                      |
+|    12 |  1W8 + [[Beweglichkeit\|GE]] |          +3 |          6 |                2 | [[Primäre Attributswerterhöhung]],[[Kampfkunst]]                                   |
+|    13 |  1W8 + [[Beweglichkeit\|GE]] |          +3 |          7 |                2 | [[Sekundäre Attributswerterhöhung]]                                                |
+|    14 | 1W10 + [[Beweglichkeit\|GE]] |          +3 |          7 |                2 | [[Kampfkunst]]                                                                     |
+|    15 | 1W10 + [[Beweglichkeit\|GE]] |          +3 |          8 |                2 | [[Subklassen Windläufer\|Subklassen Merkmal]]                                      |
+|    16 | 1W10 + [[Beweglichkeit\|GE]] |          +4 |          8 |                2 | [[Primäre Attributswerterhöhung]], [[Kampfkunst]]                                  |
+|    17 | 1W10 + [[Beweglichkeit\|GE]] |          +4 |          9 |                2 | [[Sekundäre Attributswerterhöhung]]                                                |
+|    18 | 1W12 + [[Beweglichkeit\|GE]] |          +4 |          9 |                2 | [[Kampfkunst]]                                                                     |
+|    19 | 1W12 + [[Beweglichkeit\|GE]] |          +4 |         10 |                2 | [[_Boons#EPIC Boons]]                                                               |
+|    20 | 1W12 + [[Beweglichkeit\|GE]] |          +4 |         10 |                2 | [[Windgeboren]]                                                                    |
 
 
 **Waffen:** Nahkampf  

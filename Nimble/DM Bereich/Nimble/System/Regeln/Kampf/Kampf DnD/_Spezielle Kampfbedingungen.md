@@ -12,7 +12,7 @@ Einmal pro Bewegung kann eine Kreatur auf ein Reittier auf- oder absitzen.
 Dies kosten die Hälfte der [[Bewegungsrate]].
 
 ### Herunterfallen
-Wird das Reittier auf dem eine Kreatur sitzt gegen ihren Willen bewegt oder der Reiter wird umgestoßen, muss ein [[Geschicklichkeit|Geschicklichkeitswurf]] gegen [[Schwierigkeitsgrad]] 10 abgelegt werden.
+Wird das Reittier auf dem eine Kreatur sitzt gegen ihren Willen bewegt oder der Reiter wird umgestoßen, muss ein [[Beweglichkeit|Geschicklichkeitswurf]] gegen [[Schwierigkeitsgrad]] 10 abgelegt werden.
 Wird das Reittier umgestoßen kann der Reiter eine [[Reaktion]] verwenden um abzuspringen und auf den Füßen zu landen.
 Bei Misserfolg landet der Reiter in einem Bereich von 1,5 m auf dem Boden [[Liegend]].
 

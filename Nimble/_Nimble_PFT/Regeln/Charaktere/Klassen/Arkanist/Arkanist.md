@@ -4,7 +4,7 @@ tags:
 Trefferwürfel: 6
 Kernattribute:
   - "[[Verstand]]"
-  - "[[Weisheit]]"
+  - "[[Entschlossenheit]]"
 Übung:
   Waffen:
     - "[[Einfache Waffen]]"
@@ -54,19 +54,19 @@ Was einen Arkanisten ausmacht:
 | 2     |     1      |                      | [[Talentierter Forscher]]                                               |
 | 3     |     1      |                      | [[Subklassen Arkanist\|Arkanist Subklasse]], [[Elementarmeisterschaft]] |
 | 4     |     1      |                      | [[Primäre Attributswerterhöhung]], 2 x [[Metamagie]],                   |
-| 5     |     2      | [[Weisheit\|WE]]     | [[Sekundäre Attributswerterhöhung]], [[Elementarschub]]                 |
-| 6     |     3      | [[Weisheit\|WE]]     | [[Elementarmeisterschaft]]                                              |
-| 7     |     3      | [[Weisheit\|WE]]     | [[Subklassen Arkanist\|Subklassen Merkmal]]                             |
-| 8     |     4      | [[Weisheit\|WE]]     | [[Primäre Attributswerterhöhung]]                                       |
-| 9     |     4      | [[Weisheit\|WE]]     | [[Sekundäre Attributswerterhöhung]], [[Metamagie]]                      |
-| 10    |     5      | [[Weisheit\|WE]]+1W4 | [[Metamagie]]                                                           |
-| 11    |     5      | [[Weisheit\|WE]]+1W4 | [[Subklassen Arkanist\|Subklassen Merkmal]]                             |
-| 12    |     6      | [[Weisheit\|WE]]+1W4 | [[Primäre Attributswerterhöhung]]                                       |
-| 13    |     6      | [[Weisheit\|WE]]+1W4 | [[Sekundäre Attributswerterhöhung]], [[Metamagie]]                      |
-| 14    |     7      | [[Weisheit\|WE]]+1W4 | [[Elementarmeisterschaft]]                                              |
-| 15    |     7      | [[Weisheit\|WE]]+1W4 | [[Subklassen Arkanist\|Subklassen Merkmal]]                             |
-| 16    |     8      | [[Weisheit\|WE]]+1W4 | [[Primäre Attributswerterhöhung]]                                       |
-| 17    |     8      | [[Weisheit\|WE]]+2W4 | [[Sekundäre Attributswerterhöhung]]                                     |
-| 18    |     9      | [[Weisheit\|WE]]+2W4 |                                                                         |
-| 19    |     9      | [[Weisheit\|WE]]+2W4 | [[_Boons#EPIC Boons]]                                                    |
-| 20    |     9      | [[Weisheit\|WE]]+2W4 | [[Erzmagus]]                                                            |
+| 5     |     2      | [[Entschlossenheit\|WE]]     | [[Sekundäre Attributswerterhöhung]], [[Elementarschub]]                 |
+| 6     |     3      | [[Entschlossenheit\|WE]]     | [[Elementarmeisterschaft]]                                              |
+| 7     |     3      | [[Entschlossenheit\|WE]]     | [[Subklassen Arkanist\|Subklassen Merkmal]]                             |
+| 8     |     4      | [[Entschlossenheit\|WE]]     | [[Primäre Attributswerterhöhung]]                                       |
+| 9     |     4      | [[Entschlossenheit\|WE]]     | [[Sekundäre Attributswerterhöhung]], [[Metamagie]]                      |
+| 10    |     5      | [[Entschlossenheit\|WE]]+1W4 | [[Metamagie]]                                                           |
+| 11    |     5      | [[Entschlossenheit\|WE]]+1W4 | [[Subklassen Arkanist\|Subklassen Merkmal]]                             |
+| 12    |     6      | [[Entschlossenheit\|WE]]+1W4 | [[Primäre Attributswerterhöhung]]                                       |
+| 13    |     6      | [[Entschlossenheit\|WE]]+1W4 | [[Sekundäre Attributswerterhöhung]], [[Metamagie]]                      |
+| 14    |     7      | [[Entschlossenheit\|WE]]+1W4 | [[Elementarmeisterschaft]]                                              |
+| 15    |     7      | [[Entschlossenheit\|WE]]+1W4 | [[Subklassen Arkanist\|Subklassen Merkmal]]                             |
+| 16    |     8      | [[Entschlossenheit\|WE]]+1W4 | [[Primäre Attributswerterhöhung]]                                       |
+| 17    |     8      | [[Entschlossenheit\|WE]]+2W4 | [[Sekundäre Attributswerterhöhung]]                                     |
+| 18    |     9      | [[Entschlossenheit\|WE]]+2W4 |                                                                         |
+| 19    |     9      | [[Entschlossenheit\|WE]]+2W4 | [[_Boons#EPIC Boons]]                                                    |
+| 20    |     9      | [[Entschlossenheit\|WE]]+2W4 | [[Erzmagus]]                                                            |

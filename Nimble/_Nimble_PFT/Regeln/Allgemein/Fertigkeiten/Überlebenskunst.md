@@ -1,7 +1,7 @@
 ---
 tags:
   - Regeln/Nimble/Fertigkeit/Weisheit
-Attribut: "[[Weisheit]]"
+Attribut: "[[Entschlossenheit]]"
 ---
 # `=this.file.name`
 Abhängiges [[Attribute|Attribut]]: `=this.Attribut`

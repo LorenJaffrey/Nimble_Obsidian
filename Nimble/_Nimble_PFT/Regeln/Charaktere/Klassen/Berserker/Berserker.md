@@ -4,7 +4,7 @@ tags:
 Trefferwürfel: 12
 Kernattribute:
   - "[[Stärke]]"
-  - "[[Geschicklichkeit]]"
+  - "[[Beweglichkeit]]"
 Übung:
   Waffen:
     - "[[Einfache Waffen]]"
@@ -18,7 +18,7 @@ Rettungswürfe:
     - "[[Rettungswurf#Intelligenzrettungswurf|Intelligenzrettungswürfe]]"
     - "[[Rettungswurf#Weisheitsrettungswurf|Weisheitsrettungswürfe]]"
     - "[[Rettungswurf#Charismarettungswurf|Charismarettungswürfe]]"
-Beschreibung: "Unaufhaltsame Kraft aus Zorn und Zerstörung."
+Beschreibung: Unaufhaltsame Kraft aus Zorn und Zerstörung.
 ---
 # `=this.file.name`
 Zorn und Zerstörung. Der Berserker ist die Verkörperung der Vernichtung. Er kennt weder Erschöpfung noch Vorsicht – beide werden von seiner unbändigen Wut vertrieben. 

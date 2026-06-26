@@ -26,7 +26,7 @@ Moral: 3
 ### Zerstörung des Zirkels
 - Kräfte des [[Einhorn]]s gehen auf [[Aranon]] über
 	- in stressigen Situationen
-	- Rettungswurf auf [[Weisheit]] gegen variablen [[Schwierigkeitsgrad|SG]] sonst wird er wegteleportiert
+	- Rettungswurf auf [[Entschlossenheit]] gegen variablen [[Schwierigkeitsgrad|SG]] sonst wird er wegteleportiert
 - Wer hat den Stamm ausgelöscht?
 - [[Lucian]] hat zur Vernichtung der Sippe beigetragen
 
@@ -49,7 +49,7 @@ Moral: 3
 
 #### Stresstest
 - fällig wenn das Stresslevel auf einmal um mehr als 2 auf einmal Punkte erhöht wird
-- [[Rettungswurf]] auf [[Weisheit]] gegen [[Schwierigkeitsgrad|SG]] 10 + Stresslevel
+- [[Rettungswurf]] auf [[Entschlossenheit]] gegen [[Schwierigkeitsgrad|SG]] 10 + Stresslevel
 - wenn Misserfolg erfolgt unbewusste Teleportation anhand Tabelle Stresslevel
 
 | W10 + Stresslevel | Ereignis                                                                                |

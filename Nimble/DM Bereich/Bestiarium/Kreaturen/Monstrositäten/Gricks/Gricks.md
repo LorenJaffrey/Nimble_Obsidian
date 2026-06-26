@@ -9,7 +9,7 @@ Normalerweise bewohnen sie Höhlen, wagen sich aber gelegentlich an die Oberflä
 Dort verstecken sie sich in felsigen Spalten, wo Beute wahrscheinlich vorbeikommt.
 
 ## Verhalten
-Seine [[Stärke]] und [[Geschicklichkeit]] sind hoch, während seine [[Konstitution]] durchschnittlich ist. 
+Seine [[Stärke]] und [[Beweglichkeit]] sind hoch, während seine [[Konstitution]] durchschnittlich ist. 
 Daher bevorzugt er den Hinterhalt als Angriffsstrategie. 
 Seine [[Dunkelsicht]] deutet darauf hin, dass er überwiegend nachtaktiv ist – aber nicht ausschließlich. 
 So könnte er sich etwa in einer dunklen Felsspalte oberirdisch verbergen, um Beute anzugreifen, die sich im Licht befindet. 
@@ -31,7 +31,7 @@ Die naheliegende Schlussfolgerung ist, dass [[Gricks]] zähe Jäger sind, die ge
 Nur magischer oder elementarer Schaden zwingt sie zum Rückzug. 
 
 ## Moral
-Dank ihrer hohen [[Weisheit]] (was auf einen starken Überlebensinstinkt hindeutet) reicht bereits mäßiger magischer oder elementarer Schaden aus, um sie in die Flucht zu schlagen.
+Dank ihrer hohen [[Entschlossenheit]] (was auf einen starken Überlebensinstinkt hindeutet) reicht bereits mäßiger magischer oder elementarer Schaden aus, um sie in die Flucht zu schlagen.
 
 ## Taktik
 [[Gricks]] besitzen eine normale [[Bewegungsrate]] von 9 Metern (6 Kästchen) und eine [[Klettern]]-Geschwindigkeit von  9 Metern (6 Kästchen). 

@@ -34,7 +34,7 @@ Moral: -1
 ### Patron
 - Erinnye mit der Gestalt eines weiblichen Tieflings, so schön wie man es sich nur vorstellen kann
 	- sexuelle Beziehung
-	- muss [[Rettungswurf]] auf [[Weisheit]] gegen [[Schwierigkeitsgrad|SG]] 20 bestehen um ihr zu widerstehen
+	- muss [[Rettungswurf]] auf [[Entschlossenheit]] gegen [[Schwierigkeitsgrad|SG]] 20 bestehen um ihr zu widerstehen
 - Ziel ist es den Pakt zu lösen
 	- wahren Namen der Teufelin erfahren
 	- Sarvaria

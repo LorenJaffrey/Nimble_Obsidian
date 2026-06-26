@@ -8,7 +8,7 @@
 - 3-5 Dosen machen abhängig
 - Wirkung
 	- heilt sofort um 1W4 [[Trefferpunkte]]
-	- [[Geschicklichkeit]] und [[Weisheit]] -2
+	- [[Beweglichkeit]] und [[Entschlossenheit]] -2
 	- [[Rettungswurf]] auf [[Konstitution]] mit [[Schwierigkeitsgrad|SG]] 12
 		- senkt Dauer auf 1W4 Stunden
 - Entzug

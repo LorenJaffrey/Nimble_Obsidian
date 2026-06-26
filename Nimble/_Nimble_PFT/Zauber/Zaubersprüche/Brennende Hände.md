@@ -17,7 +17,7 @@ Ritual: false
 Skalierbar: true
 Schaden: 3d6
 Schadensart: "[[Feuerschaden]]"
-Rettungswurf: "[[Geschicklichkeit|GES]]"
+Rettungswurf: "[[Beweglichkeit|GES]]"
 Ziel: AoE
 Klassen:
   - "[[Magier DnD]]"
@@ -31,7 +31,7 @@ Typ: "[[Offensivzauber|Angriff]]"
 ## Beschreibung
 *Du streckst die Hände aus, mit sich berührenden Daumen und ausgebreiteten Fingern, und eine dünne Fläche aus Feuer schießt aus deinen ausgestreckten Fingerspitzen.*
 
-Jede Kreatur in einem [[Kegel]] von 4,50 m muss einen [[Rettungswurf]] auf [[Geschicklichkeit]] ablegen. Bei einem Misserfolg erleidet das Ziel `dice:3d6` [[Feuerschaden]] oder halb so viel Schaden bei einem erfolgreichen [[Rettungswurf]].
+Jede Kreatur in einem [[Kegel]] von 4,50 m muss einen [[Rettungswurf]] auf [[Beweglichkeit]] ablegen. Bei einem Misserfolg erleidet das Ziel `dice:3d6` [[Feuerschaden]] oder halb so viel Schaden bei einem erfolgreichen [[Rettungswurf]].
 
 Das Feuer entzündet alle brennbaren Gegenstände im [[Kegel|Wirkungsbereich]], die nicht getragen oder in der Hand gehalten werden.
 

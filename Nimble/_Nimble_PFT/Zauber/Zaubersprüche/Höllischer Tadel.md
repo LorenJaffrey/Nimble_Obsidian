@@ -10,14 +10,14 @@ Reichweite: 18 Meter
 Verbal: true
 Geste: true
 Material: false
-Materialkosten: 
+Materialkosten:
 Dauer: unmittelbar
 Konzentration: false
 Ritual: false
 Skalierbar: true
 Schaden: 2d10
 Schadensart: "[[Feuerschaden]]"
-Rettungswurf: "[[Geschicklichkeit|GES]]"
+Rettungswurf: "[[Beweglichkeit|GES]]"
 Ziel: Einzel
 Klassen:
   - "[[Hexenmeister]]"
@@ -30,7 +30,7 @@ Typ: "[[Offensivzauber]]"
 ## Beschreibung
 *Du deutest mit einem Finger und die Kreatur, die dich verletzt hat, wird für einen kurzen Moment von höllischen Flammen eingehüllt.*
 
-Die Kreatur muss einen [[Rettungswurf]] auf [[Geschicklichkeit]] ablegen.
+Die Kreatur muss einen [[Rettungswurf]] auf [[Beweglichkeit]] ablegen.
 Bei einem Misserfolg erleidet das Ziel 2W10 [[Feuerschaden]] oder halb so viel Schaden bei einem erfolgreichen [[Rettungswurf]].
 
 ### Auf höheren Graden

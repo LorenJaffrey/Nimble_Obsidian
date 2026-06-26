@@ -37,7 +37,7 @@ Wenn es im Freien und in der Unterzahl ist, benutzt es seine Flügel, um in der 
 
 Angesichts des Statistik- und Merkmalsprofils des [[Mantikor]] machen diese Taktiken Sinn. 
 Die Schwanzspitze ist ein starker Angriff mit gutem Schaden und einer großzügigen Reichweite, und der [[Mantikor]] kann drei in einer einzigen Multiattack-[[Aktionen]] schleudern. 
-Seine [[Stärke]], [[Geschicklichkeit]] und [[Konstitution]] sind alle sehr hoch, was es gleichermaßen für Fern- und Nahkampf geeignet macht. 
+Seine [[Stärke]], [[Beweglichkeit]] und [[Konstitution]] sind alle sehr hoch, was es gleichermaßen für Fern- und Nahkampf geeignet macht. 
 Es liegt nahe, dass es seinen stärksten, sichersten Angriff zuerst einsetzen würde, um dann verletzte Feinde zu erledigen.
 
 Dieser Teil macht jedoch etwas weniger Sinn, obwohl es sich hierbei um ein Monstrum handelt, also werden einige seiner Verhaltensweisen seltsam sein:
@@ -45,7 +45,7 @@ Ein [[Mantikor]] ist nicht besonders schlau, aber es besitzt eine bösartige Nat
 Im Verlauf eines Angriffs verunglimpft es seine Feinde und bietet an, sie schnell zu töten, wenn sie um ihr Leben flehen. 
 Wenn ein Mantikor einen Vorteil darin sieht, ein Leben zu verschonen, tut es dies, und verlangt eine Tributzahlung oder Opfergabe, die seinem Nahrungsverlust entspricht.
 
-Die [[Verstand]] des [[Mantikor]] beträgt 7; seine [[Weisheit]] beträgt jedoch 12. 
+Die [[Verstand]] des [[Mantikor]] beträgt 7; seine [[Entschlossenheit]] beträgt jedoch 12. 
 Ich denke nicht, dass es möglich wäre, einen [[Mantikor]] dazu zu bringen, einen schlechten Deal zu akzeptieren. 
 Tatsächlich glaube ich, dass es sehr wenig Vorstellungskraft in Bezug darauf hätte, was einen guten Deal darstellen könnte. 
 Das einzige, was für ein Wesen wie dieses attraktiver wäre als Nahrung, wäre mehr Nahrung, vielleicht eine stetige und leicht zu beschaffende Versorgung damit. 

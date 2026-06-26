@@ -29,7 +29,7 @@ Typ: "[[Beeinflussung]]"
 ## Beschreibung
 *Du erschaffst vor den Augen einer Kreatur kurzzeitig eine schreckliche, glühende Rune , die mit einer schreckenerregenden Aura pulsiert.*
 
-Die Kreatur muss einen [[Rettungswurf]] auf [[Weisheit]] bestehen oder wird [[Verängstigt]] bis der Zauber endet.
+Die Kreatur muss einen [[Rettungswurf]] auf [[Entschlossenheit]] bestehen oder wird [[Verängstigt]] bis der Zauber endet.
 Das Ziel kann den [[Rettungswurf]] am Ende jedes [[Zug|Zuges]] wiederholen. Bei [[Erfolg]] endet der Effekt des Spruchs sofort.
 [[Konstrukte]] und [[Untote]] sind immun gegen diesen Effekt.
 

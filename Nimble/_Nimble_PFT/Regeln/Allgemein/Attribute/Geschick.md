@@ -1,14 +1,16 @@
 ---
 aliases: 
-  - Geschicklichkeitswurf
-  - Geschicklichkeitswürfe
-  - Geschicklichkeitswürfen
+  - Geschickwurf
+  - Geschickwürfe
+  - Geschickwürfen
   - GE
+  - GES
 tags:
   - Regeln/Nimble/Attribut
+Beschreibung: Steht für präzise Handarbeit, saubere Waffenführung und kontrollierte, genaue Bewegungen.
 ---
 # `=this.file.name`
-Umfasst Beweglichkeit, Reflexe und Gleichgewichtssinn.
+`=this.Beschreibung`
 
 ## Verbundene Fertigkeiten
 ```dataview
@@ -22,8 +24,6 @@ FROM #Regeln/Nimble/Fertigkeit/Geschicklichkeit
 - Saiteninstrument spielen
 
 ## Angriffswürfe und Schaden
-Die [[Geschicklichkeit]] wird außerdem verwendet bei:
+[[Geschick]] wird außerdem verwendet bei:
 - [[Fernkampfangriff|Fernkampfangriffen]]
 - [[Nahkampfangriff|Nahkampfangriffen]] mit Waffen mit [[Finesse]]
-- Bonus auf den [[Ausweichwert]]
-- Bonus auf die [[Initiative]]

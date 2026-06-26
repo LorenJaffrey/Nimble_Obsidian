@@ -29,6 +29,6 @@ Typ: "[[Defensivzauber|Abwehr]]"
 ## Beschreibung
 *Eine unsichtbare Rüstung aus magischer Energie schützt dich.*
 
-Du berührst eine bereitwillige Kreatur, die keine Rüstung trägt. Schützende magische Energie umgibt sie, bis der Zauber endet. Die Basis-[[Rüstungsklasse]] des Ziels entspricht nun 13 + seinen [[Geschicklichkeit]]-Modifikator. Der Zauber endet, wenn das Ziel eine Rüstung anlegt oder du den Zauber mit einer [[Aktionen]] aufhebst.
+Du berührst eine bereitwillige Kreatur, die keine Rüstung trägt. Schützende magische Energie umgibt sie, bis der Zauber endet. Die Basis-[[Rüstungsklasse]] des Ziels entspricht nun 13 + seinen [[Beweglichkeit]]-Modifikator. Der Zauber endet, wenn das Ziel eine Rüstung anlegt oder du den Zauber mit einer [[Aktionen]] aufhebst.
 
 Quelle: Players Handbook, Seite: 247

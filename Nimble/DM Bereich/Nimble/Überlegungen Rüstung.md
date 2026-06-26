@@ -9,7 +9,7 @@
 - Negierung von Modifikatoren (nur W10 statt W10+3 Schaden)
 
 ## Nachteile
-- Begrenzte [[Geschicklichkeit]]
+- Begrenzte [[Beweglichkeit]]
 - Lautstärke
 
 

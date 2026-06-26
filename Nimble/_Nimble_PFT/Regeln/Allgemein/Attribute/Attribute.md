@@ -10,7 +10,8 @@ aliases:
 ```dataview
 TABLE WITHOUT ID
 
-file.link AS "Attribut"
+file.link AS "Attribut",
+Beschreibung
 
 FROM #Regeln/Nimble/Attribut
 

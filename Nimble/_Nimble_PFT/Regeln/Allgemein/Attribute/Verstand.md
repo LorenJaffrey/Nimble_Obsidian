@@ -7,10 +7,11 @@ aliases:
   - VER
 tags:
   - Regeln/Nimble/Attribut
+Beschreibung: Misst die geistige Schärfe, Präzision der Erinnerung, logisches Denken.
 ---
 # `=this.file.name`
-Misst die geistige Schärfe, Präzision der Erinnerung, logisches Denken.
-Intelligenzwurf wird notwendig wenn Logik, Bildung, Gedächtnis oder deduktives Denken erforderlich sind.
+`=this.Beschreibung`
+[[Verstand|Verstandwürfe]] werden notwendig wenn Logik, Bildung, Gedächtnis oder deduktives Denken erforderlich sind.
 
 ## Verbundene Fertigkeiten
 ```dataview

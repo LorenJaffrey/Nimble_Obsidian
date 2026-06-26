@@ -16,7 +16,25 @@
 | Konstitution     |  X  | TP                     |                                                              |
 | Beweglichkeit    |  X  | Ausweichen, Initiative | Akrobatik, Heimlichkeit                                      |
 | Geschick         |     | Fernkampf              | Fingerfertigkeit                                             |
-| Verstand         |  X  | Arkane Magie           | Arkane Kunde, Nachforschen, Geschichte, Naturkunde, Religion |
+| Verstand         |  X  |                        | Arkane Kunde, Nachforschen, Geschichte, Naturkunde, Religion |
 | Instinkt         |     | Überraschung           | Motiv erkennen, Wahrnehmung, Mit Tieren umgehen              |
-| Entschlossenheit |  X  | Göttliche Magie        |                                                              |
+| Entschlossenheit |  X  | Konzentration          |                                                              |
 | Präsenz          |  X  |                        | Auftreten, Einschüchtern, Täuschen, Überzeugen               |
+ 
+Offen:
+Überleben
+Heilkunde
+
+
+
+## Initiative
+Gruppeninitiative
+Spieler sind immer zuerst dran
+
+## Überraschung (falls der Encounter dies vorsieht)
+- Instinktwurf
+- wenn gelungen kann normal handeln, wenn misslungen -> keine Reaktion in erster Runde
+
+## Initiativewurf
+- Beweglichkeitswurf 
+- bestimmt Anzahl der Aktionspunkte in der ersten Runde (wie bei Nimble)

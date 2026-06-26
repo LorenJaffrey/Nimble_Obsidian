@@ -7,7 +7,7 @@ aliases:
 - Initiativewürfen
 ---
 # `=this.file.name`
-Jeder Charakter würfelt 1W20 und addiert seinen Initiativebonus (normalerweise [[Geschicklichkeit]]).
+Jeder Charakter würfelt 1W20 und addiert seinen Initiativebonus (normalerweise [[Beweglichkeit]]).
 Wenn ein Charakter [[Überraschung|überrascht]] ist oder seine Gegner überrascht, kann ihm dies [[Vorteil und Nachteil|Vorteil]] bzw. [[Vorteil und Nachteil|Nachteil]] auf den [[Initiative|Initiativewurf]] geben.
 
 Eine einstellige Zahl bedeutet, dass der Charakter den Kampf mit 1 [[Aktionen]] beginnt. 

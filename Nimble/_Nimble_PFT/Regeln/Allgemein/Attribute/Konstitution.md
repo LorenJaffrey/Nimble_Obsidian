@@ -6,9 +6,10 @@ aliases:
   - KON
 tags:
   - Regeln/Nimble/Attribut
+Beschreibung: Misst Gesundheit, Ausdauer und Lebenskraft. Kann den Versuch darstellen über die persönlichen Grenzen hinaus zu gehen.
 ---
 # `=this.file.name`
-Misst Gesundheit, Ausdauer und Lebenskraft. Kann den Versuch darstellen über die persönlichen Grenzen hinaus zu gehen.
+`=this.Beschreibung`
 
 ## Sonstige Tätigkeiten
 - die Luft anhalten

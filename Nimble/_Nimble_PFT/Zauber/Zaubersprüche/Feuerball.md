@@ -29,7 +29,7 @@ Typ: "[[Offensivzauber]]"
 
 ## Beschreibung
 Ein gleißender Lichtblitz schießt aus einem deiner Finger zu einem Punkt deiner Wahl in Reichweite und erblüht mit einem dunklen Grollen zu einer feurigen Explosion aus Flammen. 
-Alle Kreaturen in einem Radius von 6 m um diesen Punkt müssen einen [[Rettungswurf]] auf [[Geschicklichkeit]] ablegen. 
+Alle Kreaturen in einem Radius von 6 m um diesen Punkt müssen einen [[Rettungswurf]] auf [[Beweglichkeit]] ablegen. 
 Bei einem Misserfolg erleidet ein Ziel `=this.Schaden` `=this.Schadensart` oder halb so viel Schaden bei einem erfolgreichen [[Rettungswurf]].
 
 Das Feuer kann sich um Ecken ausbreiten. 

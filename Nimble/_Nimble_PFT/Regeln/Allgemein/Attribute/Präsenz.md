@@ -6,11 +6,10 @@ aliases:
   - PRÄ
 tags:
   - Regeln/Nimble/Attribut
+Beschreibung: Misst die Fähigkeit effektiv mit anderen zu agieren. Dazu gehören Faktoren wie Selbstvertrauen und Beredsamkeit.
 ---
 # `=this.file.name`
-
-Misst die Fähigkeit effektiv mit anderen zu agieren.
-Dazu gehören Faktoren wie Selbstvertrauen und Beredsamkeit.
+`=this.Beschreibung`
 [[Präsenz|Präsenzwürfe]] werden nötig um andere zu beeinflussen oder zu unterhalten, Eindruck zu schinden, mit einer Lüge zu überzeugen oder eine schwierige soziale Situation zu meistern.
 
 ## Verbundene Fertigkeiten

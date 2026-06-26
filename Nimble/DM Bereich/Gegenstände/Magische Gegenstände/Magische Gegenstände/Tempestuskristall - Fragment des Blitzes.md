@@ -17,6 +17,6 @@ Der Träger erhält +1 auf [[Angriffswurf|Angriffswürfe]] und [[Schadenswurf|Sc
 **Überspringen**
 Einmal pro [[Feldrast]] kann der Träger einen [[Nahkampfangriff]] oder Zauber, der [[Blitzschaden]] verursacht, mit „elektrischer Überladung“ verstärken. 
 Dadurch springt der Schaden auf ein weiteres Ziel innerhalb von 10 Fuß über.
-Das zweite Ziel muss einen [[Rettungswurf]] auf [[Geschicklichkeit]] gegen den [[Zauberrettungswurf-Schwierigkeitsgrad|Zauberrettungswurf-SG]] des Benutzers ablegen.
+Das zweite Ziel muss einen [[Rettungswurf]] auf [[Beweglichkeit]] gegen den [[Zauberrettungswurf-Schwierigkeitsgrad|Zauberrettungswurf-SG]] des Benutzers ablegen.
 Bei einem [[Misserfolg]] erleidet es den halben Schaden des ursprünglichen Angriffs oder Zaubers.
 Bei einem [[Erfolg]] entgeht es dem Angriff und erleidet keinen Schaden.

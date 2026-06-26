@@ -5,4 +5,4 @@ Einsatz: "Passiv"
 ---
 # `=this.file.name`
 Erhalte Vorteil auf [[Initiative|Initiativewürfe]]. 
-Bewege dich in der ersten [[Runde]] jedes Kampfes kostenlos um 2 mal [[Geschicklichkeit]] Kästchen.
+Bewege dich in der ersten [[Runde]] jedes Kampfes kostenlos um 2 mal [[Beweglichkeit]] Kästchen.

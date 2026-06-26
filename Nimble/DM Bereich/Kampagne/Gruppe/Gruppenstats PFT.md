@@ -4,10 +4,10 @@
 | Attribut             | Drogan | Niptac | Aranon | Lucian | Jon |
 | -------------------- |:------:|:------:|:------:|:------:|:---:|
 | [[Stärke]]           |   18   |   8    |   8    |   10   | 12  |
-| [[Geschicklichkeit]] |   13   |   16   |   14   |   14   | 18  |
+| [[Beweglichkeit]] |   13   |   16   |   14   |   14   | 18  |
 | [[Konstitution]]     |   16   |   14   |   14   |   12   | 14  |
 | [[Verstand]]      |   10   |   14   |   12   |   14   |  8  |
-| [[Weisheit]]         |   12   |   10   |   18   |   8    | 14  |
+| [[Entschlossenheit]]         |   12   |   10   |   18   |   8    | 14  |
 | [[Präsenz]]         |   8    |   14   |   11   |   18   | 10  |
 
 ## Fertigkeiten

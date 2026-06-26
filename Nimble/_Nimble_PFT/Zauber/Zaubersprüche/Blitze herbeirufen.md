@@ -18,7 +18,7 @@ Skalierbar: true
 Schaden: 3d10
 Schadensart: "[[Blitzschaden]]"
 Ziel: AoE
-Rettungswurf: "[[Geschicklichkeit|GES]]"
+Rettungswurf: "[[Beweglichkeit|GES]]"
 Klassen:
 Typ: "[[Offensivzauber|Angriff]]"
 ---

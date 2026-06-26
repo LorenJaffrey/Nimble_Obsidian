@@ -17,7 +17,7 @@ Ritual: false
 Skalierbar: true
 Schaden: 3d10
 Schadensart: "[[Hiebschaden]]"
-Rettungswurf: "[[Geschicklichkeit|GES]]"
+Rettungswurf: "[[Beweglichkeit|GES]]"
 Ziel: Einzel
 Klassen:
 Typ: "[[Unterstützung|Support]]"

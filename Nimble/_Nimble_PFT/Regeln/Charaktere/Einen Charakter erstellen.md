@@ -53,12 +53,12 @@ Markiere [[Vorteil und Nachteil|Vorteil]]  und [[Vorteil und Nachteil|Nachteil
 - **Extrem (Min–Max):** +3, +1, +1, +1, -1, -1
 
 > [!example]- Beispiel  
-> [[Der Betrüger]] hat [[Geschicklichkeit|GE]] und [[Verstand|IN]] als seine Hauptwerte. 
-> Mit der Min–Max-Verteilung könntest du +3 auf  [[Geschicklichkeit|GE]], +1 auf  [[Verstand|IN]], [[Präsenz|CH]] und [[Konstitution|KO]]  und –1 auf  [[Stärke|ST]] und [[Weisheit|WE]]  setzen. 
-> Markiere [[Vorteil und Nachteil|Vorteil]] für [[Geschicklichkeit|GE]]-[[Rettungswurf|Rettungswürfe]] und [[Vorteil und Nachteil|Nachteil]] für [[Weisheit|WE]]-[[Rettungswurf|Rettungswürfe]].
+> [[Der Betrüger]] hat [[Beweglichkeit|GE]] und [[Verstand|IN]] als seine Hauptwerte. 
+> Mit der Min–Max-Verteilung könntest du +3 auf  [[Beweglichkeit|GE]], +1 auf  [[Verstand|IN]], [[Präsenz|CH]] und [[Konstitution|KO]]  und –1 auf  [[Stärke|ST]] und [[Entschlossenheit|WE]]  setzen. 
+> Markiere [[Vorteil und Nachteil|Vorteil]] für [[Beweglichkeit|GE]]-[[Rettungswurf|Rettungswürfe]] und [[Vorteil und Nachteil|Nachteil]] für [[Entschlossenheit|WE]]-[[Rettungswurf|Rettungswürfe]].
 
 ## 2. Fertigkeitspunkte
-Auf Stufe 1 überträgst du deine [[Attribute|Attributsboni]] auf die jeweiligen [[Fertigkeiten]] (z. B. ein Held mit +2 [[Geschicklichkeit|GE]]  trägt +2 bei [[Akrobatik]], [[Fingerfertigkeit]] und [[Heimlichkeit]] ein) und darf 6 weitere Punkte frei verteilen.
+Auf Stufe 1 überträgst du deine [[Attribute|Attributsboni]] auf die jeweiligen [[Fertigkeiten]] (z. B. ein Held mit +2 [[Beweglichkeit|GE]]  trägt +2 bei [[Akrobatik]], [[Fingerfertigkeit]] und [[Heimlichkeit]] ein) und darf 6 weitere Punkte frei verteilen.
 
 > [!example]- Beispiel  
 > Wenn du –1 [[Verstand|IN]] hast, markiere  -1 bei [[Arkane Kunde]], [[Geschichte]], [[Nachforschungen]], [[Naturkunde]] und [[Religion]]. 
@@ -69,7 +69,7 @@ Auf Stufe 1 überträgst du deine [[Attribute|Attributsboni]] auf die jeweil
 Trage deine sekundären Werte ein:
 - maximale [[Trefferpunkte]] 
 - [[Trefferwürfel]] 
-- [[Initiative|Initiativebonus]] (Standard: [[Geschicklichkeit|GE]])
+- [[Initiative|Initiativebonus]] (Standard: [[Beweglichkeit|GE]])
 - Größe
 - [[Bewegungsrate]] (abhängig von der [[Abstammungen|Abstammung]])
 - maximale [[Wunden]] (Standard: 6) 

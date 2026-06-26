@@ -28,7 +28,7 @@ Typ: "[[Offensivzauber]]"
 
 ## Beschreibung
 Ein Hagel magischer Schneebelle bricht von einem Punkt hervor, den du innerhalb der Reichweite wählst. 
-Jede Kreatur in einer [[Kugel]] mit 1,50 Meter  (1 Kästchen) Radius, deren Zentrum an diesem Punkt liegt, muss einen [[Geschicklichkeit]]-[[Rettungswurf]] durchführen. 
+Jede Kreatur in einer [[Kugel]] mit 1,50 Meter  (1 Kästchen) Radius, deren Zentrum an diesem Punkt liegt, muss einen [[Beweglichkeit]]-[[Rettungswurf]] durchführen. 
 Eine Kreatur erleidet 3W6 [[Kälteschaden]] bei einem Fehlschlag, die Hälfte davon bei einem Erfolg.
 
 ## Auf  höheren Graden

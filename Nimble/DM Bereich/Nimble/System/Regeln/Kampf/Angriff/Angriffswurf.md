@@ -11,8 +11,8 @@ aliases:
 > W20 + [[Attribute|Angriffsbonus]] + Modifikatoren
 
 Der [[Attribute|Angriffsbonus]] hängt von der verwendeten Waffe ab. 
-Die meisten [[Nahkampfangriff|Nahkampfangriffe]] basieren auf [[Stärke]], manchmal auch auf [[Geschicklichkeit]] (bei Waffen mit der Eigenschaft [[Finesse]]).
-Die meisten [[Fernkampfangriff|Fernkampfangriffe]] basieren auf [[Geschicklichkeit]].
+Die meisten [[Nahkampfangriff|Nahkampfangriffe]] basieren auf [[Stärke]], manchmal auch auf [[Beweglichkeit]] (bei Waffen mit der Eigenschaft [[Finesse]]).
+Die meisten [[Fernkampfangriff|Fernkampfangriffe]] basieren auf [[Beweglichkeit]].
 
 Der [[Schwierigkeitsgrad]] für den `=this.file.name` ist in der Regel die [[Rüstungsklasse]] des Ziels.
 
