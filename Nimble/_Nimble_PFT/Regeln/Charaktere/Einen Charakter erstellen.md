@@ -33,7 +33,7 @@ SORT file.name
 
 ## Schritt 2: Wähle deine Herkunft
 Wähle eine [[Abstammungen|Abstammung]].
-Wähle außerdem entweder aus den vorgefertigten [[Hintergründe|Hintergründen]]oder lege deine eigene Abenteuer-Motivation fest. 
+Wähle außerdem entweder aus den vorgefertigten [[Hintergründe|Hintergründen]] oder lege deine eigene Abenteuer-Motivation fest. 
 Was hat deinen Helden angetrieben, ein Abenteurer zu werden? 
 Wie kennst du die anderen Helden?
 
@@ -53,7 +53,7 @@ Markiere [[Vorteil und Nachteil|Vorteil]]  und [[Vorteil und Nachteil|Nachteil
 - **Extrem (Min–Max):** +3, +1, +1, +1, -1, -1
 
 > [!example]- Beispiel  
-> [[Der Betrüger]] hat [[Beweglichkeit|GE]] und [[Verstand|IN]] als seine Hauptwerte. 
+> Der [[Gauner]] hat [[Beweglichkeit|GE]] und [[Verstand|IN]] als seine Hauptwerte. 
 > Mit der Min–Max-Verteilung könntest du +3 auf  [[Beweglichkeit|GE]], +1 auf  [[Verstand|IN]], [[Präsenz|CH]] und [[Konstitution|KO]]  und –1 auf  [[Stärke|ST]] und [[Entschlossenheit|WE]]  setzen. 
 > Markiere [[Vorteil und Nachteil|Vorteil]] für [[Beweglichkeit|GE]]-[[Rettungswurf|Rettungswürfe]] und [[Vorteil und Nachteil|Nachteil]] für [[Entschlossenheit|WE]]-[[Rettungswurf|Rettungswürfe]].
 
@@ -67,13 +67,25 @@ Auf Stufe 1 überträgst du deine [[Attribute|Attributsboni]] auf die jeweil
 
 ## 3. Sekundäre Werte
 Trage deine sekundären Werte ein:
-- maximale [[Trefferpunkte]] 
-- [[Trefferwürfel]] 
 - [[Initiative|Initiativebonus]] (Standard: [[Beweglichkeit|GE]])
-- Größe
+- [[Größenkategorie]]
 - [[Bewegungsrate]] (abhängig von der [[Abstammungen|Abstammung]])
 - maximale [[Wunden]] (Standard: 6) 
 - Inventarplätze (10 + [[Stärke]]) 
+
+### [[Trefferpunkte]]  pro Stufe
+Diese errechnen sich aus dem Basiswert 3 plus eventueller Boni aus [[Abstammungen|Abstammung]], [[Klassen|Klasse]], [[Subklassen|Subklasse]], [[Konstitution]], etc. 
+
+### Maximale [[Trefferpunkte]] 
+Auf Stufe 1 erhältst du maximale [[Trefferpunkte]] in Höhe der [[Trefferpunkte]] pro Stufe mal zwei.
+ 
+### [[Ausdauerpunkte]] pro Stufe
+Diese errechnen sich aus dem Basiswert 3 plus eventueller Boni aus [[Abstammungen|Abstammung]], [[Klassen|Klasse]], [[Subklassen|Subklasse]], [[Entschlossenheit]], etc.
+
+### Maximale [[Ausdauerpunkte]] 
+Auf Stufe 1 erhältst du maximale [[Ausdauerpunkte]] in Höhe der [[Ausdauerpunkte]] pro Stufe mal zwei.
+
+
 
 ## 4. Ausrüstung & Geld
 Helden beginnen auf Stufe 1 mit der für ihre [[Klasse]] und ihren [[Hintergründe|Hintergrund]] vorgeschriebenen Ausrüstung oder mit **50 GM**, um ihre Startausrüstung zu kaufen. 
