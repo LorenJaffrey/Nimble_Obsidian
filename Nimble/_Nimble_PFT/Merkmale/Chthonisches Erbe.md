@@ -8,7 +8,7 @@ Einsatz: Passiv
 # `=this.file.name`
 *Dein Erbe gewährt dir übernatürliche Fähigkeiten.*
 
-Du besitzt [[Schadensarten#Schadensresistenz]] gegen [[Schattenschaden|Nekrotischen Schaden]].
+Du besitzt [[Schadensresistenz]] gegen [[Schattenschaden|Nekrotischen Schaden]].
 
 Außerdem beherrschst du folgende Zauber: 
 - ab Stufe 1: [[Kalte Hand]] 

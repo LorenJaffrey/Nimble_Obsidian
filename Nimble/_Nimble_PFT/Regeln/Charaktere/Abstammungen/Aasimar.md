@@ -32,4 +32,4 @@ Du kennst [[Celestisch]], wenn deine [[Verstand|IN]] nicht negativ ist.
 Du erhältst einen Bonus von +1 auf [[Motiv erkennen]].
 
 ### Feuergeboren
-Du besitzt [[Schadensarten#Schadensresistenz]] gegen [[Gleißender Schaden|gleißenden Schaden]].
+Du besitzt [[Schadensresistenz]] gegen [[Gleißender Schaden|gleißenden Schaden]].

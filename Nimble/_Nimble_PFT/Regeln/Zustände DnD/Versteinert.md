@@ -9,5 +9,5 @@ Ihr Gewicht erhöht sich um den Faktor 10 und sie hört auf zu altern.
 ﻿﻿Die Kreatur ist [[Kampfunfähig]], kann sich weder bewegen noch sprechen und ist sich ihrer Umgebung nicht bewusst.
 ﻿﻿Ein [[Angriffswurf]] gegen die Kreatur ist im [[Vorteil und Nachteil|Vorteil]].
 Sie scheitert automatisch bei [[Rettungswurf|Rettungswürfen]] auf [[Stärke]] und [[Beweglichkeit]].
-﻿﻿Die Kreatur besitzt eine [[Schadensarten#Schadensresistenz]] gegen jeglichen Schaden.
+﻿﻿Die Kreatur besitzt eine [[Schadensresistenz]] gegen jeglichen Schaden.
 ﻿﻿Sie ist immun gegen [[Gift]] und [[Krankheiten|Krankheit]], doch [[Gift]] und [[Krankheiten|Krankheit]], die sich bereits in ihrem Körper befinden, werden aufgehalten, nicht neutralisiert.

@@ -46,4 +46,4 @@ Wähle außerdem eine drakonische Abstammung:
 | Kupfer     | [[Säureschaden]] |
 | Messing    | [[Giftschaden]]  |
 
-Du erhältst [[Schadensarten#Schadensresistenz]] gegen die gewählte [[Schadensarten|Schadensart]].
+Du erhältst [[Schadensresistenz]] gegen die gewählte [[Schadensarten|Schadensart]].

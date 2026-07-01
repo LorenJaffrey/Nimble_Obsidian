@@ -32,4 +32,4 @@ Du kennst [[Infernalisch]], wenn deine [[Verstand|IN]] nicht negativ ist.
 Du erhältst einen Bonus von +1 auf [[Überzeugen]] und [[Täuschen]].
 
 ### Feuergeboren
-Du besitzt [[Schadensarten#Schadensresistenz]] gegen [[Feuerschaden]], jedoch auch [[Schadensarten#Schadensanfälligkeit]] gegen [[Gleißender Schaden|gleißenden Schaden]].
+Du besitzt [[Schadensresistenz]] gegen [[Feuerschaden]], jedoch auch [[Schadensanfälligkeit]] gegen [[Gleißender Schaden|gleißenden Schaden]].

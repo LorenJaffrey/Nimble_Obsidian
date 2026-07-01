@@ -4,4 +4,4 @@ tags:
 ---
 # `=this.file.name`
 *Das Fleisch der Kreatur verwest.*
-Sie ist bei Würfen auf [[Präsenz]] im [[Vorteil und Nachteil|Nachteil]] und [[Schadensarten#Schadensanfälligkeit|anfällig]] für sämtlichen Schaden.
+Sie ist bei Würfen auf [[Präsenz]] im [[Vorteil und Nachteil|Nachteil]] und [[Schadensanfälligkeit|anfällig]] für sämtlichen Schaden.

@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "_Nimble_PFT/Regeln/Charaktere/Klassen/Klassen.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -176,12 +176,12 @@
             }
           },
           {
-            "id": "1c3d0480a8912874",
+            "id": "18f2c109aecd919f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensanfälligkeit.md",
+                "file": "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden/Magischer Schaden.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -196,31 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schadensanfälligkeit"
-            }
-          },
-          {
-            "id": "3f9001ebe71ddae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Nimble/System/Regeln/Magie/_Magieattribute.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_Magieattribute"
+              "title": "Magischer Schaden"
             }
           }
         ],
@@ -384,14 +360,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensanfälligkeit.md"
+                "file": "_Nimble_PFT/Gegenstände/Waffen/Waffen/Knüppel.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Schadensanfälligkeit"
+              "title": "File properties for Knüppel"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -413,38 +389,38 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "1c3d0480a8912874",
+  "active": "18f2c109aecd919f",
   "lastOpenFiles": [
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensmodifikatoren.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensanfälligkeit.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensimmunität.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensresistenz.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Schadensarten.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Elementarschaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Physischer Schaden/Physischer Schaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden/Magischer Schaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Physischer Schaden/Hiebschaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Physischer Schaden/Stichschaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Physischer Schaden/Wuchtschaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden/Schattenschaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden/Gleißender Schaden.md",
     "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden/Arkanschaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Kälteschaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Giftschaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Blitzschaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Feuerschaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Säureschaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden/Magischer Schaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Elementarschaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Schadensarten.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensimmunität.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensmodifikatoren.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensresistenz.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensanfälligkeit.md",
+    "_Nimble_PFT/Merkmale/Zwergische Unverwüstlichkeit.md",
+    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Verletzungen/Geisteskrankheiten/Überfordert.md",
+    "DM Bereich/Bestiarium/Kreaturen/Feenwesen/Truhenwesen (old).md",
+    "DM Bereich/Gegenstände/Magische Gegenstände/Magische Gegenstände/Tempestuskristall.md",
+    "_Nimble_PFT/Regeln/Charaktere/Hintergründe/Tagträumer.md",
+    "_Nimble_PFT/Gegenstände/Magische Gegenstände/Kategorien magischer Gegenstände/Magische Waffe.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Ki-verstärkte Schläge.md",
+    "_Nimble_PFT/Merkmale/Infernalisches Erbe.md",
+    "_Nimble_PFT/Regeln/Zustände DnD/Versteinert.md",
+    "_Nimble_PFT/Regeln/Charaktere/Abstammungen/Tieflinge/Infernaler Tiefling.md",
+    "DM Bereich/Bestiarium/Kreaturen/Monstrositäten/Gricks/Gricks.md",
+    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Krankheiten/Fleischfäule.md",
+    "_Nimble_PFT/Merkmale/Drakonische Abstammung.md",
+    "_Nimble_PFT/Regeln/Charaktere/Abstammungen/Drachengeborener.md",
+    "_Nimble_PFT/Merkmale/Chthonisches Erbe.md",
+    "_Nimble_PFT/Regeln/Charaktere/Abstammungen/Aasimar.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Kampf DnD/_Spezielle Kampfbedingungen.md",
+    "_Nimble_PFT/Regeln/Charaktere/Einen Charakter erstellen.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren",
     "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Physischer Schaden",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Psychischer Schaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Ausdauerpunkte.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Fluchwirker/Anrufungen/Mächtige Anrufungen/Schattenverzerrung.md",
-    "DM Bereich/Bestiarium/Kreaturen/Untote/Ghule/Ghul Brut.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Zufallsschaden.md",
-    "DM Bereich/Nimble/System/Regeln/Magie/_Magieattribute.md",
-    "DM Bereich/Nimble/System/Regeln/Magie/_Ideen Magiesystem.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden",
     "_Nimble_PFT/Regeln/Allgemein/Größenkategorie",
     "_Nimble_PFT/Regeln/Allgemein/Attribute",
     "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten",

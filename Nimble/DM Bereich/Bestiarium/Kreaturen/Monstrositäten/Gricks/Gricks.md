@@ -25,7 +25,7 @@ Neben seinen Tentakeln kann er auch mit seinem [[Schwanzhieb Leicht|Schwanz]] zu
 Doch auch er muss mit seinen [[Tentakelangriff Mächtig|Tentakeln]] treffen, um anschließend seinen [[Biss Stark|Schnabelangriff]] einsetzen zu können.
 
 ## Verteidigung
-Sowohl der [[Grick]] als auch der [[Grick-Alpha]] besitzen auf unerklärliche Weise [[Schadensarten#Schadensresistenz]] gegen [[Stichschaden]], [[Hiebschaden]] und [[Wuchtschaden]] durch nichtmagische Waffen.
+Sowohl der [[Grick]] als auch der [[Grick-Alpha]] besitzen auf unerklärliche Weise [[Schadensresistenz]] gegen [[Stichschaden]], [[Hiebschaden]] und [[Wuchtschaden]] durch nichtmagische Waffen.
 Ein Detail, das im Monsterhandbuch nicht weiter begründet wird, sondern einfach eine Tatsache ist. 
 Die naheliegende Schlussfolgerung ist, dass [[Gricks]] zähe Jäger sind, die gewöhnliche Waffen nicht abschrecken. 
 Nur magischer oder elementarer Schaden zwingt sie zum Rückzug. 

@@ -9,7 +9,7 @@ Einsatz: Passiv
 *Deine Vorfahren waren Drachen.*
 
 Wähle eine Drachenart aus der untenstehenden Tabelle. 
-Du erhältst [[Schadensarten#Schadensresistenz]] gegen die angegebene [[Schadensarten|Schadensart]].
+Du erhältst [[Schadensresistenz]] gegen die angegebene [[Schadensarten|Schadensart]].
 Die [[Schadensarten|Schadensart]] deiner [[Drakonische Odemwaffe|Drakonischen Odemwaffe]] entspricht ebenfalls der anagegebenen [[Schadensarten|Schadensart]].
 
 ##### Drakonische Ahnen

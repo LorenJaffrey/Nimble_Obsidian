@@ -8,7 +8,7 @@ Einsatz: Passiv
 # `=this.file.name`
 *Dein Erbe gewährt dir übernatürliche Fähigkeiten.*
 
-Du besitzt [[Schadensarten#Schadensresistenz]] gegen [[Feuerschaden]].
+Du besitzt [[Schadensresistenz]] gegen [[Feuerschaden]].
 
 Außerdem beherrschst du folgende Zauber: 
 - ab Stufe 1: [[_Nimble_PFT/Zauber/Zaubersprüche/Feuerpfeil]] 
