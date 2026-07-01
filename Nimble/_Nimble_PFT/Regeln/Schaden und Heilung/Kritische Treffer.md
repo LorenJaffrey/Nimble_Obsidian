@@ -1,6 +1,6 @@
 ---
 tags:
-  - Regeln/Nimble
+  - Regeln/Nimble/Schaden
 aliases:
   - Kritischer Treffer
   - Kritischen Treffer
@@ -9,7 +9,7 @@ aliases:
 Ein [[Kritische Treffer|Kritischer Treffer]] liegt normalerweise vor wenn der  [[Angriffswurf]] eine natürliche 20 zeigt, oder ein [[Rettungswurf]] eine natürliche 1 zeigt.
 Er kann jedoch auch durch ein anderes Ereignis ausgelöst werden.
 
-Ein [[Kritische Treffer|Kritischer Treffer]] verursacht den maximalen Schaden der verwendeten Schadenswürfel.
+Ein [[Kritische Treffer|Kritischer Treffer]] verursacht den maximalen Schaden der verwendeten Schadenswürfel plus eventuelle Boni.
 [[Kritische Treffer]] werden normal durch [[Rüstungsklasse]] reduziert, verursachen aber immer mindestens 1 Punkt Schaden.
 
 >[!example] Beispiel

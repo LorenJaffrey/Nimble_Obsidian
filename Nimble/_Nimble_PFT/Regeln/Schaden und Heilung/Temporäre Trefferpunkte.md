@@ -1,23 +1,20 @@
 ---
 tags:
-  - Regeln/Nimble
+  - Regeln/Nimble/Schaden
 aliases: 
   - Temporären Trefferpunkt
   - Temporärer Trefferpunkte
 ---
 # `=this.file.name`
-Manche Zauber und andere Effekte verleihen [[Temporäre Trefferpunkte]], die als Puffer dienen, um keine regulären [[Trefferpunkte]] zu verlieren, wie unten erläutert wird.
+[[Temporäre Trefferpunkte]] sind ein vorübergehender Schutz, der vor normalen [[Trefferpunkte|Trefferpunkten]]  oder [[Ausdauerpunkte|Ausdauerpunkten]] verloren geht. 
+Sie stehen für magische Barrieren, Kampfgeist, Schutzsegen, Deckungsvorteile oder andere kurzlebige Effekte, die Schaden abfangen, ohne eine echte Heilung zu sein. 
+[[Temporäre Trefferpunkte]] können nicht normal geheilt werden und sind keine eigene Form von Regeneration, sondern ein zusätzlicher Puffer, der mit der Zeit oder nach Verbrauch wieder verschwindet.
 
-## Temporäre Trefferpunkte gehen zuerst verloren
-Wenn du über [[Temporäre Trefferpunkte]] verfügst und Schaden erleidest, verlierst du zuerst die [[Temporäre Trefferpunkte|temporären Trefferpunkt]]. 
-Überschüssiger Schaden wird von deinen regulären [[Trefferpunkte|Trefferpunkten]] abgezogen. 
-
->[!Example] Beispiel
->Du verfügst über 5 temporäre Trefferpunkte und erleidest 7 Schaden.
->Du verlierst die temporären Trefferpunkte und dann 2 reguläre Trefferpunkte.
+> [!info] Temporäre TP sind ein Schutzpolster auf Zeit
+> Sie halten dich kurz über Wasser, sind aber keine echte Heilung und verschwinden wieder, sobald der Schutz aufgebraucht ist.
 
 ## Wirkungsdauer
-[[Temporäre Trefferpunkte]] bleiben bestehen, bis sie verbraucht sind oder du eine[[Sichere Rast]] beendest.
+[[Temporäre Trefferpunkte]] bleiben bestehen, bis sie verbraucht sind oder du eine [[Sichere Rast]] beendest.
 
 ## Nicht stapelbar
 [[Temporäre Trefferpunkte]] können nicht addiert werden.

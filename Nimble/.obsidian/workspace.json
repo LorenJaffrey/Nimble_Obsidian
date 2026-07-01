@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "_Nimble_PFT/Regeln/Charaktere/Klassen/Klassen.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -174,9 +174,57 @@
               "icon": "lucide-file",
               "title": "Einen Charakter erstellen"
             }
+          },
+          {
+            "id": "1c3d0480a8912874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensanfälligkeit.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Schadensanfälligkeit"
+            }
+          },
+          {
+            "id": "3f9001ebe71ddae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Nimble/System/Regeln/Magie/_Magieattribute.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Magieattribute"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -336,14 +384,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Nimble_PFT/Gegenstände/Waffen/Waffen/Knüppel.md"
+                "file": "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensanfälligkeit.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Knüppel"
+              "title": "File properties for Schadensanfälligkeit"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -365,44 +413,44 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "fde02c21d6e34c3f",
+  "active": "1c3d0480a8912874",
   "lastOpenFiles": [
-    "_Nimble_PFT/Regeln/Charaktere/Einen Charakter erstellen.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Trefferpunkte.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Berserker/Klassenmerkmale Berserker/Wildes Arsenal/Du bist der Nächste!.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Klassen.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/_Attribute.md",
-    "_Nimble_PFT/Regeln/Allgemein/Cheat Sheet Tätigkeiten.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/_Fertigkeiten.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Naturkunde.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fertigkeiten.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Attribute.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Verstand.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Konstitution.md",
-    "DM Bereich/Tips/Ideen/Ideen für Encounter.md",
-    "_Nimble_PFT/Regeln/Charaktere/_Ressourcen.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Beweglichkeit.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Entschlossenheit.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Geschick.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Instinkt.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Präsenz.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Stärke.md",
-    "_Nimble_PFT/Merkmale/Merkmale.md",
-    "_Nimble_PFT/Merkmale/Angeborenes Zauberwirken (Weisheit).md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Arkanist/Klassenmerkmale Arkanist/Elementarschub.md",
-    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Verletzungen/Geisteskrankheiten/Abhängigkeit.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Wahrnehmung.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Mit Tieren umgehen.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensmodifikatoren.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensanfälligkeit.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensimmunität.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensresistenz.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Schadensarten.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Elementarschaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Physischer Schaden/Physischer Schaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden/Magischer Schaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Physischer Schaden/Hiebschaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Physischer Schaden/Stichschaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Physischer Schaden/Wuchtschaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden/Schattenschaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden/Gleißender Schaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden/Arkanschaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Kälteschaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Giftschaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Blitzschaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Feuerschaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Säureschaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Physischer Schaden",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Psychischer Schaden.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Ausdauerpunkte.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen/Fluchwirker/Anrufungen/Mächtige Anrufungen/Schattenverzerrung.md",
+    "DM Bereich/Bestiarium/Kreaturen/Untote/Ghule/Ghul Brut.md",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Zufallsschaden.md",
+    "DM Bereich/Nimble/System/Regeln/Magie/_Magieattribute.md",
+    "DM Bereich/Nimble/System/Regeln/Magie/_Ideen Magiesystem.md",
     "_Nimble_PFT/Regeln/Allgemein/Größenkategorie",
     "_Nimble_PFT/Regeln/Allgemein/Attribute",
     "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten",
     "_Nimble_PFT/Regeln/Allgemein",
     "_Nimble_PFT/Regeln/Charaktere/Klassen/Fluchwirker/Anrufungen/Mächtige Anrufungen",
     "_Nimble_PFT/Regeln/Charaktere/Klassen/Fluchwirker/Anrufungen/Geringe Anrufungen",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Kampfkunst",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Fokuspunkte",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Taktiker/Klassenmerkmale Kommandant/Befehle des Kommandanten",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Berserker/Klassenmerkmale Berserker/Wut",
     "_Nimble_PFT/zHidden/_Attachments/Races/Tiefling 1.png",
     "_Nimble_PFT/zHidden/_Attachments/Races/Halbling.png",
     "_Nimble_PFT/zHidden/_Attachments/Races/Gnom.png",

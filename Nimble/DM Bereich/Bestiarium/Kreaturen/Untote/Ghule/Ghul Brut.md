@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 tags:
   - Kreatur/Untot/Ghul
 Bild: "[[ghoul_spawn.png|350]]"
@@ -12,15 +12,15 @@ Stufe: 6
 Trefferwürfel: d8
 Bewegung:
   Boden: 9
-  Fliegen: 
-  Schwimmen: 
+  Fliegen:
+  Schwimmen:
   Klettern: 9
-  Graben: 
+  Graben:
 Sinne:
   - "[[Dunkelsicht]] 36m (24 Kästchen)"
 Verteidigung:
-  Rüstung: 
-  Schild: 
+  Rüstung:
+  Schild:
   Natürliche_Rüstung: 10
   Natürliche_SR: 0
   Resistenzen:
@@ -29,7 +29,7 @@ Verteidigung:
       - "[[Stichschaden]] (nicht-versilbert)"
       - "[[Hiebschaden]] (nicht-versilbert)"
     Schadensimmunität:
-      - "[[Nekrotischer Schaden]]"
+      - "[[Schattenschaden]]"
       - "[[Giftschaden]]"
     Zustandsimmunität:
       - "[[Bezaubert]]"
@@ -72,7 +72,7 @@ Fertigkeiten:
   Überlebenskunst: 0
   Überzeugen: 0
   Wahrnehmung: 0
-Sprachen: 
+Sprachen:
 Merkmale:
   - "[[Rudeltaktik]]"
   - "[[Spinnenklettern]]"
@@ -81,8 +81,8 @@ Merkmale:
   - "[[Schreckliches Heulen|Ghulkreischen]]"
   - "[[Mehrfachangriff Ghul Brut]]"
   - "[[Infektiös (Ghulfieber)]]"
-Anzahl_Legendäre_Aktionen: 
-Legendäre_Aktionen: 
+Anzahl_Legendäre_Aktionen:
+Legendäre_Aktionen:
 ---
 ```dynamic-embed
 [[embed Statblock Kreatur]]

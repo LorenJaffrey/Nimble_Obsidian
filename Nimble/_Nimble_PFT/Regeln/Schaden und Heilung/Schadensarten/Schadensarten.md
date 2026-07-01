@@ -1,6 +1,6 @@
 ---
 tags: 
-  - Regeln/Nimble/WIP
+  - Regeln/Nimble/Schaden
 aliases:
   - Schadensart
 ---
@@ -10,11 +10,13 @@ aliases:
 TABLE WITHOUT ID
 
 file.link AS "Schadensart",
-Zustand
+Kategorie
 
-FROM #Schadensart
+FROM #Regeln/Nimble/Schaden/Schadensart
 
-SORT file.name
+WHERE Kategorie
+
+SORT Kategorie, file.name
 ```
 
 ## Schadensanfälligkeit

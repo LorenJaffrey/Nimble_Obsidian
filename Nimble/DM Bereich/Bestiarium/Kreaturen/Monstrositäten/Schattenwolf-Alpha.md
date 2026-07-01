@@ -14,20 +14,20 @@ Bewegung:
   Boden: 12
   Fliegen:
   Schwimmen:
-  Klettern: 
+  Klettern:
   Graben:
 Sinne:
   - "[[Dunkelsicht]] 18m (12 Kästchen)"
 Verteidigung:
   Rüstung:
-  Schild: 
+  Schild:
   Natürliche_Rüstung: 12
   Natürliche_SR: 0
   Resistenzen:
     Schadensresistenz:
       - "[[Nichtmagische Angriffe]]"
     Schadensimmunität:
-      - "[[Nekrotischer Schaden]]"
+      - "[[Schattenschaden]]"
     Zustandsimmunität:
       - "[[Verängstigt]]"
 Angriff:

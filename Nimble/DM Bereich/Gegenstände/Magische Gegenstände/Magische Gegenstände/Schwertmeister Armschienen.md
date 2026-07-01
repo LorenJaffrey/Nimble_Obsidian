@@ -16,4 +16,4 @@ Verflucht: true
 
 Diese Armschienen sind verflucht und können nur mithilfe des Zaubers [[Fluch brechen]] entfernt werden.
 Wenn der Träger bei einem [[Angriffswurf]] eine natürliche 1 würfelt wird das Ergebnis stattdessen als natürliche 20 behandelt.
-Wenn dies geschieht, verursachen die Armschienen 2W8 [[Nekrotischer Schaden]] beim Träger.
+Wenn dies geschieht, verursachen die Armschienen 2W8 [[Schattenschaden]] beim Träger.

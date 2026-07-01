@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 tags:
   - Kreatur/Untot/Geist
 Bild: "[[Todesfee.jpg|350]]"
@@ -13,14 +13,14 @@ Trefferwürfel: d8
 Bewegung:
   Boden:
   Fliegen: 12
-  Schwimmen: 
+  Schwimmen:
   Klettern:
-  Graben: 
+  Graben:
 Sinne:
   - "[[Dunkelsicht]] 18m (12 Kästchen)"
 Verteidigung:
-  Rüstung: 
-  Schild: 
+  Rüstung:
+  Schild:
   Natürliche_Rüstung: 10
   Natürliche_SR: 0
   Resistenzen:
@@ -33,7 +33,7 @@ Verteidigung:
       - "[[Stichschaden]] (nicht-magisch)"
       - "[[Hiebschaden]] (nicht-magisch)"
     Schadensimmunität:
-      - "[[Nekrotischer Schaden]]"
+      - "[[Schattenschaden]]"
       - "[[Giftschaden]]"
       - "[[Kälteschaden]]"
     Zustandsimmunität:
@@ -79,7 +79,7 @@ Fertigkeiten:
   Überlebenskunst: 0
   Überzeugen: 0
   Wahrnehmung: 0
-Sprachen: 
+Sprachen:
   - "[[Gemeinsprache]]"
   - "[[Elfisch]]"
 Merkmale:
@@ -87,8 +87,8 @@ Merkmale:
   - "[[Wehklage]]"
   - "[[Körperlose Bewegung]]"
   - "[[Leben aufspüren]]"
-Anzahl_Legendäre_Aktionen: 
-Legendäre_Aktionen: 
+Anzahl_Legendäre_Aktionen:
+Legendäre_Aktionen:
 ---
 ```dynamic-embed
 [[embed Statblock Kreatur]]

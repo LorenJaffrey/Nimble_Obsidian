@@ -9,5 +9,5 @@ Einsatz: "1 [[Mana]]"
 - [[Feuerschaden]]
 - [[Kälteschaden]]
 - [[Blitzschaden]]
-- [[Nekrotischer Schaden]]
+- [[Schattenschaden]]
 - [[Gleißender Schaden]]

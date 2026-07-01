@@ -1,15 +1,25 @@
 ---
 tags:
-  - Regeln/Nimble
+  - Regeln/Nimble/Schaden
 ---
 # `=this.file.name`
-Wenn eine Kreatur oder ein Gegenstand Schaden erleidet, wird dieser von den aktuellen [[Trefferpunkte|Trefferpunkten]] abgezogen. 
+Wenn ein Charakter Schaden erleidet, wird dieser normalerweise in einer festen Reihenfolge auf seine Schutzpools angewendet:
+	1.[[Temporäre Trefferpunkte]]
+	2.[[Ausdauerpunkte]]
+	3. [[Trefferpunkte]]
 
-Wenn deine TP auf 0 fallen, erleidest du 1 [[Wunden|Wunde]] und erhältst den [[Zustände|Zustand]] **[[Sterbend]]**, bis du wieder [[Trefferpunkte|TP]] regenerierst.
+Diese Reihenfolge stellt sicher, dass kurzfristiger Schutz und Kampfbelastbarkeit zuerst aufgebraucht werden, bevor echte Verletzungen entstehen.
+
+>[!Example] Beispiel
+>Du verfügst über 5 temporäre Trefferpunkte und erleidest 7 Schaden.
+>Du verlierst zuerst die 5 [[Temporäre Trefferpunkte|Temporären Trefferpunkte]] und dann 2 [[Ausdauerpunkte]].
+
+## Auf 0 Trefferpunkte fallen
+Wenn deine [[Trefferpunkte|TP]] auf 0 fallen, erleidest du 1 [[Wunden|Wunde]] und erhältst den [[Zustände|Zustand]] [[Sterbend]], bis du wieder [[Trefferpunkte|TP]] regenerierst.
 
 ## Schaden bei 0 Trefferpunkten
-Schaden bei 0 [[Trefferpunkte]]n zählt als ein Misserfolg wie bei einem misslungenen [[Todesrettungswürfe|Todesrettungswurf]].
-Ein [[Kritische Treffer|Kritischer Treffer]] zählt als zwei Misserfolge.
+Wenn du Schaden erleidest, während du [[Sterbend]] bist, erhältst du **2 [[Wunden]]**
+Ein [[Kritische Treffer|Kritischer Treffer]] verursacht stattdessen **3 [[Wunden]]**.
 
 ## Monster und Gegenstände
 Monster sterben automatisch wenn sie 0 [[Trefferpunkte]] erreichen.

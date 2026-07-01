@@ -15,7 +15,7 @@ Konzentration: true
 Ritual: false
 Skalierbar: true
 Schaden: 8d8
-Schadensart: "[[Nekrotischer Schaden]]"
+Schadensart: "[[Schattenschaden]]"
 Ziel:
 Klassen:
 Typ: "[[Offensivzauber]]"

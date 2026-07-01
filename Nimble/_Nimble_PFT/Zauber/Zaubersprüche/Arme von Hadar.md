@@ -16,7 +16,7 @@ Konzentration: true
 Ritual: true
 Skalierbar: true
 Schaden: 2d6
-Schadensart: "[[Nekrotischer Schaden]]"
+Schadensart: "[[Schattenschaden]]"
 Rettungswurf: "[[Stärke|STK]]"
 Ziel: AoE
 Klassen:
@@ -31,7 +31,7 @@ Typ: "[[Offensivzauber|Angriff]]"
 *Du berufst dich auf die Macht Hadars, des Dunklen Hungers.*
 
 Tentakel aus finsterer Energie brechen aus dir hervor und schlagen auf alle Kreaturen innerhalb von 3 m ein. Jede Kreatur in diesem Bereich muss einen [[Rettungswurf]] auf [[Stärke]] ablegen. 
-Bei einem Misserfolg erleidet ein Ziel 2W6 [[Nekrotischer Schaden]] und kann bis zu seinem nächsten [[Zug]] keine [[Reaktion]] verwenden. 
+Bei einem Misserfolg erleidet ein Ziel 2W6 [[Schattenschaden]] und kann bis zu seinem nächsten [[Zug]] keine [[Reaktion]] verwenden. 
 Bei einem erfolgreichen [[Rettungswurf]] nimmt die Kreatur halben Schaden, erleidet aber keine anderen Auswirkungen.
 
 ### Auf höheren Graden
