@@ -19,9 +19,9 @@ Ein Bonus von +5 erhöht den Schaden um 5, ein Malus von -10 verringert den Scha
 Sinkt der Schaden dadurch unter 0, wird er stattdessen auf 0 gesetzt.
 
 ## Typmodifikatoren
-**[[Schadensimmunität]]** bedeutet, dass eine Kreatur von einer bestimmten Schadensart keinen Schaden erleidet.  
-**[[Schadensresistenz]]** bedeutet, dass eine Kreatur gegen eine bestimmte Schadensart nur den halben Schaden erleidet.  
-**[[Schadensanfälligkeit]]** bedeutet, dass eine Kreatur gegen eine bestimmte Schadensart doppelten Schaden erleidet.
+**[[Schadensimmunität]]** bedeutet, dass eine Kreatur von einer bestimmten [[Schadensarten|Schadensart]] keinen Schaden erleidet.  
+**[[Schadensresistenz]]** bedeutet, dass eine Kreatur gegen eine bestimmte [[Schadensarten|Schadensart]] nur den halben Schaden erleidet.  
+**[[Schadensanfälligkeit]]** bedeutet, dass eine Kreatur gegen eine bestimmte [[Schadensarten|Schadensart]] doppelten Schaden erleidet.
 
 Mehrere gleiche Typmodifikatoren auf dieselbe [[Schadensart]] werden nicht addiert. 
 Eine Kreatur mit mehrfacher [[Schadensresistenz]] gegen dieselbe [[Schadensart]] bleibt einfach resistent, und eine Kreatur mit mehrfacher [[Schadensanfälligkeit]] bleibt einfach anfällig.

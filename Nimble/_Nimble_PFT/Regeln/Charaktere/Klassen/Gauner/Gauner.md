@@ -13,12 +13,12 @@ Kernattribute:
     - "[[Leichte Rüstung]]"
 Rettungswürfe:
   Vorteil:
-    - "[[Rettungswurf#Geschicklichkeitsrettungswurf|Geschicklichkeitsrettungswürfe]]"
-    - "[[Rettungswurf#Intelligenzrettungswurf|Intelligenzrettungswürfe]]"
+    - "[[Beweglichkeitsrettungswürfe|BW-Rettungswürfe]]"
+    - "[[Verstandsrettungswürfe|VS-Rettungswürfe]]"
   Nachteil:
-    - "[[Rettungswurf#Stärkerettungswurf]]"
-    - "[[Rettungswurf#Konstitutionsrettungswurf]]"
-    - "[[Rettungswurf#Weisheitsrettungswurf]]"
+    - "[[Stärkerettungswürfe|ST-Rettungswürfe]]"
+    - "[[Konstitutionsrettungswürfe|KO-Rettungswürfe]]"
+    - "[[Entschlossenheitsrettungswürfe|EN-Rettungswürfe]]"
 Beschreibung: Heimlicher, hinterhältiger, schmutzig kämpfender Schurke.
 ---
 # `=this.file.name`

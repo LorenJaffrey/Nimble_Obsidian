@@ -29,4 +29,4 @@ Du sprichst [[Gnomisch]], sofern deine [[Verstand|IN]] nicht negativ ist.
 
 ### Gnomische Gerissenheit
 Du erhältst einen Bonus von +1 auf [[Nachforschungen]], [[Arkane Kunde]] und [[Geschichte]].
-Du erhältst außerdem [[Vorteil und Nachteil|Vorteil]] auf [[Rettungswurf#Intelligenzrettungswurf|Intelligenzrettungswürfe]].
+Du erhältst außerdem [[Vorteil und Nachteil|Vorteil]] auf [[Verstandsrettungswürfe|VS-Rettungswürfe]].

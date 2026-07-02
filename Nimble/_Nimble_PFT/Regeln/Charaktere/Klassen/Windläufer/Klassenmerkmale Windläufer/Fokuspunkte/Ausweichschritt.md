@@ -5,4 +5,4 @@ aliases:
 Einsatz: "1 [[Fokuspunkte|Fokuspunkt]]"
 ---
 # `=this.file.name`
-Nutze [[Ausweichen]] und weiche einem [[Angriff]] automatisch aus oder bestehe einen [[Rettungswurf#Geschicklichkeitsrettungswurf]] automatisch.
+Nutze [[Ausweichen]] und weiche einem [[Angriff]] automatisch aus oder bestehe einen [[Beweglichkeitsrettungswürfe|BW-Rettungswurf]] automatisch.

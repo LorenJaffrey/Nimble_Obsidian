@@ -11,7 +11,7 @@ Jeder Spielercharakter hat eine besondere Ressource namens [[Glück]].
 ## Glückspunkte erhalten
 Wenn du deinen Charakter erstellst, beginnst du mit 0 [[Glück|Glückspunkten]]. 
 Erhalte [[Glück|Glückspunkte]] auf folgende Weise:
-- Einmal pro Runde, wenn du einen [[Angriffswurf]] oder [[Rettungswurf]] nicht bestehst, erhalte 1 [[Glück|Glückspunkt]].
+- Einmal pro Runde, wenn du einen [[Angriffswurf]] oder [[Rettungswürfe|Rettungswurf]] nicht bestehst, erhalte 1 [[Glück|Glückspunkt]].
 - Der Spielleiter kann als Belohnung für eine clevere Idee, ausgezeichnetes Rollenspiel oder das Verfolgen einer interessanten - anstatt optimalen - Wahl 1 Glückspunkt vergeben.
 - Der Spielleiter kann der Gruppe [[Glück|Glückspunkte]] für das Überleben schwieriger Begegnungen oder das Erreichen von Storyzielen (zusätzlich zu XP) verleihen. 
  

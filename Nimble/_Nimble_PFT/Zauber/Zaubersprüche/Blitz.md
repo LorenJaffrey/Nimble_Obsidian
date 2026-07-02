@@ -27,8 +27,8 @@ Typ: "[[Offensivzauber|Angriff]]"
 
 ## Beschreibung
 Ein Blitz in Gestalt einer [[Linie]] mit 30 m Länge und 1,50 m Breite bricht in eine Richtung deiner Wahl aus dir hervor. 
-Jede Kreatur innerhalb der [[Linie]] muss einen [[Rettungswurf]] auf [[Beweglichkeit]] ablegen. 
-Bei einem [[Misserfolg]] erleidet das Ziel `dice:8d6` [[Blitzschaden]] oder halb so viel Schaden bei einem erfolgreichen [[Rettungswurf]].
+Jede Kreatur innerhalb der [[Linie]] muss einen [[Beweglichkeitsrettungswürfe|BW-Rettungswurf]] ablegen. 
+Bei einem [[Misserfolg]] erleidet das Ziel `dice:8d6` [[Blitzschaden]] oder halb so viel Schaden bei einem erfolgreichen [[Beweglichkeitsrettungswürfe|BW-Rettungswurf]].
 Der Blitz entzündet alle brennbaren Gegenstände im [[Wirkungsbereich]], die nicht getragen oder in der Hand gehalten werden.
 
 ## Auf höheren Graden

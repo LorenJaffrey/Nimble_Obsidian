@@ -6,4 +6,4 @@ Einsatz: Passiv
 ---
 # `=this.file.name`
 Angriffe gegen deine Schatten‑Diener werden mit [[Nachteil]] ausgeführt. 
-Sie erleiden keinen Schaden bei gelungenen [[Rettungswurf|Rettungswürfen]].
+Sie erleiden keinen Schaden bei gelungenen [[Rettungswürfe|Rettungswürfen]].

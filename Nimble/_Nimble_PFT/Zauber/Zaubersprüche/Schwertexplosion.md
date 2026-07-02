@@ -35,7 +35,7 @@ Typ: "[[Offensivzauber|Angriff]]"
 ## Beschreibung
 *Für einen Moment fegt eine Schar spektraler Klingen in Kreisform um dich herum.*
 
-Alle Kreaturen innerhalb von 1,5 Metern müssen einen [[Rettungswurf]] auf [[Beweglichkeit]] ausführen, ansonsten erleiden sie 1W6 [[Arkanschaden]].
+Alle Kreaturen innerhalb von 1,5 Metern müssen einen [[Beweglichkeitsrettungswürfe|BW-Rettungswurf]] ausführen, ansonsten erleiden sie 1W6 [[Arkanschaden]].
 
 ### Auf höheren Graden
 Der Schaden dieses Zaubers steigt jeweils um 1W6 bei Erreichen höherer Stufen:

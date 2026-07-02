@@ -31,7 +31,7 @@ Typ: "[[Offensivzauber]]"
 
 ## Beschreibung
 Du erzeugst einen Ausbruch donnernden Klangs, den man bis zu 30 m weit hören kann. 
-Jede andere Kreatur innerhalb der Reichweite außer dir muss einen [[Rettungswurf]] auf [[Konstitution]] bestehen oder `dice:Schaden` [[Schallschaden]] erleiden. 
+Jede andere Kreatur innerhalb der Reichweite außer dir muss einen [[Konstitutionsrettungswürfe|KO-Rettungswurf]] bestehen oder `dice:Schaden` [[Schallschaden]] erleiden. 
 
 ### Auf höheren Graden
 Der Schaden dieses Zaubers steigt jeweils um 1W6 bei Erreichen höherer Stufen:

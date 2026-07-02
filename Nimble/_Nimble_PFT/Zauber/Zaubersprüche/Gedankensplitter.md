@@ -35,7 +35,7 @@ Typ: "[[Debuff]]"
 ## Beschreibung
 
 Du versuchst, den Verstand einer Kreatur in Reichweite, die du sehen kannst, vorübergehend zu zersplittern. 
-Das Ziel muss einen [[Intelligenzrettungswurf]] bestehen, oder es erleidet 1W6 psychischen Schaden und muss 1W4 von seinem nächsten [[Rettungswurf]] vor Ende deines nächsten Zugs abziehen.
+Das Ziel muss einen [[Verstandsrettungswürfe|VS-Rettungswurf]] bestehen, oder es erleidet 1W6 psychischen Schaden und muss 1W4 von seinem nächsten [[Rettungswürfe|Rettungswurf]] vor Ende deines nächsten Zugs abziehen.
 
 ### Auf höheren Graden
 Der Schaden dieses Zaubers steigt jeweils um 1W6 bei Erreichen höherer Stufen:

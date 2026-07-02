@@ -18,12 +18,12 @@ TABLE
 FROM #Regeln/Nimble/Fertigkeit/Geschicklichkeit 
 ```
 
-## Sonstige Tätigkeiten
-- Wagen lenken
-- Gefangenen fesseln
-- Saiteninstrument spielen
-
 ## Angriffswürfe und Schaden
 [[Geschick]] wird außerdem verwendet bei:
 - [[Fernkampfangriff|Fernkampfangriffen]]
 - [[Nahkampfangriff|Nahkampfangriffen]] mit Waffen mit [[Finesse]]
+
+## Sonstige Tätigkeiten
+- Wagen lenken
+- Gefangenen fesseln
+- Saiteninstrument spielen

@@ -28,7 +28,7 @@ Typ: "[[Positionskontrolle]]"
 
 ## Beschreibung
 Du ermächtigst dich der Luft und zwingst sie, einen der folgenden Effekte an einem Punkt zu erzeugen, den du innerhalb der Reichweite sehen kannst: 
-- Eine mittelgroße oder kleinere Kreatur muss einen [[Rettungswurf]] auf [[Stärke]] bestehen oder wird bis zu 1,50 m von dir weggedrückt. 
+- Eine mittelgroße oder kleinere Kreatur muss einen [[Stärkerettungswürfe|ST-Rettungswurf]] bestehen oder wird bis zu 1,50 m von dir weggedrückt. 
 - Du erzeugst einen kleinen Windstoß, der fähig ist, ein Objekt, das weder in der Hand gehalten noch getragen wird und das nicht mehr als 5 Pfund wiegt, zu bewegen. 
    Das Objekt wird bis zu 3 m von dir weggedrückt. 
    Es wird nicht mit genug Kraft weggedrückt, um Schaden zu verursachen 

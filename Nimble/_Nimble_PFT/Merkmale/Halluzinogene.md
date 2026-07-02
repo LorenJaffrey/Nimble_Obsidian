@@ -9,12 +9,12 @@ Beim Aufprall auf den Boden oder eine andere harte Oberfläche zerspringt es und
 Die Wolke breitet sich um Ecken aus und ihr Bereich ist [[Leicht verschleiert]]. 
 Sie hält bis zu 5 Minuten an oder wird durch einen leichten oder stärkeren Wind (mindestens 5 Kilometer pro Stunde) zerstreut.
 
-Alle Kreaturen, die die Wolke während ihres [[Zug|Zuges]] betreten oder ihren [[Zug]] darin beginnen, müssen einen [[Rettungswurf]] auf [[Konstitution]] gegen [[Schwierigkeitsgrad|SG]] 15 bestehen.
+Alle Kreaturen, die die Wolke während ihres [[Zug|Zuges]] betreten oder ihren [[Zug]] darin beginnen, müssen einen [[Konstitutionsrettungswürfe|KO-Rettungswurf]] gegen [[Schwierigkeitsgrad|SG]] 15 bestehen.
 Bei einem [[Misserfolg]] leiden sie unter einem der folgenden Effekte:
 
 `dice: [[Halluzinogene#^Halluzinogen]]|norender|none|noform`
 
-Kreaturen, die vom Halluzinogen betroffen sind, können den [[Rettungswurf]] zu Beginn ihres [[Zug|Zuges]] wiederholen. 
+Kreaturen, die vom Halluzinogen betroffen sind, können den [[Konstitutionsrettungswürfe|KO-Rettungswurf]] zu Beginn ihres [[Zug|Zuges]] wiederholen. 
 Bei einem [[Erfolg]] endet der Effekt für sie. 
 Die Auswirkungen des Halluzinogens enden außerdem, wenn sich eine Kreatur 1 Minute außerhalb der Wolke aufhält.
 

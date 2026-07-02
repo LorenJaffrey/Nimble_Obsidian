@@ -45,7 +45,7 @@ Dieses Blatt hilft dir, Werte, Fähigkeiten, Ausrüstung und andere wichtige Inf
 
 ## 1. Grundwerte & Attribute
 Trage Charakterdetails ein: Name, [[Abstammung]], [[Klasse]], Stufe, Größe und Gewicht.
-Markiere [[Vorteil und Nachteil|Vorteil]]  und [[Vorteil und Nachteil|Nachteil]] bei [[Rettungswurf|Rettungswürfen]] und wähle eine Werteverteilung. 
+Markiere [[Vorteil und Nachteil|Vorteil]]  und [[Vorteil und Nachteil|Nachteil]] bei [[Rettungswürfe|Rettungswürfen]] und wähle eine Werteverteilung. 
 (Tipp: Setze die höchsten Zahlen in die Kernattribute deiner Klasse).
 
 - **Standard:** +2, +2, +1, +0, +0, -1
@@ -55,7 +55,7 @@ Markiere [[Vorteil und Nachteil|Vorteil]]  und [[Vorteil und Nachteil|Nachteil
 > [!example]- Beispiel  
 > Der [[Gauner]] hat [[Beweglichkeit|GE]] und [[Verstand|IN]] als seine Hauptwerte. 
 > Mit der Min–Max-Verteilung könntest du +3 auf  [[Beweglichkeit|GE]], +1 auf  [[Verstand|IN]], [[Präsenz|CH]] und [[Konstitution|KO]]  und –1 auf  [[Stärke|ST]] und [[Entschlossenheit|WE]]  setzen. 
-> Markiere [[Vorteil und Nachteil|Vorteil]] für [[Beweglichkeit|GE]]-[[Rettungswurf|Rettungswürfe]] und [[Vorteil und Nachteil|Nachteil]] für [[Entschlossenheit|WE]]-[[Rettungswurf|Rettungswürfe]].
+> Markiere [[Vorteil und Nachteil|Vorteil]] für [[Beweglichkeitsrettungswürfe|BW-Rettungswürfe]]  und [[Vorteil und Nachteil|Nachteil]] für [[Entschlossenheitsrettungswürfe|EN-Rettungswürfe]].
 
 ## 2. Fertigkeitspunkte
 Auf Stufe 1 überträgst du deine [[Attribute|Attributsboni]] auf die jeweiligen [[Fertigkeiten]] (z. B. ein Held mit +2 [[Beweglichkeit|GE]]  trägt +2 bei [[Akrobatik]], [[Fingerfertigkeit]] und [[Heimlichkeit]] ein) und darf 6 weitere Punkte frei verteilen.
@@ -79,11 +79,11 @@ Diese errechnen sich aus dem Basiswert 3 plus eventueller Boni aus [[Abstammunge
 ### Maximale [[Trefferpunkte]] 
 Auf Stufe 1 erhältst du maximale [[Trefferpunkte]] in Höhe der [[Trefferpunkte]] pro Stufe mal zwei.
  
-### [[Ausdauerpunkte]] pro Stufe
+### [[Resilienzpunkte]] pro Stufe
 Diese errechnen sich aus dem Basiswert 3 plus eventueller Boni aus [[Abstammungen|Abstammung]], [[Klassen|Klasse]], [[Subklassen|Subklasse]], [[Entschlossenheit]], etc.
 
-### Maximale [[Ausdauerpunkte]] 
-Auf Stufe 1 erhältst du maximale [[Ausdauerpunkte]] in Höhe der [[Ausdauerpunkte]] pro Stufe mal zwei.
+### Maximale [[Resilienzpunkte]] 
+Auf Stufe 1 erhältst du maximale [[Resilienzpunkte]] in Höhe der [[Resilienzpunkte]] pro Stufe mal zwei.
 
 
 

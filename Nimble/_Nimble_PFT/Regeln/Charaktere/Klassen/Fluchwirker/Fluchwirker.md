@@ -11,12 +11,12 @@ Kernattribute:
   Rüstungen:
 Rettungswürfe:
   Vorteil:
-    - "[[Rettungswurf#Intelligenzrettungswurf|Intelligenzrettungswürfe]]"
-    - "[[Rettungswurf#Weisheitsrettungswurf|Charismarettungswürfe]]"
+    - "[[Verstandsrettungswürfe|VS-Rettungswürfe]]"
+    - "[[Präsenzrettungswürfe|PR-Rettungswürfe]]"
   Nachteil:
-    - "[[Rettungswurf#Stärkerettungswurf|Stärkerettungswürfe]]"
-    - "[[Rettungswurf#Konstitutionsrettungswurf|Konstitutionsrettungswürfe]]"
-    - "[[Rettungswurf#Geschicklichkeitsrettungswurf|Geschicklichkeitsrettungswürfe]]"
+    - "[[Stärkerettungswürfe|ST-Rettungswürfe]]"
+    - "[[Konstitutionsrettungswürfe|KO-Rettungswürfe]]"
+    - "[[Beweglichkeitsrettungswürfe|BW-Rettungswürfe]]"
 Beschreibung: Beschwöre Horden opferbarer Diener.﻿
 ---
 # `=this.file.name`

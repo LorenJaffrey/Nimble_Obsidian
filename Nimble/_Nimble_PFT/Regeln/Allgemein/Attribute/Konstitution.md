@@ -11,13 +11,15 @@ Beschreibung: Misst Gesundheit, Ausdauer und Lebenskraft. Kann den Versuch darst
 # `=this.file.name`
 `=this.Beschreibung`
 
+## Vorteile
+
+### Trefferpunkte
+Beim Stufenaufstieg wird die [[Konstitution]] zur Anzahl der [[Trefferpunkte]] addiert. 
+Erhöht sich die [[Konstitution]] nachträglich erhöhen sich auch die [[Trefferpunkte]] nachträglich.
+
 ## Sonstige Tätigkeiten
 - die Luft anhalten
 - Stundenlang ohne Pause marschieren oder arbeiten
 - ohne Schlaf auskommen
 - ohne Wasser und Nahrung überleben
 - einen ganzen Krug Bier in einem Zug austrinken
-
-## Trefferpunkte
-Beim Stufenaufstieg wird die [[Konstitution]] zur Anzahl der [[Trefferpunkte]] addiert. 
-Erhöht sich die [[Konstitution]] nachträglich erhöhen sich auch die [[Trefferpunkte]] nachträglich.

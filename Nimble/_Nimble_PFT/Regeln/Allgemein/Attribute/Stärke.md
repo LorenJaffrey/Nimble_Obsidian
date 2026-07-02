@@ -25,7 +25,7 @@ FROM #Regeln/Nimble/Fertigkeit/Stärke
 SORT file.name
 ```
 
-## Heben und Tragen
+## Vorteile
 
 ### Traglast
 Gewicht das Charaktere mit sich herumtragen können.
@@ -41,4 +41,4 @@ Winzige Kreaturen halbieren Traglast.
 
 ### Belastung
 - Wenn Gewicht der Ausrüstung > [[Stärke]] x 5 -> Belastet ( [[Bewegungsrate]] -3m)
-- Wenn Gewicht der Ausrüstung > [[Stärke]] x 10 -> Stark_Belastet ( [[Bewegungsrate]] -6m; Nachteil bei [[Attribute#Attributswurf]] und [[Rettungswurf]] für [[Stärke]], [[Beweglichkeit]] und [[Konstitution]])
+- Wenn Gewicht der Ausrüstung > [[Stärke]] x 10 -> Stark_Belastet ( [[Bewegungsrate]] -6m; Nachteil bei [[Attribute#Attributswurf]] und [[Stärkerettungswürfe|ST-Rettungswürfen]], [[Beweglichkeitsrettungswürfe|BW-Rettungswürfen]] und [[Konstitutionsrettungswürfe|KO-Rettungswürfen]])

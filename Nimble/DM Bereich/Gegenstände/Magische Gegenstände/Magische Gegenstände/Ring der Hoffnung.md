@@ -13,5 +13,5 @@ Verflucht: false
 ```
 
 Eine Aufladung.
-Jedes mal wenn der Träger eine natürliche 1 bei einem [[Rettungswurf]] oder [[Angriffswurf]]wirft, erhält der Ring eine Aufladung.
-Du kannst diese Aufladung einsetzen um einen beliebigen [[Rettungswurf]] oder [[Angriffswurf]] zu wiederholen.
+Jedes mal wenn der Träger eine natürliche 1 bei einem [[Rettungswürfe]] oder [[Angriffswurf]]wirft, erhält der Ring eine Aufladung.
+Du kannst diese Aufladung einsetzen um einen beliebigen [[Rettungswürfe]] oder [[Angriffswurf]] zu wiederholen.

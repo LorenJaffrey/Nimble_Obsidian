@@ -11,12 +11,12 @@ Kernattribute:
   Rüstungen:
 Rettungswürfe:
   Vorteil:
-    - "[[Rettungswurf#Geschicklichkeitsrettungswurf|Geschicklichkeitsrettungswürfe]]"
-    - "[[Rettungswurf#Weisheitsrettungswurf|Weisheitsrettungswürfe]]"
+    - "[[Beweglichkeitsrettungswürfe|BW-Rettungswürfe]]"
+    - "[[Entschlossenheitsrettungswürfe|EN-Rettungswürfe]]"
   Nachteil:
-    - "[[Rettungswurf#Stärkerettungswurf|Stärkerettungswürfe]]"
-    - "[[Rettungswurf#Intelligenzrettungswurf|Intelligenzrettungswürfe]]"
-    - "[[Rettungswurf#Weisheitsrettungswurf|Charismarettungswürfe]]"
+    - "[[Stärkerettungswürfe|ST-Rettungswürfe]]"
+    - "[[Verstandsrettungswürfe|VS-Rettungswürfe]]"
+    - "[[Präsenzrettungswürfe|PR-Rettungswürfe]]"
 Beschreibung: Ein disziplinierter Kampfkünstler mit schnellen Händen und schnellen Füßen.
 ---
 # `=this.file.name`

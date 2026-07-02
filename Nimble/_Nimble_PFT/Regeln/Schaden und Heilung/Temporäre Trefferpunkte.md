@@ -6,7 +6,7 @@ aliases:
   - Temporärer Trefferpunkte
 ---
 # `=this.file.name`
-[[Temporäre Trefferpunkte]] sind ein vorübergehender Schutz, der vor normalen [[Trefferpunkte|Trefferpunkten]]  oder [[Ausdauerpunkte|Ausdauerpunkten]] verloren geht. 
+[[Temporäre Trefferpunkte]] sind ein vorübergehender Schutz, der vor normalen [[Trefferpunkte|Trefferpunkten]]  oder [[Resilienzpunkte|Ausdauerpunkten]] verloren geht. 
 Sie stehen für magische Barrieren, Kampfgeist, Schutzsegen, Deckungsvorteile oder andere kurzlebige Effekte, die Schaden abfangen, ohne eine echte Heilung zu sein. 
 [[Temporäre Trefferpunkte]] können nicht normal geheilt werden und sind keine eigene Form von Regeneration, sondern ein zusätzlicher Puffer, der mit der Zeit oder nach Verbrauch wieder verschwindet.
 

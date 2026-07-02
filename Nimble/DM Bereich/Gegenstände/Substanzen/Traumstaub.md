@@ -9,7 +9,7 @@
 - Wirkung
 	- heilt sofort um 1W4 [[Trefferpunkte]]
 	- [[Beweglichkeit]] und [[Entschlossenheit]] -2
-	- [[Rettungswurf]] auf [[Konstitution]] mit [[Schwierigkeitsgrad|SG]] 12
+	- [[Konstitutionsrettungswürfe|KO-Rettungswurf]] mit [[Schwierigkeitsgrad|SG]] 12
 		- senkt Dauer auf 1W4 Stunden
 - Entzug
 	- [[Vorteil und Nachteil|Nachteil]] auf alle Würfe für 1 Woche

@@ -6,7 +6,7 @@ Einsatz: "[[Aktionen]]"
 # `=this.file.name`
 *Du stößt eine qualerfüllte Wehklage aus*
 Diese [[Wehklage]] hat keine Auswirkung auf [[Konstrukte]] und [[Untote]].
-Alle anderen Kreaturen im Umkreis von 9 m (6 Kästchen), die dich hören können, müssen einen [[Rettungswurf]] auf [[Konstitution]] gegen [[Schwierigkeitsgrad|SG]] 13 ablegen. 
+Alle anderen Kreaturen im Umkreis von 9 m (6 Kästchen), die dich hören können, müssen einen [[Konstitutionsrettungswürfe|KO-Rettungswurf]] gegen [[Schwierigkeitsgrad|SG]] 13 ablegen. 
 Bei einem [[Misserfolg]] fällt die Kreatur auf 0 [[Trefferpunkte]]. 
 Bei einem Erfolg erleidet die Kreatur `dice:3d6` [[Psychischer Schaden|psychischen Schaden]].
 

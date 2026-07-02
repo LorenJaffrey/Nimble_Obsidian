@@ -35,7 +35,7 @@ Kreaturen, die nicht [[Bezaubert]] werden können, sind gegen diesen Effekt immu
 Die Einflüsterung muss so formuliert sein, dass die vorgeschlagene Vorgehensweise angemessen erscheint. 
 Aufforderungen, sich selbst zu erstechen, sich in einen Speer zu stürzen, sich anzuzünden oder auf andere Weise zu verletzen, beenden den Zauber.
 
-Das Ziel muss einen [[Rettungswurf]] auf [[Entschlossenheit]] ausführen.
+Das Ziel muss einen [[Entschlossenheitsrettungswürfe|EN-Rettungswurf]] ausführen.
 Scheitert der Wurf, führt es die von dir beschriebene Vorgehensweise nach Kräften aus. 
 Die vorgeschlagene Vorgehensweise kann während der gesamten Wirkungsdauer fortgesetzt werden. 
 Wenn die vorgeschlagene Aktivität in kürzerer Zeit abgeschlossen werden kann, endet der Zauber, sobald das Ziel die Aktivität beendet hat.

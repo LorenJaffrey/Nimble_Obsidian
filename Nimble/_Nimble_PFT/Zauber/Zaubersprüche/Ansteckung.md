@@ -30,9 +30,9 @@ Typ: "[[Debuff]]"
 Führe einen Nahkampf-Zauberangriff gegen eine Kreatur innerhalb deiner Reichweite aus. 
 Bei einem Treffer verursachst du bei der Kreatur eine der unten beschriebenen [[Krankheiten]] deiner Wahl.
 
-Am Ende jedes seiner Züge muss das Ziel einen [[Rettungswurf]] auf [[Konstitution]] ausführen. 
-Nach drei gescheiterten [[Rettungswurf|Rettungswürfen]] hält die [[Krankheiten|Krankheit]] für die Wirkungsdauer an und die Kreatur führt keine [[Rettungswurf|Rettungswürfe]] mehr aus. 
-Nach drei erfolgreichen [[Rettungswurf|Rettungswürfen]] erholt sich die Kreatur von der [[Krankheiten|Krankheit]] und der Zauber endet.
+Am Ende jedes seiner Züge muss das Ziel einen [[Konstitutionsrettungswürfe|KO-Rettungswurf]] ausführen. 
+Nach drei gescheiterten [[Konstitutionsrettungswürfe|KO-Rettungswürfen]] hält die [[Krankheiten|Krankheit]] für die Wirkungsdauer an und die Kreatur führt keine [[Konstitutionsrettungswürfe|KO-Rettungswürfe]] mehr aus. 
+Nach drei erfolgreichen[[Konstitutionsrettungswürfe|KO-Rettungswürfen]] erholt sich die Kreatur von der [[Krankheiten|Krankheit]] und der Zauber endet.
 
 Da dieser Zauber beim Ziel eine natürliche [[Krankheiten|Krankheit]] verursacht, sind alle Effekte wirksam, die [[Krankheiten]] heilen oder anderweitig lindern.
 

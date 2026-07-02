@@ -86,7 +86,7 @@ In der Beschreibung eines Zaubers ist angegeben, ob der Zauber auf Kreaturen, Ge
   Effekte wie Blitze sind offensichtlich, doch subtilere Effekte wie der Versuch, Gedanken zu lesen, bleiben üblicherweise unbemerkt, sofern in der Beschreibung nicht anders vermerkt.
 - **Ungültige Ziele**: Wenn du einen Zauber auf ein Ziel wirkst, das von ihm nicht betroffen sein kann, geschieht nichts.
   Wurde zum Wirken [[Mana]] verbraucht, wird dieses trotzdem verbraucht.
-  Wenn der Zauber normalerweise keinen Effekt auf ein Ziel hat, dem ein [[Rettungswurf]] gelingt, wirkt ein ungültiges Ziel, als wäre ihm sein [[Rettungswurf]] gelungen, auch wenn es keinen [[Rettungswurf]] ausgeführt hat (es ist also nicht zu erkennen, dass die Kreatur ein ungültiges Ziel ist).
+  Wenn der Zauber normalerweise keinen Effekt auf ein Ziel hat, dem ein [[Rettungswürfe]] gelingt, wirkt ein ungültiges Ziel, als wäre ihm sein [[Rettungswürfe]] gelungen, auch wenn es keinen [[Rettungswürfe]] ausgeführt hat (es ist also nicht zu erkennen, dass die Kreatur ein ungültiges Ziel ist).
   Anderenfalls bemerkt der Zauberwirker, dass sein Zauber beim Ziel nichts ausgerichtet hat.
 
 ## Zauberschulen

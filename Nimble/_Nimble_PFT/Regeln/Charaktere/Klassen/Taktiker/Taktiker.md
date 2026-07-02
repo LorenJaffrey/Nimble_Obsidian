@@ -14,12 +14,12 @@ Kernattribute:
     - "[[Schilde]]"
 Rettungswürfe:
   Vorteil:
-    - "[[Rettungswurf#Stärkerettungswurf|Stärkerettungswürfe]]"
-    - "[[Rettungswurf#Charismarettungswurf|Charismarettungswürfe]]"
+    - "[[Stärkerettungswürfe|ST-Rettungswürfe]]"
+    - "[[Präsenzrettungswürfe|PR-Rettungswürfe]]"
   Nachteil:
-    - "[[Rettungswurf#Geschicklichkeitsrettungswurf|Geschicklichkeitsrettungswürfe]]"
-    - "[[Rettungswurf#Intelligenzrettungswurf|Intelligenzrettungswürfe]]"
-    - "[[Rettungswurf#Weisheitsrettungswurf|Weisheitsrettungswürfe]]"
+    - "[[Beweglichkeitsrettungswürfe|BW-Rettungswürfe]]"
+    - "[[Verstandsrettungswürfe|VS-Rettungswürfe]]"
+    - "[[Entschlossenheitsrettungswürfe|EN-Rettungswürfe]]"
 Beschreibung: Ein Taktiker, Anführer und Waffenmeister.
 ---
 # `=this.file.name`

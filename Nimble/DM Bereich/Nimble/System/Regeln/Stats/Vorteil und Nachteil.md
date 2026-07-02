@@ -6,7 +6,7 @@ aliases:
   - Nachteil
 ---
 # `=this.file.name`
-Manchmal besagt eine besondere Fertigkeit oder ein Zauberspruch, dass du bei einem [[Fertigkeiten#Fertigkeitswurf]], einem [[Rettungswurf]] oder einem [[Angriffswurf]] einen Vorteil oder Nachteil hast. 
+Manchmal besagt eine besondere Fertigkeit oder ein Zauberspruch, dass du bei einem [[Fertigkeiten#Fertigkeitswurf]], einem [[Rettungswürfe]] oder einem [[Angriffswurf]] einen Vorteil oder Nachteil hast. 
 Wenn das der Fall ist, würfelst du einen zusätzlichen Würfel, wenn du den Wurf machst.
 Entferne dann den höheren der beiden Würfe, wenn du einen Nachteil hast, und den niedrigeren, wenn du Vorteil hast. 
 

@@ -11,12 +11,12 @@ Kernattribute:
   Rüstungen:
 Rettungswürfe:
   Vorteil:
-    - "[[Rettungswurf#Intelligenzrettungswurf|Intelligenzrettungswürfe]]"
-    - "[[Rettungswurf#Weisheitsrettungswurf|Weisheitsrettungswürfe]]"
+    - "[[Verstandsrettungswürfe|VS-Rettungswürfe]]"
+    - "[[Entschlossenheitsrettungswürfe|EN-Rettungswürfe]]"
   Nachteil:
-    - "[[Rettungswurf#Stärkerettungswurf|Stärkerettungswürfe]]"
-    - "[[Rettungswurf#Konstitutionsrettungswurf|Konstitutionsrettungswürfe]]"
-    - "[[Rettungswurf#Geschicklichkeitsrettungswurf|Geschicklichkeitsrettungswürfe]]"
+    - "[[Stärkerettungswürfe|ST-Rettungswürfe]]"
+    - "[[Konstitutionsrettungswürfe|KO-Rettungswürfe]]"
+    - "[[Beweglichkeitsrettungswürfe|BW-Rettungswürfe]]"
 Beschreibung: Beherrsche und forme die Elemente von Feuer, Eis und Blitz.﻿
 ---
 # `=this.file.name`

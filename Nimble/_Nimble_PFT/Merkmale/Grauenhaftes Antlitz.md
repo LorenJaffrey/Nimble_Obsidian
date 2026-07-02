@@ -4,7 +4,7 @@ tags:
 Einsatz: "[[Aktionen]]"
 ---
 # `=this.file.name`
-Alle nicht-[[Untote|untoten]] Kreaturen innerhalb von 18 m (12 Kästchen) um dich, die dich sehen können, müssen einen [[Rettungswurf]] auf [[Entschlossenheit]] gegen [[Schwierigkeitsgrad|SG]] 13 ablegen.
+Alle nicht-[[Untote|untoten]] Kreaturen innerhalb von 18 m (12 Kästchen) um dich, die dich sehen können, müssen einen [[Entschlossenheitsrettungswürfe|EN-Rettungswurf]] gegen [[Schwierigkeitsgrad|SG]] 13 ablegen.
 Bei einem [[Misserfolg]] werden sie für 1 Minute [[Verängstigt]]. 
-Das Ziel kann den [[Rettungswurf]] am Ende eines jeden seiner [[Zug|Züge]] wiederholen, mit einem [[Vorteil und Nachteil|Nachteil]], wenn du noch in Sichtweite bist, und den Effekt auf sich selbst bei einem [[Erfolg]] beenden. 
-Wenn der [[Rettungswurf]] erfolgreich ist oder der Effekt endet, dann ist die Kreatur für die nächsten 24 Stunden gegen das [[Grauenhafte Antlitz]] immun.
+Das Ziel kann den [[Entschlossenheitsrettungswürfe|EN-Rettungswurf]] am Ende eines jeden seiner [[Zug|Züge]] wiederholen, mit einem [[Vorteil und Nachteil|Nachteil]], wenn du noch in Sichtweite bist, und den Effekt auf sich selbst bei einem [[Erfolg]] beenden. 
+Wenn der [[Entschlossenheitsrettungswürfe|EN-Rettungswurf]] erfolgreich ist oder der Effekt endet, dann ist die Kreatur für die nächsten 24 Stunden gegen das [[Grauenhafte Antlitz]] immun.

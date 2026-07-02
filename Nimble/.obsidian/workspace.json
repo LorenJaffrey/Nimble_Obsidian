@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden/Magischer Schaden.md",
+                "file": "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Rettungswürfe.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -196,7 +196,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Magischer Schaden"
+              "title": "Rettungswürfe"
+            }
+          },
+          {
+            "id": "635681a08aef2376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Rettungswürfe.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rettungswürfe"
             }
           }
         ],
@@ -360,14 +384,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Nimble_PFT/Gegenstände/Waffen/Waffen/Knüppel.md"
+                "file": "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Rettungswürfe.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Knüppel"
+              "title": "File properties for Rettungswürfe"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -391,33 +415,35 @@
   },
   "active": "18f2c109aecd919f",
   "lastOpenFiles": [
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden/Arkanschaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden/Magischer Schaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden/Elementarschaden.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Schadensarten.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensimmunität.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensmodifikatoren.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensresistenz.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren/Schadensanfälligkeit.md",
+    "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Entschlossenheitsrettungswürfe.md",
+    "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Beweglichkeitsrettungswürfe.md",
+    "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Rettungswürfe.md",
+    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungsbeschreibung.md",
+    "_Nimble_PFT/Regeln/Charaktere/Klassen/Fluchwirker/Klassenmerkmale Schattenrufer/Grässliche Schatten.md",
+    "_Nimble_PFT/Regeln/Charaktere/Hintergründe/So dumm, dass ich manchmal schlau bin.md",
     "_Nimble_PFT/Merkmale/Zwergische Unverwüstlichkeit.md",
-    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Verletzungen/Geisteskrankheiten/Überfordert.md",
-    "DM Bereich/Bestiarium/Kreaturen/Feenwesen/Truhenwesen (old).md",
-    "DM Bereich/Gegenstände/Magische Gegenstände/Magische Gegenstände/Tempestuskristall.md",
-    "_Nimble_PFT/Regeln/Charaktere/Hintergründe/Tagträumer.md",
-    "_Nimble_PFT/Gegenstände/Magische Gegenstände/Kategorien magischer Gegenstände/Magische Waffe.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Windläufer/Klassenmerkmale Windläufer/Ki-verstärkte Schläge.md",
-    "_Nimble_PFT/Merkmale/Infernalisches Erbe.md",
-    "_Nimble_PFT/Regeln/Zustände DnD/Versteinert.md",
-    "_Nimble_PFT/Regeln/Charaktere/Abstammungen/Tieflinge/Infernaler Tiefling.md",
-    "DM Bereich/Bestiarium/Kreaturen/Monstrositäten/Gricks/Gricks.md",
-    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Krankheiten/Fleischfäule.md",
-    "_Nimble_PFT/Merkmale/Drakonische Abstammung.md",
-    "_Nimble_PFT/Regeln/Charaktere/Abstammungen/Drachengeborener.md",
-    "_Nimble_PFT/Merkmale/Chthonisches Erbe.md",
-    "_Nimble_PFT/Regeln/Charaktere/Abstammungen/Aasimar.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Kampf DnD/_Spezielle Kampfbedingungen.md",
-    "_Nimble_PFT/Regeln/Charaktere/Einen Charakter erstellen.md",
-    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensmodifikatoren",
+    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Krankheiten/Schmutzfieber.md",
+    "DM Bereich/Nimble/System/Regeln/Kampf/Aktionen/Stossen.md",
+    "DM Bereich/Nimble/Zustände/Sterbend.md",
+    "_Nimble_PFT/Zauber/Zaubersprüche/Spurloses Gehen.md",
+    "_Nimble_PFT/Merkmale/Schreckliches Kreischen.md",
+    "_Nimble_PFT/Merkmale/Schreckliches Heulen.md",
+    "_Nimble_PFT/zHidden/_Embeds/embed Character Sheet/embed Character Sheet Attribute/embed Character Sheet Attribute Konstitution.md",
+    "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Verstandsrettungswürfe.md",
+    "_Nimble_PFT/Zauber/Zaubersprüche/Snillocs Schneeballschwarm.md",
+    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Verletzungen/Schwere Verletzung.md",
+    "_Nimble_PFT/Merkmale/Spott.md",
+    "_Nimble_PFT/Merkmale/Gnomische Gerissenheit.md",
+    "_Nimble_PFT/Merkmale/Schleichende Verderbnis.md",
+    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Verletzungen/Geisteskrankheiten/Stumm.md",
+    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Krankheiten/Schleimiges Verderben.md",
+    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Verletzungen/Geisteskrankheiten/Paranoia.md",
+    "_Nimble_PFT/Merkmale/Säure versprühen.md",
+    "_Nimble_PFT/Zauber/Zaubersprüche/Zeichen des Schreckens.md",
+    "DM Bereich/Gegenstände/Substanzen/Traumstaub.md",
+    "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Schadenskategorien",
+    "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Schadensmodifikatoren",
     "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Physischer Schaden",
     "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Magischer Schaden",
     "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Elementarschaden",
@@ -425,8 +451,6 @@
     "_Nimble_PFT/Regeln/Allgemein/Attribute",
     "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten",
     "_Nimble_PFT/Regeln/Allgemein",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Fluchwirker/Anrufungen/Mächtige Anrufungen",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Fluchwirker/Anrufungen/Geringe Anrufungen",
     "_Nimble_PFT/zHidden/_Attachments/Races/Tiefling 1.png",
     "_Nimble_PFT/zHidden/_Attachments/Races/Halbling.png",
     "_Nimble_PFT/zHidden/_Attachments/Races/Gnom.png",

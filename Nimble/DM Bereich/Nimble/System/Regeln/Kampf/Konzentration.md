@@ -13,7 +13,7 @@ Der Wirker kann seine [[Konzentration]] jederzeit beenden - dazu ist keine [[Akt
 
 Folgende Faktoren stören oder beenden die [[Konzentration]]:
 - **Weiterer Effekt, der Konzentration erfordert**: Du verlierst die [[Konzentration]] auf einen Effekt, sobald du einen Zauber oder sonstigen Effekt wirkst, der ebenfalls [[Konzentration]] erfordert.
-- **Schaden**: Wenn du Schaden erleidest, musst du einen [[Rettungswurf]] auf [[Konstitution]] bestehen, um die [[Konzentration]] aufrechtzuerhalten. 
+- **Schaden**: Wenn du Schaden erleidest, musst du einen [[Entschlossenheitsrettungswürfe|EN-Rettungswurf]] bestehen, um die [[Konzentration]] aufrechtzuerhalten. 
   Der [[Schwierigkeitsgrad|SG]] beträgt 10 oder die Hälfte des erlittenen Schadens (abgerundet), je nachdem, welcher Wert höher ist. 
   Er kann höchstens 30 betragen.
 - **Kampfunfähig oder tot**: Deine [[Konzentration]] endet, wenn du [[Kampfunfähig]] wirst oder stirbst.

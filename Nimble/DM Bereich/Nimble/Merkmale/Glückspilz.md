@@ -5,4 +5,4 @@ aliases:
 Einsatz: Passiv
 ---
 # `=this.file.name`
-Einmal pro [[Sichere Rast]] kannst du wenn du einen [[Rettungswurf]] nicht bestehst, stattdessen automatisch erfolgreich sein.
+Einmal pro [[Sichere Rast]] kannst du wenn du einen [[Rettungswürfe]] nicht bestehst, stattdessen automatisch erfolgreich sein.

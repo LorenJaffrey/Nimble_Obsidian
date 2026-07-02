@@ -83,7 +83,7 @@ In diesem Sinne hier eine Liste von Tricks, die ein [[Truhenwesen (old)]] an Ihr
 [[Truhenwesen (old)]] wurden nicht dazu gedacht, bekämpft zu werden, sondern sollen vielmehr unterhaltsame Begegnungen in Verliesen darstellen. 
 Als solche und im Einklang mit dem Thema der Erzeugung von Frustration steht eine Gruppe, die beschließt, das [[Truhenwesen (old)]] zu töten, vor einem besonders frustrierenden Kampf.
 
-Alle Fähigkeiten des [[Truhenwesen (old)]] sollen Frustration erzeugen, angefangen von seiner extrem hohen [[Rüstungsklasse]] (trotz seiner niedrigen [[Trefferpunkte]]), seiner Fertigkeit bei den beiden häufigsten [[Rettungswurf|Rettungswürfen]], [[Schadensimmunität|Schadensimmunitäten]] und [[Zustände#Zustandsimmunität|Zustandsimmunitäten]] bis hin zu seinen Aktionen und Merkmalen.
+Alle Fähigkeiten des [[Truhenwesen (old)]] sollen Frustration erzeugen, angefangen von seiner extrem hohen [[Rüstungsklasse]] (trotz seiner niedrigen [[Trefferpunkte]]), seiner Fertigkeit bei den beiden häufigsten [[Rettungswürfe|Rettungswürfen]], [[Schadensimmunität|Schadensimmunitäten]] und [[Zustände#Zustandsimmunität|Zustandsimmunitäten]] bis hin zu seinen Aktionen und Merkmalen.
 Ein Kampf gegen ein [[Truhenwesen (old)]] sollte lange dauern, bis es auf 0 [[Trefferpunkte]] reduziert ist, wonach es sein Merkmal [[Rissige Schale]] nutzen wird und sofort in ein anderes Objekt eintaucht, um es zu besetzen, und den Kampf von Neuem beginnt.
 Gerade wenn die Spieler glauben, das [[Truhenwesen (old)]] endlich besiegt zu haben, wird es seine einzige Verwendung von [[Dimensionswechsel]] nutzen, um seinen Mördern zu entkommen.
 

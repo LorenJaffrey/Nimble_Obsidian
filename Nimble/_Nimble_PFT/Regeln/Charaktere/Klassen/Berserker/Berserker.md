@@ -12,12 +12,12 @@ Kernattribute:
   Rüstungen:
 Rettungswürfe:
   Vorteil:
-    - "[[Rettungswurf#Stärkerettungswurf|Stärkerettungswürfe]]"
-    - "[[Rettungswurf#Geschicklichkeitsrettungswurf|Geschicklichkeitsrettungswürfe]]"
+    - "[[Stärkerettungswürfe|ST-Rettungswürfe]]"
+    - "[[Beweglichkeitsrettungswürfe|BW-Rettungswürfe]]"
   Nachteil:
-    - "[[Rettungswurf#Intelligenzrettungswurf|Intelligenzrettungswürfe]]"
-    - "[[Rettungswurf#Weisheitsrettungswurf|Weisheitsrettungswürfe]]"
-    - "[[Rettungswurf#Charismarettungswurf|Charismarettungswürfe]]"
+    - "[[Verstandsrettungswürfe|VS-Rettungswürfe]]"
+    - "[[Entschlossenheitsrettungswürfe|EN-Rettungswürfe]]"
+    - "[[Präsenzrettungswürfe|PR-Rettungswürfe]]"
 Beschreibung: Unaufhaltsame Kraft aus Zorn und Zerstörung.
 ---
 # `=this.file.name`

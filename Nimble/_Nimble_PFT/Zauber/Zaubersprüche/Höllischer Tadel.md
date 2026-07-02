@@ -30,8 +30,8 @@ Typ: "[[Offensivzauber]]"
 ## Beschreibung
 *Du deutest mit einem Finger und die Kreatur, die dich verletzt hat, wird für einen kurzen Moment von höllischen Flammen eingehüllt.*
 
-Die Kreatur muss einen [[Rettungswurf]] auf [[Beweglichkeit]] ablegen.
-Bei einem Misserfolg erleidet das Ziel 2W10 [[Feuerschaden]] oder halb so viel Schaden bei einem erfolgreichen [[Rettungswurf]].
+Die Kreatur muss einen [[Beweglichkeitsrettungswürfe|BW-Rettungswurf]] ablegen.
+Bei einem Misserfolg erleidet das Ziel 2W10 [[Feuerschaden]] oder halb so viel Schaden bei einem erfolgreichen [[Beweglichkeitsrettungswürfe|BW-Rettungswurf]].
 
 ### Auf höheren Graden
 Wenn du diesen Spruch mit einem [[Zauberplätze|Zauberplatz]] des 2. oder eines höheren [[Zaubergrad|Grades]] wirkst, steigt der Schaden für jeden [[Zaubergrad|Grad]] über den 1. hinaus um 1W10.

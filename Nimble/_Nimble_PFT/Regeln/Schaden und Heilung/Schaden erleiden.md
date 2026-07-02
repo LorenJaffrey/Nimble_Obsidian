@@ -5,14 +5,14 @@ tags:
 # `=this.file.name`
 Wenn ein Charakter Schaden erleidet, wird dieser normalerweise in einer festen Reihenfolge auf seine Schutzpools angewendet:
 	1.[[Temporäre Trefferpunkte]]
-	2.[[Ausdauerpunkte]]
+	2.[[Resilienzpunkte]]
 	3. [[Trefferpunkte]]
 
 Diese Reihenfolge stellt sicher, dass kurzfristiger Schutz und Kampfbelastbarkeit zuerst aufgebraucht werden, bevor echte Verletzungen entstehen.
 
 >[!Example] Beispiel
 >Du verfügst über 5 temporäre Trefferpunkte und erleidest 7 Schaden.
->Du verlierst zuerst die 5 [[Temporäre Trefferpunkte|Temporären Trefferpunkte]] und dann 2 [[Ausdauerpunkte]].
+>Du verlierst zuerst die 5 [[Temporäre Trefferpunkte|Temporären Trefferpunkte]] und dann 2 [[Resilienzpunkte]].
 
 ## Auf 0 Trefferpunkte fallen
 Wenn deine [[Trefferpunkte|TP]] auf 0 fallen, erleidest du 1 [[Wunden|Wunde]] und erhältst den [[Zustände|Zustand]] [[Sterbend]], bis du wieder [[Trefferpunkte|TP]] regenerierst.

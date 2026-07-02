@@ -8,9 +8,9 @@ Einsatz: "[[Aktionen]]"
 # `=this.file.name`
 Wenn du in deinem Zug die [[Angreifen|Angriffsaktion]] ausführst, kannst du einen der [[Angriff|Angriffe]] durch ein Ausatmen magischer Energie ersetzen.
 Diese breitet sich entweder in einem [[Kegel]] von 4,5 Metern oder in einer neun Meter langen, 1,5 Meter breiten [[Linie]] aus (wähle die Form bei jedem Einsatz aus). 
-Jede Kreatur in diesem Bereich muss einen [[Rettungswurf]] auf [[Beweglichkeit]] ([[Schwierigkeitsgrad|SG]] 8 plus dein [[Konstitution#Konstitutionsmodifikator]] plus dein [[_Übung|Übungsbonus]]) ausführen. 
+Jede Kreatur in diesem Bereich muss einen [[Beweglichkeitsrettungswürfe|BW-Rettungswurf]] ([[Schwierigkeitsgrad|SG]] 8 plus dein [[Konstitution#Konstitutionsmodifikator]] plus dein [[_Übung|Übungsbonus]]) ausführen. 
 Scheitert der Wurf, so erleidet die Kreatur `dice:1d10` Schaden der Art, die deiner [[Drakonische Abstammung|drakonischen Abstammung]] entspricht. 
-Bei einem erfolgreichen [[Rettungswurf]] erleidet die Kreatur halb so viel Schaden. 
+Bei einem erfolgreichen [[Beweglichkeitsrettungswürfe|BW-Rettungswurf]] erleidet die Kreatur halb so viel Schaden. 
 
 Dieser Schaden steigt auf höheren Stufen:
 	- `dice:2d10` ab Stufe 5

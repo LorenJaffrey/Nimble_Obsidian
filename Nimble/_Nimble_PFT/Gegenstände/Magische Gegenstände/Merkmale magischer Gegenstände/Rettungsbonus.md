@@ -6,4 +6,4 @@ Ladungen:
 Regeneration:
 ---
 # `=this.file.name`
-Du erhältst den in Klammern angegebenen Bonus auf alle [[Rettungswurf|Rettungswürfe]].
+Du erhältst den in Klammern angegebenen Bonus auf alle [[Rettungswürfe|Rettungswürfe]].
