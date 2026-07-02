@@ -11,10 +11,13 @@ Beschreibung: Beschreibt Wahrnehmung, Bauchgefühl und das Erkennen von Gefahr, 
 # `=this.file.name`
 `=this.Beschreibung`
 
+[[Instinkt]] wird verwendet bei:
+- ermitteln ob jemand [[Überraschung|überrascht]] ist
+
 ## Verbundene Fertigkeiten
 ```dataview
 TABLE
-FROM #Regeln/Nimble/Fertigkeit/Weisheit
+FROM #Regeln/Nimble/Fertigkeit/Instinkt
 ```
 
 ## Sonstige Tätigkeiten

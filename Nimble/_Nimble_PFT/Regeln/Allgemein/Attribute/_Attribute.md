@@ -21,13 +21,7 @@
 | Entschlossenheit |  X  | Konzentration          |                                                              |
 | Präsenz          |  X  |                        | Auftreten, Einschüchtern, Täuschen, Überzeugen               |
  
-Offen:
-Überleben
-Heilkunde
-
-
-
-## Initiative
+# Initiative
 Gruppeninitiative
 Spieler sind immer zuerst dran
 

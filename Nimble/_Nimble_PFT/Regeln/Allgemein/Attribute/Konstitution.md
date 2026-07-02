@@ -11,11 +11,10 @@ Beschreibung: Misst Gesundheit, Ausdauer und Lebenskraft. Kann den Versuch darst
 # `=this.file.name`
 `=this.Beschreibung`
 
-## Vorteile
-
-### Trefferpunkte
-Beim Stufenaufstieg wird die [[Konstitution]] zur Anzahl der [[Trefferpunkte]] addiert. 
-Erhöht sich die [[Konstitution]] nachträglich erhöhen sich auch die [[Trefferpunkte]] nachträglich.
+[[Konstitution]] wird verwendet bei:
+- Beim Stufenaufstieg wird die [[Konstitution]] zur Anzahl der [[Trefferpunkte]] addiert. 
+  Erhöht sich die [[Konstitution]] nachträglich erhöhen sich auch die [[Trefferpunkte]] nachträglich.
+- [[Konstitutionsrettungswürfe|KO-Rettungswürfen]]
 
 ## Sonstige Tätigkeiten
 - die Luft anhalten

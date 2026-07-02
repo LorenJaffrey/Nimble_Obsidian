@@ -1,6 +1,6 @@
 ---
 tags:
-  - Regeln/Nimble/Fertigkeit/Intelligenz
+  - Regeln/Nimble/Fertigkeit/Verstand
 Attribut: "[[Verstand]]"
 ---
 # `=this.file.name`

@@ -28,5 +28,5 @@ Bekannt für ihr Tüfteln, das Verbreiten von Heiterkeit und verspielte Streiche
 Du sprichst [[Gnomisch]], sofern deine [[Verstand|IN]] nicht negativ ist.
 
 ### Gnomische Gerissenheit
-Du erhältst einen Bonus von +1 auf [[Nachforschungen]], [[Arkane Kunde]] und [[Geschichte]].
+Du erhältst einen Bonus von +1 auf [[Nachforschungen]], [[Magiekunde]] und [[Geschichte]].
 Du erhältst außerdem [[Vorteil und Nachteil|Vorteil]] auf [[Verstandsrettungswürfe|VS-Rettungswürfe]].

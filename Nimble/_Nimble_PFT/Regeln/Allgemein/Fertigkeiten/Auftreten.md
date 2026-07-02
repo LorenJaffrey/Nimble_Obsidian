@@ -1,6 +1,6 @@
 ---
 tags:
-  - Regeln/Nimble/Fertigkeit/Charisma
+  - Regeln/Nimble/Fertigkeit/Präsenz
 Attribut: "[[Präsenz]]"
 ---
 # `=this.file.name`

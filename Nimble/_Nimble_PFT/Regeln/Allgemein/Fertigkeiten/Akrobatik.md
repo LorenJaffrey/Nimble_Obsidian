@@ -1,6 +1,6 @@
 ---
 tags:
-  - Regeln/Nimble/Fertigkeit/Geschicklichkeit
+  - Regeln/Nimble/Fertigkeit/Beweglichkeit
 Attribut: "[[Beweglichkeit]]"
 ---
 # `=this.file.name`

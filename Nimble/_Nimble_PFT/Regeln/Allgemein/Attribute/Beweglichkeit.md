@@ -12,22 +12,15 @@ Beschreibung: Umfasst Beweglichkeit, Reflexe und Gleichgewichtssinn.
 # `=this.file.name`
 `=this.Beschreibung`
 
+[[Beweglichkeit]] wird verwendet bei:
+- Bonus auf den [[Ausweichwert]]
+- Bonus auf die [[Initiative]]
+- [[Beweglichkeitsrettungswürfe|BW-Rettungswürfen]]
+
 ## Verbundene Fertigkeiten
 ```dataview
 TABLE
-FROM #Regeln/Nimble/Fertigkeit/Geschicklichkeit 
-```
-
-## Vorteile
-
-### Ausweichen und Reaktion
-Die [[Beweglichkeit]] wird außerdem verwendet bei:
-- Bonus auf den [[Ausweichwert]]
-- Bonus auf die [[Initiative]]
-
-### Rettungswurf
-```dynamic-embed
-[[Geschick]]
+FROM #Regeln/Nimble/Fertigkeit/Beweglichkeit 
 ```
 
 ## Sonstige Tätigkeiten

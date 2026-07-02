@@ -3,8 +3,8 @@ aliases:
   - Konstrukt
 tags:
   - Kreatur/Typ
-Identifizieren: "[[Arkane Kunde]]"
-Plündern: "[[Arkane Kunde]]"
+Identifizieren: "[[Magiekunde]]"
+Plündern: "[[Magiekunde]]"
 ---
 # `=this.file.name`
 [[Konstrukte]] werden erschaffen, nicht geboren. Einige wurden von ihren Schöpfern programmiert, um einfachen Anweisungen zu folgen, während andere mit Bewusstsein erfüllt und zu unabhängigen Gedanken imstande sind. 

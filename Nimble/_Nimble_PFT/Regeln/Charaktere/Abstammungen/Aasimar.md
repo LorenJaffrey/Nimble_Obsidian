@@ -29,7 +29,7 @@ Ihre angeborene Verbindung zu den höheren Ebenen befähigt sie, den Auswirkunge
 Du kennst [[Celestisch]], wenn deine [[Verstand|IN]] nicht negativ ist.
 
 ### Himmlische Einsicht
-Du erhältst einen Bonus von +1 auf [[Motiv erkennen]].
+Du erhältst einen Bonus von +1 auf [[Einsicht]].
 
 ### Feuergeboren
 Du besitzt [[Schadensresistenz]] gegen [[Gleißender Schaden|gleißenden Schaden]].

@@ -11,12 +11,14 @@ Beschreibung: Misst die geistige Schärfe, Präzision der Erinnerung, logisches 
 ---
 # `=this.file.name`
 `=this.Beschreibung`
-[[Verstand|Verstandwürfe]] werden notwendig wenn Logik, Bildung, Gedächtnis oder deduktives Denken erforderlich sind.
+
+[[Verstand]] wird verwendet bei:
+- [[Verstandsrettungswürfe|VS-Rettungswürfen]]
 
 ## Verbundene Fertigkeiten
 ```dataview
 TABLE
-FROM #Regeln/Nimble/Fertigkeit/Intelligenz 
+FROM #Regeln/Nimble/Fertigkeit/Verstand 
 ```
 
 ## Sonstige Tätigkeiten

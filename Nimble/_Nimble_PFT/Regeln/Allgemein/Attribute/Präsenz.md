@@ -10,12 +10,14 @@ Beschreibung: Misst die Fähigkeit effektiv mit anderen zu agieren. Dazu gehöre
 ---
 # `=this.file.name`
 `=this.Beschreibung`
-[[Präsenz|Präsenzwürfe]] werden nötig um andere zu beeinflussen oder zu unterhalten, Eindruck zu schinden, mit einer Lüge zu überzeugen oder eine schwierige soziale Situation zu meistern.
+
+[[Präsenz]] wird verwendet bei:
+- [[Präsenzrettungswürfe|PR-Rettungswürfen]]
 
 ## Verbundene Fertigkeiten
 ```dataview
 TABLE
-FROM #Regeln/Nimble/Fertigkeit/Charisma
+FROM #Regeln/Nimble/Fertigkeit/Präsenz
 ```
 
 ## Sonstige Tätigkeiten

@@ -3,8 +3,8 @@ aliases:
   - Elementar
 tags:
   - Kreatur/Typ
-Identifizieren: "[[Arkane Kunde]]"
-Plündern: "[[Arkane Kunde]]"
+Identifizieren: "[[Magiekunde]]"
+Plündern: "[[Magiekunde]]"
 ---
 # `=this.file.name`
 [[Elementare]] sind Kreaturen, die auf den Elementarebenen heimisch sind. 

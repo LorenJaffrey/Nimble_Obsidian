@@ -30,10 +30,10 @@ Um die genauen Eigenschaften, wie er zu benutzen ist, wie viele Ladungen er ggf.
 Tränke sind eine Ausnahme; bereits ein kleiner Schluck reicht aus, um dem Probierenden ersichtlich zu machen, was ein Trank bewirkt.
 
 ### Arkane Kunde
-[[Arkane Kunde]] stellt das Wissen des Charakters in arkanen Dingen dar. Dies erstreckt sich natürlich auch auf das Identifizieren magischer Gegenstände.
-Ein Charakter benötigt [[_Übung]] in [[Arkane Kunde]] um zu versuchen einen Gegenstand auf diese Weise zu identifizieren. Für eine erfolgreiche Identifikation muss dem Charakter dann einen Wurf auf [[Arkane Kunde]] mit [[Vorteil und Nachteil|Nachteil]] gegen den entsprechenden [[Identifikation magischer Gegenstände#Magische Gegenstände Seltenheit SG]] gelingen.
+[[Magiekunde]] stellt das Wissen des Charakters in arkanen Dingen dar. Dies erstreckt sich natürlich auch auf das Identifizieren magischer Gegenstände.
+Ein Charakter benötigt [[_Übung]] in [[Magiekunde]] um zu versuchen einen Gegenstand auf diese Weise zu identifizieren. Für eine erfolgreiche Identifikation muss dem Charakter dann einen Wurf auf [[Magiekunde]] mit [[Vorteil und Nachteil|Nachteil]] gegen den entsprechenden [[Identifikation magischer Gegenstände#Magische Gegenstände Seltenheit SG]] gelingen.
 Gegenstände die Einstimmung benötigen können nicht auf diese Weise identifiziert werden.
-Diese Methode der Identifikation kann nicht wiederholt werden. Scheitert ein Charakter bei der Identifikation mithilfe von [[Arkane Kunde]], kann er es nicht erneut versuchen.
+Diese Methode der Identifikation kann nicht wiederholt werden. Scheitert ein Charakter bei der Identifikation mithilfe von [[Magiekunde]], kann er es nicht erneut versuchen.
 
 ### Zauber Identifizieren
 Der Zauber [[Identifizieren]] erlaubt es einem Charakter die genaue Wirkungsweise eines magischen Gegenstandes zu verstehen mitsamt all seiner Eigenschaften, wie er zu benutzen ist, wie viele Ladungen er ggf. besitzt, etc.

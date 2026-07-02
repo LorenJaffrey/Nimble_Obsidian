@@ -3,7 +3,7 @@ Nachdem sie einen [[Auffällige Bereiche|auffälligen Bereich]] durchsucht haben
 
 > [!example] **Beispiele**
 >  - **[[Nachforschungen]]:** Analysieren eines Mechanismus oder Musters.
->  - **[[Arkane Kunde]]:** Entschlüsseln magischer Effekte oder Symbole.
+>  - **[[Magiekunde]]:** Entschlüsseln magischer Effekte oder Symbole.
 >  - **[[Naturkunde]]:** Erkennen natürlicher Phänomene, z. B. ungewöhnliches Pflanzenwachstum.
 >  - **[[Geschichte]]:** Interpretieren kultureller oder historischer Hinweise.
 >  - **[[Religion]]:** Erkennen religiöser Rituale oder heiligen Kontextes.
@@ -24,7 +24,7 @@ Diese [[Fertigkeiten|Fertigkeit]] ist besonders vielseitig und eignet sich für 
 - „Ich analysiere die Oberfläche des Tisches, um zu sehen, ob sich eine verborgene Schublade oder ein Geheimfach finden lässt.“
 
 ### **Arkane Kunde**
-[[Arkane Kunde]] wird eingesetzt, um Hinweise mit magischem Ursprung zu entschlüsseln. 
+[[Magiekunde]] wird eingesetzt, um Hinweise mit magischem Ursprung zu entschlüsseln. 
 Dies kann Symbole, magische Effekte, Runen oder Gegenstände betreffen.
 
 ##### **Typische Anwendungen:**
@@ -86,7 +86,7 @@ Diese Fertigkeiten ermöglichen es den Spielern, Hinweise aus spezifischen Blick
 | **Fertigkeit**          | **Fokus**                                             | **Beispielhafte Hinweise**                 |
 | ----------------------- | ----------------------------------------------------- | ------------------------------------------ |
 | **[[Nachforschungen]]** | Mechanismen, Geheimfächer, physische Details          | Geheimfächer, Muster, Hebel, Rätsel        |
-| **[[Arkane Kunde]]**    | Magische Symbole, Glyphen, verzauberte Objekte        | Runen, magische Barrieren, Illusionen      |
+| **[[Magiekunde]]**    | Magische Symbole, Glyphen, verzauberte Objekte        | Runen, magische Barrieren, Illusionen      |
 | **[[Naturkunde]]**      | Pflanzen, Gesteine, natürliche Phänomene              | Pflanzenwachstum, ungewöhnliche Spuren     |
 | **[[Geschichte]]**      | Relikte, historische Ereignisse, Architektur          | Gravuren, Wandmalereien, antike Symbole    |
 | **[[Religion]]**        | Religiöse Rituale, heilige Stätten, Schutzmechanismen | Altäre, geweihte Symbole, sakrale Gravuren |

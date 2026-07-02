@@ -12,8 +12,8 @@ Bist du im Umgang mit diesem Werkzeug [[_Übung|geübt]], darfst du deinen [[_Ü
 Eine [[Fälscherausrüstung]] beinhaltet mehrere unterschiedliche Sorten Tinte, eine große Auswahl an Pergamenten und Papieren, mehrere Federkiele, Siegel und Siegelwachs, Blattgold und -silber sowie filigrane Werkzeuge, mit denen man aus Wachs die Kopie eines Siegels formen kann.
 
 ## Fertigkeiten
-### [[Arkane Kunde]]
-Eine [[Fälscherausrüstung]] kann in Verbindung mit der Fertigkeit [[Arkane Kunde]] genutzt werden, um einen magischen Gegenstand auf seine Echtheit zu überprüfen.
+### [[Magiekunde]]
+Eine [[Fälscherausrüstung]] kann in Verbindung mit der Fertigkeit [[Magiekunde]] genutzt werden, um einen magischen Gegenstand auf seine Echtheit zu überprüfen.
 
 ### [[Geschichte]]
 Eine [[Fälscherausrüstung]] in Kombination mit historischem Wissen verbessert die Qualität deiner gefälschten, historischen Dokumente und deine Fähigkeit, die Authentizität eines alten Dokuments zu bestimmen.

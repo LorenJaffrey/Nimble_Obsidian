@@ -1,7 +1,7 @@
 ---
 tags:
-  - Regeln/Nimble/Fertigkeit/Geschicklichkeit
-Attribut: "[[Beweglichkeit]]"
+  - Regeln/Nimble/Fertigkeit/Geschick
+Attribut: "[[Geschick]]"
 ---
 # `=this.file.name`
 Abhängiges Attribut: `=this.Attribut`

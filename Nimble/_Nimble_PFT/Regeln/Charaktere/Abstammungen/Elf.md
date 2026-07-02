@@ -29,5 +29,5 @@ Sowohl in der Diplomatie als auch im Kampf sind sie beeindruckend und schlagen o
 Du kennst [[Elfisch]], wenn deine [[Verstand|IN]] nicht negativ ist.
 
 ### Scharfe Sinne
-Du erhältst einen Bonus von +1 auf [[Wahrnehmung]], [[Motiv erkennen]] und [[Überlebenskunst]].
+Du erhältst einen Bonus von +1 auf [[Wahrnehmung]], [[Einsicht]] und [[Überlebenskunst]].
 Du erhältst außerdem [[Vorteil und Nachteil|Vorteil]] auf [[Initiative]].

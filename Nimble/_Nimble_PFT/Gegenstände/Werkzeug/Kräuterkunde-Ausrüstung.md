@@ -12,7 +12,7 @@ Bist du im Umgang mit diesem Werkzeug [[_Übung|geübt]], darfst du deinen [[_Ü
 Eine Kräuterkunde-Ausrüstung enthält Beutel zur Aufbewahrung von Kräutern, eine Schere und Lederhandschuhe zum Sammeln von Kräutern, eine Pinzette, einen Mörser mit Stößel und mehrere Glasgefäße.
 
 ## Fertigkeiten
-### [[Arkane Kunde]]
+### [[Magiekunde]]
 Du kennst dich mit den Eigenschaften und Anwendungszwecken von Kräutern aus. Dadurch gewinnst du womöglich zusätzliche Erkenntnisse, wenn du dich im Rahmen deiner magischen Studien mit Pflanzen und der Identifizierung von Giften befasst.
 
 ### [[Nachforschungen]]

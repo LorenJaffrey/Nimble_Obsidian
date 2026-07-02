@@ -3,8 +3,8 @@ aliases:
   - Abberation
 tags:
   - Kreatur/Typ
-Identifizieren: "[[Arkane Kunde]]"
-Plündern: "[[Arkane Kunde]]"
+Identifizieren: "[[Magiekunde]]"
+Plündern: "[[Magiekunde]]"
 ---
 # `=this.file.name`
 Aberrationen sind vollkommen fremdartige Wesen. Viele von ihnen haben angeborene magische Fähigkeiten, die aus dem fremdartigen Geist der Kreatur entspringen, nicht aus den mystischen Kräften der Welt. 

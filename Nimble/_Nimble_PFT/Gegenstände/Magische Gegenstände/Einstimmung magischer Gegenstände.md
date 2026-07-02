@@ -17,7 +17,7 @@ Dafür ist ein W20 Wurf + der Modifikator für die Kategorie des Gegenstandes (n
 | Zauberstecken          | [[Attribute#Attributsmodifikator]] zum Zauberwirken |
 | Zepter                 | [[Attribute#Attributsmodifikator]] zum Zauberwirken |
 | Zauberstab             | [[Attribute#Attributsmodifikator]] zum Zauberwirken |
-| Wundersamer Gegenstand | Fertigkeitsbonus [[Arkane Kunde]]                   |
+| Wundersamer Gegenstand | Fertigkeitsbonus [[Magiekunde]]                   |
  
 Wenn die Einstimmung fehlschlägt, kann dies erst nach einem Stufenaufstieg wiederholt werden. 
 Der Einstimmungsprozess kann z.B. durch den Zauber [[Göttliche Führung]] oder andere ähnliche Zauber und Effekte erleichtert werden.

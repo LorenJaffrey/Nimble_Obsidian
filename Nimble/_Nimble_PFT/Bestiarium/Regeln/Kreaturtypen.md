@@ -11,9 +11,11 @@ Das Spiel verwendet die folgenden Monstertypen, die keine eigenständigen Regeln
 ```dataview
 TABLE WITHOUT ID
 
-file.link AS "Title"
+file.link AS "Title",
+Identifizieren,
+Plündern
 
 FROM #Kreatur/Typ
 
-SORT file.name
+SORT Identifizieren, file.name
 ```

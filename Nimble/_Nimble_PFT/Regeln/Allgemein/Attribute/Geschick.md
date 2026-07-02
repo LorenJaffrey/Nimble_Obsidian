@@ -12,16 +12,15 @@ Beschreibung: Steht für präzise Handarbeit, saubere Waffenführung und kontrol
 # `=this.file.name`
 `=this.Beschreibung`
 
+[[Geschick]] wird verwendet bei:
+- [[Fernkampfangriff|Fernkampfangriffen]]
+- [[Nahkampfangriff|Nahkampfangriffen]] mit [[Finesse Waffen]]
+
 ## Verbundene Fertigkeiten
 ```dataview
 TABLE
-FROM #Regeln/Nimble/Fertigkeit/Geschicklichkeit 
+FROM #Regeln/Nimble/Fertigkeit/Geschick
 ```
-
-## Angriffswürfe und Schaden
-[[Geschick]] wird außerdem verwendet bei:
-- [[Fernkampfangriff|Fernkampfangriffen]]
-- [[Nahkampfangriff|Nahkampfangriffen]] mit Waffen mit [[Finesse]]
 
 ## Sonstige Tätigkeiten
 - Wagen lenken

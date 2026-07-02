@@ -12,7 +12,7 @@ Bist du im Umgang mit diesem Werkzeug [[_Übung|geübt]], darfst du deinen [[_Ü
 Das Holzschnitzwerkzeug besteht aus diversen Schnitzmessern und Hohlmeißeln, einem Hobel und einer kleinen Säge, sowie einem kleinen Topf Leim.
 
 ## Fertigkeiten
-### [[Arkane Kunde]], [[Geschichte]]
+### [[Magiekunde]], [[Geschichte]]
 Bei der Begutachtung eines hölzernen Gegenstandes, wie einer kleinen Figur oder einem Pfeil, erfährst du dank deiner Expertise mehr über ihn.
 
 ### [[Naturkunde]]

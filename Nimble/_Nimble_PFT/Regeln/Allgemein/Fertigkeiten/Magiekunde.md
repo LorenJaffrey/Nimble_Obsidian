@@ -6,15 +6,13 @@ Attribut: "[[Verstand]]"
 # `=this.file.name`
 Abhängiges Attribut: `=this.Attribut`
 
-Religiöses Wissen.
+Situationen in denen man sich an arkanes Wissen erinnern muss.
 Beispiele:
-- Gottheiten
-- Riten
-- Gebete
-- religiöse Hierarchien
-- heilige Symbole
-- Praktiken geheimer Kulte
-- Wissen über folgende Kreaturen:
+- Zaubersprüche
+- magische Gegenstände
+- mystische Symbole
+- magische Schulen
+- Ebenen der Existenz und deren Bewohner:
 
 ```dataview
 TABLE WITHOUT ID
@@ -25,7 +23,7 @@ Plündern
 
 FROM #Kreatur/Typ
 
-WHERE contains(Identifizieren, [[Religion]]) OR contains(Plündern, [[Religion]])
+WHERE contains(Identifizieren, [[Magiekunde]]) OR contains(Plündern, [[Magiekunde]])
 
 SORT Identifizieren, file.name
 ```

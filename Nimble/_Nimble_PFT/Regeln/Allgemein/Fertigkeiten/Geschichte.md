@@ -1,6 +1,6 @@
 ---
 tags:
-  - Regeln/Nimble/Fertigkeit/Intelligenz
+  - Regeln/Nimble/Fertigkeit/Verstand
 Attribut: "[[Verstand]]"
 ---
 # `=this.file.name`
@@ -13,4 +13,18 @@ Beispiele:
 - vergangene Kriege
 - abgesetzte Dispoten
 - verschollene Zivilisationen
-- Wissen über [[Humanoide]], [[Riesen]]
+- Wissen über sagenumwobene Kreaturen und Humanoide:
+
+```dataview
+TABLE WITHOUT ID
+
+file.link AS "Title",
+Identifizieren,
+Plündern
+
+FROM #Kreatur/Typ
+
+WHERE contains(Identifizieren, [[Geschichte]]) OR contains(Plündern, [[Geschichte]])
+
+SORT Identifizieren, file.name
+```

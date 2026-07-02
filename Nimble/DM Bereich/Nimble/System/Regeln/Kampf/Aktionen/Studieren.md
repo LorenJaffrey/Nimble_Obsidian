@@ -13,7 +13,7 @@ Die folgende Tabelle gibt an, welche [[Fertigkeiten]] anwendbar sind, wenn du di
 
 | Fertigkeit          | Bereiche                                                                                                              |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| [[Arkane Kunde]]    | Zauber, magische Gegenstände, schauerliche Symbole, magische Traditionen, Ebenen der Existenz und bestimmte Kreaturen |
+| [[Magiekunde]]    | Zauber, magische Gegenstände, schauerliche Symbole, magische Traditionen, Ebenen der Existenz und bestimmte Kreaturen |
 | [[Geschichte]]      | Historische Ereignisse und Personen, antike Zivilisationen, Kriege und bestimmte Kreaturen                            |
 | [[Nachforschungen]] | Fallen, Chiffren, Rätsel und Gerätschaften                                                                            |
 | [[Naturkunde]]      | Gelände, Flora, Wetter und bestimmte Kreaturen                                                                        |

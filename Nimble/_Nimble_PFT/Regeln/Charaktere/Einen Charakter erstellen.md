@@ -61,7 +61,7 @@ Markiere [[Vorteil und Nachteil|Vorteil]]  und [[Vorteil und Nachteil|Nachteil
 Auf Stufe 1 überträgst du deine [[Attribute|Attributsboni]] auf die jeweiligen [[Fertigkeiten]] (z. B. ein Held mit +2 [[Beweglichkeit|GE]]  trägt +2 bei [[Akrobatik]], [[Fingerfertigkeit]] und [[Heimlichkeit]] ein) und darf 6 weitere Punkte frei verteilen.
 
 > [!example]- Beispiel  
-> Wenn du –1 [[Verstand|IN]] hast, markiere  -1 bei [[Arkane Kunde]], [[Geschichte]], [[Nachforschungen]], [[Naturkunde]] und [[Religion]]. 
+> Wenn du –1 [[Verstand|IN]] hast, markiere  -1 bei [[Magiekunde]], [[Geschichte]], [[Nachforschungen]], [[Naturkunde]] und [[Religion]]. 
 > Wiederhole das für deine anderen Attribute. 
 > Mit den 6 Extrapunkten kannst du z. B. [[Heimlichkeit]] und [[Fingerfertigkeit]] je +3 erhöhen, 6 verschiedene Fertigkeiten  je +1 oder alle 6 Punkte in deine Lieblingsfertigkeit setzen.
 

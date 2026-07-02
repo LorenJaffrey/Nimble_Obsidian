@@ -152,37 +152,13 @@
             }
           },
           {
-            "id": "8decb52e5294d7da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Nimble_PFT/Regeln/Charaktere/Einen Charakter erstellen.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Einen Charakter erstellen"
-            }
-          },
-          {
             "id": "18f2c109aecd919f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Rettungswürfe.md",
-                "mode": "source",
+                "file": "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Überlebenskunst.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -196,16 +172,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rettungswürfe"
+              "title": "Überlebenskunst"
             }
           },
           {
-            "id": "635681a08aef2376",
+            "id": "e0afdb412449be59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Rettungswürfe.md",
+                "file": "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Geschichte.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -220,11 +196,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rettungswürfe"
+              "title": "Geschichte"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -256,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Gegenstand/Waffe/Einfache",
+                "query": "tag:#Regeln/Nimble/Fertigkeit/Stärke",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -384,10 +360,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Rettungswürfe.md"
+                "file": "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Überlebenskunst.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Rettungswürfe"
+              "title": "File properties for Überlebenskunst"
             }
           }
         ],
@@ -415,32 +391,33 @@
   },
   "active": "18f2c109aecd919f",
   "lastOpenFiles": [
-    "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Entschlossenheitsrettungswürfe.md",
-    "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Beweglichkeitsrettungswürfe.md",
-    "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Rettungswürfe.md",
-    "_Nimble_PFT/Gegenstände/Rüstung/Rüstungsbeschreibung.md",
-    "_Nimble_PFT/Regeln/Charaktere/Klassen/Fluchwirker/Klassenmerkmale Schattenrufer/Grässliche Schatten.md",
-    "_Nimble_PFT/Regeln/Charaktere/Hintergründe/So dumm, dass ich manchmal schlau bin.md",
-    "_Nimble_PFT/Merkmale/Zwergische Unverwüstlichkeit.md",
-    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Krankheiten/Schmutzfieber.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Aktionen/Stossen.md",
-    "DM Bereich/Nimble/Zustände/Sterbend.md",
-    "_Nimble_PFT/Zauber/Zaubersprüche/Spurloses Gehen.md",
-    "_Nimble_PFT/Merkmale/Schreckliches Kreischen.md",
-    "_Nimble_PFT/Merkmale/Schreckliches Heulen.md",
-    "_Nimble_PFT/zHidden/_Embeds/embed Character Sheet/embed Character Sheet Attribute/embed Character Sheet Attribute Konstitution.md",
-    "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Verstandsrettungswürfe.md",
-    "_Nimble_PFT/Zauber/Zaubersprüche/Snillocs Schneeballschwarm.md",
-    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Verletzungen/Schwere Verletzung.md",
-    "_Nimble_PFT/Merkmale/Spott.md",
-    "_Nimble_PFT/Merkmale/Gnomische Gerissenheit.md",
-    "_Nimble_PFT/Merkmale/Schleichende Verderbnis.md",
-    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Verletzungen/Geisteskrankheiten/Stumm.md",
-    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Krankheiten/Schleimiges Verderben.md",
-    "DM Bereich/Nimble/System/Regeln/Schaden und Heilung/Verletzungen/Geisteskrankheiten/Paranoia.md",
-    "_Nimble_PFT/Merkmale/Säure versprühen.md",
-    "_Nimble_PFT/Zauber/Zaubersprüche/Zeichen des Schreckens.md",
-    "DM Bereich/Gegenstände/Substanzen/Traumstaub.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Instinkt.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Überlebenskunst.md",
+    "_Nimble_PFT/Regeln/Allgemein/Cheat Sheet Tätigkeiten.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Religion.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Überzeugen.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Täuschen.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Akrobatik.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Athletik.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Auftreten.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Einschüchtern.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Einsicht.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fingerfertigkeit.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Geschichte.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Magiekunde.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Naturkunde.md",
+    "_Nimble_PFT/Bestiarium/Regeln/Kreaturtypen.md",
+    "DM Bereich/Nimble/System/Regeln/Stats/Fertigkeiten/Religion.md",
+    "DM Bereich/Nimble/System/Regeln/Stats/Fertigkeiten",
+    "DM Bereich/Nimble/System/Regeln/Stats/Fertigkeiten/Naturkunde.md",
+    "_Nimble_PFT/Bestiarium/Kreaturen/Aberrationen.md",
+    "_Nimble_PFT/Bestiarium/Kreaturen/Tiere/Tiere.md",
+    "_Nimble_PFT/Bestiarium/Kreaturen/Tiere/Blutmücke.md",
+    "_Nimble_PFT/Bestiarium/Kreaturen/Elementare.md",
+    "_Nimble_PFT/Bestiarium/Kreaturen/Drachen.md",
+    "_Nimble_PFT/Bestiarium/Kreaturen/Unholde.md",
+    "_Nimble_PFT/Bestiarium/Kreaturen/Monstrositäten.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fertigkeiten.md",
     "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe",
     "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Schadenskategorien",
     "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Schadensmodifikatoren",
@@ -450,7 +427,6 @@
     "_Nimble_PFT/Regeln/Allgemein/Größenkategorie",
     "_Nimble_PFT/Regeln/Allgemein/Attribute",
     "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten",
-    "_Nimble_PFT/Regeln/Allgemein",
     "_Nimble_PFT/zHidden/_Attachments/Races/Tiefling 1.png",
     "_Nimble_PFT/zHidden/_Attachments/Races/Halbling.png",
     "_Nimble_PFT/zHidden/_Attachments/Races/Gnom.png",

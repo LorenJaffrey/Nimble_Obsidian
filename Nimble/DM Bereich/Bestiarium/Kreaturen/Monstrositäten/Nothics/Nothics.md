@@ -34,7 +34,7 @@ SORT file.name
 ```
 
 ## Verhalten
-[[Nothics]] sind versiert in [[Heimlichkeit]] und [[Wahrnehmung]], aber auch in [[Arkane Kunde]] und [[Motiv erkennen]]. 
+[[Nothics]] sind versiert in [[Heimlichkeit]] und [[Wahrnehmung]], aber auch in [[Magiekunde]] und [[Einsicht]]. 
 Die beiden letzten Fähigkeiten sowie ihre seltsame Einsichtsfunktion deuten darauf hin, dass der Nothic nicht nur nach Beute sucht, sondern auch nach sozialer Interaktion strebt.
 "Meistens begnügt sich ein [[Nothics|Nothic]] damit, zu beobachten, die Kreaturen, denen es begegnet, abzuwägen und zu bewerten."
 Mit anderen Worten, diese "soziale Interaktion" wird wahrscheinlich einseitig sein, es sei denn, die Spielercharaktere machen es anders. 

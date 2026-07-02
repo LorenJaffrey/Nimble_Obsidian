@@ -1,7 +1,7 @@
 ---
 tags:
-  - Regeln/Nimble/Fertigkeit/Weisheit
-Attribut: "[[Entschlossenheit]]"
+  - Regeln/Nimble/Fertigkeit/Instinkt
+Attribut: "[[Instinkt]]"
 ---
 # `=this.file.name`
 Abhängiges [[Attribute|Attribut]]: `=this.Attribut`
@@ -14,3 +14,17 @@ Beispiele:
 - Wetter vorhersagen
 - natürliche Gefahren wie Treibsand vermeiden
 - Nahrung finden
+
+```dataview
+TABLE WITHOUT ID
+
+file.link AS "Title",
+Identifizieren,
+Plündern
+
+FROM #Kreatur/Typ
+
+WHERE contains(Identifizieren, [[Überlebenskunst]]) OR contains(Plündern, [[Überlebenskunst]])
+
+SORT Identifizieren, file.name
+```
