@@ -12,4 +12,4 @@ Verflucht: false
 [[embed Magische Gegenstände Infobox]]
 ```
 
-Der Träger erhält +1 auf [[Nachforschungen]].
+Der Träger erhält +1 auf [[Nachforschung]].

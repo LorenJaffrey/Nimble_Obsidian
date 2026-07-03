@@ -18,10 +18,10 @@ Eine [[Fälscherausrüstung]] kann in Verbindung mit der Fertigkeit [[Magiekunde
 ### [[Geschichte]]
 Eine [[Fälscherausrüstung]] in Kombination mit historischem Wissen verbessert die Qualität deiner gefälschten, historischen Dokumente und deine Fähigkeit, die Authentizität eines alten Dokuments zu bestimmen.
 
-### [[Nachforschungen]]
+### [[Nachforschung]]
 Wenn du einen Gegenstand untersuchst, fällt es dir dank deiner Übung im Umgang mit der [[Fälscherausrüstung]] leichter, festzustellen, wie ein Objekt hergestellt wurde und ob es echt ist.
 
-### [[Täuschen]]
+### [[Täuschung]]
 Eine geschickte Fälschung kann eine Lüge glaubhafter erscheinen lassen. Beispiele hierfür wären Papiere, die dich als Adligen kennzeichnen, oder ein Schriftstück, das dir freien Abzug garantiert.
 
 ## Besondere Anwendungsmöglichkeiten
@@ -31,7 +31,7 @@ Wenn du zum Beispiel im Umgang mit der [[Fälscherausrüstung]] und im Umgang mi
 
 ### Rasche Fälschung
 Als Teil einer [[Feldrast|Kurzen Rast]] kannst du ein gefälschtes Dokument anfertigen, das nicht länger als eine Seite sein darf. Als Teil einer langen Rast kannst du ein Dokument fälschen, das nicht länger als vier Seiten sein darf.
-Dein Wurf auf [[Verstand]] mit der [[Fälscherausrüstung]] bestimmt den [[Schwierigkeitsgrad|SG]] des Wurfes auf [[Nachforschungen]], um die Fälschung als solche zu erkennen.
+Dein Wurf auf [[Verstand]] mit der [[Fälscherausrüstung]] bestimmt den [[Schwierigkeitsgrad|SG]] des Wurfes auf [[Nachforschung]], um die Fälschung als solche zu erkennen.
 
 ## Beispiel-SG
 

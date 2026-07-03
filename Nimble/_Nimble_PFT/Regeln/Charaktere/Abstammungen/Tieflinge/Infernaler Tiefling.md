@@ -29,7 +29,7 @@ Ihre Vorfahren sind nicht aus den Tiefen des Ewigen Feuers hervorgekommen, um si
 Du kennst [[Infernalisch]], wenn deine [[Verstand|IN]] nicht negativ ist.
 
 ### Teuflisches Charisma
-Du erhältst einen Bonus von +1 auf [[Überzeugen]] und [[Täuschen]].
+Du erhältst einen Bonus von +1 auf [[Überzeugung]] und [[Täuschung]].
 
 ### Feuergeboren
 Du besitzt [[Schadensresistenz]] gegen [[Feuerschaden]], jedoch auch [[Schadensanfälligkeit]] gegen [[Gleißender Schaden|gleißenden Schaden]].

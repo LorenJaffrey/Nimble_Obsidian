@@ -2,14 +2,14 @@
 Nachdem sie einen [[Auffällige Bereiche|auffälligen Bereich]] durchsucht haben, können die Spieler versuchen die Hinweise zu analysieren, die durch den Wurf auf [[Wahrnehmung]] entdeckt wurden.
 
 > [!example] **Beispiele**
->  - **[[Nachforschungen]]:** Analysieren eines Mechanismus oder Musters.
+>  - **[[Nachforschung]]:** Analysieren eines Mechanismus oder Musters.
 >  - **[[Magiekunde]]:** Entschlüsseln magischer Effekte oder Symbole.
 >  - **[[Naturkunde]]:** Erkennen natürlicher Phänomene, z. B. ungewöhnliches Pflanzenwachstum.
 >  - **[[Geschichte]]:** Interpretieren kultureller oder historischer Hinweise.
 >  - **[[Religion]]:** Erkennen religiöser Rituale oder heiligen Kontextes.
 
 ### **Nachforschungen**
-[[Nachforschungen]] sind die Standardwahl, um physische Hinweise zu analysieren und deren Bedeutung oder Funktionsweise zu entschlüsseln. 
+[[Nachforschung]] sind die Standardwahl, um physische Hinweise zu analysieren und deren Bedeutung oder Funktionsweise zu entschlüsseln. 
 Diese [[Fertigkeiten|Fertigkeit]] ist besonders vielseitig und eignet sich für alle Arten von logischen Analysen und gründlichen Untersuchungen.
 
 ##### **Typische Anwendungen:**
@@ -85,7 +85,7 @@ Diese Fertigkeiten ermöglichen es den Spielern, Hinweise aus spezifischen Blick
 
 | **Fertigkeit**          | **Fokus**                                             | **Beispielhafte Hinweise**                 |
 | ----------------------- | ----------------------------------------------------- | ------------------------------------------ |
-| **[[Nachforschungen]]** | Mechanismen, Geheimfächer, physische Details          | Geheimfächer, Muster, Hebel, Rätsel        |
+| **[[Nachforschung]]** | Mechanismen, Geheimfächer, physische Details          | Geheimfächer, Muster, Hebel, Rätsel        |
 | **[[Magiekunde]]**    | Magische Symbole, Glyphen, verzauberte Objekte        | Runen, magische Barrieren, Illusionen      |
 | **[[Naturkunde]]**      | Pflanzen, Gesteine, natürliche Phänomene              | Pflanzenwachstum, ungewöhnliche Spuren     |
 | **[[Geschichte]]**      | Relikte, historische Ereignisse, Architektur          | Gravuren, Wandmalereien, antike Symbole    |

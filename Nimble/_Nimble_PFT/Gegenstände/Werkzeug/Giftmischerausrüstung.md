@@ -16,7 +16,7 @@ Zu der Ausrüstung eines Giftmischers gehören Glasphiolen, ein Mörser und Stö
 ### [[Heilkunde]]
 Wenn du dich um einen vergifteten Patienten kümmerst, hilft dir dein Wissen dabei, diesen bestmöglich zu behandeln.
 
-### [[Nachforschungen]], [[Wahrnehmung]]
+### [[Nachforschung]], [[Wahrnehmung]]
 Dank deines Wissens über Gifte bist du dir bewusst, dass man mit diesen Substanzen vorsichtig umgehen muss. Das verschafft dir einen Vorteil, wenn du vergiftete Gegenstände untersuchst oder versuchst, etwas über Ereignisse herauszufinden, die mit einem Gift in Zusammenhang stehen.
 
 ### [[Naturkunde]], [[Überlebenskunst]]
@@ -31,4 +31,4 @@ Dank deiner Übung mit dieser Ausrüstung weißt du, wie man mit Giften umgeht u
 | Aktivität                         | Attribut/Fertigkeit | SG  |
 | --------------------------------- | ------------------- | --- |
 | Ein vergiftetes Objekt entdecken  | [[Wahrnehmung]]     | 10  |
-| Die Effekte eines Gifts bestimmen | [[Nachforschungen]] | 20  |
+| Die Effekte eines Gifts bestimmen | [[Nachforschung]] | 20  |

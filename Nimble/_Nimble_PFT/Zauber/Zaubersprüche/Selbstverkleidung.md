@@ -42,5 +42,5 @@ Die Veränderungen durch diesen Zauber halten einer körperlichen Untersuchung n
 Jeder, der ihn berührt, würde nichts fühlen oder nur deinen Kopf und deine Haare spüren. 
 Lässt du dich dünner erscheinen, als du bist, würde die Hand von jemandem, der dich berühren will, gegen dich stoßen, obwohl sie scheinbar noch in der Luft schwebt.
 
-Eine Kreatur kann ihre [[Aktionen]] verwenden, um dich zu untersuchen. Sie legt einen Wurf auf [[Nachforschungen]] gegen den SG zum Widerstehen deiner Zauber ab. 
+Eine Kreatur kann ihre [[Aktionen]] verwenden, um dich zu untersuchen. Sie legt einen Wurf auf [[Nachforschung]] gegen den SG zum Widerstehen deiner Zauber ab. 
 Bei Erfolg bemerkt sie, dass du auf irgendeine Art verkleidet bist.

@@ -11,7 +11,7 @@ Kosten: "1 [[Aktionspunkte|AP]]"
 # `=this.file.name`
 Mit der [[Beeinflussen|Beeinflussen-Aktion]] kannst du eine Kreatur zu etwas drängen. 
 Beschreibe oder stelle rollenspielerisch dar, wie du mit der Kreatur kommunizierst. 
-Versuchst du, es zu [[Täuschen]], [[Einschüchtern|einzuschüchtern]], zu [[Auftreten|amüsieren]] oder zu [[Überzeugen|überreden]]? 
+Versuchst du, es zu [[Täuschung]], [[Einschüchterung|einzuschüchtern]], zu [[Auftreten|amüsieren]] oder zu [[Überzeugung|überreden]]? 
 Der SL bestimmt dann, ob die Kreatur bereitwillig, nicht bereitwillig oder zögerlich auf deine Interaktion reagiert. 
 Daraus ergibt sich, ob ein Attributswurf erforderlich ist, wie unten erläutert.
 
@@ -35,7 +35,7 @@ Scheitert der Wurf, so musst du 24 Stunden (oder eine Dauer nach Vorgabe des SL)
 | Attributswurf          | Interaktion                                     |
 | ---------------------- | ----------------------------------------------- |
 | [[Auftreten]]          | Eine Kreatur amüsieren                           |
-| [[Einschüchtern]]      | Eine Kreatur einschüchtern                       |
-| [[Täuschen]]           | Eine Kreatur täuschen, die dich versteht         |
-| [[Überzeugen]]         | Eine Kreatur überzeugen, das dich versteht       |
-| [[Mit Tieren umgehen]] | Ein Tier oder eine Monstrosität sanft überreden |
+| [[Einschüchterung]]      | Eine Kreatur einschüchtern                       |
+| [[Täuschung]]           | Eine Kreatur täuschen, die dich versteht         |
+| [[Überzeugung]]         | Eine Kreatur überzeugen, das dich versteht       |
+| [[Tierführung]] | Ein Tier oder eine Monstrosität sanft überreden |

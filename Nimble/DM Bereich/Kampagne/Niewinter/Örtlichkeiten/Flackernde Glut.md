@@ -22,7 +22,7 @@ Während seiner Anfangszeit als Händler wurde er von einer jungen [[Drow]] [[Za
 
 Obwohl der Laden den Anschein eines normalen Geschäfts macht, lässt sich eine leichte Unruhe spüren. Die Waren scheinen zwar authentisch, aber es liegt etwas Geheimnisvolles in der Luft. Die Kunden könnten das Gefühl haben, dass hinter den Kulissen mehr vor sich geht, als es auf den ersten Blick den Anschein hat.
 
-Das Haus hat einen unterirdischen Durchgang, der zum [[Lagerhaus der Nasher]] führt. Mit einem Wurf auf [[Nachforschungen]] ([[Schwierigkeitsgrad|SG]] 15) kann man ihn entdecken.
+Das Haus hat einen unterirdischen Durchgang, der zum [[Lagerhaus der Nasher]] führt. Mit einem Wurf auf [[Nachforschung]] ([[Schwierigkeitsgrad|SG]] 15) kann man ihn entdecken.
 
 ## Angebot
 - [ ] Angebot ergänzen [priority:: lowest]

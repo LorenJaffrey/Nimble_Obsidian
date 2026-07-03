@@ -14,13 +14,13 @@ Beispiele:
 - Gegner im Hinterhalt entdecken
 - Schein einer Kerze hinter einer verschlossenen Geheimtür
 
-## [[Wahrnehmung]] vs. [[Nachforschungen]]
+## [[Wahrnehmung]] vs. [[Nachforschung]]
 - [[Wahrnehmung]] um etwas zu finden, wahrzunehmen
-- [[Nachforschungen]] um herauszufinden wie etwas funktioniert, Informationen daraus abzuleiten, [[Vorteil und Nachteil|Vorteil]] oder Bonus/Malus für folgende Würfe zu ermöglichen
+- [[Nachforschung]] um herauszufinden wie etwas funktioniert, Informationen daraus abzuleiten, [[Vorteil und Nachteil|Vorteil]] oder Bonus/Malus für folgende Würfe zu ermöglichen
 Beispiel 1:
 - [[Wahrnehmung]] um Falle zu finden
-- [[Nachforschungen]] um herauszufinden wie sie funktioniert
-- [[Fingerfertigkeit]] + [[Diebeswerkzeug]] um sie zu entschärfen (ggf. mit Vorteil wegen Kombiniertem Wurf auf [[Nachforschungen]])
+- [[Nachforschung]] um herauszufinden wie sie funktioniert
+- [[Fingerfertigkeit]] + [[Diebeswerkzeug]] um sie zu entschärfen (ggf. mit Vorteil wegen Kombiniertem Wurf auf [[Nachforschung]])
 
 ## Passive Wahrnehmung
 Passives Wahrnehmen ist das, von dem dein Charakter im Allgemeinen in der Welt um ihn herum erfährt.

@@ -16,7 +16,7 @@ Das Diebeswerkzeug umfasst eine kleine Feile, einen Satz Dietriche, einen kleine
 ### [[Geschichte]]
 Dein Wissen über Fallen hilft dir Fragen über Orte zu beantworten, die bekannt für ihre Fallen sind.
 
-### [[Nachforschungen]] und [[Wahrnehmung]]
+### [[Nachforschung]] und [[Wahrnehmung]]
 Beim Suchen nach Fallen gewinnst du zusätzliche Erkenntnisse, weil du mit einer Reihe von typischen Anzeichen für die Präsenz einer Falle vertraut bist.
 
 ## Besondere Anwendungsmöglichkeiten

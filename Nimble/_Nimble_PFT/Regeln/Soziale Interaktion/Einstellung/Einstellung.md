@@ -12,6 +12,6 @@ Im Zuge dieser sozialen Interaktionen kann der DM jederzeit einen [[Präsenz|Cha
 
 ## Fertigkeiten
 [[Auftreten]]
-[[Einschüchtern]]
-[[Täuschen]]
-[[Überzeugen]]
+[[Einschüchterung]]
+[[Täuschung]]
+[[Überzeugung]]

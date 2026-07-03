@@ -14,7 +14,7 @@ Tüftlerwerkzeuge bestehen aus einer Reihe von Handwerkzeugen wie Schraubenziehe
 ### [[Wahrnehmung]]
 Du kannst von einem Bestandteil eines Mechanismus, den du entdeckst, Rückschlüsse auf den Gesamtmechanismus ziehen.
 
-### [[Nachforschungen]]
+### [[Nachforschung]]
 Wenn du einen Mechanismus untersuchst, erhältst du zusätzliche Informationen über seine Funktionsweise und Wirkung.
 
 ## Besondere Anwendungsmöglichkeiten
@@ -22,7 +22,7 @@ Wenn du einen Mechanismus untersuchst, erhältst du zusätzliche Informationen �
 Du bist in der Lage einfache Gerätschaften zu konstruieren. Du brauchst Zugang zu den entsprechenden Rohmaterialien, um einen Mechanismus konstruieren zu können. Im Falle von Gegenständen aus Metall brauchst du zudem Zugang zu einer offenen Flamme, die heiß genug für die Metallbearbeitung ist.
 
 ### Reparieren
-Du bist in der Lage Gerätschaften zu reparieren deren Funktionsweise du verstehst. Dies kann z.B. durch Pläne, [[Nachforschungen]] oder Erklärungen erfolgen.
+Du bist in der Lage Gerätschaften zu reparieren deren Funktionsweise du verstehst. Dies kann z.B. durch Pläne, [[Nachforschung]] oder Erklärungen erfolgen.
 Du brauchst Zugang zu den entsprechenden Rohmaterialien, um einen Mechanismus reparieren zu können. Im Falle von Gegenständen aus Metall brauchst du zudem Zugang zu einer offenen Flamme, die heiß genug für die Metallbearbeitung ist. 
 
 ## Beispiel-SG

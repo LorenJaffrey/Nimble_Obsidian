@@ -8,5 +8,5 @@ Abhängiges Attribut: `=this.Attribut`
 
 Die wahren Absichten einer anderen Kreatur erkennen anhand von Sprachgewohnheiten, Körpersprache, Veränderungen im Verhalten.
 Beispiele:
-- Lüge erkennen ([[Attribute#Wettstreit]] gegen [[Täuschen]] oder [[Überzeugen]] des Gegenübers)
+- Lüge erkennen ([[Attribute#Wettstreit]] gegen [[Täuschung]] oder [[Überzeugung]] des Gegenübers)
 - nächsten Schritt voraussagen

@@ -17,7 +17,7 @@ Brauereivorräte bestehen aus einem großen Glaskrug, einer größeren Menge Hop
 ### [[Heilkunde]]:
 Deine [[_Übung]] im Umgang mit Brauereivorräten erweist sich als hilfreich, wenn du jemanden behandelst, der sich eine Alkoholvergiftung zugezogen hat, oder wenn du entscheiden musst, ob du den Schmerz mit Alkohol betäuben solltest.
 
-### [[Überzeugen]]:
+### [[Überzeugung]]:
 Ein kräftiger Schluck kann selbst das härteste Herz erweichen. Dank deiner Ubung im Umgang mit den Brauereivorräten weißt du genau, mit wieviel Alkohol du jemanden abfüllen musst, um ihn in heitere Stimmung zu versetzen.
 
 ## Besondere Anwendungsmöglichkeiten
@@ -29,5 +29,5 @@ Dank deiner Kenntnisse der Braukunst kannst du Wasser aufbereiten, das ansonsten
 | Aktivität                                             | Attribut/Fertigkeit | SG  |
 | ----------------------------------------------------- | ------------------- | --- |
 | Gift oder Verunreinigungen in einem Getränk entdecken | [[Wahrnehmung]]     | 10  |
-| Alkohol identifizieren                                | [[Nachforschungen]] | 15  |
+| Alkohol identifizieren                                | [[Nachforschung]] | 15  |
 | Die Auswirkungen von Alkohol ignorieren               | [[Konstitution]]    | 20  |

@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Überlebenskunst.md",
+                "file": "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fertigkeiten.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -172,16 +172,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Überlebenskunst"
+              "title": "Fertigkeiten"
             }
           },
           {
-            "id": "e0afdb412449be59",
+            "id": "ebe40c55771fbeab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Geschichte.md",
+                "file": "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Nachforschung.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -196,11 +196,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Geschichte"
+              "title": "Nachforschung"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -360,10 +360,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Überlebenskunst.md"
+                "file": "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Nachforschung.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Überlebenskunst"
+              "title": "File properties for Nachforschung"
             }
           }
         ],
@@ -389,35 +389,35 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "18f2c109aecd919f",
+  "active": "ebe40c55771fbeab",
   "lastOpenFiles": [
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Instinkt.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Überlebenskunst.md",
-    "_Nimble_PFT/Regeln/Allgemein/Cheat Sheet Tätigkeiten.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Religion.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Überzeugen.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Täuschen.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Akrobatik.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Athletik.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fertigkeiten.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Heilkunde.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Attribute.md",
     "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Auftreten.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Einschüchtern.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Einsicht.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fingerfertigkeit.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Geschichte.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Einschüchterung.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Nachforschung.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Täuschung.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Überlebenskunst.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Überzeugung.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Wahrnehmung.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Tierführung.md",
+    "_Nimble_PFT/Regeln/Allgemein/Cheat Sheet Tätigkeiten.md",
     "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Magiekunde.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Heimlichkeit.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Geschichte.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fingerfertigkeit.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Einsicht.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Athletik.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Akrobatik.md",
+    "_Nimble_PFT/Regeln/Allgemein/Größenkategorie/Größenkategorie.md",
+    "_Nimble_PFT/Regeln/Allgemein/Attribute/Instinkt.md",
+    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Religion.md",
     "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Naturkunde.md",
     "_Nimble_PFT/Bestiarium/Regeln/Kreaturtypen.md",
     "DM Bereich/Nimble/System/Regeln/Stats/Fertigkeiten/Religion.md",
     "DM Bereich/Nimble/System/Regeln/Stats/Fertigkeiten",
     "DM Bereich/Nimble/System/Regeln/Stats/Fertigkeiten/Naturkunde.md",
-    "_Nimble_PFT/Bestiarium/Kreaturen/Aberrationen.md",
-    "_Nimble_PFT/Bestiarium/Kreaturen/Tiere/Tiere.md",
-    "_Nimble_PFT/Bestiarium/Kreaturen/Tiere/Blutmücke.md",
-    "_Nimble_PFT/Bestiarium/Kreaturen/Elementare.md",
-    "_Nimble_PFT/Bestiarium/Kreaturen/Drachen.md",
-    "_Nimble_PFT/Bestiarium/Kreaturen/Unholde.md",
-    "_Nimble_PFT/Bestiarium/Kreaturen/Monstrositäten.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fertigkeiten.md",
     "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe",
     "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Schadenskategorien",
     "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Schadensmodifikatoren",

@@ -15,7 +15,7 @@ Eine Kräuterkunde-Ausrüstung enthält Beutel zur Aufbewahrung von Kräutern, e
 ### [[Magiekunde]]
 Du kennst dich mit den Eigenschaften und Anwendungszwecken von Kräutern aus. Dadurch gewinnst du womöglich zusätzliche Erkenntnisse, wenn du dich im Rahmen deiner magischen Studien mit Pflanzen und der Identifizierung von Giften befasst.
 
-### [[Nachforschungen]]
+### [[Nachforschung]]
 Wenn du einen von Pflanzen überwucherten Bereich untersuchst, entdeckst du dank deiner Kenntnisse der Kräuterkunde vielleicht Einzelheiten und Hinweise, die andere übersehen hätten.
 
 ### [[Heilkunde]]
@@ -33,4 +33,4 @@ Du kannst die meisten Pflanzen rasch anhand ihres Aussehens und ihres Geruchs id
 | Aktivität           | Attribut/Fertigkeit | SG  |
 | ------------------- | ------------------- | --- |
 | Pflanzen aufspüren  | [[Naturkunde]]      | 15  |
-| Gift identifizieren | [[Nachforschungen]] | 20  |
+| Gift identifizieren | [[Nachforschung]] | 20  |
