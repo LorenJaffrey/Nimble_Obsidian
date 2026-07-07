@@ -63,11 +63,10 @@
     "iconName": "LiBookCopy",
     "iconColor": "#258bb6"
   },
-  "_Nimble_PFT/Bestiarium": "RaEyeMonster",
-  "_Nimble_PFT/Gegenstände": "RaDiamond",
   "_Nimble_PFT/Regeln": "RaPerspectiveDiceOne",
   "_Nimble_PFT/Kampagne": "RaBladeBite",
-  "_Nimble_PFT/Zauber": "RaFairyWand",
-  "_Nimble_PFT/Kampagne/Memoiren.md": "LiBookOpen",
-  "_Nimble_PFT/Regeln/Charaktere": "RaDeadTree"
+  "_Nimble_PFT/Regeln/Charaktere": "RaDeadTree",
+  "DM Bereich/Bestiarium/Bestiarium": "RaEyeMonster",
+  "DM Bereich/Gegenstände/Gegenstände": "RaDiamond",
+  "DM Bereich/Nimble/System/Regeln/Magie/Zauber": "RaFairyWand"
 }

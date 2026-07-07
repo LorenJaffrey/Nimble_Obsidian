@@ -7,15 +7,20 @@ aliases:
 - Initiativewürfen
 ---
 # `=this.file.name`
-Jeder Charakter würfelt 1W20 und addiert seinen Initiativebonus (normalerweise [[Beweglichkeit]]).
+Zu Beginn eines Kampfes würfelt jede Kreatur einmal auf [[Instinkt]] und einmal auf [[Beweglichkeit]]. 
+- Der [[Instinkt|Instinktwurf]] bestimmt die Zugreihenfolge.
+- Der [[Beweglichkeit|Beweglichkeitswurf]] bestimmt die Anzahl der verfügbaren [[Aktionspunkte]] in der ersten [[Runde]].
+
+Der [[Instinkt|Instinktwurf]] drückt aus wie schnell sich eine Kreatur ihrer Umstände bewusst ist und wie früh sie in Zugreihenfolge handeln kann.
 Wenn ein Charakter [[Überraschung|überrascht]] ist oder seine Gegner überrascht, kann ihm dies [[Vorteil und Nachteil|Vorteil]] bzw. [[Vorteil und Nachteil|Nachteil]] auf den [[Initiative|Initiativewurf]] geben.
 
-Eine einstellige Zahl bedeutet, dass der Charakter den Kampf mit 1 [[Aktionen]] beginnt. 
-Eine zweistellige Zahl bedeutet, er startet mit 2 [[Aktionen|Aktionen]]. 
-Ein Ergebnis von 20+ (oder eine natürliche 20) bedeutet, der Charakter beginnt mit 3 [[Aktionen|Aktionen]].
+Der [[Beweglichkeit|Beweglichkeitswurf]] repräsentiert wie schnell eine Kreatur handelt NACHDEM ihr ihre Umstände bewusst geworden sind.
+Eine einstellige Zahl bedeutet, dass der Charakter den Kampf mit 1 [[Aktionspunkte|Aktionspunkt]] beginnt. 
+Eine zweistellige Zahl bedeutet, er startet mit 2 [[Aktionspunkte|Aktionspunkten]]. 
+Ein Ergebnis von 20+ (oder eine natürliche 20) bedeutet, der Charakter beginnt mit 3 [[Aktionspunkte|Aktionspunkten]].
 
-| W20 + Initiativebonus | Aktionen |
-| --------------------- | --------:|
-| 1-9                   |        1 |
-| 10-19                 |        2 |
-| 20+                   |        3 |
+| W20 + [[Beweglichkeit\|BW]] | Aktionen |
+| --------------------------- | --------:|
+| 1-9                         |        1 |
+| 10-19                       |        2 |
+| 20+                         |        3 |

@@ -7,4 +7,4 @@ Schrift: Zwergisch
 # `=this.file.name`
 
 [[Goblinisch]] ist eine gutturale Sprache. Es wird hauptsächlich von [[Goblinoide|Goblinoiden]] verwendet. 
-[[Goblins]] führen normalerweise keine schriftlichen Aufzeichnungen, sondern verwenden ihre geschriebene Sprache nur phonetisch, wobei sie entweder die zwergische Schrift oder die allgemeine verwenden.
+[[DM Bereich/Bestiarium/Foes/Monsters/Goblins/Goblins]] führen normalerweise keine schriftlichen Aufzeichnungen, sondern verwenden ihre geschriebene Sprache nur phonetisch, wobei sie entweder die zwergische Schrift oder die allgemeine verwenden.

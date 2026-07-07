@@ -4,8 +4,9 @@ tags:
 ---
 # `=this.file.name`
 Ein Kampf beginnt, wenn der SL ruft: „[[Initiative]] würfeln!“.
-Der [[Initiative|Initiativewurf]] bestimmt wie viele [[Aktionspunkte|AP]] die Charaktere im ersten Zug zur Verfügung haben.
-Unabhängig vom [[Initiative|Initiativewurf]] erhält ein Charakter **am Ende seines Zuges** alle 3 [[Aktionspunkte|AP]] zurück.
+Zu Beginn eines Kampfes würfelt jede Kreatur einmal auf [[Instinkt]] und einmal auf [[Beweglichkeit]]. 
+Der [[Instinkt|Instinktwurf]] bestimmt die Zugreihenfolge. 
+Der [[Beweglichkeit|Beweglichkeitswurf]] bestimmt die Anzahl der [[Aktionspunkte]] bei der ersten Aktivierung im Kampf.
 
 > [!faq]- Freie Aktionen  
 > Diese kosten keine Aktion und verbrauchen keine anderen Ressourcen (z. B. Mana), sofern nicht anders angegeben. 

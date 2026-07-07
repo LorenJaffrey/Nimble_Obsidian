@@ -8,7 +8,7 @@
 
 ---
 
-![[Foes/Monsters/Goblins/Goblin|Goblin]]
+![[DM Bereich/Bestiarium/Foes/Monsters/Goblins/Goblin|Goblin]]
 
 ---
 

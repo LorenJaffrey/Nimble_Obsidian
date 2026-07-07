@@ -12,7 +12,7 @@ Beschreibung: Beschreibt Wahrnehmung, Bauchgefühl und das Erkennen von Gefahr, 
 `=this.Beschreibung`
 
 [[Instinkt]] wird verwendet bei:
-- ermitteln ob jemand [[Überraschung|überrascht]] ist
+  - Zugreihenfolge im [[Kampfablauf]]
 
 ## Verbundene Fertigkeiten
 ```dataview

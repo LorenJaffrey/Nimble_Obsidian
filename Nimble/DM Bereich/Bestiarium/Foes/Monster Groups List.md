@@ -2,7 +2,7 @@
 - [[Cultists & Horrors]]
 - [[Dungeon Denizens]]
 - [[Forest Denizens]]
-- [[Goblins]]
+- [[DM Bereich/Bestiarium/Foes/Monsters/Goblins/Goblins]]
 - [[Hill And Field]]
 - [[Kobolds]]
 - [[Snakemen]]

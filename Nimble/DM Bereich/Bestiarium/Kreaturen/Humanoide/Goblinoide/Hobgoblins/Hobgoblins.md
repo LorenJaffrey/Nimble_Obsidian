@@ -9,7 +9,7 @@ aliases:
 [[Hobgoblins]] haben dunkel orangefarbene oder orangerote Haut und Haare, die von dunklem Rotbraun bis Dunkelgrau reichen. Gelbe oder dunkelbraune Augen starren unter einer vorstehenden Stirn hervor, und in ihren breiten Mündern stehen scharfe und vergilbte Zähne. Ein männlicher [[Hobgoblins|Hobgoblin]] könnte eine große blaue oder rote Nase haben, was unter Goblinoiden Männlichkeit und Macht bedeutet. [[Hobgoblins]] können so alt wie Menschen werden, doch ihre Liebe zu Krieg und Kampf bedeutet, dass nur wenige eines natürlichen Todes sterben.
 
 ## Goblinoide
-[[Hobgoblins]] gehören zu einer Kreaturenfamilie, die [[Goblinoide]] genannt wird. Oft dominieren sie dabei ihre Vettern, die kleineren [[Goblins]] und die brutalen [[Grottenschrate]].
+[[Hobgoblins]] gehören zu einer Kreaturenfamilie, die [[Goblinoide]] genannt wird. Oft dominieren sie dabei ihre Vettern, die kleineren [[DM Bereich/Bestiarium/Foes/Monsters/Goblins/Goblins]] und die brutalen [[Grottenschrate]].
 
 ## Kämpferische Macht
 Ein [[Hobgoblins|Hobgoblin]] bestimmt seinen Wert entsprechend seiner körperlichen Stärke und Kampfkraft. Er begehrt nichts als die Gelegenheit, im Kampf sein Geschick und seine Schläue zu beweisen. [[Hobgoblins]] mit einem hohen militärischen Rang erlangen diese Position durch Gewalt, und halten sie, indem sie ihre Autorität durch drakonische Maßnahmen verteidigen.
@@ -21,11 +21,11 @@ So loyal und diszipliniert [[Hobgoblins]] innerhalb ihrer eigenen Legion sind, s
 
 ## Strategische Denker
 [[Hobgoblins]] haben ein gutes Verständnis für Taktik und Disziplin, und können komplexe Schlachtpläne ausführen, wenn sie von einem strategisch denkenden Anführer befehligt werden. Allerdings hassen sie [[Elfen]] und greifen sie in der Schlacht vor anderen Gegnern an, selbst wenn dies einen taktischen Fehler darstellt.
-Legionen unterstützen ihre Reihen oft mit weniger verlässlichen und entbehrlichen Truppen, darunter [[Goblins]], [[Grottenschrate]], [[Orks]], böse Menschen, [[Oger]] und [[Riesen]].
+Legionen unterstützen ihre Reihen oft mit weniger verlässlichen und entbehrlichen Truppen, darunter [[DM Bereich/Bestiarium/Foes/Monsters/Goblins/Goblins]], [[Grottenschrate]], [[Orks]], böse Menschen, [[Oger]] und [[Riesen]].
 
 ## Tiermeister
 [[Hobgoblins]] haben schon seit langer Zeit Tiere ausgebildet, die ihnen dienen. Wie die zivilisierteren Völker verwenden sie Ochsen und Pferde, um Waren und Waffen über weite Strecken zu transportieren. Sie kommunizieren über ausgebildete Raben miteinander und halten wilde Wölfe, um Gefangene zu bewachen und Hobgoblin-Lager zu schützen.
-Die Hobgoblin-Kavallerie nutzt ausgebildete [[Worg|Worge]] als Reittiere, so wie [[Goblins]] auf Wölfen reiten. Einige Stämme halten sogar fleischfressende Affen als Kampfbestien.
+Die Hobgoblin-Kavallerie nutzt ausgebildete [[Worg|Worge]] als Reittiere, so wie [[DM Bereich/Bestiarium/Foes/Monsters/Goblins/Goblins]] auf Wölfen reiten. Einige Stämme halten sogar fleischfressende Affen als Kampfbestien.
 
 ## Erobern und beherrschen
 [[Hobgoblins]] beanspruchen Länder mit reichen Ressourcen, und man findet sie in Wäldern und Bergen, in der Nähe von Minen und Siedlungen von Humanoiden, und überall sonst wo sie Holz, Metall und potenzielle Sklaven finden können. Sie bauen und erobern Festungen an strategisch vorteilhaften Situationen und nutzen sie dann als Stützpunkte, um ihre Territorien zu erweitern.

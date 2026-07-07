@@ -10,16 +10,16 @@
 | Präsenz          | Charisma (CH)         | Charisma (CH)         | Presence    | Presence (P) | Willpower (WIL) |
 
 ## Effekte
-| Attribut         | RW  | Auswirkung             | Fertigkeiten                                                 |
-| ---------------- |:---:| ---------------------- | ------------------------------------------------------------ |
-| Stärke           |  X  | Traglast, Nahkampf     | Athletik                                                     |
-| Konstitution     |  X  | TP                     |                                                              |
-| Beweglichkeit    |  X  | Ausweichen, Initiative | Akrobatik, Heimlichkeit                                      |
-| Geschick         |     | Fernkampf              | Fingerfertigkeit                                             |
-| Verstand         |  X  |                        | Arkane Kunde, Nachforschen, Geschichte, Naturkunde, Religion |
-| Instinkt         |     | Überraschung           | Motiv erkennen, Wahrnehmung, Mit Tieren umgehen              |
-| Entschlossenheit |  X  | Konzentration          |                                                              |
-| Präsenz          |  X  |                        | Auftreten, Einschüchtern, Täuschen, Überzeugen               |
+| Attribut         | RW  | Auswirkung               | Fertigkeiten                                                 |
+| ---------------- |:---:| ------------------------ | ------------------------------------------------------------ |
+| Stärke           |  X  | Traglast, Nahkampf       | Athletik                                                     |
+| Konstitution     |  X  | TP                       |                                                              |
+| Beweglichkeit    |  X  | Ausweichen, Initiative   | Akrobatik, Heimlichkeit                                      |
+| Geschick         |     | Fernkampf                | Fingerfertigkeit                                             |
+| Verstand         |  X  |                          | Arkane Kunde, Nachforschen, Geschichte, Naturkunde, Religion |
+| Instinkt         |     | Überraschung             | Motiv erkennen, Wahrnehmung, Mit Tieren umgehen              |
+| Entschlossenheit |  X  | Konzentration, Resilienz |                                                              |
+| Präsenz          |  X  |                          | Auftreten, Einschüchtern, Täuschen, Überzeugen               |
  
 # Initiative
 Gruppeninitiative

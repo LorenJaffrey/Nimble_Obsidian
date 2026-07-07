@@ -5,7 +5,7 @@ tags:
 Bild: "[[hill_goblin_alchemist.png | 350]]"
 Größenkategorie: "[[Klein]]"
 Typ: "[[Humanoide]]"
-Subtyp: "[[Goblins]]"
+Subtyp: "[[DM Bereich/Bestiarium/Kreaturen/Humanoide/Goblins/Goblins]]"
 Gesinnung: "[[Neutral Böse]]"
 Herausforderungsgrad: 2
 Stufe: 4
@@ -24,10 +24,10 @@ Verteidigung:
   Natürliche_Rüstung: 10
   Natürliche_SR: 0
   Resistenzen:
-    Schadensresistenz: 
-    Schadensimmunität: 
-    Schadensanfälligkeit: 
-    Zustandsimmunität: 
+    Schadensresistenz:
+    Schadensimmunität:
+    Schadensanfälligkeit:
+    Zustandsimmunität:
 Angriff:
   - "[[Dolch]]"
 Attribute:
@@ -70,8 +70,8 @@ Merkmale:
   - "[[Behändes Entkommen]]"
   - "[[Schlüpfrig]]"
   - "[[Halluzinogene]]"
-Anzahl_Legendäre_Aktionen: 
-Legendäre_Aktionen: 
+Anzahl_Legendäre_Aktionen:
+Legendäre_Aktionen:
 ---
 ```dynamic-embed
 [[embed Statblock Kreatur]]

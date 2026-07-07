@@ -5,7 +5,7 @@ tags:
 Bild: "[[hill_goblin_archer.png| 350]]"
 Größenkategorie: "[[Klein]]"
 Typ: "[[Humanoide]]"
-Subtyp: "[[Goblins]]"
+Subtyp: "[[DM Bereich/Bestiarium/Kreaturen/Humanoide/Goblins/Goblins]]"
 Gesinnung: "[[Neutral Böse]]"
 Herausforderungsgrad: 0.25
 Stufe: 2
@@ -20,14 +20,14 @@ Sinne:
   - "[[Dunkelsicht]] 18m (12 Kästchen)"
 Verteidigung:
   Rüstung: "[[Lederrüstung]]"
-  Schild: 
+  Schild:
   Natürliche_Rüstung: 10
   Natürliche_SR: 0
   Resistenzen:
-    Schadensresistenz: 
-    Schadensimmunität: 
-    Schadensanfälligkeit: 
-    Zustandsimmunität: 
+    Schadensresistenz:
+    Schadensimmunität:
+    Schadensanfälligkeit:
+    Zustandsimmunität:
 Angriff:
   - "[[Dolch]]"
   - "[[Kurzbogen]]"
@@ -71,7 +71,7 @@ Merkmale:
   - "[[Behändes Entkommen]]"
   - "[[Schlüpfrig]]"
 Anzahl_Legendäre_Aktionen:
-Legendäre_Aktionen: 
+Legendäre_Aktionen:
 ---
 ```dynamic-embed
 [[embed Statblock Kreatur]]

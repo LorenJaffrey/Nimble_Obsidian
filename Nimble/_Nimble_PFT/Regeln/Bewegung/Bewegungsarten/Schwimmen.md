@@ -3,6 +3,5 @@ tags:
   - Regeln/Nimble/Bewegung
 ---
 # `=this.file.name`
-Die [[Bewegungsrate]] wird halbiert, außer es gibt extra [[Bewegungsrate]] für Schwimmen.
-
-Der DM entscheidet ob Wurf auf [[Athletik]] notwendig wird (z.B. Vorankommen in rauen Gewässern).
+Die [[Bewegungsrate]] einer schwimmenden Kreatur wird halbiert, außer sie hat eine separate [[Bewegungsrate]] für [[Schwimmen]].
+Der SL entscheidet ob Wurf auf [[Athletik]] notwendig wird (z.B. Vorankommen in rauen Gewässern).

@@ -8,7 +8,7 @@
 
 ---
 
-![[Foes/Monsters/Kobolds/Kobold|Kobold]]
+![[DM Bereich/Bestiarium/Foes/Monsters/Kobolds/Kobold|Kobold]]
 
 ---
 

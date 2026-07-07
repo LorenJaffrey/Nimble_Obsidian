@@ -5,7 +5,7 @@ tags:
 Bild: "[[hill_goblin_driver.png| 350]]"
 Größenkategorie: "[[Klein]]"
 Typ: "[[Humanoide]]"
-Subtyp: "[[Goblins]]"
+Subtyp: "[[DM Bereich/Bestiarium/Kreaturen/Humanoide/Goblins/Goblins]]"
 Gesinnung: "[[Neutral Böse]]"
 Herausforderungsgrad: 1
 Stufe: 5

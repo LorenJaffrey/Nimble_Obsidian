@@ -6,7 +6,7 @@ tags:
 Bild: "[[hill_goblin_oberboss.png | 350]]"
 Größenkategorie: "[[Klein]]"
 Typ: "[[Humanoide]]"
-Subtyp: "[[Goblins]]"
+Subtyp: "[[DM Bereich/Bestiarium/Kreaturen/Humanoide/Goblins/Goblins]]"
 Gesinnung: "[[Neutral Böse]]"
 Herausforderungsgrad: 3
 Stufe: 8
@@ -25,10 +25,10 @@ Verteidigung:
   Natürliche_Rüstung: 10
   Natürliche_SR: 0
   Resistenzen:
-    Schadensresistenz: 
-    Schadensimmunität: 
-    Schadensanfälligkeit: 
-    Zustandsimmunität: 
+    Schadensresistenz:
+    Schadensimmunität:
+    Schadensanfälligkeit:
+    Zustandsimmunität:
 Angriff:
   - "[[Langschwert]]"
 Attribute:
@@ -72,8 +72,8 @@ Merkmale:
   - "[[Schlüpfrig]]"
   - "[[Mehrfachangriff 2]]"
   - "[[Kommandieren]]"
-Anzahl_Legendäre_Aktionen: 
-Legendäre_Aktionen: 
+Anzahl_Legendäre_Aktionen:
+Legendäre_Aktionen:
 ---
 ```dynamic-embed
 [[embed Statblock Kreatur]]

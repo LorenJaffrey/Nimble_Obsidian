@@ -3,6 +3,7 @@ tags:
   - Regeln/Nimble/Bewegung
 ---
 # `=this.file.name`
-[[Bewegungsrate]] halbiert.
-Zu Boden fallen verbraucht keine [[Bewegungsrate]].
-Aufstehen kostet halbe maximale [[Bewegungsrate]].
+Eine kriechende Kreatur halbiert ihre [[Bewegungsrate]].
+Sich auf den Boden fallen zu lassen verbraucht keine [[Bewegungsrate]].
+Eine Kreatur die sich auf den Boden fallen lässt oder hinlegt gilt als [[Liegend]].
+Eine [[liegend|liegende]] Kreatur muss [[aufstehen]] wenn sie sich wieder normal bewegen will.

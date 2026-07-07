@@ -2,9 +2,9 @@
 [[Grottenschrate]] sind für Kampf und Unheil geboren. Sie überleben durch Überfälle und Jagd, sie schikanieren Schwächere und hassen es, herumkommandiert zu werden, doch bedeutet ihre Liebe zum Blutvergießen auch, dass sie für mächtige Meister kämpfen werden, wenn ihnen versichert wird, dass Gemetzel und Schätze auf sie warten.
 
 ## Goblinoide
-Grottenschrate findet man oft in der Gesellschaft ihrer Vettern, [[Hobgoblins]] und [[Goblins]]. Normalerweise versklaven [[Grottenschrate]] alle [[Goblins]], die sie treffen, und sie schikanieren [[Hobgoblins]], bis sie ihnen Gold und Nahrung dafür geben, dass sie als Kundschafter und Schocktruppen dienen.
+Grottenschrate findet man oft in der Gesellschaft ihrer Vettern, [[Hobgoblins]] und [[DM Bereich/Bestiarium/Foes/Monsters/Goblins/Goblins]]. Normalerweise versklaven [[Grottenschrate]] alle [[DM Bereich/Bestiarium/Foes/Monsters/Goblins/Goblins]], die sie treffen, und sie schikanieren [[Hobgoblins]], bis sie ihnen Gold und Nahrung dafür geben, dass sie als Kundschafter und Schocktruppen dienen.
 
-Selbst wenn sie bezahlt werden, sind [[Grottenschrate]] bestenfalls unzuverlässige Verbündete, doch [[Goblins]] und [[Hobgoblins]] wissen, dass egal, wie sehr [[Grottenschrate]] die Vorräte ihres Stammes belasten, sie doch eine beträchtliche Macht darstellen.
+Selbst wenn sie bezahlt werden, sind [[Grottenschrate]] bestenfalls unzuverlässige Verbündete, doch [[DM Bereich/Bestiarium/Foes/Monsters/Goblins/Goblins]] und [[Hobgoblins]] wissen, dass egal, wie sehr [[Grottenschrate]] die Vorräte ihres Stammes belasten, sie doch eine beträchtliche Macht darstellen.
 
 ## Anhänger von Hruggek
 [[Grottenschrate]] verehren [[Hruggek]], einen niederen Gott, der auf der Ebene Acheron existiert. In der Abwesenheit anderer goblinoider Verwandter bilden [[Grottenschrate]] lose Kriegstrupps, die von ihrem brutalsten Mitglied angeführt werden. [[Grottenschrate]] glauben, dass ihre Geister, wenn sie sterben, die Gelegenheit haben werden, an [[Hruggek|Hruggeks]] Seite zu kämpfen. Sie versuchen sich als würdig zu erweisen, indem sie so viele Feinde wie möglich bezwingen.
