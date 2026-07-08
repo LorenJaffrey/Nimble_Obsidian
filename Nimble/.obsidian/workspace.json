@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Bewegung/Bewegungsarten/Weitsprung.md",
+                "file": "DM Bereich/Character Sheet Test.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -196,7 +196,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weitsprung"
+              "title": "Character Sheet Test"
             }
           }
         ],
@@ -360,14 +360,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Bewegung/Bewegungsarten/Weitsprung.md"
+                "file": "DM Bereich/Character Sheet Test.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Weitsprung"
+              "title": "File properties for Character Sheet Test"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -391,13 +391,16 @@
   },
   "active": "ebe40c55771fbeab",
   "lastOpenFiles": [
+    "_Nimble_PFT/Regeln/Bewegung/Bewegungsarten/Hochsprung.md",
+    "DM Bereich/Character Sheet Test.md",
+    "_Nimble_PFT/zHidden/_Embeds/embed Character Sheet/embed Character Sheet Bewegung.md",
+    "_Nimble_PFT/Regeln/Bewegung/Bewegungsarten/Weitsprung.md",
     "_Nimble_PFT/Regeln/Bewegung/Bewegungsarten/Stürzen.md",
     "_Nimble_PFT/Regeln/Bewegung/Bewegungsarten/Schwimmen.md",
     "_Nimble_PFT/Regeln/Bewegung/Bewegungsarten/Kriechen.md",
     "_Nimble_PFT/Regeln/Bewegung/Bewegungsarten/Aufstehen.md",
     "_Nimble_PFT/Regeln/Bewegung/Bewegungsarten/Fliegen.md",
     "_Nimble_PFT/Regeln/Bewegung/Bewegungsarten/Klettern.md",
-    "_Nimble_PFT/Regeln/Bewegung/Bewegungsarten/Hochsprung.md",
     "_Nimble_PFT/Regeln/Bewegung/Bewegungsarten/Bewegungsarten.md",
     "_Nimble_PFT/Regeln/Bewegung/Bewegung.md",
     "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Kampfablauf.md",
@@ -414,9 +417,6 @@
     "_Nimble_PFT/Regeln/Erkundung/Erkundung.md",
     "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe/Beweglichkeitsrettungswürfe.md",
     "_Nimble_PFT/Regeln/Allgemein/Attribute/Attribute.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Begegnung.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Initiative.md",
-    "DM Bereich/Nimble/System/Regeln/Kampf/Kampfablauf/Runde.md",
     "DM Bereich/Nimble/System/Regeln/Stats/Fertigkeiten",
     "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe",
     "_Nimble_PFT/Regeln/Schaden und Heilung/Schadensarten/Schadenskategorien",
