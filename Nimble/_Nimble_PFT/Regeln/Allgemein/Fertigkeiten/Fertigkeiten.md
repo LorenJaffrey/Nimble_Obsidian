@@ -7,9 +7,11 @@ Jede Fertigkeit hat ein zugeordnetes [[Attribute|Attribut]], dessen [[Attribute|
 Ein [[Fertigkeiten#Fertigkeitswurf]] stellt eine konkretere Art von [[Attribute#Attributswurf]] dar und profitiert von einem eventuellen Bonus des Anwenders in dieser Fertigkeit.
 
 ```dataview
-TABLE attribut AS "Attribut"
+TABLE WITHOUT ID
+file.link AS "Fertigkeit",
+Attribut
 FROM #Regeln/Nimble/Fertigkeit
-SORT attribut, file.name
+SORT Attribut, file.name
 ```
 
 ## Fertigkeitswurf

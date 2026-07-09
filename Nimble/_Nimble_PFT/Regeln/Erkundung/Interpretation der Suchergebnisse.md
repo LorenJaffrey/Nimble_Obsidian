@@ -23,7 +23,7 @@ Diese [[Fertigkeiten|Fertigkeit]] ist besonders vielseitig und eignet sich für 
 - „Ich untersuche die Wand genauer – gibt es vielleicht einen Mechanismus, der eine geheime Tür öffnet?“
 - „Ich analysiere die Oberfläche des Tisches, um zu sehen, ob sich eine verborgene Schublade oder ein Geheimfach finden lässt.“
 
-### **Arkane Kunde**
+### **Magiekunde**
 [[Magiekunde]] wird eingesetzt, um Hinweise mit magischem Ursprung zu entschlüsseln. 
 Dies kann Symbole, magische Effekte, Runen oder Gegenstände betreffen.
 
@@ -83,10 +83,10 @@ Dies könnte Symbole, Rituale oder geweihte Orte betreffen.
 ### **Zusammenfassung:**
 Diese Fertigkeiten ermöglichen es den Spielern, Hinweise aus spezifischen Blickwinkeln zu untersuchen:
 
-| **Fertigkeit**          | **Fokus**                                             | **Beispielhafte Hinweise**                 |
-| ----------------------- | ----------------------------------------------------- | ------------------------------------------ |
+| **Fertigkeit**        | **Fokus**                                             | **Beispielhafte Hinweise**                 |
+| --------------------- | ----------------------------------------------------- | ------------------------------------------ |
 | **[[Nachforschung]]** | Mechanismen, Geheimfächer, physische Details          | Geheimfächer, Muster, Hebel, Rätsel        |
 | **[[Magiekunde]]**    | Magische Symbole, Glyphen, verzauberte Objekte        | Runen, magische Barrieren, Illusionen      |
-| **[[Naturkunde]]**      | Pflanzen, Gesteine, natürliche Phänomene              | Pflanzenwachstum, ungewöhnliche Spuren     |
-| **[[Geschichte]]**      | Relikte, historische Ereignisse, Architektur          | Gravuren, Wandmalereien, antike Symbole    |
-| **[[Religion]]**        | Religiöse Rituale, heilige Stätten, Schutzmechanismen | Altäre, geweihte Symbole, sakrale Gravuren |
+| **[[Naturkunde]]**    | Pflanzen, Gesteine, natürliche Phänomene              | Pflanzenwachstum, ungewöhnliche Spuren     |
+| **[[Geschichte]]**    | Relikte, historische Ereignisse, Architektur          | Gravuren, Wandmalereien, antike Symbole    |
+| **[[Religion]]**      | Religiöse Rituale, heilige Stätten, Schutzmechanismen | Altäre, geweihte Symbole, sakrale Gravuren |

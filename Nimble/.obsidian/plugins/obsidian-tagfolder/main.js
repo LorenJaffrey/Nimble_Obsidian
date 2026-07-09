@@ -3316,6 +3316,20 @@ function isSameAny(a, b) {
   }
 }
 
+function renderTagFolderTemplateVariables(template, expandedTagsAll, expandedTags) {
+  var _a5;
+  const plainTags = expandedTagsAll.filter(e => !isSpecialTag(e)), replacements = {
+    expandedTags,
+    tags: expandedTags,
+    tagList: plainTags.join(", "),
+    tagPath: plainTags.join("/"),
+    tagName: null != (_a5 = plainTags[plainTags.length - 1]) ? _a5 : "",
+    tagsJson: JSON.stringify(plainTags),
+    tagsYaml: plainTags.map(tag2 => `  - ${tag2}`).join("\n")
+  };
+  return template.replace(/\{\{(expandedTags|tags|tagList|tagPath|tagName|tagsJson|tagsYaml)\}\}/g, (_, key2) => replacements[key2]);
+}
+
 var _a3, _b2, _c, import_obsidian2 = require("obsidian"), PUBLIC_VERSION = "5";
 
 if ("undefined" != typeof window) (null != (_c = (_b2 = null != (_a3 = window.__svelte) ? _a3 : window.__svelte = {}).v) ? _c : _b2.v = new Set).add(PUBLIC_VERSION);
@@ -5018,8 +5032,8 @@ async function collectChildren(previousTrail, tags, _tagInfo, _items) {
     tagPerItem.get(tagLc).push(item);
   });
   for (const tag2 of tags) {
-    const tagLC = tag2.toLowerCase(), tagNestedLC = trimPrefix(tagLC, previousTrailLC), items = [];
-    for (const [itemTag, tempItems] of tagPerItem) if (pathMatch(itemTag, tagLC)) items.push(...tempItems); else if (pathMatch(itemTag, tagNestedLC)) items.push(...tempItems);
+    const tagLC = tag2.toLowerCase(), tagNestedLC = previousTrailLC && !tagLC.startsWith(previousTrailLC) ? previousTrailLC + tagLC : "", items = [];
+    for (const [itemTag, tempItems] of tagPerItem) if (pathMatch(itemTag, tagLC)) items.push(...tempItems); else if (tagNestedLC && pathMatch(itemTag, tagNestedLC)) items.push(...tempItems);
     children.push([ tag2, ...parseTagName(tag2, _tagInfo), [ ...new Set(items) ] ]);
     delayIdx++;
     delayIdx %= 4;
@@ -5058,7 +5072,10 @@ async function collectTreeChildren({key: key2, expandLimit, depth, tags, trailLo
       }
       if (isMainTree && isRoot) {
         const archiveTags = _setting.archiveTags.toLowerCase().replace(/[\n ]/g, "").split(",");
-        wChildren = wChildren.map(e => archiveTags.some(aTag => `${aTag}//`.startsWith(e[V2FI_IDX_TAG].toLowerCase() + "/")) ? e : [ e[V2FI_IDX_TAG], e[V2FI_IDX_TAGNAME], e[V2FI_IDX_TAGDISP], e[V2FI_IDX_CHILDREN].filter(items => !items.tags.some(e2 => archiveTags.contains(e2.toLowerCase()))) ]).filter(child2 => 0 != child2[V2FI_IDX_CHILDREN].length);
+        wChildren = wChildren.map(e => {
+          const childTagPath = `${trimTrailingSlash(e[V2FI_IDX_TAG].toLowerCase())}/`;
+          return archiveTags.some(aTag => `${trimTrailingSlash(aTag)}/`.startsWith(childTagPath)) ? e : [ e[V2FI_IDX_TAG], e[V2FI_IDX_TAGNAME], e[V2FI_IDX_TAGDISP], e[V2FI_IDX_CHILDREN].filter(items => !items.tags.some(e2 => archiveTags.contains(e2.toLowerCase()))) ];
+        }).filter(child2 => 0 != child2[V2FI_IDX_CHILDREN].length);
       }
     }
     wChildren = wChildren.sort(sortFunc);
@@ -6455,20 +6472,6 @@ function normalizeNewNoteTemplatePath(templatePath) {
   return "/" == normalizedPath ? "" : normalizedPath;
 }
 
-function renderNewNoteTemplate(template, expandedTagsAll, expandedTags) {
-  var _a5;
-  const plainTags = expandedTagsAll.filter(e => !isSpecialTag(e)), replacements = {
-    expandedTags,
-    tags: expandedTags,
-    tagList: plainTags.join(", "),
-    tagPath: plainTags.join("/"),
-    tagName: null != (_a5 = plainTags[plainTags.length - 1]) ? _a5 : "",
-    tagsJson: JSON.stringify(plainTags),
-    tagsYaml: plainTags.map(tag2 => `  - ${tag2}`).join("\n")
-  };
-  return template.replace(/\{\{(expandedTags|tags|tagList|tagPath|tagName|tagsJson|tagsYaml)\}\}/g, (_, key2) => replacements[key2]);
-}
-
 function onElement(el, event2, selector, callback, options) {
   el.on(event2, selector, callback, options);
   return () => el.off(event2, selector, callback, options);
@@ -7169,7 +7172,7 @@ var TagFolderPlugin5 = class extends import_obsidian8.Plugin {
     const expandedTagsAll = ancestorToLongestTag(ancestorToTags(joinPartialPath(removeIntermediatePath(null != tags ? tags : [])))).map(e => trimTrailingSlash(e)), expandedTags = expandedTagsAll.map(e => e.split("/").filter(ee => !isSpecialTag(ee)).join("/")).filter(e => "" != e).map(e => "#" + e).join(" ").trim(), configuredTemplatePath = normalizeNewNoteTemplatePath(this.settings.newNoteTemplate), selectedTemplate = "" == configuredTemplatePath ? null : null != (_a5 = getConfiguredNewNoteTemplate(this.app, configuredTemplatePath)) ? _a5 : await askNewNoteTemplate(this.app), ww = await this.app.fileManager.createAndOpenMarkdownFile();
     if (ww instanceof import_obsidian8.TFile) {
       if (null != selectedTemplate && false !== selectedTemplate) {
-        const renderedTemplate = renderNewNoteTemplate(await this.app.vault.read(selectedTemplate), expandedTagsAll, expandedTags);
+        const renderedTemplate = renderTagFolderTemplateVariables(await this.app.vault.read(selectedTemplate), expandedTagsAll, expandedTags);
         if ("" != renderedTemplate.trim()) await this.app.vault.modify(ww, renderedTemplate);
         return;
       }

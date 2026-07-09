@@ -4,7 +4,7 @@ tags:
 Attribut: "[[Instinkt]]"
 ---
 # `=this.file.name`
-Abhängiges [[Attribute|Attribut]]: `=this.Attribut`
+Abhängiges Attribut: `=this.Attribut`
 
 Beispiele:
 - Spuren lesen

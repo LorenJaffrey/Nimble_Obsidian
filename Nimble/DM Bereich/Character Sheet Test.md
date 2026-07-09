@@ -13,7 +13,7 @@ Gesundheit:
   TW: 3
   TempTP: 0
 Attribute:
-  Stärke: 4
+  Stärke: 0
   Geschicklichkeit: 14
   Konstitution: 16
   Intelligenz: 10
@@ -140,16 +140,17 @@ Persönlichkeit:
 [[Erschöpft|Erschöpfung]]: `=this.Erschöpfung`
 
 ## Bewegung
-| Gehen                                              | [[Spurt]]                                          | [[Hochsprung]] mit Anlauf                            | [[Hochsprung]] ohne Anlauf                           | [[Weitsprung]] ohne Anlauf | [[Weitsprung]] mit Anlauf |
-| -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ------------------------- | -------------------------- |
-| `=this.Bewegung*1.5` m (`=this.Bewegung` Kästchen) | `=this.Bewegung*3` m (`=this.Bewegung*2` Kästchen) | `=((floor(((this.Attribute.Stärke)-10)/2)+3)*0.3)` m | `=((floor(((this.Attribute.Stärke)-10)/2)+3)*0.3)/2` m | `=round((this.Attribute.Stärke*0.3)/2,2)` m                          | `=round((this.Attribute.Stärke*0.3),2)` m                           |
-|                                                    |                                                    |                                                      |                                                      |                           |                            |
+| Gehen                                              | [[Spurt]]                                          | [[Hochsprung]] mit Anlauf                            | [[Hochsprung]] ohne Anlauf                             | [[Weitsprung]] ohne Anlauf                  | [[Weitsprung]] mit Anlauf                 |
+| -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------- | ----------------------------------------- |
+| `=this.Bewegung*1.5` m (`=this.Bewegung` Kästchen) | `=this.Bewegung*3` m (`=this.Bewegung*2` Kästchen) | `=((floor(((this.Attribute.Stärke)-10)/2)+3)*0.3)` m | `=((floor(((this.Attribute.Stärke)-10)/2)+3)*0.3)/2` m | `=round((this.Attribute.Stärke*0.3)/2,2)` m | `=round((this.Attribute.Stärke*0.3),2)` m |
+|                                                    |                                                    |                                                      |                                                        |                                             |                                           |
 
 ## Bewegung
-| [[Hochsprung]] mit Anlauf        | [[Hochsprung]] ohne Anlauf           | [[Weitsprung]] mit Anlauf             | [[Weitsprung]] ohne Anlauf                  |
-| -------------------------------- | ------------------------------------ | ------------------------------------- | ------------------------------------------- |
-| `=this.Attribute.Stärke*0.3+1` m | `=(this.Attribute.Stärke*0.3+1)/2` m | `=round((18*0.3),2)` m                | `=round((this.Attribute.Stärke*0.3)/2,2)` m |
-|                                  |                                      | `=round((this.Attribute.Stärke*2+10)*0.3,2)` m | `=round((this.Attribute.Stärke*0.3)/2,2)` m |
+| [[Hochsprung]]                   | [[Weitsprung]] mit Anlauf                      | [[Weitsprung]] ohne Anlauf                         |
+| -------------------------------- | ---------------------------------------------- | -------------------------------------------------- |
+| `=-1*0.3+1` m                     | `=round((18*0.3),2)` m                         | `=round(((18)*0.3)/2,2)` m                         |
+| `=this.Attribute.Stärke*0.3+1` m | `=round((this.Attribute.Stärke*2+10)*0.3,2)` m | `=round(((this.Attribute.Stärke*2+10)*0.3)/2,2)` m |
+|                                  | `=round((this.Attribute.Stärke*2+10)*0.3,2)` m |                                                    |
 
 ## Verteidigung
 > [!column] 

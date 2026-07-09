@@ -4,7 +4,7 @@ tags:
 Attribut: "[[Präsenz]]"
 ---
 # `=this.file.name`
-Abhängiges [[Attribute|Attribut]]: `=this.Attribut`
+Abhängiges Attribut: `=this.Attribut`
 
 Andere mit Taktgefühl, Einfühlungsvermögen oder wohlwollendem Wesen beeinflussen.
 Beispiele:

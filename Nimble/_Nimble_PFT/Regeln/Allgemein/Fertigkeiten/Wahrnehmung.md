@@ -4,7 +4,7 @@ tags:
 Attribut: "[[Instinkt]]"
 ---
 # `=this.file.name`
-Abhängiges [[Attribute|Attribut]]: `=this.Attribut`
+Abhängiges Attribut: `=this.Attribut`
 
 Stellt die generelle Aufmerksamkeit dar und die Schärfe der Sinne. Wird verwendet um nach etwas zu suchen oder Dinge wahrzunehmen.
 Beispiele:

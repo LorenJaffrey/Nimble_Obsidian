@@ -65,8 +65,8 @@
   },
   "_Nimble_PFT/Regeln": "RaPerspectiveDiceOne",
   "_Nimble_PFT/Kampagne": "RaBladeBite",
-  "_Nimble_PFT/Regeln/Charaktere": "RaDeadTree",
   "DM Bereich/Bestiarium/Bestiarium": "RaEyeMonster",
   "DM Bereich/Gegenstände/Gegenstände": "RaDiamond",
-  "DM Bereich/Nimble/System/Regeln/Magie/Zauber": "RaFairyWand"
+  "DM Bereich/Regeln/Charaktere": "RaDeadTree",
+  "DM Bereich/Regeln/Magie/Zauber": "RaFairyWand"
 }

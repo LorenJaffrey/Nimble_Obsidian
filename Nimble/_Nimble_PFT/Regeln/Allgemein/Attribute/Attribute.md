@@ -18,12 +18,8 @@ FROM #Regeln/Nimble/Attribut
 SORT file.name
 ```
 
-## Kernattribute
-Jede [[Klassen|Klasse]] hat zwei Kernattribute.
-Die restlichen Attribute werden als Sekundärattribute bezeichnet.
-
 ## Maximaler Attributswert
-Der maximale Wert eines Attributs beträgt 5.
+Der maximale Wert eines Attributs beträgt 5, der minimale -5.
 
 ## Attributswurf
 Ein Attributswurf repräsentiert den Versuch einer Kreatur, mithilfe ihrer Fähigkeiten und Kenntnisse eine Herausforderung zu meistern. 

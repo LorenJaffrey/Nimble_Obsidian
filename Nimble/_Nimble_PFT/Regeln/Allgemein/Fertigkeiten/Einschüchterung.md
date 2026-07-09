@@ -4,7 +4,7 @@ tags:
 Attribut: "[[Präsenz]]"
 ---
 # `=this.file.name`
-Abhängiges [[Attribute|Attribut]]: `=this.Attribut`
+Abhängiges Attribut: `=this.Attribut`
 
 Jemanden durch Drohungen, feindselige Gesten oder körperliche Gewalt beeinflussen.
 Beispiele:
