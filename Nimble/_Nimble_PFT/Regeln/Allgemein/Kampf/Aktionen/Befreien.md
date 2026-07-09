@@ -2,7 +2,7 @@
 tags:
   - Regeln/Nimble
   - Zug/Aktion
-Beschreibung: Befreie dich aus einem [[Haltegriff]]
+Beschreibung: "Befreie dich aus einem [[Gepackt|Haltegriff]]"
 Kosten: "1 [[Aktionspunkte|AP]]"
 ---
 # `=this.file.name`

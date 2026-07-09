@@ -12,6 +12,6 @@ Das Ziel muss einen [[Stärkerettungswürfe|ST-Rettungswurf]] oder [[Beweglichke
 - hat das Ziel die gleiche [[Größenkategorie|Größe]] oder kleiner, wird es [[Gepackt]].
 - ist das Ziel größer als du, erhältst du stattdessen den Zustand [[Reitend]]
 
-Der [[Schwierigkeitsgrad|SG]] für den [[Rettungswürfe]] und alle [[Befreien|Befreiungsversuche]] entspricht 10 plus deiner [[Stärke]] oder [[Beweglichkeit]].
+Der [[Schwierigkeitsgrad|SG]] für den [[Rettungswürfe]] und alle [[Befreien|Befreiungsversuche]] entspricht 10 plus deiner [[Stärke]].
 
 [[Erzwungene Bewegung]] (z. B. den Greifer wegstoßen), Kampfunfähigkeit oder [[Befreien]] können den [[Zustände|Zustand]] beenden.

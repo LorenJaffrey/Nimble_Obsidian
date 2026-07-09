@@ -5,7 +5,7 @@ tags:
 aliases:
   - Beeinflussen-Aktion
   - Beeinflussung
-Beschreibung: "Mach eine [[Charisma|CH]]-basierte Probe um eine Kreatur zu beeinflussen."
+Beschreibung: "Mach eine [[Präsenz|PR]]-basierte Probe um eine Kreatur zu beeinflussen."
 Kosten: "1 [[Aktionspunkte|AP]]"
 ---
 # `=this.file.name`
@@ -32,10 +32,10 @@ Scheitert der Wurf, so musst du 24 Stunden (oder eine Dauer nach Vorgabe des SL)
 
 ## Attributswürfe zum Beeinflussen
 
-| Attributswurf          | Interaktion                                     |
-| ---------------------- | ----------------------------------------------- |
-| [[Auftreten]]          | Eine Kreatur amüsieren                           |
-| [[Einschüchterung]]      | Eine Kreatur einschüchtern                       |
-| [[Täuschung]]           | Eine Kreatur täuschen, die dich versteht         |
-| [[Überzeugung]]         | Eine Kreatur überzeugen, das dich versteht       |
-| [[Tierführung]] | Ein Tier oder eine Monstrosität sanft überreden |
+| Attributswurf       | Interaktion                                     |
+| ------------------- | ----------------------------------------------- |
+| [[Auftreten]]       | Eine Kreatur amüsieren                          |
+| [[Einschüchterung]] | Eine Kreatur einschüchtern                      |
+| [[Täuschung]]       | Eine Kreatur täuschen, die dich versteht        |
+| [[Überzeugung]]     | Eine Kreatur überzeugen, das dich versteht      |
+| [[Tierführung]]     | Ein Tier oder eine Monstrosität sanft überreden |

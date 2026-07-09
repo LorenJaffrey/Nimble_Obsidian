@@ -2,7 +2,7 @@
 tags: 
   - Regeln/Nimble
   - Zug/Aktion
-Beschreibung: "Mach eine [[Intelligenz|IN]]-basierte Probe um eine Information zu erhalten."
+Beschreibung: "Mach eine [[Verstand|VS]]-basierte Probe um eine Information zu erhalten."
 Kosten: "1 [[Aktionspunkte|AP]]"
 ---
 # `=this.file.name`
@@ -11,10 +11,10 @@ Wenn du diese [[Aktionen]] ausführst, machst du einen [[Verstand]]-Wurf um Info
 
 Die folgende Tabelle gibt an, welche [[Fertigkeiten]] anwendbar sind, wenn du diese [[Aktionen]] ausführst, je nachdem, um welchen Wissensbereich es sich handelt.
 
-| Fertigkeit          | Bereiche                                                                                                              |
-| ------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Fertigkeit        | Bereiche                                                                                                              |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------- |
 | [[Magiekunde]]    | Zauber, magische Gegenstände, schauerliche Symbole, magische Traditionen, Ebenen der Existenz und bestimmte Kreaturen |
-| [[Geschichte]]      | Historische Ereignisse und Personen, antike Zivilisationen, Kriege und bestimmte Kreaturen                            |
+| [[Geschichte]]    | Historische Ereignisse und Personen, antike Zivilisationen, Kriege und bestimmte Kreaturen                            |
 | [[Nachforschung]] | Fallen, Chiffren, Rätsel und Gerätschaften                                                                            |
-| [[Naturkunde]]      | Gelände, Flora, Wetter und bestimmte Kreaturen                                                                        |
-| [[Religion]]        | Gottheiten, religiöse Hierarchien und Riten, heilige Symbole, Kulte und bestimmte Kreaturen                           |
+| [[Naturkunde]]    | Gelände, Flora, Wetter und bestimmte Kreaturen                                                                        |
+| [[Religion]]      | Gottheiten, religiöse Hierarchien und Riten, heilige Symbole, Kulte und bestimmte Kreaturen                           |
