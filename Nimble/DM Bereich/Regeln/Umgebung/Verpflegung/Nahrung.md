@@ -17,4 +17,4 @@ Ein Charakter benötigt 1 [[Ration|Ration]] pro Tag und kann länger damit ausko
 Reduziert ein Charakter die zu sich genommene `=this.file.name` auf die Hälfte, zählt jeder Tag als halber Tag ohne Essen. 
 
 Steht dem Spieler an einem Tag keine `=this.file.name` zur Aufnahme zur Verfügung, so muss er einen [[Konstitutionsrettungswürfe|KO-Rettungswurf]] gegen [[Schwierigkeitsgrad|SG]] 10 ablegen.
-Schlägt die Probe fehl, erhält der Charakter eine Stufe [[Erschöpft|Erschöpfung]]. 
+Schlägt die Probe fehl, erhält der Charakter eine Stufe [[Erschöpfung]]. 

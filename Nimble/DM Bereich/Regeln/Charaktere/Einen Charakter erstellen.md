@@ -70,7 +70,7 @@ Trage deine sekundären Werte ein:
 - [[Initiative|Initiativebonus]] (Standard: [[Beweglichkeit|GE]])
 - [[Größenkategorie]]
 - [[Bewegungsrate]] (abhängig von der [[Abstammungen|Abstammung]])
-- maximale [[Wunden]] (Standard: 6) 
+- maximale [[Erschöpfung]] (Standard: 6) 
 - Inventarplätze (10 + [[Stärke]]) 
 
 ### [[Trefferpunkte]]  pro Stufe

@@ -14,7 +14,7 @@ Viele Gelehrte haben über den Ursprung dieser Kreaturen debattiert.
 Einige glauben, dass [[Ghule]] durch den Verzehr einer Leiche entstanden sind, die von nekrotischer Magie durchdrungen war – sei es durch nekromantische Rituale oder durch den versehentlichen Verzehr durch Aasfresser.
 
 ### Ghulfieber
-Unabhängig von ihrer Entstehung müssen Ghule sorgfältig überwacht oder vernichtet werden, da bereits ein einziger Biss dieser Kreaturen das Ziel mit einer nekromantischen Krankheit namens [[Ghulfieber]] infizieren kann. Kreaturen, die mit dieser [[Krankheiten|Krankheit]] sterben, verfallen schließlich zu verdorrten Hüllen, die auf ewig dem Hunger ausgeliefert sind.
+Unabhängig von ihrer Entstehung müssen Ghule sorgfältig überwacht oder vernichtet werden, da bereits ein einziger Biss dieser Kreaturen das Ziel mit einer nekromantischen Krankheit namens [[_Ghulfieber]] infizieren kann. Kreaturen, die mit dieser [[_Krankheiten|Krankheit]] sterben, verfallen schließlich zu verdorrten Hüllen, die auf ewig dem Hunger ausgeliefert sind.
 
 ### Hungernder Instinkt
 Im Gegensatz zu den meisten [[Untote|Untoten]] besitzen [[Ghule]] typischerweise einen eigenen Willen und Intellekt und unterstehen nicht zwangsläufig dem Befehl einer äußeren Macht. 

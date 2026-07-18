@@ -5,4 +5,4 @@ aliases:
 Einsatz: Passiv
 ---
 # `=this.file.name`
-Immer wenn du eine [[Wunden|Wunde]] erhältst, bekommst du einen [[Fokuspunkte|Fokuspunkt]].
+Immer wenn du eine [[Erschöpfung|Wunde]] erhältst, bekommst du einen [[Fokuspunkte|Fokuspunkt]].

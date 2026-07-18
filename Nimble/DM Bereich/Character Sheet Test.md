@@ -137,7 +137,7 @@ Persönlichkeit:
 [[_Übung|Übungsbonus]]:  `=ceil(this.Stufe/4)+1`
 [[Initiative|Initiativebonus]]: `=floor(((this.Attribute.Geschicklichkeit)-10)/2)`
 [[Glück|Glückspunkte]]: `=this.Glück`
-[[Erschöpft|Erschöpfung]]: `=this.Erschöpfung`
+[[Erschöpfung]]: `=this.Erschöpfung`
 
 ## Bewegung
 | Gehen                                              | [[Spurt]]                                          | [[Hochsprung]] mit Anlauf                            | [[Hochsprung]] ohne Anlauf                             | [[Weitsprung]] ohne Anlauf                  | [[Weitsprung]] mit Anlauf                 |

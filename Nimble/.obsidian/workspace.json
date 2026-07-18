@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c0279ab0a509907",
+            "id": "3628b29133064c7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Regeln/Charaktere/_Ressourcen.md",
+                "file": "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Packen.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,17 +28,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Ressourcen"
+              "title": "Packen"
             }
           },
           {
-            "id": "923ec1e243fb82f5",
+            "id": "c3f0180f889859c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Charaktere/Klassen/Klassen.md",
-                "mode": "preview",
+                "file": "DM Bereich/Regeln/_Zustände/Versteinert.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,59 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Klassen"
-            }
-          },
-          {
-            "id": "60d6556fa9f8ec11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Bereich/Regeln/Rasten/Rasten.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rasten"
-            }
-          },
-          {
-            "id": "18f2c109aecd919f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fertigkeiten.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Fertigkeiten"
+              "title": "Versteinert"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,8 +196,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "DICE_ROLLER_VIEW"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
@@ -264,24 +216,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DM Bereich/Character Sheet Test.md"
+                "file": "DM Bereich/Regeln/_Zustände/Versteinert.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Character Sheet Test"
-            }
-          },
-          {
-            "id": "af891aca34750309",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "title": "File properties for Versteinert"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -303,44 +245,44 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "60d6556fa9f8ec11",
+  "active": "c3f0180f889859c6",
   "lastOpenFiles": [
-    "DM Bereich/Regeln/Rasten/Sichere Rast.md",
-    "DM Bereich/Regeln/Rasten/Feldrast.md",
-    "DM Bereich/Regeln/Rasten/Rasten.md",
-    "DM Bereich/Regeln/Kampf/_Spezielle Kampfbedingungen.md",
-    "DM Bereich/Regeln/Kampf/Heroische Aktionen.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Konzentration.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Deckung.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionspunkte.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Reaktion/Reaktion.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Kampfablauf/Kampfablauf.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Angriff/Angriff.md",
-    "DM Bereich/Gegenstände/Gegenstände/Waffen/Waffenlisten/Leichte Waffen.md",
-    "DM Bereich/Gegenstände/Gegenstände/Waffen/Waffenlisten/Stichwaffen.md",
-    "DM Bereich/Gegenstände/Gegenstände/Waffen/Waffenlisten/Einhändige Waffen.md",
-    "DM Bereich/Gegenstände/Gegenstände/Waffen/Waffenlisten/Hiebwaffen.md",
-    "DM Bereich/Gegenstände/Gegenstände/Waffen/Waffenlisten/Finesse Waffen.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fertigkeiten.md",
-    "DM Bereich/Gegenstände/Gegenstände/Waffen/Waffen/Axt.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Aktionen.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Magie wirken.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Bewegen.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Befreien.md",
+    "_Nimble_PFT/Regeln/Zustände/Gelähmt.md",
+    "_Nimble_PFT/Regeln/Zustände/Fixiert.md",
+    "_Nimble_PFT/Regeln/Zustände/Kampfunfähig.md",
+    "_Nimble_PFT/Regeln/Zustände/Bewusstlos.md",
+    "_Nimble_PFT/Regeln/Zustände/Betäubt.md",
+    "_Nimble_PFT/Regeln/Zustände/Benommen.md",
+    "_Nimble_PFT/Regeln/Zustände/Sterbend.md",
+    "DM Bereich/Regeln/_Zustände/Zustände DnD/Festgesetzt.md",
+    "DM Bereich/Regeln/_Zustände/_Conditions.md",
+    "_Nimble_PFT/Regeln/Zustände/Verlangsamt.md",
+    "_Nimble_PFT/Regeln/Zustände/Gepackt.md",
+    "_Nimble_PFT/Regeln/Zustände/Blind.md",
+    "DM Bereich/Regeln/_Zustände/Versteinert.md",
+    "_Nimble_PFT/Regeln/Zustände/Verängstigt.md",
+    "DM Bereich/Regeln/_Zustände/Provoziert.md",
+    "DM Bereich/Regeln/_Zustände/Zustände DnD/Nekrotisiert.md",
+    "_Nimble_PFT/Regeln/Zustände/Reitend.md",
+    "DM Bereich/Regeln/_Kampf/_Spezielle Kampfbedingungen.md",
+    "_Nimble_PFT/Regeln/Allgemein/Erfolg.md",
     "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Packen.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Beeinflussen.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Angreifen.md",
-    "DM Bereich/Regeln/Charaktere/Hintergründe/Kopfgeldjäger.md",
-    "DM Bereich/Regeln/Kampf",
-    "DM Bereich/Regeln/Allgemein",
+    "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Befreien.md",
+    "DM Bereich/Bestiarium/Größenkategorie/Größenkategorie.md",
+    "DM Bereich/Regeln/Charaktere/_Ressourcen.md",
+    "_Nimble_PFT/Regeln/Allgemein/Schaden und Heilung/Erschöpfung.md",
+    "_Nimble_PFT/Regeln/Zustände/Taub.md",
+    "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Aktionen.md",
+    "_Nimble_PFT/Regeln/Zustände",
+    "DM Bereich/Regeln/_Rasten",
+    "DM Bereich/Regeln/_Kampf",
+    "DM Bereich/Regeln/_Allgemein",
     "DM Bereich/Nimble/System/Regeln/Stats/Fertigkeiten",
     "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe",
     "_Nimble_PFT/Regeln/Allgemein/Schaden und Heilung/Schadensarten/Schadenskategorien",
     "_Nimble_PFT/Regeln/Allgemein/Schaden und Heilung/Schadensarten/Schadensmodifikatoren",
     "_Nimble_PFT/Regeln/Allgemein/Schaden und Heilung/Schadensarten/Physischer Schaden",
     "_Nimble_PFT/Regeln/Allgemein/Schaden und Heilung/Schadensarten/Magischer Schaden",
-    "_Nimble_PFT/Regeln/Allgemein/Schaden und Heilung/Schadensarten/Elementarschaden",
-    "DM Bereich/Bestiarium/Größenkategorie",
     "_Nimble_PFT/zHidden/_Attachments/Races/Tiefling 1.png",
     "_Nimble_PFT/zHidden/_Attachments/Races/Halbling.png",
     "_Nimble_PFT/zHidden/_Attachments/Races/Gnom.png",

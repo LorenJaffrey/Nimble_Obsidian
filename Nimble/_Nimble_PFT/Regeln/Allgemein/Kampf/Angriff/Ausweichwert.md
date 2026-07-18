@@ -9,4 +9,4 @@ aliases:
 > 10 + [[Beweglichkeit|BW]]
 
 Der [[Ausweichwert]] einer Kreatur ist berechnet sich normalerweise  aus dem Basiswert 10 + [[Beweglichkeit|BW]].
-Einige Merkmale oder [[Zustände]]können den [[Ausweichwert]] modifizieren.
+Einige Merkmale oder [[_Zustände]]können den [[Ausweichwert]] modifizieren.

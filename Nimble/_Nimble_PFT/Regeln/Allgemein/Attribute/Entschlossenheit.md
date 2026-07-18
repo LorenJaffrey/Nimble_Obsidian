@@ -14,6 +14,6 @@ Misst mentale Standhaftigkeit, Fokus und die Fähigkeit, Druck, Furcht oder Vers
 
 [[Entschlossenheit]] wird verwendet bei:
 - Halten von [[Konzentration]]
-- beim Stufenaufstieg wird die [[Entschlossenheit]] zur Anzahl der [[Resilienzpunkte]] addiert. 
+- beim Stufenaufstieg wird die Hälfte der [[Entschlossenheit]] (abgerundet) zur Anzahl der [[Resilienzpunkte]] addiert. 
   Erhöht sich die [[Entschlossenheit]] nachträglich erhöhen sich auch die [[Resilienzpunkte]] nachträglich.
 - [[Entschlossenheitsrettungswürfe|EN-Rettungswürfen]]

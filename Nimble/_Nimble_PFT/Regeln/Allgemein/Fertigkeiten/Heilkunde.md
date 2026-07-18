@@ -7,5 +7,5 @@ Attribut: "[[Verstand]]"
 Abhängiges Attribut: `=this.Attribut`
 
 - Sterbende Gefährten [[Stabilisieren]]
-- [[Krankheiten|Krankheit]] oder [[Gift]] diagnostizieren
-- Gegenmittel für [[Krankheiten|Krankheit]] oder [[Gift]] finden
+- [[_Krankheiten|Krankheit]] oder [[Gift]] diagnostizieren
+- Gegenmittel für [[_Krankheiten|Krankheit]] oder [[Gift]] finden

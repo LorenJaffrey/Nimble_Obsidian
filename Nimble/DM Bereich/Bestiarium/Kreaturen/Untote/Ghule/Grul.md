@@ -34,9 +34,8 @@ Verteidigung:
       - "[[Giftschaden]]"
     Zustandsimmunität:
       - "[[Bezaubert]]"
-      - "[[Erschöpft]]"
       - "[[Vergiftet]]"
-      - "[[Krankheiten]]"
+      - "[[_Krankheiten]]"
 Angriff:
   - "[[Biss Stark]]"
   - "[[Klauenhieb]]"

@@ -33,8 +33,8 @@ Typ: "[[Heilung]]"
 ```
 
 ## Beschreibung
-Du berührst eine Kreatur und heilst damit eine [[Krankheiten|Krankheit]] oder beendest einen [[Zustände|Zustand]], unter dem sie leidet.
-Mögliche [[Zustände]] sind: 
+Du berührst eine Kreatur und heilst damit eine [[_Krankheiten|Krankheit]] oder beendest einen [[_Zustände|Zustand]], unter dem sie leidet.
+Mögliche [[_Zustände]] sind: 
 - [[Blind]]
 - [[Gelähmt]]
 - [[Taub]]

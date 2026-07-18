@@ -4,4 +4,4 @@ tags:
 Einsatz: "Passiv"
 ---
 # `=this.file.name`
-Du kannst nun 4 zusätzliche [[Wunden]] erleiden, bevor du [[Sterbend|stirbst]].
+Du kannst nun 4 zusätzliche [[Erschöpfung]] erleiden, bevor du [[Sterbend|stirbst]].

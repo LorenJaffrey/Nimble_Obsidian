@@ -23,8 +23,8 @@ Es gibt mehrere Möglichkeiten, einen Zauber zu wirken, ohne [[Mana]] zu verbrau
   Dieses Zauberwirken wird stattdessen anderweitig eingeschränkt, weil du den Zauber zum Beispiel nur begrenzt oft am Tag wirken kannst.
 - **[[Magische Gegenstände]]**: [[Zauberschriftrollen]] und einige andere [[magische Gegenstände]] enthalten Zauber, die du wirken kannst, ohne [[Mana]] zu verbrauchen.
   In der Beschreibung solcher Gegenstände ist angegeben, wie oft ein Zauber aus ihnen gewirkt werden kann.
-- **[[Wunden]]**: Ein Zauberer kann im Notfall auch noch Zauber wirken wenn er keine [[Mana]] mehr zur Verfügung hat. 
-  Er erhält dafür im Gegenzug eine Anzahl [[Wunden]] in Höhe des [[Zaubergrad|Zaubergrads]] des gewirkten Zaubers.
+- **[[Erschöpfung]]**: Ein Zauberer kann im Notfall auch noch Zauber wirken wenn er keine [[Mana]] mehr zur Verfügung hat. 
+  Er erhält dafür im Gegenzug eine Anzahl [[Erschöpfung]] in Höhe des [[Zaubergrad|Zaubergrads]] des gewirkten Zaubers.
   Dies kann nur genutzt werden wenn dem Zaubernden kein [[Mana]] mehr zur Verfügung steht, sonst muss dieses zuerst verbraucht werden.
 
 ## Zeitaufwand

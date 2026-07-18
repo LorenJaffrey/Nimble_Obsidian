@@ -29,4 +29,4 @@ Du verzichtest auf Geschwindigkeit, bist dafür mit körperlicher Ausdauer und e
 Du sprichst [[Zwergisch]], sofern deine [[Verstand|IN]] nicht negativ ist.
 
 ### Stämmig
-Deine maximalen [[Trefferwürfel]] erhöhen sich um 1 und deine maximalen [[Wunden]] um 2.
+Deine maximalen [[Trefferwürfel]] erhöhen sich um 1 und deine maximalen [[Erschöpfung]] um 2.

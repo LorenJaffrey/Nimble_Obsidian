@@ -18,11 +18,11 @@ Ein schnelles Reisetempo etwa lässt die Charaktere unaufmerksamer werden, wohin
 
 ## Gewaltmarsch
 In der Tabelle Reisetempo wird davon ausgegangen, dass die Charaktere maximal 8 Stunden am Tag reisen. 
-Diese Grenze kann auch überschritten werden, auf die Gefahr der [[Erschöpft|Erschöpfung]] hin. 
+Diese Grenze kann auch überschritten werden, auf die Gefahr der [[Erschöpfung]] hin. 
 Für jede weitere Stunde über 8 hinaus legen die Charaktere die in der Stundenspalte angegebene Distanz zurück. 
 Anschließend muss jeder Charakter einen [[Konstitutionsrettungswürfe|KO-Rettungswurf]] ablegen.
 Der [[Schwierigkeitsgrad]] beträgt 10 + 1 für jede Stunde über 8 hinaus. 
-Bei einem Misserfolg erleidet der Charakter eine Stufe an [[Erschöpft|Erschöpfung]].
+Bei einem Misserfolg erleidet der Charakter eine Stufe an [[Erschöpfung]].
 
 ## Reittiere
 Für kurze Zeitspannen (bis zu 1 Stunde) können berittene Charaktere mit wesentlich höherer Geschwindigkeit reisen. 

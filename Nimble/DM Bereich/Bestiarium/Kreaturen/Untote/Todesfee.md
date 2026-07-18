@@ -38,12 +38,11 @@ Verteidigung:
       - "[[Kälteschaden]]"
     Zustandsimmunität:
       - "[[Bezaubert]]"
-      - "[[Erschöpft]]"
       - "[[Festgesetzt]]"
       - "[[Gelähmt]]"
       - "[[Vergiftet]]"
       - "[[Versteinert]]"
-      - "[[Krankheiten]]"
+      - "[[_Krankheiten]]"
 Angriff:
   - "[[Verderbende Berührung]]"
 Attribute:

@@ -17,7 +17,7 @@ speed: 9 m (6 Kästchen)
 stats: [7, 11, 13, 14, 11, 6]
 damage_vulnerabilities: [[Wuchtschaden|Wucht]]
 damage_immunities: [[Giftschaden|Gift]]
-condition_immunities: [[Erschöpft|Erschöpfung]], [[Vergiftet]]
+condition_immunities: [[Erschöpfung]], [[Vergiftet]]
 senses: [[Dunkelsicht]], [[Wahrnehmung#Passive Wahrnehmung]] 12
 languages: Versteht alle Sprachen, die es im Leben kannte, kann aber nicht sprechen
 cr: 1/2
