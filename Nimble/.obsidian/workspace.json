@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Regeln/_Zustände/Versteinert.md",
+                "file": "_Nimble_PFT/Regeln/Zustände/Verlangsamt.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Versteinert"
+              "title": "Verlangsamt"
             }
           }
         ],
@@ -216,10 +216,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DM Bereich/Regeln/_Zustände/Versteinert.md"
+                "file": "_Nimble_PFT/Regeln/Zustände/Verlangsamt.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Versteinert"
+              "title": "File properties for Verlangsamt"
             }
           }
         ],
@@ -247,6 +247,8 @@
   },
   "active": "c3f0180f889859c6",
   "lastOpenFiles": [
+    "DM Bereich/Regeln/_Zustände/Zustände DnD/Festgesetzt.md",
+    "_Nimble_PFT/Regeln/Zustände/Versteinert.md",
     "_Nimble_PFT/Regeln/Zustände/Gelähmt.md",
     "_Nimble_PFT/Regeln/Zustände/Fixiert.md",
     "_Nimble_PFT/Regeln/Zustände/Kampfunfähig.md",
@@ -254,12 +256,10 @@
     "_Nimble_PFT/Regeln/Zustände/Betäubt.md",
     "_Nimble_PFT/Regeln/Zustände/Benommen.md",
     "_Nimble_PFT/Regeln/Zustände/Sterbend.md",
-    "DM Bereich/Regeln/_Zustände/Zustände DnD/Festgesetzt.md",
     "DM Bereich/Regeln/_Zustände/_Conditions.md",
     "_Nimble_PFT/Regeln/Zustände/Verlangsamt.md",
     "_Nimble_PFT/Regeln/Zustände/Gepackt.md",
     "_Nimble_PFT/Regeln/Zustände/Blind.md",
-    "DM Bereich/Regeln/_Zustände/Versteinert.md",
     "_Nimble_PFT/Regeln/Zustände/Verängstigt.md",
     "DM Bereich/Regeln/_Zustände/Provoziert.md",
     "DM Bereich/Regeln/_Zustände/Zustände DnD/Nekrotisiert.md",
