@@ -14,7 +14,7 @@ Auch viele Zauber enthalten [[Fernkampfangriff|Fernkampfangriffe]].
 Du kannst [[Fernkampfangriff|Fernkampfangriffe]] nur gegen Ziele innerhalb einer bestimmten Reichweite ausführen. 
 Wenn ein [[Fernkampfangriff]], beispielsweise mit einem Zauber, nur eine einfache Reichweite hat, kannst du keine Ziele außerhalb dieser Reichweite angreifen.
 
-Solange du dich in Nahkampfreichweite mindestens eines Gegners befindest, der dich sehen kann und nicht [[Kampfunfähig]]ist, giltst du als [[Bedroht]].
+Solange du dich in Nahkampfreichweite mindestens eines Gegners befindest, der dich sehen kann und nicht [[Kampfunfähig]] ist, giltst du als [[Bedroht]].
 
 Manche Fernkampfangriffe wie die mit [[Langbogen]] oder [[Kurzbogen]] haben drei Reichweiten. 
 Die kleinste Zahl ist die Mindestreichweite, die mittlere die Grundreichweite, die größte die Maximalreichweite.

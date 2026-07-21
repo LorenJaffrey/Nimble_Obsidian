@@ -1,10 +1,10 @@
 ---
 tags:
   - Regeln/Nimble
-  - Zustand
+  - Zustand/Marker
 ---
 # `=this.file.name`
-Ein Ziel ist abgelenkt, wenn es:
+Ein Ziel ist [[Abgelenkt]], wenn es:
   - an einen Verbündeten angrenzt
   - von einem Verbündeten [[verspottet]] ist 
   - oder dich nicht sehen kann

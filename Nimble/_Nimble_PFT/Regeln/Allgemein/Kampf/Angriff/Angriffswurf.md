@@ -10,11 +10,12 @@ aliases:
 > [!info] Angriffswurf
 > W20 + [[Attribute|Angriffsbonus]] + Modifikatoren
 
-Der [[Attribute|Angriffsbonus]] hängt von der verwendeten Waffe ab. 
-Die meisten [[Nahkampfangriff|Nahkampfangriffe]] basieren auf [[Stärke]], manchmal auch auf [[Beweglichkeit]] (bei Waffen mit der Eigenschaft [[Finesse]]).
-Die meisten [[Fernkampfangriff|Fernkampfangriffe]] basieren auf [[Beweglichkeit]].
+Der [[Attribute|Angriffsbonus]] hängt von der verwendeten Waffe ab:
+- [[Nahkampfangriff|Nahkampfangriffe]] basieren normalerweise auf [[Stärke|ST]], manchmal auch auf [[Geschick|GE]] (bei Waffen mit der Eigenschaft [[Finesse]]).
+- [[Fernkampfangriff|Fernkampfangriffe]] mit [[Fernkampfwaffen]] basieren normalerweise auf [[Geschick|GE]].
+- [[Fernkampfangriff|Fernkampfangriffe]] mit [[Wurfwaffen]] basieren normalerweise auf [[Stärke|ST]], manchmal auch auf [[Geschick|GE]] (bei Waffen mit der Eigenschaft [[Finesse]]).
 
-Der [[Schwierigkeitsgrad]] für den `=this.file.name` ist in der Regel die [[Rüstungsklasse]] des Ziels.
+Der [[Schwierigkeitsgrad]] für den `=this.file.name` ist in der Regel der [[Ausweichwert]] des Ziels.
 
 ## Kritische Treffer und automatischer Fehlschlag
 Ein unmodifizierter Wurf von 20 ist immer ein Treffer und wird als [[Kritische Treffer|Kritischer Treffer]] behandelt.

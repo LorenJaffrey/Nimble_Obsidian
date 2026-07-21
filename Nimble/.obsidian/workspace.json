@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Zustände/Verlangsamt.md",
+                "file": "_Nimble_PFT/Regeln/Zustände/Festgesetzt.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Festgesetzt"
+            }
+          },
+          {
+            "id": "9c65c51301b781a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Nimble_PFT/Regeln/Zustände/Bedroht.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Verlangsamt"
+              "title": "Bedroht"
+            }
+          },
+          {
+            "id": "683550201997c7f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Regeln/_Zustände/_Zustände.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_Zustände"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -216,10 +264,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Zustände/Verlangsamt.md"
+                "file": "DM Bereich/Regeln/_Zustände/_Zustände.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Verlangsamt"
+              "title": "File properties for _Zustände"
             }
           }
         ],
@@ -245,34 +293,34 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "c3f0180f889859c6",
+  "active": "683550201997c7f1",
   "lastOpenFiles": [
-    "DM Bereich/Regeln/_Zustände/Zustände DnD/Festgesetzt.md",
-    "_Nimble_PFT/Regeln/Zustände/Versteinert.md",
-    "_Nimble_PFT/Regeln/Zustände/Gelähmt.md",
-    "_Nimble_PFT/Regeln/Zustände/Fixiert.md",
-    "_Nimble_PFT/Regeln/Zustände/Kampfunfähig.md",
-    "_Nimble_PFT/Regeln/Zustände/Bewusstlos.md",
-    "_Nimble_PFT/Regeln/Zustände/Betäubt.md",
-    "_Nimble_PFT/Regeln/Zustände/Benommen.md",
-    "_Nimble_PFT/Regeln/Zustände/Sterbend.md",
+    "DM Bereich/Regeln/_Zustände/Bluten.md",
+    "_Nimble_PFT/Regeln/Zustände/Betrunken.md",
     "DM Bereich/Regeln/_Zustände/_Conditions.md",
-    "_Nimble_PFT/Regeln/Zustände/Verlangsamt.md",
+    "_Nimble_PFT/Regeln/Zustände/Abgelenkt.md",
+    "_Nimble_PFT/Regeln/Zustände/Provoziert.md",
+    "_Nimble_PFT/Regeln/Zustände/Bezaubert.md",
+    "DM Bereich/Regeln/_Zustände/Tiefe Wunden.md",
+    "DM Bereich/Regeln/_Zustände/Zustände DnD/Verätzt.md",
+    "DM Bereich/Regeln/_Zustände/Zustände DnD/Verzaubert.md",
+    "DM Bereich/Regeln/_Zustände/Zustände DnD/Vergiftet.md",
+    "DM Bereich/Bestiarium/Kreaturen/Untote/Todesfee.md",
+    "DM Bereich/Bestiarium/Kreaturen/Untote/Ghule/Grul.md",
+    "DM Bereich/Regeln/Magie/Zauber/Zaubersprüche/Schwache Genesung.md",
+    "DM Bereich/Regeln/Merkmale/Zwergische Unverwüstlichkeit.md",
+    "DM Bereich/Bestiarium/Kreaturen/Untote/Ghule/Ghul Brut.md",
+    "_Nimble_PFT/Regeln/Allgemein/Schaden und Heilung/Schadensarten/Schadensarten.md",
+    "_Nimble_PFT/Regeln/Zustände/Bedroht.md",
     "_Nimble_PFT/Regeln/Zustände/Gepackt.md",
-    "_Nimble_PFT/Regeln/Zustände/Blind.md",
-    "_Nimble_PFT/Regeln/Zustände/Verängstigt.md",
-    "DM Bereich/Regeln/_Zustände/Provoziert.md",
-    "DM Bereich/Regeln/_Zustände/Zustände DnD/Nekrotisiert.md",
-    "_Nimble_PFT/Regeln/Zustände/Reitend.md",
-    "DM Bereich/Regeln/_Kampf/_Spezielle Kampfbedingungen.md",
-    "_Nimble_PFT/Regeln/Allgemein/Erfolg.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Packen.md",
+    "_Nimble_PFT/Regeln/Allgemein/Kampf/Angriff/Angriffswurf.md",
+    "DM Bereich/Gegenstände/Gegenstände/Waffen/Waffeneigenschaften/Finesse.md",
+    "_Nimble_PFT/Regeln/Allgemein/Kampf/Angriff/Fernkampfangriff.md",
+    "_Nimble_PFT/Regeln/Zustände/Festgesetzt.md",
     "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Befreien.md",
-    "DM Bereich/Bestiarium/Größenkategorie/Größenkategorie.md",
-    "DM Bereich/Regeln/Charaktere/_Ressourcen.md",
-    "_Nimble_PFT/Regeln/Allgemein/Schaden und Heilung/Erschöpfung.md",
-    "_Nimble_PFT/Regeln/Zustände/Taub.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Aktionen.md",
+    "DM Bereich/Regeln/_Zustände/Zustände DnD/_Festgesetzt.md",
+    "DM Bereich/Regeln/Magie/Zauber/Zaubersprüche/Verstricken.md",
+    "DM Bereich/Gegenstände/Gegenstände/Waffen/Waffeneigenschaften/Verschlucken.md",
     "_Nimble_PFT/Regeln/Zustände",
     "DM Bereich/Regeln/_Rasten",
     "DM Bereich/Regeln/_Kampf",

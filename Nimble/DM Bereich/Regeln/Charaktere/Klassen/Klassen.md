@@ -15,41 +15,106 @@ SORT file.name
 ```
 
 ## Klassenideen
-| Klasse          | Rüstung       | Primäre Ressource | Magie      | Identität                         | Subklassen                                                        | TP  | AP  |
-| --------------- | ------------- | ----------------- | ---------- | --------------------------------- | ----------------------------------------------------------------- |:---:|:---:|
-| [[Taktiker]]    | Mittel/Schwer | Fokus (Flow)      |            | Kämpfer, Support                  | Melee DD, Melee Tank, Kommandant (Support)                        | +2  |  -  |
-| [[Paladin]]     | Mittel/Schwer | Heilige Macht     |            | Kämpfer/Caster Hybrid, Auren      | Melee DD, Melee Tank, Inquisitor/Interrogator                     | +2  |  -  |
-| [[Druide]]      | Leicht        | Mana (Pool)       | Natur      | Allrounder                        | Melee DD/Tank, Heiler, Caster DD                                  | +1  |  -  |
-| [[Gauner]]      | Leicht        |                   |            |                                   | Assassine, Gentleman, Strippenzieher                              | +1  |  -  |
-| [[Arkanist]]    | -             | Mana (Pool)       | Arkan      |                                   | Pyromant (Caster DD), Glaciomant (Caster DD), Chronomant (Heiler) |  -  |  -  |
-| [[Fluchwirker]] | -             | Fluchkraft        | Fluchkraft | Caster                                  | Fluchmaler (DoTs), Fluchbinder (Beschwörer), Blutwirker/Metamorph |  -  |  -  |
-| [[Priester]]    | -             | Mana (Pool)       | Göttlich   | Caster, Heiler, Göttlicher Caster | Heilig (Heiler), Disziplin (Hybrid), Schatten (Caster DD)         |  -  |  -  |
-| [[Berserker]]   | -             | Wut (Flow)        |            | Melee DD, Rage                          | , Kopfjäger                                                       | +1  |  -  |
-| [[Windläufer]]  | -             | Chi (Flow)        |            |                                   | Elemente (Control), Drunken Master (Tank), Eisenfaust (Combo-DD)  | +1  |  -  |
-| [[Jäger]]       | Leicht/Mittel |                   |            | Ranged DD                         | Scharfschütze, Bestienmeister, Späher/Fallensteller               | +1  |  -  |
+| Klasse          | Subklassen                                                                        | Identität                         | Rüstung       | Primäre Ressource | Magie      | TP  | RP  |
+| --------------- | --------------------------------------------------------------------------------- | --------------------------------- | ------------- | ----------------- | ---------- |:---:|:---:|
+| [[Taktiker]]    | Melee DD, Melee Tank, Kommandant (Support)                                        | Kämpfer, Support                  | Mittel/Schwer | Fokus (Flow)      |            | +2  |  -  |
+| [[Paladin]]     | Melee DD, Melee Tank, Inquisitor/Interrogator                                     | Kämpfer/Caster Hybrid, Auren      | Mittel/Schwer | Heilige Macht     |            | +2  |  -  |
+| [[Druide]]      | Melee DD/Tank, Heiler, Caster DD                                                  | Allrounder                        | Leicht        | Mana (Pool)       | Natur      | +1  |  -  |
+| [[Gauner]]      | Assassine , Duellant, Strippenzieher                                              |                                   | Leicht        |                   |            | +1  |  -  |
+| [[Arkanist]]    | Pyromant (Caster DD, Crits), Glaciomant (Caster DD, Control), Chronomant (Heiler) |                                   | -             | Mana (Pool)       | Arkan      |  -  |  -  |
+| [[Fluchwirker]] | Caster DD (DoTs), Beschwörer, Melee/Caster Hybrid DD                              | Caster                            | -             | Fluchkraft        | Fluchkraft |  -  |  -  |
+| [[Priester]]    | Heilig (Heiler), Disziplin (Hybrid), Schatten (Caster DD)                         | Caster, Heiler, Göttlicher Caster | -             | Mana (Pool)       | Göttlich   |  -  |  -  |
+| [[Berserker]]   | Melee DD, Kopfjäger (Melee/Ranged Hybrid DD),                                     | Melee DD, Rage                    | -             | Wut (Flow)        |            | +1  |  -  |
+| [[Windläufer]]  | Elemente (Control), Drunken Master (Tank), Eisenfaust (Combo-DD)                  |                                   | -             | Ki (Flow)         |            | +1  |  -  |
+| [[Jäger]]       | Scharfschütze, Bestienmeister, Späher/Fallensteller                               | Ranged DD                         | Leicht/Mittel |                   |            | +1  |  -  |
 
 ## Subklassenübersicht
 ### [[Taktiker]]
-  - Melee DD:
-  - Melee Tank: Rüstungsbasiert, Allround-Tank
-  - Kommandant: Melee-Support (Befehle)
+Klassischer Kämpfer-Archetyp
+
+| Subklasse  | Identität               | Rolle            | Rüstung       |
+| ---------- | ----------------------- | ---------------- | ------------- |
+| ???        | Kämpfer (Waffenfokus)   | Nahkampf DD      | mittel/schwer |
+| ???        | Kämpfer (Rüstungsfokus) | Nahkampf Tank    | schwer        |
+| Kommandant | Befehle, Ansporn        | Nahkampf Support | mittel/schwer |
+
 ### [[Paladin]]
-  - Melee DD:
-  - Caster Tank: Rüstung- und Magiebasiert
+Heiliger Krieger, Auren, Heilige Fähigkeiten (keine Zauber!)
+
+| Subklasse | Identität                  | Rolle                    | Rüstung       |
+| --------- | -------------------------- | ------------------------ | ------------- |
+| ???       | Heiliger Ritter (offensiv) | Nahkampf DD              | schwer        |
+| ???       | Heiliger Ritter (defensiv) | Nahkampf Tank            | schwer        |
+| ???       | Inquisitor/Interrogator    | Nahkampf/Support/Debuffs | mittel/schwer |
+
 ### [[Druide]]
+Naturmagie, Gestaltwandlung, Gestirne, etc.
+
+| Subklasse | Identität       | Rolle            | Rüstung      |
+| --------- | --------------- | ---------------- | ------------ |
+| ???       | Tiergestalten   | Nahkampf DD/Tank | keine/leicht |
+| ???       | Heilung/Natur   | Heiler/Support   | keine/leicht |
+| ???       | Caster/Gestirne | Caster DD        | keine/leicht |
 
 ### [[Gauner]]
+Gauner, Schurke, Attentäter, etc.
+
+| Subklasse  | Identität             | Rolle               | Rüstung |
+| ---------- | --------------------- | ------------------- | ------- |
+| Attentäter | Verstohlenheit, Gifte | Nahkampf DD         | leicht  |
+| Duellant   | Mantel und Degen      | Nahkampf DD/Control | leicht  |
+| ???        |                       |                     | leicht  |
 
 ### [[Arkanist]]
-  - [[Pyromant]]: Caster DD, Feuermagie, Crit-based, Überhitzungsmechanik (Buffer-Ressource)
-  - [[Glaciomant]]: Caster DD, Eismagie, Control-Fokus
-  - [[Chronomant]]: Heiler
+Arkaner Magiewirker, Gelehrter, etc.
+
+| Subklasse  | Identität                | Rolle                    | Rüstung |
+| ---------- | ------------------------ | ------------------------ | ------- |
+| Pyromant   | Feuermagie, Crit-basiert | Caster DD                | keine   |
+| Glaciomant | Eismagie, Kontrolle      | Caster DD/Control        | keine   |
+| Chronomant | Zeitmagie                | Caster DD/Heiler/Support | keine   |
+
 ### [[Fluchwirker]]
+Kanalisiert negative Energien, nicht unbedingt böse, aber eher verpönt im Vergleich zum Arkanisten.
+
+| Subklasse | Identität              | Rolle                  | Rüstung      |
+| --------- | ---------------------- | ---------------------- | ------------ |
+| ???       | Flüche, Debuffs        | Caster DD/Debuffs      | keine/leicht |
+| ???       | Beschwörung            | Caster DD/Pets         | keine/leicht |
+| ???       | Metamorphose/Blutmagie | Caster/Melee DD Hybrid | keine/leicht |
 
 ### [[Priester]]
+Nutzt Primordiale Magiequellen Licht/Schatten bzw. eine Neutralform.
+
+| Subklasse | Identität                   | Rolle             | Rüstung |
+| --------- | --------------------------- | ----------------- | ------- |
+| ???       | Lichtmagie/Stärkung/Heilung | Heiler/Support    | keine   |
+| ???       | Schattenmagie/Chaos/Entzug  | Caster DD/Debuffs | keine   |
+| ???       | Gleichgewicht               |                   | keine   |
 
 ### [[Berserker]]
+Wut, Mobilität, Hoher Schaden.
+
+| Subklasse | Identität                    | Rolle                 | Rüstung      |
+| --------- | ---------------------------- | --------------------- | ------------ |
+| ???       | Nahkampf/hoher Einzelschaden | Nahkampf DD           | keine/leicht |
+| ???       |                              |                       | keine/leicht |
+| ???       | Nahkampf/Wurfwaffen          | Nahkampf/Fernkampf DD | keine/leicht |
 
 ### [[Windläufer]]
+Mönch-Style, Waffenloser Kampf/Mönchswaffen, Beweglichkeit, Mobilität
+
+| Subklasse | Identität      | Rolle               | Rüstung      |
+| --------- | -------------- | ------------------- | ------------ |
+| ???       | Elemente       | Nahkampf DD/Control | keine/leicht |
+| ???       | Drunken Master | Nahkampf Tank       | keine/leicht |
+| ???       | Combos         | Nahkampf DD         | keine/leicht |
 
 ### [[Jäger]]
+Jäger, Waldläufer, Naturverbunden.
+
+| Subklasse      | Identität           | Rolle            | Rüstung       |
+| -------------- | ------------------- | ---------------- | ------------- |
+| Scharfschütze  | Fernkampf           | Fernkampf DD     | leicht/mittel |
+| Bestienmeister | Pet                 | Fernkampf DD/Pet | leicht/mittel |
+| ???            | Trapper/Spurenleser |                  | leicht/mittel |

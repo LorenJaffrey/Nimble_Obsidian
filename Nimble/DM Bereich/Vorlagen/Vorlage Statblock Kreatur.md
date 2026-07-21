@@ -33,7 +33,7 @@ Verteidigung:
     Schadensanfälligkeit:
     Zustandsimmunität:
       - "[[Blind]]"
-      - "[[Gepackt]]"
+      - "[[Festgesetzt]]"
 Angriff:
   Waffen:
     - "[[Kurzschwert]]"

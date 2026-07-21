@@ -38,4 +38,3 @@ Mögliche [[_Zustände]] sind:
 - [[Blind]]
 - [[Gelähmt]]
 - [[Taub]]
-- [[Vergiftet]].

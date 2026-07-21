@@ -40,7 +40,6 @@ Verteidigung:
       - "[[Bezaubert]]"
       - "[[Festgesetzt]]"
       - "[[Gelähmt]]"
-      - "[[Vergiftet]]"
       - "[[Versteinert]]"
       - "[[_Krankheiten]]"
 Angriff:

@@ -14,7 +14,7 @@ Ob du mit einer [[Nahkampfwaffen|Nahkampfwaffe]] zuschlägst, eine [[Fernkampfwa
 
 ## Überhastete Angriffe
 Ein Held darf in seinem Zug mehrmals angreifen, doch jeder zusätzliche Angriff ist überhastet und verursacht kumulativen [[Vorteil und Nachteil|Nachteil]] – jeder weitere Angriff nach dem ersten erhöht die Wahrscheinlichkeit zu verfehlen und senkt den durchschnittlichen Schaden.
-Bei Fähigkeiten, die einen [[Rettungswürfe|Rettungswurf]] auslösen (z. B. [[Packen]]), erhalten Gegner stattdessen zunehmenden [[Vorteil und Nachteil|Vorteil]].
+Bei Fähigkeiten, die einen [[Rettungswürfe|Rettungswurf]] auslösen (z. B. [[Greifen]]), erhalten Gegner stattdessen zunehmenden [[Vorteil und Nachteil|Vorteil]].
 
 ## Beidhändiger Kampf
 Kreaturen können 2 [[Leichte Waffen]] gleichzeitig führen. 
