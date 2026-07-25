@@ -6,7 +6,7 @@ Einsatz: "[[Aktionen]]"
 # `=this.file.name`
 Die Kreatur wirft einen Fläschchen mit einer Halluzinogenen Flüssigkeit an einen Ort innerhalb von 9 Metern (6 Kästchen). 
 Beim Aufprall auf den Boden oder eine andere harte Oberfläche zerspringt es und setzt eine grüne Gaswolke frei, die einen Durchmesser von 4,5 Metern  (3 Kästchen) füllt. 
-Die Wolke breitet sich um Ecken aus und ihr Bereich ist [[Leicht verschleiert]]. 
+Die Wolke breitet sich um Ecken aus und ihr Bereich ist leicht verschleiert. 
 Sie hält bis zu 5 Minuten an oder wird durch einen leichten oder stärkeren Wind (mindestens 5 Kilometer pro Stunde) zerstreut.
 
 Alle Kreaturen, die die Wolke während ihres [[Zug|Zuges]] betreten oder ihren [[Zug]] darin beginnen, müssen einen [[Konstitutionsrettungswürfe|KO-Rettungswurf]] gegen [[Schwierigkeitsgrad|SG]] 15 bestehen.

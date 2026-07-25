@@ -18,4 +18,7 @@ SORT file.name
 ```
 
 ## Zustandsimmunität
-- [ ] #task Beschreibung ergänzen [priority:: normal]
+Eine Kreatur die immun gegen einen bestimmten Zustand ist, bleibt von den Auswirkungen des Zustand unbeeinflusst.
+
+## Zustandsresistenz
+Wenn ein Effekt dich mit diesem [[Zustand]] belegen würde, machst du den dafür vorgesehenen [[Rettungswurf]] mit [[Vorteil und Nachteil|Vorteil]]. 

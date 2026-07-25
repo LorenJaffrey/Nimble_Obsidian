@@ -3,7 +3,7 @@
 | ----------------------------- |:------------------------------------------------------:| --------------------------- |
 | [[Thaumaturgie]]              |   `INPUT[toggle:InputData.Fähigkeiten.Thaumaturgie]`   | [[Sichere Rast\|Langer Rast]] |
 | [[Höllischer Tadel]] (2.Grad) | `INPUT[toggle:InputData.Fähigkeiten.Höllischer_Tadel]` | [[Sichere Rast\|Langer Rast]] |
-| [[Dunkelheit]]                |    `INPUT[toggle:InputData.Fähigkeiten.Dunkelheit]`    | [[Sichere Rast\|Langer Rast]] |
+| [[Finsternis]]                |    `INPUT[toggle:InputData.Fähigkeiten.Dunkelheit]`    | [[Sichere Rast\|Langer Rast]] |
 
 #### [[Stecken der Verteidigung]]
 | Zauber            | Kosten |

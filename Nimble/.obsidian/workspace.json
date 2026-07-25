@@ -8,84 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3628b29133064c7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Packen.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Packen"
-            }
-          },
-          {
-            "id": "c3f0180f889859c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Nimble_PFT/Regeln/Zustände/Festgesetzt.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Festgesetzt"
-            }
-          },
-          {
-            "id": "9c65c51301b781a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Nimble_PFT/Regeln/Zustände/Bedroht.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bedroht"
-            }
-          },
-          {
             "id": "683550201997c7f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Regeln/_Zustände/_Zustände.md",
+                "file": "DM Bereich/Regeln/Umgebung/Reisen/Navigieren.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,11 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_Zustände"
+              "title": "Navigieren"
+            }
+          },
+          {
+            "id": "568d545eb6555e10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Regeln/Umgebung/Rasten/Rastaktionen/Wache halten.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wache halten"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Regeln/Nimble/Fertigkeit/Stärke",
+                "query": "tag:#Regeln/Nimble/WIP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -264,14 +216,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DM Bereich/Regeln/_Zustände/_Zustände.md"
+                "file": "DM Bereich/Regeln/Umgebung/Rasten/Rastaktionen/Wache halten.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for _Zustände"
+              "title": "File properties for Wache halten"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -293,44 +245,44 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "683550201997c7f1",
+  "active": "568d545eb6555e10",
   "lastOpenFiles": [
-    "DM Bereich/Regeln/_Zustände/Bluten.md",
-    "_Nimble_PFT/Regeln/Zustände/Betrunken.md",
-    "DM Bereich/Regeln/_Zustände/_Conditions.md",
-    "_Nimble_PFT/Regeln/Zustände/Abgelenkt.md",
-    "_Nimble_PFT/Regeln/Zustände/Provoziert.md",
-    "_Nimble_PFT/Regeln/Zustände/Bezaubert.md",
-    "DM Bereich/Regeln/_Zustände/Tiefe Wunden.md",
-    "DM Bereich/Regeln/_Zustände/Zustände DnD/Verätzt.md",
-    "DM Bereich/Regeln/_Zustände/Zustände DnD/Verzaubert.md",
-    "DM Bereich/Regeln/_Zustände/Zustände DnD/Vergiftet.md",
-    "DM Bereich/Bestiarium/Kreaturen/Untote/Todesfee.md",
-    "DM Bereich/Bestiarium/Kreaturen/Untote/Ghule/Grul.md",
-    "DM Bereich/Regeln/Magie/Zauber/Zaubersprüche/Schwache Genesung.md",
-    "DM Bereich/Regeln/Merkmale/Zwergische Unverwüstlichkeit.md",
-    "DM Bereich/Bestiarium/Kreaturen/Untote/Ghule/Ghul Brut.md",
-    "_Nimble_PFT/Regeln/Allgemein/Schaden und Heilung/Schadensarten/Schadensarten.md",
-    "_Nimble_PFT/Regeln/Zustände/Bedroht.md",
-    "_Nimble_PFT/Regeln/Zustände/Gepackt.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Angriff/Angriffswurf.md",
-    "DM Bereich/Gegenstände/Gegenstände/Waffen/Waffeneigenschaften/Finesse.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Angriff/Fernkampfangriff.md",
-    "_Nimble_PFT/Regeln/Zustände/Festgesetzt.md",
-    "_Nimble_PFT/Regeln/Allgemein/Kampf/Aktionen/Befreien.md",
-    "DM Bereich/Regeln/_Zustände/Zustände DnD/_Festgesetzt.md",
-    "DM Bereich/Regeln/Magie/Zauber/Zaubersprüche/Verstricken.md",
-    "DM Bereich/Gegenstände/Gegenstände/Waffen/Waffeneigenschaften/Verschlucken.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Rastaktionen/Lager aufschlagen.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Rastaktionen/Nahrungssuche.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Rasten.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Verpflegung/Verpflegung.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Verschnaufen.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Sichere Rast.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Feldrast.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Rastaktionen/Rastaktionen.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Rastaktionen/Wunden versorgen.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Rastaktionen/Wache halten.md",
+    "DM Bereich/Regeln/Umgebung/Reisen/Navigieren.md",
+    "_Nimble_PFT/Regeln/Allgemein/Erfolg.md",
+    "DM Bereich/Regeln/Umgebung/Reisen/Reisen.md",
+    "DM Bereich/Regeln/Umgebung/Reisen/_Nahrungssuche.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Rastoptionen/Untitled.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Rastaktionen",
+    "DM Bereich/Regeln/Umgebung/Reisen/Spuren lesen.md",
+    "DM Bereich/Regeln/Umgebung/Reisen/Reisetempo.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Verpflegung/Wasser.md",
+    "DM Bereich/Regeln/Umgebung/Rasten/Verpflegung/Nahrung.md",
+    "DM Bereich/Reisen/Pointcrawl.md",
+    "DM Bereich/Regeln/Umgebung/Reisen/Reisetempo/Schnelles Reisetempo.md",
+    "_Nimble_PFT/Regeln/Erkundung/Erkundung.md",
+    "DM Bereich/Reisen",
+    "DM Bereich/Regeln/Umgebung/Umgebungen/Umgebungen.md",
+    "_Nimble_PFT/Regeln/Erkundung/Spezialsinne/Spezialsinne.md",
+    "_Nimble_PFT/Regeln/Erkundung/Spezialsinne/Wahre Sicht.md",
+    "_Nimble_PFT/Regeln/Erkundung/Spezialsinne/Erschütterungssinn.md",
     "_Nimble_PFT/Regeln/Zustände",
     "DM Bereich/Regeln/_Rasten",
     "DM Bereich/Regeln/_Kampf",
     "DM Bereich/Regeln/_Allgemein",
     "DM Bereich/Nimble/System/Regeln/Stats/Fertigkeiten",
     "_Nimble_PFT/Regeln/Allgemein/Rettungswürfe",
-    "_Nimble_PFT/Regeln/Allgemein/Schaden und Heilung/Schadensarten/Schadenskategorien",
-    "_Nimble_PFT/Regeln/Allgemein/Schaden und Heilung/Schadensarten/Schadensmodifikatoren",
-    "_Nimble_PFT/Regeln/Allgemein/Schaden und Heilung/Schadensarten/Physischer Schaden",
-    "_Nimble_PFT/Regeln/Allgemein/Schaden und Heilung/Schadensarten/Magischer Schaden",
+    "_Nimble_PFT/Regeln/Kampf/Schaden und Heilung/Schadensarten/Schadenskategorien",
+    "_Nimble_PFT/Regeln/Kampf/Schaden und Heilung/Schadensarten/Schadensmodifikatoren",
     "_Nimble_PFT/zHidden/_Attachments/Races/Tiefling 1.png",
     "_Nimble_PFT/zHidden/_Attachments/Races/Halbling.png",
     "_Nimble_PFT/zHidden/_Attachments/Races/Gnom.png",

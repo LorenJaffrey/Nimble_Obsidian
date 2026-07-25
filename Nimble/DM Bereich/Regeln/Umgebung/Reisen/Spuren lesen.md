@@ -1,11 +1,10 @@
 # `=this.file.name`
-
 Abenteurer wählen manchmal ihren Weg, indem sie den Spuren anderer Kreaturen folgen - oder andere Kreaturen könnten die Abenteurer verfolgen! 
-Zum Spurenlesen müssen eine oder mehrere Kreaturen einen erfolgreichen Wurf auf [[Überlebenskunst]] ablegen. Unter folgenden Umständen kann es dazu kommen, dass die Verfolger einen neuen Wurf ablegen müssen:
-
-- ﻿﻿Sie unterbrechen die Verfolgung und setzen sie nach einer kurzen oder langen Rast fort.
-- ﻿﻿Die Fährte überwindet ein Hindernis, beispielweise einen Fluss, in dem keine Spuren zu finden sind.
-- ﻿Die Wetterbedingungen oder das Gelände verändern sich, sodass das Spurenlesen erschwert wird.
+Zum Spurenlesen müssen eine oder mehrere Kreaturen einen erfolgreichen Wurf auf [[Überlebenskunst]] ablegen. 
+Unter folgenden Umständen kann es dazu kommen, dass die Verfolger einen neuen Wurf ablegen müssen:
+  - ﻿﻿Sie unterbrechen die Verfolgung und setzen sie nach einer kurzen oder langen Rast fort.
+  - ﻿﻿Die Fährte überwindet ein Hindernis, beispielweise einen Fluss, in dem keine Spuren zu finden sind.
+  - ﻿Die Wetterbedingungen oder das Gelände verändern sich, sodass das Spurenlesen erschwert wird.
 
 Der [[Schwierigkeitsgrad|SG]] für den Wurf hängt davon ab, wie leicht sich auf dem Untergrund die Spuren der Kreatur erkennen lassen. 
 Bei offensichtlichen Spuren ist kein Wurf erforderlich. 
@@ -14,7 +13,7 @@ Es ist deutlich schwieriger, Spuren auf blankem Stein zu finden, sofern die verf
 Zusätzlich wird es oft schwieriger, Spuren zu finden, je mehr Zeit vergeht. 
 In einer Situation, in der es keine Spuren zu finden gibt, kannst du festlegen, dass das Spurenlesen unmöglich ist.
 
-Die Tabelle zum [[Schwierigkeitsgrad|SG]] des [[Spuren lesen]]s bietet Richtlinien für das Festlegen des [[Schwierigkeitsgrad|SG]], oder du kannst alternativ einen [[Schwierigkeitsgrad|SG]] anhand deiner Bewertung der Situation festlegen. 
+Die Tabelle zum [[Schwierigkeitsgrad|SG]] des [[Spuren lesen|Spuren lesens]] bietet Richtlinien für das Festlegen des [[Schwierigkeitsgrad|SG]], oder du kannst alternativ einen [[Schwierigkeitsgrad|SG]] anhand deiner Bewertung der Situation festlegen. 
 Du kannst außerdem einen [[Vorteil und Nachteil|Vorteil]] auf den Wurf gewähren, wenn man mehr als einer Spur folgen kann, oder einen [[Vorteil und Nachteil|Nachteil]], wenn die Spur durch eine Gegend mit vielen fremden Spuren führt.
 
 Bei einem misslungenen Wurf verliert der Charakter die Spur, jedoch kann er sie wiederfinden, wenn er die Gegend gründlich absucht. 

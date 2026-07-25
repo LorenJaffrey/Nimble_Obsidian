@@ -34,7 +34,7 @@ Typ: "[[Offensivzauber]]"
 *Eine flackernde Flamme erscheint in deiner Hand.*
 
 In deiner Hand erscheint für die Wirkungsdauer eine flackernde Flamme. 
-Sie strahlt keine Wärme aus und kann nichts entzünden, spendet jedoch in einem Radius von 6 Metern [[Helles Licht]] und in einem Radius von weiteren 6 Metern dämmriges Licht. 
+Sie strahlt keine Wärme aus und kann nichts entzünden, spendet jedoch in einem Radius von 6 Metern helles Licht und in einem Radius von weiteren 6 Metern dämmriges Licht. 
 Der Zauber endet vorzeitig, wenn du ihn erneut wirkst.
 
 Bis der Zauber endet, kannst du eine magische [[Aktionen]]ausführen, um Feuer auf eine Kreatur oder einen Gegenstand im Abstand von bis zu 18 Metern von dir zu schleudern. 

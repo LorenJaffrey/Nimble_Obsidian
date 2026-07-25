@@ -33,4 +33,3 @@
 | Reittier kontrollieren                  | [[Tierführung]]      |
 | Tier beruhigen                          | [[Tierführung]]      |
 | Jagen                                   | [[Überlebenskunst]]  |
-

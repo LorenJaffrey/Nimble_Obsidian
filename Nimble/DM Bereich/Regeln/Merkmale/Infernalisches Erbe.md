@@ -13,7 +13,7 @@ Du besitzt [[Schadensresistenz]] gegen [[Feuerschaden]].
 Außerdem beherrschst du folgende Zauber: 
 - ab Stufe 1: [[DM Bereich/Regeln/Magie/Zauber/Zaubersprüche/Feuerpfeil]] 
 - ab Stufe 3: [[Höllischer Tadel]]
-- ab Stufe 5: [[Dunkelheit]]
+- ab Stufe 5: [[Finsternis]]
 
 Wähle eines der folgenden [[Attribute]]: [[Verstand]], [[Entschlossenheit]] oder [[Präsenz]].
 Das gewählte [[Attribute|Attribut]] ist dein [[Attribute|Attribut]] zum Wirken dieser Zauber.
