@@ -1,6 +1,6 @@
 ---
 tags:
-  - Regeln/Nimble
+  - Regeln/Nimble/Kampf
 ---
 # `=this.file.name`
 Ein Kampf beginnt, wenn der SL ruft: „[[Initiative]] würfeln!“.
@@ -13,17 +13,11 @@ Der [[Beweglichkeit|Beweglichkeitswurf]] bestimmt die Anzahl der [[Aktionspunkte
 > Helden können einfache Handlungen (eine unverschlossene Tür öffnen, einen kurzen Ruf ausstoßen, einen Gegenstand fallen lassen, Konzentration beenden usw.) einmal pro Zug kostenlos ausführen.
 
 ## Zugreihenfolge
-Wenn der Kampf beginnt, handeln standardmäßig die Charaktere zuerst.
-Der Spieler, der zuerst bereit ist (oder wer es erzählerisch am meisten hergibt), beginnt – danach geht es im Uhrzeigersinn um den Tisch. 
-Monster agieren in der Regel zuletzt, doch manche sind schnell genug, um früher in der Runde zu handeln. 
-Eine Monstergruppe agiert immer gemeinsam in jeder [[Runde]].
-
-> [!tip]- Teamarbeit fördern, flexibel bleiben  
-> Wenn Spieler ihre Züge in einer Runde strategisch tauschen möchten, um Teamwork oder einen taktischen Plan zu ermöglichen, kann der DM dies nach eigenem Ermessen zulassen. 
-> Dies sollte jedoch nur gelegentlich geschehen, um das Spieltempo und die Übersicht zu bewahren.
+Die Zugreihenfolge wird durch den [[Initiative#Instinktwurf]] zu Beginn des Kampfes bestimmt.
 
 ## Aktionen
 Während deines [[Zug|Zuges]] hat ein Charakter 3 [[Aktionspunkte|AP]] um anzugreifen, sich auf dem Schlachtfeld zu bewegen, Zauber zu wirken usw. 
+Im ersten Zug werden die verfügbaren [[Aktionspunkte|AP]] mit dem [[Initiative#Beweglichkeitswurf]] der [[Initiative]] ermittelt.
 Im Allgemeinen kostet jede einzelne Handlung im Kampf 1 [[Aktionspunkte|AP]].
 Manche besonders mächtigen Zauber oder Spezialfähigkeiten benötigen mehr Zeit und somit mehr [[[[Aktionspunkte|AP]].
 
