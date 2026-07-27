@@ -26,7 +26,7 @@ Eine Reiseszene kann beim Betreten eines Pfades, nach einem Reiseabschnitt oder 
 
 Reiseszenen können Informationen liefern, Entscheidungen erzwingen oder neue Pfade und Punkte eröffnen. 
 Nicht jede Szene ist ein Kampf. 
-Gespräche, Spuren, Umweltgefahren, Sperren, Opfer, Verhandlungen und Entdeckungen eignen sich ebenso.
+Gespräche, Spuren, Umweltgefahren, Sperren, Opfer, [[Verhandlungen]] und Entdeckungen eignen sich ebenso.
 
 ## Entdeckung
 Bestimmte Punkte und Pfade können anfangs verborgen sein. 
