@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Entdeckung.md",
+                "file": "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Misstrauisch.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,61 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entdeckung"
+              "title": "Misstrauisch"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3ed4c3b2529b5d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f94424df5621d82d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungen führen.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Verhandlungen führen"
+            }
+          },
+          {
+            "id": "6636768b9b97a888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Einstellungen.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Einstellungen"
             }
           }
         ]
@@ -221,38 +275,38 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "26ddc7bb56a1ed56",
+  "active": "f94424df5621d82d",
   "lastOpenFiles": [
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Wohltätigkeit.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Entdeckung.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Verhandlungsattribute.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Fallstricke.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungen.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Geduld.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Interesse.md",
+    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Misstrauisch.md",
+    "_Nimble_PFT/Kampagne/Gruppe/Gruppe.md",
+    "_Nimble_PFT/Kampagne/Gruppe/Sancho.md",
+    "_Nimble_PFT/Kampagne/Timeline Kampagne.md",
+    "_Nimble_PFT/Kampagne/Gesinnung Gruppe.md",
+    "_Nimble_PFT/Kampagne/Neue Kampagne Session 0.md",
+    "DM Bereich/DnD vs Daggerheart.md",
+    "DM Bereich/D&D 5e Produktübersicht.md",
+    "DM Bereich/Character Sheet Test.md",
+    "DM Bereich/Tips/Kampagne/Session Vorbereitung.md",
+    "DM Bereich/Tips/Ideen/Ideen für Encounter.md",
+    "DM Bereich/Tips/Ideen/Ideen für Geschäfte.md",
+    "DM Bereich/Tips/Ideen/Ideen für Kampagnen.md",
+    "DM Bereich/Regeln/Inventar/Inventar.md",
+    "broken links output.md",
+    "DM Bereich/Tips/Kampagne/Handlung vorantreiben.md",
+    "DM Bereich/Tips/Kampagne/Feedbackrunden.md",
+    "DM Bereich/Tips/Kampagne/Drow Lore.md",
+    "DM Bereich/Reisen/Pointcrawl.md",
+    "DM Bereich/Kampagne/Vorbereitung/Session Zero.md",
+    "DM Bereich/Regeln/Welcome Page.md",
+    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Feindselig.md",
+    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Vertrauensvoll.md",
+    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Einstellungen.md",
+    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungen führen.md",
+    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Freundlich.md",
     "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Untitled",
     "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke",
-    "DM Bereich/Regeln/Soziale Interaktion/Soziale Interaktion.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Einstellung/Einstellung.md",
     "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen",
-    "DM Bereich/Regeln/Social Encounters Überlegungen.md",
     "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Attribute.md",
-    "_Nimble_PFT/Regeln/Kampf/Kampfablauf/Kampfablauf.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Präsenz.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Einsicht.md",
-    "_Nimble_PFT/Regeln/Kampf/Kampfablauf/Initiative.md",
-    "_Nimble_PFT/Regeln/Allgemein/Attribute/Instinkt.md",
-    "_Nimble_PFT/Regeln/Allgemein/Fertigkeiten/Fertigkeiten.md",
-    "_Nimble_PFT/Regeln/Umgebung/Rasten/Rasten.md",
-    "_Nimble_PFT/Regeln/Umgebung/Rasten/Rastaktionen/Rastaktionen.md",
-    "_Nimble_PFT/Regeln/Umgebung/Rasten/Rastaktionen/Lager aufschlagen.md",
-    "_Nimble_PFT/Regeln/Umgebung/Rasten/Rastaktionen/Wache halten.md",
-    "_Nimble_PFT/Regeln/Umgebung/Rasten/Rastaktionen/Nahrungssuche.md",
-    "_Nimble_PFT/Regeln/Zustände/Zustände.md",
-    "_Nimble_PFT/Regeln/Zustände/Betäubt.md",
-    "_Nimble_PFT/Regeln/Zustände/Betrunken.md",
     "_Nimble_PFT/Regeln/Umgebung/Rasten/Rastaktionen",
     "DM Bereich/Reisen",
     "_Nimble_PFT/Regeln/Zustände",

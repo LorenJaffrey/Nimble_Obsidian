@@ -1,8 +1,11 @@
 ---
+tags:
+  - Regeln/Nimble/Sozial/Einstellung
 aliases:
   - freundliche
-tags:
-  - Sozial/Einstellung
+Interesse: 3
+Geduld: 4
+Beschreibung: "Die Helden wirken sympathisch; der NSC gibt ihnen einen Vertrauensvorschuss."
 ---
 # `=this.file.name`
 Eine [[Freundlich|freundliche]] Kreatur betrachtet dich wohlwollend. 
