@@ -5,6 +5,7 @@ TABLE WITHOUT ID
 file.link AS "Einstellung",
 Interesse,
 Geduld,
+SG,
 Beschreibung
 
 FROM #Regeln/Nimble/Sozial/Einstellung
