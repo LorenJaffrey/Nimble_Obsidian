@@ -34,11 +34,11 @@ Ist der NSC zurückhaltender oder wollen die Helden einen [[Fallstricke|Fallstri
 
 Die Ergebnisse sind:
 
-| Ergebnis   | Effekt                                                                                                           |
-| ---------- | ---------------------------------------------------------------------------------------------------------------- |
-| [[Misserfolg]] | Keine Information; der NSC merkt den Versuch und ist verärgert. [[Geduld]] −1.                                   |
-| Teilerfolg | Keine Information.                                                                                               |
-| Erfolg     | Eine [[Motivationen\|Motivation]] oder ein [[Fallstricke\|Fallstrick]] wird aufgedeckt (nach Wahl des Spielers). |
+| Ergebnis                             | Effekt                                                                                                           |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| [[Misserfolg#Deutlicher Misserfolg]] | Keine Information; der NSC merkt den Versuch und ist verärgert. [[Geduld]] −1.                                   |
+| [[Misserfolg#Knapper Misserfolg]]    | Keine Information;                                                                                               |
+| [[Erfolg]]                           | Eine [[Motivationen\|Motivation]] oder ein [[Fallstricke\|Fallstrick]] wird aufgedeckt (nach Wahl des Spielers). |
 Nach dieser Probe kann erst wieder eine solche Probe auf denselben NSC erfolgen, wenn ein Argument vorgebracht wurde oder die [[Verhandlungen|Verhandlung]] endet.
 
 ### Außerhalb der Verhandlung
@@ -52,28 +52,20 @@ Argumente müssen begründet sein.
 Ein NSC kann ansonsten nachhaken. 
 Die Spieler können das Argument gemeinsam planen, auch wenn es letztlich von einem Helden vorgetragen wird.
 
-## An Motivation appellieren
-Wenn ein Argument keinen [[Fallstricke|Fallstrick]] enthält und eine noch nicht genutzte [[Motivationen|Motivation]] anspricht, erfolgt eine Probe mittlerer Schwierigkeit (z. B. [[Verstand]], [[Instinkt]] oder [[Präsenz]] mit passender Fertigkeit). 
-
-Ergebnisse:
-- Misserfolg: [[Geduld]] −1.    
-- Teilerfolg: [[Interesse]] +1, [[Geduld]] −1.
-- Erfolg: [[Interesse]] +1, [[Geduld]] unverändert.
+| Test           | Motivation                      | Neutral                         | Fallstrick                      |
+| -------------- | ------------------------------- | ------------------------------- | ------------------------------- |
+| [[Misserfolg]] | [[Geduld]] -1                   | [[Interesse]] -1; [[Geduld]] -1 | [[Interesse]] -1; [[Geduld]] -1 |
+|                | [[Interesse]] +1; [[Geduld]] -1 | [[Geduld]] -1                   | [[Interesse]] -1; [[Geduld]] -1 |
+|                | [[Interesse]] +1                | [[Interesse]] +1; [[Geduld]] -1 | [[Interesse]] -1; [[Geduld]] -1 |
 
 Ein besonders gut gespieltes Argument kann vom Spielleiter direkt als voller Erfolg gewertet werden. 
 Wird dieselbe Motivation erneut angesprochen, steigt das [[Interesse]] nicht und die [[Geduld]] sinkt um 1.
-
-## Mehrere Motivationen
-Wenn ein Argument mehrere Motivationen anspricht, entscheidet der Spielleiter, welche zählt, oder lässt den Spieler wählen.
+Wenn ein Argument mehrere [[Motivationen]] anspricht, entscheidet der Spielleiter, welche zählt, oder lässt den Spieler wählen.
 
 ## Keine Motivation oder Fallstrick
-Ohne Bezug zu [[Motivationen|Motivation]] oder [[Fallstricke|Fallstrick]] ist die Probe schwieriger:
-- Misserfolg: [[Interesse]] −1, [[Geduld]] −1.
-- Teilerfolg: [[Geduld]] −1.
-- Erfolg: [[Interesse]] +1, [[Geduld]] −1.
 
 Bei einem natürlichen Wurf von 19 oder 20 bleibt die Geduld unverändert. 
-Wird dasselbe Argument erneut verwendet, zählt es automatisch als Misserfolg.
+Wird dasselbe Argument erneut verwendet, zählt es automatisch als [[Misserfolg]].
 
 ## Lügen
 Scheitert ein Argument, das auf einer Lüge basiert, kann der NSC die Lüge durchschauen und zusätzliches Misstrauen entwickeln: [[Interesse]] −1 zusätzlich.

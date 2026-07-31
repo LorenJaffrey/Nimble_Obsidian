@@ -55,7 +55,8 @@
               "title": "Verhandlungen führen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,12 +223,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,12 +245,17 @@
       "alias-management:DuplicateAliasesView": false
     }
   },
-  "active": "26ddc7bb56a1ed56",
+  "active": "d7b07f4a55dcac09",
   "lastOpenFiles": [
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungen führen.md",
     "_Nimble_PFT/Regeln/Allgemein/Misserfolg.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Einstellungen.md",
+    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungen führen.md",
+    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Interesse.md",
+    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Geduld.md",
+    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Fallstricke.md",
+    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Motivationen und Fallstricke.md",
     "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Verhandlungsattribute.md",
+    "_Nimble_PFT/Regeln/Allgemein/Erfolg.md",
+    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Einstellungen.md",
     "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungen.md",
     "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Vertrauensvoll.md",
     "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Misstrauisch.md",
@@ -268,11 +273,6 @@
     "_Nimble_PFT/Kampagne/Gesinnung Gruppe.md",
     "_Nimble_PFT/Kampagne/Neue Kampagne Session 0.md",
     "DM Bereich/DnD vs Daggerheart.md",
-    "DM Bereich/D&D 5e Produktübersicht.md",
-    "DM Bereich/Character Sheet Test.md",
-    "DM Bereich/Tips/Kampagne/Session Vorbereitung.md",
-    "DM Bereich/Tips/Ideen/Ideen für Encounter.md",
-    "DM Bereich/Tips/Ideen/Ideen für Geschäfte.md",
     "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Untitled",
     "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke",
     "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen",
