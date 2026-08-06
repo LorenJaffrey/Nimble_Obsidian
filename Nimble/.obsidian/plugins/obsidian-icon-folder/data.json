@@ -34,11 +34,6 @@
     "lucideIconPackType": "native",
     "useInternalPlugins": false
   },
-  "DM Bereich/Kampagne": "CoMap",
-  "DM Bereich/Bestiarium": "RaEyeMonster",
-  "DM Bereich/Homebrew": "RaPotion",
-  "DM Bereich/Tips": "CoInfo",
-  "DM Bereich/Worldbuilding": "IbGlobe",
   "_DnD_PFT/Monster Manual": "SiMonster",
   "_DnD_PFT/Ausrüstung/Edelsteine": "LiGem",
   "_DnD_PFT/Ausrüstung/Getränke": "TiGlassFull",
@@ -63,10 +58,15 @@
     "iconName": "LiBookCopy",
     "iconColor": "#258bb6"
   },
-  "_Nimble_PFT/Regeln": "RaPerspectiveDiceOne",
-  "_Nimble_PFT/Kampagne": "RaBladeBite",
-  "DM Bereich/Bestiarium/Bestiarium": "RaEyeMonster",
-  "DM Bereich/Gegenstände/Gegenstände": "RaDiamond",
-  "DM Bereich/Regeln/Charaktere": "RaDeadTree",
-  "DM Bereich/Regeln/Magie/Zauber": "RaFairyWand"
+  "01 - Spielerbereich/Kampagne": "RaBladeBite",
+  "01 - Spielerbereich/Regeln": "RaPerspectiveDiceOne",
+  "02 - Spielleiterbereich/Bestiarium": "RaEyeMonster",
+  "02 - Spielleiterbereich/Kampagne": "CoMap",
+  "02 - Spielleiterbereich/Homebrew": "RaPotion",
+  "02 - Spielleiterbereich/Tips": "CoInfo",
+  "02 - Spielleiterbereich/Worldbuilding": "IbGlobe",
+  "02 - Spielleiterbereich/Bestiarium/Bestiarium": "RaEyeMonster",
+  "02 - Spielleiterbereich/Gegenstände/Gegenstände": "RaDiamond",
+  "02 - Spielleiterbereich/Regeln/Charaktere": "RaDeadTree",
+  "02 - Spielleiterbereich/Regeln/Magie/Zauber": "RaFairyWand"
 }

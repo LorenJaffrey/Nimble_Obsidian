@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Nimble_PFT/Regeln/Allgemein/Misserfolg.md",
-                "mode": "source",
+                "file": "02 - Spielleiterbereich/Systeme/Draw Steel/Draw Steel.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -23,21 +23,45 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": false
                 }
               },
               "icon": "lucide-file",
-              "title": "Misserfolg"
+              "title": "Draw Steel"
             }
           },
           {
-            "id": "d7b07f4a55dcac09",
+            "id": "58caae3ce8631521",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungen führen.md",
+                "file": "02 - Spielleiterbereich/Systeme/Draw Steel/Draw Steel.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Draw Steel"
+            }
+          },
+          {
+            "id": "707444274efb5336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Spielerbereich/Regeln/Kampf/Aktionen/Angreifen.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -47,16 +71,16 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": false
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Verhandlungen führen"
+              "title": "Angreifen"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +100,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -88,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Regeln/Nimble/WIP",
+                "query": "tag:#Zug/Aktion/Angriff",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,18 +242,28 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DM Bereich/Regeln/Umgebung/Rasten/Rastaktionen/Wache halten.md"
+                "file": "01 - Spielerbereich/Regeln/Kampf/Aktionen/Angreifen.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Wache halten"
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "263d1a2ac2e2271f",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 673.00390625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,50 +278,51 @@
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "alias-management:ListAliasesView": false,
-      "alias-management:DuplicateAliasesView": false
+      "alias-management:DuplicateAliasesView": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "d7b07f4a55dcac09",
+  "active": "464eb4c226d6437a",
   "lastOpenFiles": [
-    "_Nimble_PFT/Regeln/Allgemein/Misserfolg.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungen führen.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Interesse.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Geduld.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Fallstricke.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Motivationen und Fallstricke.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Verhandlungsattribute.md",
-    "_Nimble_PFT/Regeln/Allgemein/Erfolg.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Einstellungen.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungen.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Vertrauensvoll.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Misstrauisch.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Gleichgültig.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Freundlich.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Feindselig.md",
-    "DM Bereich/Regeln/Soziale Interaktion/Einstellungen/Aufgeschlossen.md",
-    "DM Bereich/Regeln/Charaktere/Klassen/Klassen.md",
-    "DM Bereich/Regeln/Charaktere/Klassen/Arkanist/Arkanist.md",
-    "_Nimble_PFT/zHidden/_Embeds/embed Einstellung.md",
-    "_Nimble_PFT/zHidden/_Embeds/embed Klasse.md",
-    "_Nimble_PFT/Kampagne/Gruppe/Gruppe.md",
-    "_Nimble_PFT/Kampagne/Gruppe/Sancho.md",
-    "_Nimble_PFT/Kampagne/Timeline Kampagne.md",
-    "_Nimble_PFT/Kampagne/Gesinnung Gruppe.md",
-    "_Nimble_PFT/Kampagne/Neue Kampagne Session 0.md",
-    "DM Bereich/DnD vs Daggerheart.md",
+    "02 - Spielleiterbereich/Systeme/Draw Steel/01-Basics/Characteristics.md",
+    "02 - Spielleiterbereich/Systeme/Draw Steel/01-Basics/Building-Narrative.md",
+    "02 - Spielleiterbereich/Systeme/Draw Steel/Draw Steel.md",
+    "CLAUDE.md",
+    "02 - Spielleiterbereich/Vorlagen/Vorlage Talent.md",
+    "02 - Spielleiterbereich/Vorlagen/Snippets",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungen führen.md",
+    "02 - Spielleiterbereich/Systeme/Draw Steel",
+    "02 - Spielleiterbereich/Systeme",
+    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Untitled.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Verhandlungsattribute.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Einstellungen/Einstellungen.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Motivationen und Fallstricke.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Entdeckung.md",
+    "01 - Spielerbereich/zHidden/_Embeds/embed Einstellung.md",
+    "01 - Spielerbereich/Kampagne/Neue Kampagne Session 0.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Vermächtnis.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Schutz.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Rache.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Macht.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Höhere Autorität.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Habgier.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Gerechtigkeit.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Frieden.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Freiheit.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke/Ausgelassenheit.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Einstellungen/Vertrauensvoll.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Einstellungen/Misstrauisch.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Einstellungen/Gleichgültig.md",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Einstellungen",
     "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Untitled",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen",
-    "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute",
-    "_Nimble_PFT/Regeln/Umgebung/Rasten/Rastaktionen",
-    "DM Bereich/Reisen",
-    "_Nimble_PFT/Regeln/Zustände",
-    "DM Bereich/Regeln/_Rasten",
-    "DM Bereich/Regeln/_Kampf",
-    "DM Bereich/Regeln/_Allgemein",
-    "_Nimble_PFT/zHidden/_Attachments/Races/Tiefling 1.png",
-    "_Nimble_PFT/zHidden/_Attachments/Races/Halbling.png",
-    "_Nimble_PFT/zHidden/_Attachments/Races/Gnom.png",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute/Motivationen und Fallstricke",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen",
+    "02 - Spielleiterbereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungsattribute",
+    "01 - Spielerbereich/Regeln/Umgebung/Rasten/Rastaktionen",
+    "02 - Spielleiterbereich/Regeln/Reisen",
+    "01 - Spielerbereich/zHidden/_Attachments/Races/Tiefling 1.png",
+    "01 - Spielerbereich/zHidden/_Attachments/Races/Halbling.png",
+    "01 - Spielerbereich/zHidden/_Attachments/Races/Gnom.png",
     "_Attachments/Half-Giant.png",
     "_Attachments/Aasimar.png"
   ]

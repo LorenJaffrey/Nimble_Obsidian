@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1785881099844-k3tfq5ptp",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785882211839-vtvfqj0",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1785882211691-oc8cm79",
+      "timestamp": 1785882211691,
+      "rawDisplayText": "Test",
+      "canonicalText": "Test",
+      "context": {
+        "currentNote": {
+          "path": "DM Bereich/Regeln/Soziale Interaktion/Verhandlungen/Verhandlungen führen.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "5ce76dee2bc4bca33c64031a04fa169817d2d529283458eb430e05c37b3af80e",
+      "providerUserMessageId": "b6e6208f-9c5c-4659-91d8-c84dcadfd1b4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785882483262-ghgsg4i",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1785882483259-v8y38l0",
+      "timestamp": 1785882483259,
+      "rawDisplayText": "Test",
+      "canonicalText": "Test",
+      "images": [],
+      "contentDigest": "5ce76dee2bc4bca33c64031a04fa169817d2d529283458eb430e05c37b3af80e",
+      "providerUserMessageId": "de3ff4c4-618c-4650-9817-e92b0fc6c037",
+      "providerAssistantMessageId": "3ea250bb-b91e-4fd6-a719-20b53ef8da70"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785883311277-snqsl25",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1785883311273-l6mxm32",
+      "timestamp": 1785883311273,
+      "rawDisplayText": "Installiere bitte folgende Skills: https://github.com/kepano/obsidian-skills",
+      "canonicalText": "Installiere bitte folgende Skills: https://github.com/kepano/obsidian-skills",
+      "images": [],
+      "contentDigest": "028ce78ba00d378081c522af75372ece24f0ebc0b3bb7a84be24703c8db9c459",
+      "providerUserMessageId": "4c002de9-d458-4b79-9f79-498e9eefd2cf",
+      "providerAssistantMessageId": "99fa8631-1c34-40c9-8e52-5883fa5ae16d"
+    }
+  ]
+}

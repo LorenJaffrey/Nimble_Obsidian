@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1785972982486-djp2tqili",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785972982641-fav9oij",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1785972982482-coggi1i",
+      "timestamp": 1785972982482,
+      "rawDisplayText": "Teile die Regeln von Draw Steel die aktuell in einer aus einem PDF konvertierten Markdown Datei vorliegen sauber in einzelne Dokumente und Ordner auf. Versuche Verlinkungen herzustellen und gib allen Files das tag #Regeln/DrawSteel.",
+      "canonicalText": "Teile die Regeln von Draw Steel die aktuell in einer aus einem PDF konvertierten Markdown Datei vorliegen sauber in einzelne Dokumente und Ordner auf. Versuche Verlinkungen herzustellen und gib allen Files das tag #Regeln/DrawSteel.",
+      "context": {
+        "currentNote": {
+          "path": "02 - Spielleiterbereich/Systeme/Draw Steel/Draw Steel.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "0117a176cf67c859f42325cd2e5a3fdcdc1ff2082140bece983b851304044b3c",
+      "providerUserMessageId": "ae6ea182-4b9b-48bd-b9b6-b5d4294551d0",
+      "providerAssistantMessageId": "5eca2cf1-bfc9-433d-8808-23da086ad00b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785973546182-ennmtqx",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1785973546179-xmtdwf2",
+      "timestamp": 1785973546179,
+      "rawDisplayText": "Beide",
+      "canonicalText": "Beide",
+      "images": [],
+      "contentDigest": "0d7d601e2345f25d820f70b5d3742836fcaed3664b465e6092ace8b4d63fbfc8",
+      "providerUserMessageId": "d7fd9f70-d760-495e-9eb3-e9a01ad2df84",
+      "providerAssistantMessageId": "75e94723-caf1-4eb9-aeb5-e31112b237f7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785974071550-qw82hde",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1785974071547-42zw2h9",
+      "timestamp": 1785974071547,
+      "rawDisplayText": "Das passt so, nun bitte direkt in den passenden Ordner schreiben.",
+      "canonicalText": "Das passt so, nun bitte direkt in den passenden Ordner schreiben.",
+      "images": [],
+      "contentDigest": "faeff2ac7833baa116a29dd1e69a888e2b4bd663f179c41cfe6cb7ac6ff950e2",
+      "providerUserMessageId": "7ae5b7d1-9aa4-4259-b14c-b9113f7b7bab",
+      "providerAssistantMessageId": "6cdc676c-cf32-4c6e-8d2b-de53186efde7"
+    }
+  ]
+}
